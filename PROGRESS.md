@@ -1,7 +1,7 @@
 ## Indonesian Language Translation Progress
 * [ ] DefInjected
  * [ ] BiomeDef 
-    - [x] Biomes_Arid.xml
+    - [ ] Biomes_Arid.xml
     - [ ] Biomes_Cold.xml
     - [ ] Biomes_Moderate.xml
  * [ ] BodyDef 
@@ -235,44 +235,34 @@
  * [ ] Skills.xml
  * [ ] Time.xml
  * [ ] WorkTags.xml
- * [ ] About.txt
- * [ ] FriendlyName.txt
- * [ ] LanguageInfo.xml 
  
-* [ ] Strings
- * [ ] NameBank
-    - [ ] Adjectives_Angsty.txt
-    - [ ] Adjectives_Badass.txt
-    - [ ] CapitalLetters.txt
-    - [ ] ColonyNames.txt
+* [ ] Strings/Words
+ * [ ] Adjectives
+    - [ ] Angsty.txt
+    - [ ] Badass.txt
+    - [ ] CompassDirections.txt
+    - [ ] PoliticalUnions.txt
+ 
+ * [ ] Nouns
+    - [ ] Animals.txt
+    - [ ] Animals_Badass.txt
+    - [ ] Apparel.txt
+    - [ ] Artworks.txt
+    - [ ] BusinessTypes.txt
     - [ ] Colors.txt
-    - [ ] ColorsBadass.txt 
-    - [ ] Names_Animal_Female.txt
-    - [ ] Names_Animal_Male.txt
-    - [ ] Names_Animal_Unisex.txt
-    - [ ] Names_Business.txt
-    - [ ] Names_Celestial.txt
-    - [ ] Names_CelestialPrefix.txt
-    - [ ] Names_CelestialSuffix.txt
-    - [ ] Nouns_Animals.txt
-    - [ ] Nouns_Apparel.txt
-    - [ ] Nouns_Artworks.txt
-    - [ ] Nouns_BadassAnimals.txt
-    - [ ] Nouns_BadassPersons.txt
-    - [ ] Nouns_BusinessTypes.txt
-    - [ ] Nouns_Communities.txt
-    - [ ] Nouns_Concepts_Angsty.txt
-    - [ ] Nouns_Concepts_Badass.txt
-    - [ ] Nouns_Concepts_Positive.txt
-    - [ ] Nouns_GroupNames.txt
-    - [ ] Nouns_People_Family.txt
-    - [ ] Nouns_People_Outlanders.txt
-    - [ ] Nouns_TerrainFeatures.txt
-    - [ ] Nouns_Weapons.txt
-    - [ ] Numbers_SmallRoman.txt
-    - [ ] TribalWords.txt
- 
- * [ ] Words/Nouns
+    - [ ] Colors_Badass.txt
+    - [ ] Communities.txt
+    - [ ] Concepts_Angsty.txt
+    - [ ] Concepts_Badass.txt
+    - [ ] Concepts_Positive.txt
     - [ ] Games.txt
+    - [ ] GroupNames.txt
+    - [ ] People_Badass.txt
+    - [ ] People_Family.txt
+    - [ ] People_Outlanders.txt
+    - [ ] PoliticalUnions_Outlander.txt
+    - [ ] PoliticalUnions_Tribal.txt
     - [ ] Stories.txt
+    - [ ] TerrainFeatures.txt
     - [ ] Vegetables.txt
+    - [ ] Weapons.txt
