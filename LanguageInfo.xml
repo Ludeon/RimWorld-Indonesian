@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Bahasa Indonesia</friendlyNameNative>
+  <friendlyNameEnglish>Indonesian</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Fakhrizal 'Faryzal2020' Andyko</creditee>
+    </li>
+  </credits>
+</LanguageInfo>
