@@ -6,8 +6,6 @@
 ## Translators
 * [@Faryzal2020](https://github.com/Faryzal2020)
 
-===================================================
-
 ## Indonesian Language Translation Progress
 * [ ] DefInjected
  * [ ] BiomeDef 
