@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <Turrets.label>turrets</Turrets.label>
-  <Turrets.description>A group of turrets.</Turrets.description>
-  <Turrets.descriptionDialogue>{0} defend the site</Turrets.descriptionDialogue>
-
-
-</LanguageData>
