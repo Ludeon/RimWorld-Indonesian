@@ -13,7 +13,7 @@ Goals: Complete translations by Dec 31 2018
 http://ludeon.com/forums/index.php?topic=2933.0
 
 ## Official Translators
-| [<img src="https://avatars0.githubusercontent.com/u/10151729?s=460&v=4" width="100px;"/><br /><sub><b>JulianJason</b></sub>](https://github.com/JulianJason)<br /> Big Boss |
+| [<img src="https://avatars0.githubusercontent.com/u/10151729?s=460&v=4" width="100px;"/><br /><sub><b>JulianJason</b></sub>](https://github.com/JulianJason)<br /> Big Boss | Placeholder |
 |---|---|
 
 ## Contributing
