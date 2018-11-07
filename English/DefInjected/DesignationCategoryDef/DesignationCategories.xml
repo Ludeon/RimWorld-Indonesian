@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Orders.label>orders</Orders.label>
+  <Zone.label>zone</Zone.label>
+  <Structure.label>structure</Structure.label>
+  <Production.label>production</Production.label>
+  <Furniture.label>furniture</Furniture.label>
+  <Power.label>power</Power.label>
+  <Security.label>security</Security.label>
+  <Misc.label>misc</Misc.label>
+  <Floors.label>floors</Floors.label>
+  <Joy.label>recreation</Joy.label>
+  <Ship.label>ship</Ship.label>
+  <Temperature.label>temperature</Temperature.label>
+
+
+</LanguageData>

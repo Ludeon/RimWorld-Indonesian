@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <Body.label>body</Body.label>
+  <Beak.label>beak</Beak.label>
+  <InsectHead.label>head</InsectHead.label>
+  <SnakeBody.label>body</SnakeBody.label>
+  <SnakeHead.label>head</SnakeHead.label>
+  <SnakeMouth.label>mouth</SnakeMouth.label>
+  <InsectHeart.label>heart</InsectHeart.label>
+  <InsectNostril.label>nostril</InsectNostril.label>
+  <InsectMouth.label>mouth</InsectMouth.label>
+  <AnimalJaw.label>jaw</AnimalJaw.label>
+  <Jowl.label>jowl</Jowl.label>
+  <Tail.label>tail</Tail.label>
+  <Antenna.label>antenna</Antenna.label>
+  <Pronotum.label>pronotum</Pronotum.label>
+  <Shell.label>shell</Shell.label>
+  <Elytra.label>elytra</Elytra.label>
+  <Tusk.label>tusk</Tusk.label>
+  <Trunk.label>trunk</Trunk.label>
+  <Horn.label>horn</Horn.label>
+  <HeadClaw.label>head claw</HeadClaw.label>
+  <Hump.label>hump</Hump.label>
+  <TurtleShell.label>shell</TurtleShell.label>
+  <Plastron.label>plastron</Plastron.label>
+  <TurtleBeak.label>beak</TurtleBeak.label>
+
+
+  <!-- Insect legs -->
+
+  <InsectLeg.label>leg</InsectLeg.label>
+
+
+  <!-- Paws -->
+
+  <Paw.label>paw</Paw.label>
+
+
+  <!-- Hoofs -->
+
+  <Hoof.label>hoof</Hoof.label>
+
+
+  <!-- Claws -->
+
+  <FrontClaw.label>front claw</FrontClaw.label>
+  <FrontClaw.labelShort>claw</FrontClaw.labelShort>
+
+  <RearClaw.label>rear claw</RearClaw.label>
+  <RearClaw.labelShort>claw</RearClaw.labelShort>
+
+
+</LanguageData>

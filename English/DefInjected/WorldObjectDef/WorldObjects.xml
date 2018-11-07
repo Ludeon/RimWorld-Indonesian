@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Caravan.label>caravan</Caravan.label>
+  <Caravan.description>A group of traveling people.</Caravan.description>
+
+  <Settlement.label>settlement</Settlement.label>
+  <Settlement.description>A base of one of the factions.</Settlement.description>
+
+  <AbandonedSettlement.label>abandoned settlement</AbandonedSettlement.label>
+  <AbandonedSettlement.description>An abandoned settlement.</AbandonedSettlement.description>
+
+  <DestroyedSettlement.label>destroyed settlement</DestroyedSettlement.label>
+  <DestroyedSettlement.description>A destroyed settlement.</DestroyedSettlement.description>
+
+  <EscapeShip.label>landed ship</EscapeShip.label>
+  <EscapeShip.description>The location of a hidden ship which can help you escape the planet.</EscapeShip.description>
+
+  <AttackedNonPlayerCaravan.label>attacked caravan</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.description>A caravan under attack.</AttackedNonPlayerCaravan.description>
+
+  <TravelingTransportPods.label>transport pods</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Transport pods in flight.</TravelingTransportPods.description>
+
+  <RoutePlannerWaypoint.label>waypoint</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>A temporary waypoint.</RoutePlannerWaypoint.description>
+
+  <PeaceTalks.label>peace talks</PeaceTalks.label>
+  <PeaceTalks.description>A site designated for peace talks.</PeaceTalks.description>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Torso.label>torso</Torso.label>
+  <Shoulder.label>shoulder</Shoulder.label>
+  <Arm.label>arm</Arm.label>
+  <Hand.label>hand</Hand.label>
+  <Finger.label>finger</Finger.label>
+  <Waist.label>waist</Waist.label>
+  <Toe.label>toe</Toe.label>
+
+
+  <!-- Bones -->
+
+  <Clavicle.label>clavicle</Clavicle.label>
+  <Sternum.label>sternum</Sternum.label>
+  <Humerus.label>humerus</Humerus.label>
+  <Radius.label>radius</Radius.label>
+  <Pelvis.label>pelvis</Pelvis.label>
+  <Femur.label>femur</Femur.label>
+  <Tibia.label>tibia</Tibia.label>
+
+
+</LanguageData>
