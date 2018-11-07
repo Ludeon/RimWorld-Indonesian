@@ -1,5 +1,7 @@
 ## Indonesian Language Translation Progress
 * [ ] DefInjected
+ * [ ] ApparelLayerDefs.xml
+    - [ ] ApparelLayerDefs.xml
  * [ ] BiomeDef 
     - [ ] Biomes_Arid.xml
     - [ ] Biomes_Cold.xml

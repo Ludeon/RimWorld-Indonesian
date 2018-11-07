@@ -1,77 +1,21 @@
 ![Image of Rimworld](http://rimworldwiki.com/images/thumb/8/8c/Rimworldlogo.png/600px-Rimworldlogo.png)
+
 ===================================================
 * Proyek translasi bahasa Indonesia untuk RimWorld.
 * An Indonesian Language translation project.
 
-## Translators
-* [@Faryzal2020](https://github.com/Faryzal2020)
+## Progress
+[Progress checklist document](PROGRESS.md)
 
-## Indonesian Language Translation Progress
-* [ ] DefInjected
- * [ ] BiomeDef 
- * [ ] BodyDef 
- * [ ] BodyPartDef 
- * [ ] BodyPartGroupDef
- * [ ] ChemicalDef
- * [ ] ConceptDef 
- * [ ] DamageDef
- * [ ] DesignationCategoryDef
- * [ ] DifficultyDef
- * [ ] FactionDef
- * [ ] HairDef 
- * [ ] HediffDef
- * [ ] HediffGiverSetDef
- * [ ] HistoryAutoRecorderDef
- * [ ] HistoryAutoRecorderGroupDef
- * [ ] IncidentDef
- * [ ] InteractionDef
- * [ ] JobDef
- * [ ] JoyKindDef
- * [ ] KeyBindingCategoryDef
- * [ ] KeyBindingDef 
- * [ ] LifeStageDef 
- * [ ] MainTabDef
- * [ ] MapConditionDef
- * [ ] MentalStateDef
- * [ ] NeedDef
- * [ ] PawnCapacityDef
- * [ ] PawnKindDef
- * [ ] PawnRelationDef
- * [ ] RaidStrategyDef 
- * [ ] RecipeDef 
- * [ ] RecordDef
- * [ ] ResearchProjectDef 
- * [ ] RoofDef 
- * [ ] RoomRoleDef 
- * [ ] RoomStatDef
- * [ ] RulePackDef
- * [ ] ScenPartDef
- * [ ] ScenarioDef
- * [ ] SkillDef
- * [ ] SpecialThingFilterDef
- * [ ] StatCategoryDef 
- * [ ] StatDef 
- * [ ] StorytellerDef
- * [ ] StuffCategoryDef 
- * [ ] TaleDef 
- * [ ] TerrainDef 
- * [ ] ThingCategoryDef  
- * [ ] ThingDef
- * [ ] ThoughtDef
- * [ ] TimeAssignmentDef 
- * [ ] TraderKindDef
- * [ ] TrainableDef 
- * [ ] TraitDef
- * [ ] TransferableSorterDef
- * [ ] WeatherDef
- * [ ] WorkGiverDef 
- * [ ] WorkTypeDef 
- * [ ] WorldObjectDef
- 
-* [ ] Keyed
- 
-* [ ] Strings
+Goals: Complete translations by Dec 31 2018
 
-
-## See this page for license info:
+## License
 http://ludeon.com/forums/index.php?topic=2933.0
+
+## Official Translators
+| [<img src="https://avatars0.githubusercontent.com/u/10151729?s=460&v=4" width="100px;"/><br /><sub><b>JulianJason</b></sub>](https://github.com/JulianJason)<br /> Big Boss |
+|---|---|
+
+## Contributing
+Please read this [contributing guide](http://ludeon.com/forums/index.php?topic=2933.0) to begin contributing. To be added to the list of translators, simply commit and maintain the translations over two major releases.  
+
