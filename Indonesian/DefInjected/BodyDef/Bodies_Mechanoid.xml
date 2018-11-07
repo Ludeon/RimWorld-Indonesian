@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MechanicalCentipede.label>lipan mekanikal</MechanicalCentipede.label>
+  <MechanicalCentipede.corePart.parts.0.parts.1.customLabel>sensor penglihatan kiri</MechanicalCentipede.corePart.parts.0.parts.1.customLabel>
+  <MechanicalCentipede.corePart.parts.0.parts.2.customLabel>sensor penglihatan kanan</MechanicalCentipede.corePart.parts.0.parts.2.customLabel>
+  <MechanicalCentipede.corePart.parts.0.parts.3.customLabel>sensor pendengaran kiri</MechanicalCentipede.corePart.parts.0.parts.3.customLabel>
+  <MechanicalCentipede.corePart.parts.0.parts.4.customLabel>sensor pendengaran kanan</MechanicalCentipede.corePart.parts.0.parts.4.customLabel>
+
+  <Lancer.label>penombak</Lancer.label>
+  <Lancer.corePart.parts.0.parts.0.parts.1.customLabel>sensor penglihatan kiri</Lancer.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.2.customLabel>sensor penglihatan kanan</Lancer.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.3.customLabel>sensor pendengaran kiri</Lancer.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.4.customLabel>sensor pendengaran kanan</Lancer.corePart.parts.0.parts.0.parts.4.customLabel>
+  <Lancer.corePart.parts.1.customLabel>bahu kiri</Lancer.corePart.parts.1.customLabel>
+  <Lancer.corePart.parts.1.parts.0.customLabel>lengan kiri</Lancer.corePart.parts.1.parts.0.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.customLabel>tangan kiri</Lancer.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>jari kelingking kiri</Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>jari tengah kiri</Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>jari telunjuk kiri</Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>ibu jari kiri</Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+  <Lancer.corePart.parts.2.customLabel>bahu mekanikal kanan</Lancer.corePart.parts.2.customLabel>
+  <Lancer.corePart.parts.2.parts.0.customLabel>lengan kanan</Lancer.corePart.parts.2.parts.0.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.customLabel>tangan kanan</Lancer.corePart.parts.2.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>jari kelinking kanan</Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>jari tengah kanan</Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>jari telunjuk kanan</Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>ibu jari kanan</Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+  <Lancer.corePart.parts.3.customLabel>kaki kiri</Lancer.corePart.parts.3.customLabel>
+  <Lancer.corePart.parts.3.parts.0.customLabel>telapak kaki kiri</Lancer.corePart.parts.3.parts.0.customLabel>
+  <Lancer.corePart.parts.4.customLabel>kaki kanan</Lancer.corePart.parts.4.customLabel>
+  <Lancer.corePart.parts.4.parts.0.customLabel>telapak kaki kanan</Lancer.corePart.parts.4.parts.0.customLabel>
+
+  <Scyther.label>penyabit</Scyther.label>
+  <Scyther.corePart.parts.0.parts.0.parts.1.customLabel>sensor penglihatan kiri</Scyther.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.2.customLabel>sensor penglihatan kanan</Scyther.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.3.customLabel>sensor pendengaran kiri</Scyther.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.4.customLabel>sensor pendengaran kanan</Scyther.corePart.parts.0.parts.0.parts.4.customLabel>
+  <Scyther.corePart.parts.1.customLabel>bahu kiri</Scyther.corePart.parts.1.customLabel>
+  <Scyther.corePart.parts.1.parts.0.customLabel>lengan kiri</Scyther.corePart.parts.1.parts.0.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.0.customLabel>sabit kiri</Scyther.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.customLabel>tangan kiri</Scyther.corePart.parts.1.parts.0.parts.1.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>jari kelingking kiri</Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>jari tengah kiri</Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>jari telunjuk kiri</Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>ibu jari kiri</Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>
+  <Scyther.corePart.parts.2.customLabel>bahu kanan</Scyther.corePart.parts.2.customLabel>
+  <Scyther.corePart.parts.2.parts.0.customLabel>lengan kanan</Scyther.corePart.parts.2.parts.0.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.0.customLabel>sabit kanan</Scyther.corePart.parts.2.parts.0.parts.0.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.customLabel>tangan kanan</Scyther.corePart.parts.2.parts.0.parts.1.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>jari kelingking kanan</Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>jari tengan kanan</Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>jari telunjuk kanan</Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>ibu jari kanan</Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>
+  <Scyther.corePart.parts.3.customLabel>kaki kiri</Scyther.corePart.parts.3.customLabel>
+  <Scyther.corePart.parts.3.parts.0.customLabel>telapak kaki kiri</Scyther.corePart.parts.3.parts.0.customLabel>
+  <Scyther.corePart.parts.4.customLabel>kaki kanan</Scyther.corePart.parts.4.customLabel>
+  <Scyther.corePart.parts.4.parts.0.customLabel>telapak kaki kanan</Scyther.corePart.parts.4.parts.0.customLabel>
+
+
+</LanguageData>

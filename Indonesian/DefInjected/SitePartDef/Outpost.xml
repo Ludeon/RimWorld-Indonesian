@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Outpost.label>outpost</Outpost.label>
+  <Outpost.description>A small, guarded outpost.</Outpost.description>
+  <Outpost.descriptionDialogue>there is an enemy outpost at the site guarded by {0} enemies</Outpost.descriptionDialogue>
+
+
+</LanguageData>

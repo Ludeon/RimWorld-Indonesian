@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TropicalRainforest.label>hutan tropis</TropicalRainforest.label>
+  <TropicalRainforest.description>hutan rimba yang lembab dan tebal, dipenuhi dengan fauna dan penyakit. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell".</TropicalRainforest.description>
+
+  <TropicalSwamp.label>rawa tropis</TropicalSwamp.label>
+  <TropicalSwamp.description>A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare.</TropicalSwamp.description>
+
+
+</LanguageData>

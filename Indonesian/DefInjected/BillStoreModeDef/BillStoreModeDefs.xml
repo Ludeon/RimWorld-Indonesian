@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DropOnFloor.label>jatuhkan di lantai</DropOnFloor.label>
+  <BestStockpile.label>letakkan di gudang terbaik</BestStockpile.label>
+  <SpecificStockpile.label>letakkan ke {0}</SpecificStockpile.label>
+
+
+</LanguageData>

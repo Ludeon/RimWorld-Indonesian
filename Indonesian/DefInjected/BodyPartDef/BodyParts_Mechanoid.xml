@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Common to various mechanoids -->
+
+  <MechanicalNeck.label>leher</MechanicalNeck.label>
+  <MechanicalHead.label>kepala</MechanicalHead.label>
+  <ArtificialBrain.label>otak artifisial</ArtificialBrain.label>
+  <Reactor.label>reaktor</Reactor.label>
+  <FluidReprocessor.label>prosesor fluida</FluidReprocessor.label>
+  <SightSensor.label>sensor visual</SightSensor.label>
+  <HearingSensor.label>sensor suara</HearingSensor.label>
+  <SmellSensor.label>peneliti kimiawi</SmellSensor.label>
+  <MechanicalShoulder.label>bahu</MechanicalShoulder.label>
+  <MechanicalArm.label>lengan</MechanicalArm.label>
+  <MechanicalHand.label>tangan</MechanicalHand.label>
+  <MechanicalFinger.label>jari</MechanicalFinger.label>
+  <MechanicalLeg.label>kaki</MechanicalLeg.label>
+  <MechanicalFoot.label>telapak kaki</MechanicalFoot.label>
+
+
+  <!-- Human-like specific (lancer, scyther) -->
+
+  <MechanicalThorax.label>thorax</MechanicalThorax.label>
+
+
+  <!-- Scyther specific -->
+
+  <Blade.label>sabit</Blade.label>
+
+
+  <!-- Centipede specific -->
+
+  <MechanicalCentipedeBodyFirstRing.label>cincin tubuh pertama</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodyFirstRing.labelShort>cincin tubuh</MechanicalCentipedeBodyFirstRing.labelShort>
+
+  <MechanicalCentipedeBodySecondRing.label>cincin tubuh kedua</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodySecondRing.labelShort>cincin tubuh</MechanicalCentipedeBodySecondRing.labelShort>
+
+  <MechanicalCentipedeBodyThirdRing.label>cincin tubuh ketiga</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyThirdRing.labelShort>cincin tubuh</MechanicalCentipedeBodyThirdRing.labelShort>
+
+  <MechanicalCentipedeBodyFourthRing.label>cincin tubuh keempat</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFourthRing.labelShort>cincin tubuh</MechanicalCentipedeBodyFourthRing.labelShort>
+
+  <MechanicalCentipedeBodyFifthRing.label>cincin tubuh kelima</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodyFifthRing.labelShort>cincin tubuh</MechanicalCentipedeBodyFifthRing.labelShort>
+
+  <MechanicalCentipedeBodySixthRing.label>cincin tubuh keenam</MechanicalCentipedeBodySixthRing.label>
+  <MechanicalCentipedeBodySixthRing.labelShort>cincin tubuh</MechanicalCentipedeBodySixthRing.labelShort>
+
+
+</LanguageData>

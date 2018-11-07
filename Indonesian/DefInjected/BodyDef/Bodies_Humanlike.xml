@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Human.label>manusia</Human.label>
+  <Human.corePart.parts.6.customLabel>paru-paru kiri</Human.corePart.parts.6.customLabel>
+  <Human.corePart.parts.7.customLabel>paru-paru kanan</Human.corePart.parts.7.customLabel>
+  <Human.corePart.parts.8.customLabel>ginjal kiri</Human.corePart.parts.8.customLabel>
+  <Human.corePart.parts.9.customLabel>ginjal kanan</Human.corePart.parts.9.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.1.customLabel>mata kiri</Human.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.2.customLabel>mata kanan</Human.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.3.customLabel>telinga kiri</Human.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.4.customLabel>kuiping kanan</Human.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Human.corePart.parts.12.customLabel>bahu kiri</Human.corePart.parts.12.customLabel>
+  <Human.corePart.parts.12.parts.0.customLabel>tulang selangka kiri</Human.corePart.parts.12.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.customLabel>lengan kiri</Human.corePart.parts.12.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.0.customLabel>tulang humerus kiri</Human.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.1.customLabel>tulang radius kiri</Human.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.customLabel>tangan kiri</Human.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>kelingking kiri</Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>jari manis kiri</Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>jari tengah kiri</Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>jari telunjuk kiri</Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>ibu jari kiri</Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.13.customLabel>bahu kanan</Human.corePart.parts.13.customLabel>
+  <Human.corePart.parts.13.parts.0.customLabel>tulang selangka kanan</Human.corePart.parts.13.parts.0.customLabel>
+  <Human.corePart.parts.13.parts.1.customLabel>lengan kanan</Human.corePart.parts.13.parts.1.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.0.customLabel>tulang humerus kanan</Human.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.1.customLabel>tulang radius kanan</Human.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.customLabel>tangan kanan</Human.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>kelingking kanan</Human.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>jari manis kanan</Human.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>jari tengah kanan</Human.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>jari telunjuk kanan</Human.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>ibu jari kanan</Human.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.15.customLabel>kaki kiri</Human.corePart.parts.15.customLabel>
+  <Human.corePart.parts.15.parts.0.customLabel>tulang paha kiri</Human.corePart.parts.15.parts.0.customLabel>
+  <Human.corePart.parts.15.parts.1.customLabel>tulang kering kiri</Human.corePart.parts.15.parts.1.customLabel>
+  <Human.corePart.parts.15.parts.2.customLabel>telapak kaki kiri</Human.corePart.parts.15.parts.2.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.0.customLabel>jari kaku kecil kiri</Human.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.1.customLabel>jari kaki manis kiri</Human.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.2.customLabel>jari kaki tengah kiri</Human.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.3.customLabel>jari kaki panjang kiri</Human.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.4.customLabel>jari kaki pertama kiri</Human.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.16.customLabel>kaki kanan</Human.corePart.parts.16.customLabel>
+  <Human.corePart.parts.16.parts.0.customLabel>tulang paha kanan</Human.corePart.parts.16.parts.0.customLabel>
+  <Human.corePart.parts.16.parts.1.customLabel>tulang kering kanan</Human.corePart.parts.16.parts.1.customLabel>
+  <Human.corePart.parts.16.parts.2.customLabel>telapak kaki kanan</Human.corePart.parts.16.parts.2.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.0.customLabel>jari kaki kecil kanan</Human.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.1.customLabel>jari kaki manis kanan</Human.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.2.customLabel>jari kaki tengah kanan</Human.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.3.customLabel>jari kaki panjang kanan</Human.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.4.customLabel>jari kaki pertama kanan</Human.corePart.parts.16.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

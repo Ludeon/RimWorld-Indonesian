@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ancients.label>ancients</Ancients.label>
+  <Ancients.fixedName>Ancients</Ancients.fixedName>
+  <Ancients.pawnsPlural>ancients</Ancients.pawnsPlural>
+
+  <AncientsHostile.label>ancients</AncientsHostile.label>
+  <AncientsHostile.fixedName>Ancients</AncientsHostile.fixedName>
+  <AncientsHostile.pawnsPlural>ancients</AncientsHostile.pawnsPlural>
+
+  <Mechanoid.label>mechanoid hive</Mechanoid.label>
+  <Mechanoid.fixedName>a mechanoid hive</Mechanoid.fixedName>
+  <Mechanoid.pawnsPlural>mechanoids</Mechanoid.pawnsPlural>
+
+  <Insect.label>insects</Insect.label>
+  <Insect.fixedName>insects</Insect.fixedName>
+  <Insect.pawnsPlural>insects</Insect.pawnsPlural>
+
+
+</LanguageData>

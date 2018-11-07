@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Snake.label>ular</Snake.label>
+  <Snake.corePart.parts.2.customLabel>paru-paru kiri</Snake.corePart.parts.2.customLabel>
+  <Snake.corePart.parts.3.customLabel>paru-paru kanan</Snake.corePart.parts.3.customLabel>
+  <Snake.corePart.parts.4.customLabel>ginjal kiri</Snake.corePart.parts.4.customLabel>
+  <Snake.corePart.parts.5.customLabel>ginjal kanan</Snake.corePart.parts.5.customLabel>
+  <Snake.corePart.parts.7.parts.1.customLabel>mata kiri</Snake.corePart.parts.7.parts.1.customLabel>
+  <Snake.corePart.parts.7.parts.2.customLabel>mata kanan</Snake.corePart.parts.7.parts.2.customLabel>
+
+
+</LanguageData>

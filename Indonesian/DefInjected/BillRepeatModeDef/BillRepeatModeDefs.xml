@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RepeatCount.label>lakukan X kali</RepeatCount.label>
+  <TargetCount.label>lakukan sampai mempunyai X</TargetCount.label>
+  <Forever.label>lakukan selamanya</Forever.label>
+
+
+</LanguageData>

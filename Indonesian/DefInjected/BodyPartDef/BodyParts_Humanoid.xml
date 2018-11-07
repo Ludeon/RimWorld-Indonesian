@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Torso.label>dada</Torso.label>
+  <Shoulder.label>bahu</Shoulder.label>
+  <Arm.label>lengan</Arm.label>
+  <Hand.label>tangan</Hand.label>
+  <Finger.label>jari tangan</Finger.label>
+  <Waist.label>pinggang</Waist.label>
+  <Toe.label>jari kaki</Toe.label>
+
+
+  <!-- Bones -->
+
+  <Clavicle.label>tulang selangka</Clavicle.label>
+  <Sternum.label>tulang dada</Sternum.label>
+  <Humerus.label>tulang humerus</Humerus.label>
+  <Radius.label>tulang radius</Radius.label>
+  <Pelvis.label>tulang pelvis</Pelvis.label>
+  <Femur.label>tulang femur</Femur.label>
+  <Tibia.label>tulang tibia</Tibia.label>
+
+
+</LanguageData>

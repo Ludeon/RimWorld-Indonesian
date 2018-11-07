@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BeetleLike.label>menyerupai kumbang</BeetleLike.label>
+  <BeetleLike.corePart.parts.0.customLabel>sayap kiri</BeetleLike.corePart.parts.0.customLabel>
+  <BeetleLike.corePart.parts.1.customLabel>sayap kanan</BeetleLike.corePart.parts.1.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.1.customLabel>mata kiri</BeetleLike.corePart.parts.4.parts.0.parts.1.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.2.customLabel>mata kanan</BeetleLike.corePart.parts.4.parts.0.parts.2.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.3.customLabel>antena kiri</BeetleLike.corePart.parts.4.parts.0.parts.3.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.4.customLabel>antena kanan</BeetleLike.corePart.parts.4.parts.0.parts.4.customLabel>
+  <BeetleLike.corePart.parts.5.customLabel>kaki depan kiri</BeetleLike.corePart.parts.5.customLabel>
+  <BeetleLike.corePart.parts.6.customLabel>kaki depan kanan</BeetleLike.corePart.parts.6.customLabel>
+  <BeetleLike.corePart.parts.7.customLabel>kaki tengah kiri</BeetleLike.corePart.parts.7.customLabel>
+  <BeetleLike.corePart.parts.8.customLabel>kaki tengah kanan </BeetleLike.corePart.parts.8.customLabel>
+  <BeetleLike.corePart.parts.9.customLabel>kaki belakang kiri</BeetleLike.corePart.parts.9.customLabel>
+  <BeetleLike.corePart.parts.10.customLabel>kaki belakang kanan</BeetleLike.corePart.parts.10.customLabel>
+
+  <BeetleLikeWithClaw.label>menyerupai kumbang dengan cakar</BeetleLikeWithClaw.label>
+  <BeetleLikeWithClaw.corePart.parts.0.customLabel>sayap kiri</BeetleLikeWithClaw.corePart.parts.0.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.1.customLabel>sayap kanan</BeetleLikeWithClaw.corePart.parts.1.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.1.customLabel>mata kiri</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.1.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.2.customLabel>mata kanan</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.2.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.3.customLabel>antena kiri</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.3.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.4.customLabel>antena kanan</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.4.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.5.customLabel>kaki depan kiri</BeetleLikeWithClaw.corePart.parts.5.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.6.customLabel>kaki depan kanan</BeetleLikeWithClaw.corePart.parts.6.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.7.customLabel>kaki tengah kiri</BeetleLikeWithClaw.corePart.parts.7.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.8.customLabel>kaki tengah kanan</BeetleLikeWithClaw.corePart.parts.8.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.9.customLabel>kaki belakang kiri</BeetleLikeWithClaw.corePart.parts.9.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.10.customLabel>kaki belakang kanan</BeetleLikeWithClaw.corePart.parts.10.customLabel>
+
+
+</LanguageData>

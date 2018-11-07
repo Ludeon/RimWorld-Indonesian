@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught in the entry screens -->
+
+  <WorldCameraMovement.label>Pergerakan kamera dunia</WorldCameraMovement.label>
+  <WorldCameraMovement.helpText>Zoom dengan RODA MOUSE atau tombol {Key:MapZoom_In} dan {Key:MapZoom_Out}.\n\nGeser dengan tombol {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}, atau dengan menahan dan menyeret tombol RODA MOUSE.</WorldCameraMovement.helpText>
+
+
+</LanguageData>

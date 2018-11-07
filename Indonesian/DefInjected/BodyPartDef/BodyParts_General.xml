@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Head.label>kepala</Head.label>
+  <Skull.label>tengkorak</Skull.label>
+  <Brain.label>otak</Brain.label>
+  <Eye.label>mata</Eye.label>
+  <Ear.label>telinga</Ear.label>
+  <Nose.label>hidung</Nose.label>
+  <Jaw.label>rahang</Jaw.label>
+  <Neck.label>leher</Neck.label>
+  <Ribcage.label>tulang rusuk</Ribcage.label>
+  <Spine.label>tulang belakang</Spine.label>
+  <Leg.label>kaki</Leg.label>
+  <Foot.label>telapak kaki</Foot.label>
+
+
+</LanguageData>

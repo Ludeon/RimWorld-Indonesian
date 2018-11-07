@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Orders.label>perintah</Orders.label>
+  <Zone.label>zona</Zone.label>
+  <Structure.label>struktur</Structure.label>
+  <Production.label>produksi</Production.label>
+  <Furniture.label>furnitur</Furniture.label>
+  <Power.label>daya</Power.label>
+  <Security.label>keamanan</Security.label>
+  <Misc.label>lain-lain</Misc.label>
+  <Floors.label>lantai</Floors.label>
+  <Joy.label>rekreasi</Joy.label>
+  <Ship.label>kapal</Ship.label>
+  <Temperature.label>temperatur</Temperature.label>
+
+
+</LanguageData>

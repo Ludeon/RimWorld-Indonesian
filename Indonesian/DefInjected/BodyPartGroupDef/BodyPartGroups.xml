@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Torso.label>dada</Torso.label>
+  <UpperHead.label>kepala atas</UpperHead.label>
+  <FullHead.label>seluruh kepala</FullHead.label>
+  <Eyes.label>mata</Eyes.label>
+  <Teeth.label>gigi</Teeth.label>
+  <Mouth.label>mulut</Mouth.label>
+  <Neck.label>leher</Neck.label>
+  <Arms.label>lengan</Arms.label>
+  <Shoulders.label>bahu</Shoulders.label>
+  <Hands.label>tangan</Hands.label>
+
+  <LeftHand.label>kepalan tangan kiri</LeftHand.label>
+  <LeftHand.labelShort>kepalan tangan</LeftHand.labelShort>
+
+  <RightHand.label>kepalan tangan kanan</RightHand.label>
+  <RightHand.labelShort>kepalan tangan</RightHand.labelShort>
+
+  <Waist.label>pinggang</Waist.label>
+  <Legs.label>kaki</Legs.label>
+  <Feet.label>telapak kaki</Feet.label>
+
+  <FrontLeftPaw.label>cakar depan kiri</FrontLeftPaw.label>
+  <FrontLeftPaw.labelShort>cakar</FrontLeftPaw.labelShort>
+
+  <FrontRightPaw.label>cakar depan kanan</FrontRightPaw.label>
+  <FrontRightPaw.labelShort>cakar</FrontRightPaw.labelShort>
+
+  <HeadAttackTool.label>kepala</HeadAttackTool.label>
+
+  <FrontLeftLeg.label>kaki depan kiri</FrontLeftLeg.label>
+  <FrontLeftLeg.labelShort>kaki</FrontLeftLeg.labelShort>
+
+  <FrontRightLeg.label>kaki depan kanan</FrontRightLeg.label>
+  <FrontRightLeg.labelShort>kaki</FrontRightLeg.labelShort>
+
+  <FrontLeftClaws.label>cakar depan kiri</FrontLeftClaws.label>
+  <FrontLeftClaws.labelShort>cakar</FrontLeftClaws.labelShort>
+
+  <FrontRightClaws.label>cakar depan kanan</FrontRightClaws.label>
+  <FrontRightClaws.labelShort>cakar</FrontRightClaws.labelShort>
+
+  <LeftBlade.label>pedang kiri</LeftBlade.label>
+  <LeftBlade.labelShort>pedang</LeftBlade.labelShort>
+
+  <RightBlade.label>pedang kanan</RightBlade.label>
+  <RightBlade.labelShort>pedang</RightBlade.labelShort>
+
+  <TuskAttackTool.label>gading</TuskAttackTool.label>
+  <HornAttackTool.label>tanduk</HornAttackTool.label>
+  <HeadClaw.label>cakar</HeadClaw.label>
+  <TurtleBeakAttackTool.label>paruh</TurtleBeakAttackTool.label>
+  <Beak.label>paruh</Beak.label>
+
+
+</LanguageData>

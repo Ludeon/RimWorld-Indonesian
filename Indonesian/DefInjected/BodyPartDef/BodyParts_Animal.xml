@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <Body.label>badan</Body.label>
+  <Beak.label>paruh</Beak.label>
+  <InsectHead.label>kepala</InsectHead.label>
+  <SnakeBody.label>badan</SnakeBody.label>
+  <SnakeHead.label>kepala</SnakeHead.label>
+  <SnakeMouth.label>mulut</SnakeMouth.label>
+  <InsectHeart.label>jantung</InsectHeart.label>
+  <InsectNostril.label>lubang hidung</InsectNostril.label>
+  <InsectMouth.label>mulut</InsectMouth.label>
+  <AnimalJaw.label>rahang</AnimalJaw.label>
+  <Jowl.label>rahang</Jowl.label>
+  <Tail.label>ekor</Tail.label>
+  <Antenna.label>antena</Antenna.label>
+  <Pronotum.label>pronotum</Pronotum.label>
+  <Shell.label>cangkang</Shell.label>
+  <Elytra.label>sayap</Elytra.label>
+  <Tusk.label>gading</Tusk.label>
+  <Trunk.label>belalai</Trunk.label>
+  <Horn.label>tanduk</Horn.label>
+  <HeadClaw.label>cakar kepala</HeadClaw.label>
+  <Hump.label>punuk</Hump.label>
+  <TurtleShell.label>tempurung</TurtleShell.label>
+  <Plastron.label>plastron</Plastron.label>
+  <TurtleBeak.label>paruh</TurtleBeak.label>
+
+
+  <!-- Insect legs -->
+
+  <InsectLeg.label>kaki</InsectLeg.label>
+
+
+  <!-- Paws -->
+
+  <Paw.label>cakar</Paw.label>
+
+
+  <!-- Hoofs -->
+
+  <Hoof.label>tapak</Hoof.label>
+
+
+  <!-- Claws -->
+
+  <FrontClaw.label>cakar depan</FrontClaw.label>
+  <FrontClaw.labelShort>cakar</FrontClaw.labelShort>
+
+  <RearClaw.label>cakar belakang</RearClaw.label>
+  <RearClaw.labelShort>cakar</RearClaw.labelShort>
+
+
+</LanguageData>
