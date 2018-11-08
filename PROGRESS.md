@@ -3,33 +3,33 @@
 **Version Checked**: 1.0
 
 - [ ] DefInjected/
-- [ ] ApparelLayerDef/
-  - [ ] ApparelLayerDefs.xml
-- [ ] BillRepeatModeDef/
-  - [ ] BillRepeatModeDefs.xml
-- [ ] BillStoreModeDef/
-  - [ ] BillStoreModeDefs.xml
+- [x] ApparelLayerDef/
+  - [x] ApparelLayerDefs.xml
+- [x] BillRepeatModeDef/
+  - [x] BillRepeatModeDefs.xml
+- [x] BillStoreModeDef/
+  - [x] BillStoreModeDefs.xml
 - [ ] BiomeDef/
-  - [ ] Biomes_Cold.xml
-  - [ ] Biomes_Temperate.xml
+  - [x] Biomes_Cold.xml
+  - [x] Biomes_Temperate.xml
   - [ ] Biomes_Warm.xml
-  - [ ] Biomes_WarmArid.xml
-  - [ ] Biomes_Water.xml
-- [ ] BodyDef/
-  - [ ] Bodies_Animal_Bird.xml
-  - [ ] Bodies_Animal_Insect.xml
-  - [ ] Bodies_Animal_Quadruped.xml
-  - [ ] Bodies_Animal_Snake.xml
-  - [ ] Bodies_Humanlike.xml
-  - [ ] Bodies_Mechanoid.xml
-- [ ] BodyPartDef/
-  - [ ] BodyParts_Animal.xml
-  - [ ] BodyParts_General.xml
-  - [ ] BodyParts_Humanoid.xml
-  - [ ] BodyParts_Mechanoid.xml
-  - [ ] BodyParts_Organs.xml
-- [ ] BodyPartGroupDef/
-  - [ ] BodyPartGroups.xml
+  - [x] Biomes_WarmArid.xml
+  - [x] Biomes_Water.xml
+- [x] BodyDef/
+  - [x] Bodies_Animal_Bird.xml
+  - [x] Bodies_Animal_Insect.xml
+  - [x] Bodies_Animal_Quadruped.xml
+  - [x] Bodies_Animal_Snake.xml
+  - [x] Bodies_Humanlike.xml
+  - [x] Bodies_Mechanoid.xml
+- [x] BodyPartDef/
+  - [x] BodyParts_Animal.xml
+  - [x] BodyParts_General.xml
+  - [x] BodyParts_Humanoid.xml
+  - [x] BodyParts_Mechanoid.xml
+  - [x] BodyParts_Organs.xml
+- [x] BodyPartGroupDef/
+  - [x] BodyPartGroups.xml
 - [ ] ChemicalDef/
   - [ ] Alcohol_Beer.xml
   - [ ] Ambrosia.xml
@@ -408,32 +408,32 @@
   - [ ] Thoughts_Situation_Traits.xml
   - [ ] Thoughts_Situation_TraitsPerm.xml
   - [ ] WakeUp.xml
-- [ ] TimeAssignmentDef/
-  - [ ] TimeAssignments.xml
-- [ ] TraderKindDef/
-  - [ ] TraderKinds_Caravan_Neolithic.xml
-  - [ ] TraderKinds_Caravan_Outlander.xml
-  - [ ] TraderKinds_Orbital_Misc.xml
-  - [ ] TraderKinds_Visitor_Neolithic.xml
-  - [ ] TraderKinds_Visitor_Outlander.xml
-- [ ] TrainabilityDef/
-  - [ ] TrainabilityDefs.xml
-- [ ] TrainableDef/
-  - [ ] Trainables.xml
+- [x] TimeAssignmentDef/
+  - [x] TimeAssignments.xml
+- [x] TraderKindDef/
+  - [x] TraderKinds_Caravan_Neolithic.xml
+  - [x] TraderKinds_Caravan_Outlander.xml
+  - [x] TraderKinds_Orbital_Misc.xml
+  - [x] TraderKinds_Visitor_Neolithic.xml
+  - [x] TraderKinds_Visitor_Outlander.xml
+- [x] TrainabilityDef/
+  - [x] TrainabilityDefs.xml
+- [x] TrainableDef/
+  - [x] Trainables.xml
 - [ ] TraitDef/
   - [ ] Example_Traits.xml
   - [ ] Traits_Singular.xml
   - [ ] Traits_Spectrum.xml
-- [ ] TransferableSorterDef/
-  - [ ] TransferableSorters.xml
-- [ ] WeatherDef/
-  - [ ] Weathers.xml
+- [x] TransferableSorterDef/
+  - [x] TransferableSorters.xml
+- [x] WeatherDef/
+  - [x] Weathers.xml
 - [ ] WorkGiverDef/
   - [ ] WorkGivers.xml
 - [ ] WorkTypeDef/
   - [ ] WorkTypes.xml
 - [ ] WorldObjectDef/
-  - [ ] Incidents_Caravan_All.xml
+  - [x] Incidents_Caravan_All.xml
   - [ ] WorldObjects.xml
 - [ ] Keyed/
 - [ ] Alerts.xml

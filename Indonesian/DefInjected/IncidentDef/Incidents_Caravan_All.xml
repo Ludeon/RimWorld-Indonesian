@@ -3,23 +3,23 @@
 
   <!-- Threats -->
 
-  <Ambush.label>ambush</Ambush.label>
-  <Ambush.letterText>{0} has been ambushed by {1} from {2}!</Ambush.letterText>
-  <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
+  <Ambush.label>penyergapan</Ambush.label>
+  <Ambush.letterText>{0} telah disergap oleh {1} dari {2}!</Ambush.letterText>
+  <Ambush.letterLabel>Karavan disergap</Ambush.letterLabel>
 
-  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
-  <ManhunterAmbush.letterText>{0} has been ambushed by manhunting {1}!</ManhunterAmbush.letterText>
-  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.label>penyergapan pembunuh</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>{0} telah di sergap oleh sang pembunuh {1}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>Karavan disergap(pembunuh)</ManhunterAmbush.letterLabel>
 
 
   <!-- Good -->
 
-  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+  <CaravanMeeting.label>pertemuan para karavan</CaravanMeeting.label>
 
 
   <!-- Bad -->
 
-  <CaravanDemand.label>payment demand</CaravanDemand.label>
+  <CaravanDemand.label>tuntutan pembayaran</CaravanDemand.label>
 
 
 </LanguageData>

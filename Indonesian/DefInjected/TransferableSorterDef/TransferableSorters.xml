@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <None.label>none</None.label>
-  <Name.label>name</Name.label>
-  <MarketValue.label>market value</MarketValue.label>
-  <Category.label>category</Category.label>
-  <Quality.label>quality</Quality.label>
-  <Mass.label>mass</Mass.label>
-  <HitPointsPercentage.label>hit points percentage</HitPointsPercentage.label>
+  <None.label>kosong</None.label>
+  <Name.label>nama</Name.label>
+  <MarketValue.label>harga pasar</MarketValue.label>
+  <Category.label>kategori</Category.label>
+  <Quality.label>kualitas</Quality.label>
+  <Mass.label>massa</Mass.label>
+  <HitPointsPercentage.label>percentase HP</HitPointsPercentage.label>
 
 
 </LanguageData>

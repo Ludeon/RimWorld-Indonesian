@@ -3,20 +3,20 @@
 
   <!-- Note: You cannot reorder elements in this without destroying saved trainability data; see DefMap<>.ExposeData(). -->
 
-  <Obedience.label>obedience</Obedience.label>
-  <Obedience.description>The animal can be assigned a master who it will follow and defend.</Obedience.description>
+  <Obedience.label>ketaatan</Obedience.label>
+  <Obedience.description>Binatang ini bisa ditugaskan seorang tuan yang ia akan ikuti dan lindungi.</Obedience.description>
 
-  <Release.label>release</Release.label>
-  <Release.description>The animal can be released to attack distant targets instead of just defending its master.</Release.description>
+  <Release.label>lepaskan</Release.label>
+  <Release.description>Binatang ini bisa dilepaskan untuk menyerang target yang jauh dari pada hanya melindungi tuannya.</Release.description>
 
-  <Rescue.label>rescue</Rescue.label>
-  <Rescue.description>The animal will rescue wounded allies and drag them to safety.</Rescue.description>
+  <Rescue.label>selamatkan</Rescue.label>
+  <Rescue.description>Binatang ini akan menyelamatkan sekutu yang terluka dan bawa ke tempat yang aman.</Rescue.description>
 
-  <Haul.label>haul</Haul.label>
-  <Haul.description>The animal will randomly haul items from time to time (though it can't be directed to haul specific items).</Haul.description>
+  <Haul.label>angkut</Haul.label>
+  <Haul.description>Binatang ini akan secara acak mengangkut barang(Ia tidak dapat diperintahkan untuk mengangkut barang secara spesifik).</Haul.description>
 
-  <Tameness.label>tameness</Tameness.label>
-  <Tameness.description>The animal can learn to consider itself a member of your colony.</Tameness.description>
+  <Tameness.label>jinak</Tameness.label>
+  <Tameness.description>Binatang ini dapat diajarkan untuk memikir bahwa ia adalah bagian dari koloni.</Tameness.description>
 
 
 </LanguageData>

@@ -18,14 +18,14 @@
 
   <!-- Alcohol addiction -->
 
-  <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
-  <AlcoholTolerance.stages.0.label>small</AlcoholTolerance.stages.0.label>
-  <AlcoholTolerance.stages.1.label>small</AlcoholTolerance.stages.1.label>
-  <AlcoholTolerance.stages.2.label>large</AlcoholTolerance.stages.2.label>
-  <AlcoholTolerance.stages.3.label>massive</AlcoholTolerance.stages.3.label>
+  <AlcoholTolerance.label>toleransi alkohol</AlcoholTolerance.label>
+  <AlcoholTolerance.stages.0.label>sedikit</AlcoholTolerance.stages.0.label>
+  <AlcoholTolerance.stages.1.label>sedikit</AlcoholTolerance.stages.1.label>
+  <AlcoholTolerance.stages.2.label>tinggi</AlcoholTolerance.stages.2.label>
+  <AlcoholTolerance.stages.3.label>sangat tinggi</AlcoholTolerance.stages.3.label>
 
-  <AlcoholAddiction.label>alcohol addiction</AlcoholAddiction.label>
-  <AlcoholAddiction.stages.1.label>withdrawal</AlcoholAddiction.stages.1.label>
+  <AlcoholAddiction.label>kecanduan alkohol</AlcoholAddiction.label>
+  <AlcoholAddiction.stages.1.label>gejala putus alkohol</AlcoholAddiction.stages.1.label>
 
 
 </LanguageData>

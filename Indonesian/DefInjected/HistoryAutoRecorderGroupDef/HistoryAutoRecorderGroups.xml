@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Wealth.label>wealth</Wealth.label>
-  <Population.label>population</Population.label>
-  <ColonistMood.label>colonist mood</ColonistMood.label>
+  <Wealth.label>harta</Wealth.label>
+  <Population.label>populasi</Population.label>
+  <ColonistMood.label>mood penduduk</ColonistMood.label>
 
 
   <!-- Debug -->

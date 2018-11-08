@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Clear.label>clear</Clear.label>
-  <Clear.description>A clear day. No penalties or modifiers.</Clear.description>
+  <Clear.label>cerah</Clear.label>
+  <Clear.description>Hari yang cerah. Tidak ada penalti atau pengubah faktor.</Clear.description>
 
-  <Fog.label>fog</Fog.label>
-  <Fog.description>Fog reduces the accuracy of ranged weapons.</Fog.description>
+  <Fog.label>kabut</Fog.label>
+  <Fog.description>Kabut mengurangi akurasi senjata jarak jauh.</Fog.description>
 
-  <Rain.label>rain</Rain.label>
-  <Rain.description>Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</Rain.description>
+  <Rain.label>hujan</Rain.label>
+  <Rain.description>Hujan mengurangi akurasi senjata jarak jauh, memadamkan api, dan memperlambat gerakan.</Rain.description>
 
-  <DryThunderstorm.label>dry thunderstorm</DryThunderstorm.label>
-  <DryThunderstorm.description>Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out.</DryThunderstorm.description>
+  <DryThunderstorm.label>badai kering</DryThunderstorm.label>
+  <DryThunderstorm.description>Badai kering itu berbahaya karena petirnya dapat memulai api hutan dan tidak ada hujan yang memadamkannya.</DryThunderstorm.description>
 
-  <RainyThunderstorm.label>rainy thunderstorm</RainyThunderstorm.label>
-  <RainyThunderstorm.description>The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy.</RainyThunderstorm.description>
+  <RainyThunderstorm.label>badai hujan</RainyThunderstorm.label>
+  <RainyThunderstorm.description>Petirnya akan memulai api hutan, tetapi hujan akan memadamkannya. Hujannya juga melambatkan gerakan dan akurasi tembakan.</RainyThunderstorm.description>
 
-  <FoggyRain.label>foggy rain</FoggyRain.label>
-  <FoggyRain.description>Reduces accuracy and movement speed.</FoggyRain.description>
+  <FoggyRain.label>hujan berkabut</FoggyRain.label>
+  <FoggyRain.description>Mengurangkan akurasi dan kecepatan gerak.</FoggyRain.description>
 
-  <SnowHard.label>hard snow</SnowHard.label>
-  <SnowHard.description>Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</SnowHard.description>
+  <SnowHard.label>salju tebal</SnowHard.label>
+  <SnowHard.description>Salju mengurangi akurasi senjata jarak jauh, memadamkan api, dan melambatkan gerakan.</SnowHard.description>
 
-  <SnowGentle.label>gentle snow</SnowGentle.label>
-  <SnowGentle.description>Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</SnowGentle.description>
+  <SnowGentle.label>salju tipis</SnowGentle.label>
+  <SnowGentle.description>Salju mengurangi akurasi senjata jarak jauh, memadamkan api, dan melambatkan gerakan.</SnowGentle.description>
 
 
 </LanguageData>

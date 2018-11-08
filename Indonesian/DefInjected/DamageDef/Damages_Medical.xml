@@ -3,14 +3,14 @@
 
   <!-- Surgical cut: Makes it possible to remove inner organs without harming outer body parts -->
 
-  <SurgicalCut.label>surgical cut</SurgicalCut.label>
-  <SurgicalCut.deathMessage>{0} has died during surgery.</SurgicalCut.deathMessage>
+  <SurgicalCut.label>operasi </SurgicalCut.label>
+  <SurgicalCut.deathMessage>{0} telah meninggal saat operasi</SurgicalCut.deathMessage>
 
 
   <!-- Execution cut: Makes it possible to distinguish execution damage from others -->
 
-  <ExecutionCut.label>execution cut</ExecutionCut.label>
-  <ExecutionCut.deathMessage>{0} has been executed by cutting.</ExecutionCut.deathMessage>
+  <ExecutionCut.label>eksekusi potong</ExecutionCut.label>
+  <ExecutionCut.deathMessage>{0} telah dieksekusi.</ExecutionCut.deathMessage>
 
 
 </LanguageData>

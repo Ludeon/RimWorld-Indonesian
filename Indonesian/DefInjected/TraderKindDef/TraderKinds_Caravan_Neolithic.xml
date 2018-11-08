@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Caravan_Neolithic_BulkGoods.label>bulk goods trader</Caravan_Neolithic_BulkGoods.label>
-  <Caravan_Neolithic_WarMerchant.label>war merchant</Caravan_Neolithic_WarMerchant.label>
-  <Caravan_Neolithic_Slaver.label>slaver</Caravan_Neolithic_Slaver.label>
-  <Caravan_Neolithic_ShamanMerchant.label>shaman merchant</Caravan_Neolithic_ShamanMerchant.label>
+  <Caravan_Neolithic_BulkGoods.label>pedagang barang curah</Caravan_Neolithic_BulkGoods.label>
+  <Caravan_Neolithic_WarMerchant.label>pedagang barang perang</Caravan_Neolithic_WarMerchant.label>
+  <Caravan_Neolithic_Slaver.label>pedagang budak</Caravan_Neolithic_Slaver.label>
+  <Caravan_Neolithic_ShamanMerchant.label>pedagang dukun</Caravan_Neolithic_ShamanMerchant.label>
 
 
 </LanguageData>

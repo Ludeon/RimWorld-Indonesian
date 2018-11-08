@@ -3,9 +3,9 @@
 
   <!-- Firefighter -->
 
-  <FightFires.label>fight fires</FightFires.label>
-  <FightFires.verb>extinguish</FightFires.verb>
-  <FightFires.gerund>extinguishing</FightFires.gerund>
+  <FightFires.label>lawan api</FightFires.label>
+  <FightFires.verb>padamkan</FightFires.verb>
+  <FightFires.gerund>memadamkan</FightFires.gerund>
 
 
   <!-- Patient -->
