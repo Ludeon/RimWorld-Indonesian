@@ -45,7 +45,7 @@
   - [ ] Concepts_TriggeredModal.xml
   - [ ] Example_Concepts.xml
 - [ ] DamageDef/
-  - [ ] Damages_Environmental.xml
+  - [x] Damages_Environmental.xml
   - [ ] Damages_Medical.xml
   - [ ] Damages_MeleeWeapon.xml
   - [ ] Damages_Misc.xml
