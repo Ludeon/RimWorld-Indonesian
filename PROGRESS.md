@@ -48,8 +48,8 @@
   - [x] Damages_Environmental.xml
   - [ ] Damages_Medical.xml
   - [ ] Damages_MeleeWeapon.xml
-  - [ ] Damages_Misc.xml
-  - [ ] Damages_RangedWeapon.xml
+  - [x] Damages_Misc.xml
+  - [x] Damages_RangedWeapon.xml
   - [ ] Damages_Stun.xml
 - [ ] DesignationCategoryDef/
   - [ ] DesignationCategories.xml
