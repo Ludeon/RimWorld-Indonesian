@@ -3,17 +3,17 @@
 
   <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
 
-  <RangedStab.label>stab</RangedStab.label>
-  <RangedStab.deathMessage>{0} has been stabbed to death.</RangedStab.deathMessage>
+  <RangedStab.label>tusukan</RangedStab.label>
+  <RangedStab.deathMessage>{0} telah ditusuk sampai mati.</RangedStab.deathMessage>
 
-  <Bullet.label>bullet</Bullet.label>
-  <Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
+  <Bullet.label>peluru</Bullet.label>
+  <Bullet.deathMessage>{0} telah tertembak sampai mati.</Bullet.deathMessage>
 
-  <Arrow.label>arrow</Arrow.label>
-  <Arrow.deathMessage>{0} has been shot to death by an arrow.</Arrow.deathMessage>
+  <Arrow.label>panah</Arrow.label>
+  <Arrow.deathMessage>{0} telah terpanah sampai mati.</Arrow.deathMessage>
 
-  <ArrowHighVelocity.label>arrow</ArrowHighVelocity.label>
-  <ArrowHighVelocity.deathMessage>{0} has been shot to death by an arrow.</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.label>panah</ArrowHighVelocity.label>
+  <ArrowHighVelocity.deathMessage>{0} telah terpanah sampai mati.</ArrowHighVelocity.deathMessage>
 
 
 </LanguageData>
