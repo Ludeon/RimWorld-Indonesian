@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Deterioration.label>deterioration</Deterioration.label>
-  <Deterioration.deathMessage>{0} has been killed.</Deterioration.deathMessage>
+  <Deterioration.label>kerusakan</Deterioration.label>
+  <Deterioration.deathMessage>{0} telah terbunuh.</Deterioration.deathMessage>
 
-  <Mining.label>mining</Mining.label>
-  <Mining.deathMessage>{0} has been killed.</Mining.deathMessage>
+  <Mining.label>penambangan</Mining.label>
+  <Mining.deathMessage>{0} telah terbunuh.</Mining.deathMessage>
 
-  <Rotting.label>rotting</Rotting.label>
-  <Rotting.deathMessage>{0} has been killed.</Rotting.deathMessage>
+  <Rotting.label>pembusukan</Rotting.label>
+  <Rotting.deathMessage>{0} telah terbunuh.</Rotting.deathMessage>
 
-  <Extinguish.label>extinguish</Extinguish.label>
-  <Extinguish.deathMessage>{0} has been killed.</Extinguish.deathMessage>
+  <Extinguish.label>pemadaman</Extinguish.label>
+  <Extinguish.deathMessage>{0} telah terbunuh.</Extinguish.deathMessage>
 
-  <Bomb.label>bomb</Bomb.label>
-  <Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
+  <Bomb.label>bom</Bomb.label>
+  <Bomb.deathMessage>{0} telah mati akibat ledakan.</Bomb.deathMessage>
 
-  <BombSuper.label>bomb</BombSuper.label>
-  <BombSuper.deathMessage>{0} has died in an explosion.</BombSuper.deathMessage>
+  <BombSuper.label>bom</BombSuper.label>
+  <BombSuper.deathMessage>{0} telah mati di dalam ledakan.</BombSuper.deathMessage>
 
-  <Smoke.label>smoke</Smoke.label>
-  <Smoke.deathMessage>{0} has been killed.</Smoke.deathMessage>
+  <Smoke.label>asap</Smoke.label>
+  <Smoke.deathMessage>{0} telah mati.</Smoke.deathMessage>
 
 
 </LanguageData>
