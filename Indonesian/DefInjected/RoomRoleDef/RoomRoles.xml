@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <None.label>none</None.label>
-  <Room.label>room</Room.label>
-  <Bedroom.label>bedroom</Bedroom.label>
-  <PrisonCell.label>prison cell</PrisonCell.label>
-  <DiningRoom.label>dining room</DiningRoom.label>
-  <RecRoom.label>rec room</RecRoom.label>
-  <Hospital.label>hospital</Hospital.label>
-  <Laboratory.label>laboratory</Laboratory.label>
-  <Workshop.label>workshop</Workshop.label>
-  <Barracks.label>barracks</Barracks.label>
-  <PrisonBarracks.label>prison barracks</PrisonBarracks.label>
-  <Kitchen.label>kitchen</Kitchen.label>
-  <Tomb.label>tomb</Tomb.label>
-  <Barn.label>barn</Barn.label>
+  <None.label>tiada</None.label>
+  <Room.label>kamar</Room.label>
+  <Bedroom.label>kamar tidur</Bedroom.label>
+  <PrisonCell.label>sel penjara</PrisonCell.label>
+  <DiningRoom.label>ruang makan</DiningRoom.label>
+  <RecRoom.label>ruang rekreasi</RecRoom.label>
+  <Hospital.label>rumah sakit</Hospital.label>
+  <Laboratory.label>labolatorium</Laboratory.label>
+  <Workshop.label>bengkel</Workshop.label>
+  <Barracks.label>barak</Barracks.label>
+  <PrisonBarracks.label>barak penjara</PrisonBarracks.label>
+  <Kitchen.label>dapur</Kitchen.label>
+  <Tomb.label>makam</Tomb.label>
+  <Barn.label>lumbung</Barn.label>
 
 
 </LanguageData>

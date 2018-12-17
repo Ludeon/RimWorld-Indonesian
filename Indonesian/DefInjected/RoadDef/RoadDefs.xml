@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DirtPath.label>dirt path</DirtPath.label>
-  <DirtRoad.label>dirt road</DirtRoad.label>
-  <StoneRoad.label>stone road</StoneRoad.label>
-  <AncientAsphaltRoad.label>ancient asphalt road</AncientAsphaltRoad.label>
-  <AncientAsphaltHighway.label>ancient asphalt highway</AncientAsphaltHighway.label>
+  <DirtPath.label>jalur tanah</DirtPath.label>
+  <DirtRoad.label>jalan tanah</DirtRoad.label>
+  <StoneRoad.label>jalanan batu</StoneRoad.label>
+  <AncientAsphaltRoad.label>jalan aspal kuno</AncientAsphaltRoad.label>
+  <AncientAsphaltHighway.label>jalan tol aspal kuno</AncientAsphaltHighway.label>
 
 
 </LanguageData>

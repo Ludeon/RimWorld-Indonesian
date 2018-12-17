@@ -3,48 +3,48 @@
 
   <!-- player pawn filters -->
 
-  <GameStartDialog.label>game start dialog</GameStartDialog.label>
-  <PawnFilter_Age.label>allowed age range</PawnFilter_Age.label>
+  <GameStartDialog.label>dialog awal game</GameStartDialog.label>
+  <PawnFilter_Age.label>jangka umur yang diperbolehkan</PawnFilter_Age.label>
 
 
   <!-- player pawn modifier -->
 
-  <OnPawnDeathExplode.label>characters explode on death</OnPawnDeathExplode.label>
-  <ForcedTrait.label>forced trait</ForcedTrait.label>
-  <ForcedHediff.label>forced health condition</ForcedHediff.label>
-  <Naked.label>naked</Naked.label>
-  <SetNeedLevel.label>set need level</SetNeedLevel.label>
-  <StartingResearch.label>start with research</StartingResearch.label>
-  <GameCondition_Planetkiller.label>planetkiller weapon incoming</GameCondition_Planetkiller.label>
+  <OnPawnDeathExplode.label>karatker meledak ketika mati</OnPawnDeathExplode.label>
+  <ForcedTrait.label>sifat yang dipaksa</ForcedTrait.label>
+  <ForcedHediff.label>kondisi kesehatan yang dipaksa</ForcedHediff.label>
+  <Naked.label>telanjang</Naked.label>
+  <SetNeedLevel.label>atur level kebutuhan</SetNeedLevel.label>
+  <StartingResearch.label>mulai dengan penelitian</StartingResearch.label>
+  <GameCondition_Planetkiller.label>senjata plantkiller akan datang</GameCondition_Planetkiller.label>
 
 
   <!-- rules changes -->
 
-  <Rule_DisallowDesignator_ZoneAdd_Growing.label>cannot sow</Rule_DisallowDesignator_ZoneAdd_Growing.label>
-  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Cannot sow plants on the ground.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>tidak bisa menabur</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Tidak bisa menabur tanaman di tanah.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
 
-  <Rule_DisallowDesignator_Mine.label>cannot mine</Rule_DisallowDesignator_Mine.label>
-  <Rule_DisallowDesignator_Mine.description>Cannot mine.</Rule_DisallowDesignator_Mine.description>
+  <Rule_DisallowDesignator_Mine.label>tidak bisa menambang</Rule_DisallowDesignator_Mine.label>
+  <Rule_DisallowDesignator_Mine.description>Tidak bisa menambang.</Rule_DisallowDesignator_Mine.description>
 
-  <Rule_DisallowDesignator_Hunt.label>cannot hunt</Rule_DisallowDesignator_Hunt.label>
-  <Rule_DisallowDesignator_Hunt.description>Cannot hunt.</Rule_DisallowDesignator_Hunt.description>
+  <Rule_DisallowDesignator_Hunt.label>tidak bisa berburu</Rule_DisallowDesignator_Hunt.label>
+  <Rule_DisallowDesignator_Hunt.description>Tidak bisa berburu.</Rule_DisallowDesignator_Hunt.description>
 
-  <Rule_DisallowDesignator_Tame.label>cannot tame</Rule_DisallowDesignator_Tame.label>
-  <Rule_DisallowDesignator_Tame.description>Cannot tame animals.</Rule_DisallowDesignator_Tame.description>
+  <Rule_DisallowDesignator_Tame.label>tidak bisa menjinakan </Rule_DisallowDesignator_Tame.label>
+  <Rule_DisallowDesignator_Tame.description>Tidak bisa menjinakan fauna.</Rule_DisallowDesignator_Tame.description>
 
-  <StatFactor.label>stat multiplier</StatFactor.label>
+  <StatFactor.label>pengganda stat</StatFactor.label>
 
 
   <!-- grouped -->
 
-  <DisableIncident.label>disable incident</DisableIncident.label>
-  <CreateIncident.label>create incident</CreateIncident.label>
-  <Rule_DisallowBuilding.label>disallow building</Rule_DisallowBuilding.label>
-  <PermanentGameCondition.label>permanent game condition</PermanentGameCondition.label>
-  <StartingAnimal.label>start with animal(s)</StartingAnimal.label>
-  <StartingThing_Defined.label>start with</StartingThing_Defined.label>
-  <ScatterThingsNearPlayerStart.label>start near</ScatterThingsNearPlayerStart.label>
-  <ScatterThingsAnywhere.label>scattered randomly</ScatterThingsAnywhere.label>
+  <DisableIncident.label>nonaktifkan insiden</DisableIncident.label>
+  <CreateIncident.label>buat insiden</CreateIncident.label>
+  <Rule_DisallowBuilding.label>dilarang membangun</Rule_DisallowBuilding.label>
+  <PermanentGameCondition.label>kondisi game permanen</PermanentGameCondition.label>
+  <StartingAnimal.label>mulai dengan fauna</StartingAnimal.label>
+  <StartingThing_Defined.label>mulai dengan</StartingThing_Defined.label>
+  <ScatterThingsNearPlayerStart.label>mulai dekat</ScatterThingsNearPlayerStart.label>
+  <ScatterThingsAnywhere.label>acak lokasi barang</ScatterThingsAnywhere.label>
 
 
 </LanguageData>

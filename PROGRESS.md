@@ -201,17 +201,17 @@
   - [ ] ResearchTabs.xml
 - [ ] RiverDef/
   - [ ] RiverDefs.xml
-- [ ] RoadDef/
-  - [ ] RoadDefs.xml
+- [x] RoadDef/
+  - [x] RoadDefs.xml
 - [ ] RoofDef/
   - [ ] Roofs.xml
-- [ ] RoomRoleDef/
-  - [ ] RoomRoles.xml
-- [ ] RoomStatDef/
-  - [ ] RoomStats.xml
-- [ ] RulePackDef/
-  - [ ] Interactions_Prisoner.xml
-  - [ ] Interactions_Romance.xml
+- [x] RoomRoleDef/
+  - [x] RoomRoles.xml
+- [x] RoomStatDef/
+  - [x] RoomStats.xml
+- [x] RulePackDef/
+  - [x] Interactions_Prisoner.xml
+  - [x] Interactions_Romance.xml
   - [ ] Interactions_Social.xml
   - [ ] RulePacks_Art_Descriptions.xml
   - [ ] RulePacks_Art_DescriptionsPhysical.xml
@@ -237,9 +237,9 @@
   - [ ] RulePacks_Utility.xml
 - [ ] ScenarioDef/
   - [ ] Scenarios_Classic.xml
-- [ ] ScenPartDef/
-  - [ ] ScenParts_Fixed.xml
-  - [ ] ScenParts_Various.xml
+- [x] ScenPartDef/
+  - [x] ScenParts_Fixed.xml
+  - [x] ScenParts_Various.xml
 - [ ] SiteCoreDef/
   - [ ] DownedRefugee.xml
   - [ ] ItemStash.xml

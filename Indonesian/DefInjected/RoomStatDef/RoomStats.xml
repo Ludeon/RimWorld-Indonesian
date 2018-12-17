@@ -3,63 +3,63 @@
 
   <!-- Primary stats (calcualated from physical conditions) -->
 
-  <Impressiveness.label>impressiveness</Impressiveness.label>
-  <Impressiveness.scoreStages.0.label>awful</Impressiveness.scoreStages.0.label>
-  <Impressiveness.scoreStages.1.label>dull</Impressiveness.scoreStages.1.label>
-  <Impressiveness.scoreStages.2.label>mediocre</Impressiveness.scoreStages.2.label>
-  <Impressiveness.scoreStages.3.label>decent</Impressiveness.scoreStages.3.label>
-  <Impressiveness.scoreStages.4.label>slightly impressive</Impressiveness.scoreStages.4.label>
-  <Impressiveness.scoreStages.5.label>somewhat impressive</Impressiveness.scoreStages.5.label>
-  <Impressiveness.scoreStages.6.label>very impressive</Impressiveness.scoreStages.6.label>
-  <Impressiveness.scoreStages.7.label>extremely impressive</Impressiveness.scoreStages.7.label>
-  <Impressiveness.scoreStages.8.label>unbelievably impressive</Impressiveness.scoreStages.8.label>
-  <Impressiveness.scoreStages.9.label>wondrously impressive</Impressiveness.scoreStages.9.label>
+  <Impressiveness.label>kesan</Impressiveness.label>
+  <Impressiveness.scoreStages.0.label>jelek</Impressiveness.scoreStages.0.label>
+  <Impressiveness.scoreStages.1.label>membosankan</Impressiveness.scoreStages.1.label>
+  <Impressiveness.scoreStages.2.label>kurang baik</Impressiveness.scoreStages.2.label>
+  <Impressiveness.scoreStages.3.label>layak</Impressiveness.scoreStages.3.label>
+  <Impressiveness.scoreStages.4.label>sedikit berkesan</Impressiveness.scoreStages.4.label>
+  <Impressiveness.scoreStages.5.label>cukup berkesan</Impressiveness.scoreStages.5.label>
+  <Impressiveness.scoreStages.6.label>lumayanberkesan</Impressiveness.scoreStages.6.label>
+  <Impressiveness.scoreStages.7.label>sangat berkesan</Impressiveness.scoreStages.7.label>
+  <Impressiveness.scoreStages.8.label>sungguh berkesan</Impressiveness.scoreStages.8.label>
+  <Impressiveness.scoreStages.9.label>mengagumkan</Impressiveness.scoreStages.9.label>
 
-  <Wealth.label>wealth</Wealth.label>
-  <Wealth.scoreStages.0.label>impoverished</Wealth.scoreStages.0.label>
-  <Wealth.scoreStages.1.label>somewhat poor</Wealth.scoreStages.1.label>
-  <Wealth.scoreStages.2.label>mediocre</Wealth.scoreStages.2.label>
-  <Wealth.scoreStages.3.label>somewhat rich</Wealth.scoreStages.3.label>
-  <Wealth.scoreStages.4.label>rich</Wealth.scoreStages.4.label>
-  <Wealth.scoreStages.5.label>luxurious</Wealth.scoreStages.5.label>
-  <Wealth.scoreStages.6.label>very luxurious</Wealth.scoreStages.6.label>
-  <Wealth.scoreStages.7.label>extremely luxurious</Wealth.scoreStages.7.label>
-  <Wealth.scoreStages.8.label>unbelievably luxurious</Wealth.scoreStages.8.label>
+  <Wealth.label>harta</Wealth.label>
+  <Wealth.scoreStages.0.label>sangat miskin</Wealth.scoreStages.0.label>
+  <Wealth.scoreStages.1.label>miskin</Wealth.scoreStages.1.label>
+  <Wealth.scoreStages.2.label>pas saja</Wealth.scoreStages.2.label>
+  <Wealth.scoreStages.3.label>sedang</Wealth.scoreStages.3.label>
+  <Wealth.scoreStages.4.label>kaya</Wealth.scoreStages.4.label>
+  <Wealth.scoreStages.5.label>mewah</Wealth.scoreStages.5.label>
+  <Wealth.scoreStages.6.label>sangat mewah</Wealth.scoreStages.6.label>
+  <Wealth.scoreStages.7.label>sungguh mewah</Wealth.scoreStages.7.label>
+  <Wealth.scoreStages.8.label>mewah tak terbayangkan</Wealth.scoreStages.8.label>
 
-  <Space.label>space</Space.label>
-  <Space.scoreStages.0.label>cramped</Space.scoreStages.0.label>
-  <Space.scoreStages.1.label>rather tight</Space.scoreStages.1.label>
-  <Space.scoreStages.2.label>average-sized</Space.scoreStages.2.label>
-  <Space.scoreStages.3.label>somewhat spacious</Space.scoreStages.3.label>
-  <Space.scoreStages.4.label>quite spacious</Space.scoreStages.4.label>
-  <Space.scoreStages.5.label>very spacious</Space.scoreStages.5.label>
-  <Space.scoreStages.6.label>extremely spacious</Space.scoreStages.6.label>
+  <Space.label>ruang</Space.label>
+  <Space.scoreStages.0.label>sesak</Space.scoreStages.0.label>
+  <Space.scoreStages.1.label>sempit</Space.scoreStages.1.label>
+  <Space.scoreStages.2.label>standar</Space.scoreStages.2.label>
+  <Space.scoreStages.3.label>agak luas</Space.scoreStages.3.label>
+  <Space.scoreStages.4.label>lumayan luas</Space.scoreStages.4.label>
+  <Space.scoreStages.5.label>sangat luas</Space.scoreStages.5.label>
+  <Space.scoreStages.6.label>sungguh luas</Space.scoreStages.6.label>
 
-  <Beauty.label>beauty</Beauty.label>
-  <Beauty.scoreStages.0.label>hideous</Beauty.scoreStages.0.label>
-  <Beauty.scoreStages.1.label>ugly</Beauty.scoreStages.1.label>
-  <Beauty.scoreStages.2.label>neutral</Beauty.scoreStages.2.label>
-  <Beauty.scoreStages.3.label>pretty</Beauty.scoreStages.3.label>
-  <Beauty.scoreStages.4.label>beautiful</Beauty.scoreStages.4.label>
-  <Beauty.scoreStages.5.label>very beautiful</Beauty.scoreStages.5.label>
-  <Beauty.scoreStages.6.label>extremely beautiful</Beauty.scoreStages.6.label>
-  <Beauty.scoreStages.7.label>unbelievably beautiful</Beauty.scoreStages.7.label>
+  <Beauty.label>kecantikan</Beauty.label>
+  <Beauty.scoreStages.0.label>mengerikan</Beauty.scoreStages.0.label>
+  <Beauty.scoreStages.1.label>jelek</Beauty.scoreStages.1.label>
+  <Beauty.scoreStages.2.label>sedang</Beauty.scoreStages.2.label>
+  <Beauty.scoreStages.3.label>manis</Beauty.scoreStages.3.label>
+  <Beauty.scoreStages.4.label>cantik</Beauty.scoreStages.4.label>
+  <Beauty.scoreStages.5.label>sangat cantik</Beauty.scoreStages.5.label>
+  <Beauty.scoreStages.6.label>sugguh cantik</Beauty.scoreStages.6.label>
+  <Beauty.scoreStages.7.label>cantik tak terbayangkan</Beauty.scoreStages.7.label>
 
-  <Cleanliness.label>cleanliness</Cleanliness.label>
-  <Cleanliness.scoreStages.0.label>very dirty</Cleanliness.scoreStages.0.label>
-  <Cleanliness.scoreStages.1.label>dirty</Cleanliness.scoreStages.1.label>
-  <Cleanliness.scoreStages.2.label>slightly dirty</Cleanliness.scoreStages.2.label>
-  <Cleanliness.scoreStages.3.label>clean</Cleanliness.scoreStages.3.label>
-  <Cleanliness.scoreStages.4.label>sterile</Cleanliness.scoreStages.4.label>
+  <Cleanliness.label>kebersihan</Cleanliness.label>
+  <Cleanliness.scoreStages.0.label>sangat kotor</Cleanliness.scoreStages.0.label>
+  <Cleanliness.scoreStages.1.label>kotor</Cleanliness.scoreStages.1.label>
+  <Cleanliness.scoreStages.2.label>sedikit kotor</Cleanliness.scoreStages.2.label>
+  <Cleanliness.scoreStages.3.label>bersih</Cleanliness.scoreStages.3.label>
+  <Cleanliness.scoreStages.4.label>steril</Cleanliness.scoreStages.4.label>
 
 
   <!-- Dependent stats (calculated from other stats) -->
 
-  <InfectionChanceFactor.label>infection chance factor</InfectionChanceFactor.label>
-  <SurgerySuccessChanceCleanlinessFactor.label>surgery success chance cleanliness factor</SurgerySuccessChanceCleanlinessFactor.label>
-  <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-  <GraveVisitingJoyGainFactor.label>grave visiting recreation factor</GraveVisitingJoyGainFactor.label>
-  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
+  <InfectionChanceFactor.label>faktor resiko infeksi</InfectionChanceFactor.label>
+  <SurgerySuccessChanceCleanlinessFactor.label>faktor kebersihan untuk peluang sukses pembedahan</SurgerySuccessChanceCleanlinessFactor.label>
+  <ResearchSpeedFactor.label>faktor kecepatan penelitian</ResearchSpeedFactor.label>
+  <GraveVisitingJoyGainFactor.label>faktor kepuasan kunjungan makam</GraveVisitingJoyGainFactor.label>
+  <FoodPoisonChance.label>faktur keracunan makanan</FoodPoisonChance.label>
 
 
 </LanguageData>
