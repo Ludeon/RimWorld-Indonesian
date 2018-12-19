@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Ancients.label>ancients</Ancients.label>
-  <Ancients.fixedName>Ancients</Ancients.fixedName>
-  <Ancients.pawnsPlural>ancients</Ancients.pawnsPlural>
+  <Ancients.label>sang kuno</Ancients.label>
+  <Ancients.fixedName>Sang kuno</Ancients.fixedName>
+  <Ancients.pawnsPlural>sang kuno</Ancients.pawnsPlural>
 
-  <AncientsHostile.label>ancients</AncientsHostile.label>
-  <AncientsHostile.fixedName>Ancients</AncientsHostile.fixedName>
-  <AncientsHostile.pawnsPlural>ancients</AncientsHostile.pawnsPlural>
+  <AncientsHostile.label>sang kuno</AncientsHostile.label>
+  <AncientsHostile.fixedName>Sang kuno</AncientsHostile.fixedName>
+  <AncientsHostile.pawnsPlural>sang kuno</AncientsHostile.pawnsPlural>
 
-  <Mechanoid.label>mechanoid hive</Mechanoid.label>
-  <Mechanoid.fixedName>a mechanoid hive</Mechanoid.fixedName>
-  <Mechanoid.pawnsPlural>mechanoids</Mechanoid.pawnsPlural>
+  <Mechanoid.label>sarang mekanoid </Mechanoid.label>
+  <Mechanoid.fixedName>sebuah sarang mekanoid</Mechanoid.fixedName>
+  <Mechanoid.pawnsPlural>mekanoid</Mechanoid.pawnsPlural>
 
-  <Insect.label>insects</Insect.label>
-  <Insect.fixedName>insects</Insect.fixedName>
-  <Insect.pawnsPlural>insects</Insect.pawnsPlural>
+  <Insect.label>serangga</Insect.label>
+  <Insect.fixedName>serangga</Insect.fixedName>
+  <Insect.pawnsPlural>serangga</Insect.pawnsPlural>
 
 
 </LanguageData>

@@ -3,7 +3,7 @@
 
   <!-- Random social interactions -->
 
-  <Sentence_SocialFightStarted.rulePack.rulesStrings.0>sent->This drove [RECIPIENT_nameDef] into a rage and [RECIPIENT_pronoun] began a fight!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
+  <Sentence_SocialFightStarted.rulePack.rulesStrings.0>terikirim->pesan ini membuat [RECIPIENT_nameDef] mengamuk dan [RECIPIENT_pronoun] mulai bertengkar!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
 
 
 </LanguageData>

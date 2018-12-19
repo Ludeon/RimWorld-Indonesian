@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MedicalPotency.label>medical potency</MedicalPotency.label>
-  <MedicalPotency.description>How effective this is when used to tend wounds and diseases, or do surgery. Higher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery. Medical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck.</MedicalPotency.description>
+  <MedicalPotency.label>potensi medis</MedicalPotency.label>
+  <MedicalPotency.description>Seberapa efektif benda ini untuk mengobati luka dan penyakit, atau melakukan pembedahan. Tingkat yang lebih tinggi menaikan kualitas pertolongan medis, dan berlaku sebagai sebuah pengandaan untuk kesuksesan pembedahan. Potensi medis hanyalah sebuah faktor dari hasil medis, diantara banyak faktor-faktor lain seperti, kemampuan dokter, peralatan, kebersihan, dan keberuntungan.</MedicalPotency.description>
 
-  <MedicalQualityMax.label>medical tend quality maximum</MedicalQualityMax.label>
-  <MedicalQualityMax.description>The maximum quality of medical tending that can be achieved while using this. Better tend quality allows skilled doctors to treat wounds better, as well as more reliably.</MedicalQualityMax.description>
+  <MedicalQualityMax.label>kualitas maksimum pertolongan medis</MedicalQualityMax.label>
+  <MedicalQualityMax.description>Kualitas maksimum untuk pertolongan medis yang dapat dicapai ketika menggunakan barang ini. Kualitas lebih tinggi memampukan dokter pandai untuk mengobati luka dengan lebih baik, dan juga dengan lebih handal dan konsisten.</MedicalQualityMax.description>
 
-  <ConstructionSpeedFactor.label>construction speed</ConstructionSpeedFactor.label>
-  <ConstructionSpeedFactor.description>The speed at which buildings made of this are constructed is multiplied by this value. Some materials, like stone, are slow to build from, while others, like wood, are fast.</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.label>kesempatan konstruksi</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.description>Kecepatan untuk gedung yang dibuat oleh benda ini dibangun digandakan oleh nilai ini. Beberapa materi, sepertu batu, sulit untuk dipakai membangun. Sedangkan yang lain, seperti kayu, lebih cepat.</ConstructionSpeedFactor.description>
 
 
 </LanguageData>

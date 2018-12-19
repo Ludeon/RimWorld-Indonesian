@@ -58,9 +58,9 @@
 - [ ] ExpectationDef/
   - [ ] Expectations.xml
 - [ ] FactionDef/
-  - [ ] Factions_Hidden.xml
+  - [x] Factions_Hidden.xml
   - [ ] Factions_Misc.xml
-  - [ ] Factions_Player.xml
+  - [x] Factions_Player.xml
 - [ ] GameConditionDef/
   - [ ] GameConditions_Misc.xml
 - [ ] HairDef/
@@ -212,7 +212,7 @@
 - [x] RulePackDef/
   - [x] Interactions_Prisoner.xml
   - [x] Interactions_Romance.xml
-  - [ ] Interactions_Social.xml
+  - [x] Interactions_Social.xml
   - [ ] RulePacks_Art_Descriptions.xml
   - [ ] RulePacks_Art_DescriptionsPhysical.xml
   - [ ] RulePacks_Art_ImagesTaleless.xml
@@ -255,14 +255,14 @@
   - [ ] Turrets.xml
 - [ ] SkillDef/
   - [ ] Skills.xml
-- [ ] SpecialThingFilterDef/
-  - [ ] SpecialThingFilters.xml
-- [ ] StatCategoryDef/
-  - [ ] StatCategories.xml
-- [ ] StatDef/
-  - [ ] Stats_Apparel.xml
-  - [ ] Stats_Basics_General.xml
-  - [ ] Stats_Basics_Special.xml
+- [x] SpecialThingFilterDef/
+  - [x] SpecialThingFilters.xml
+- [x] StatCategoryDef/
+  - [x] StatCategories.xml
+- [x] StatDef/
+  - [x] Stats_Apparel.xml
+  - [x] Stats_Basics_General.xml
+  - [x] Stats_Basics_Special.xml
   - [ ] Stats_Building_Special.xml
   - [ ] Stats_Pawns_Combat.xml
   - [ ] Stats_Pawns_General.xml
@@ -278,7 +278,7 @@
 - [ ] StuffCategoryDef/
   - [ ] StuffCategories.xml
 - [ ] TaleDef/
-  - [ ] Tales_Caravan.xml
+  - [x] Tales_Caravan.xml
   - [ ] Tales_DoublePawn.xml
   - [ ] Tales_DoublePawn_Relationships.xml
   - [ ] Tales_Event.xml
@@ -286,8 +286,8 @@
   - [ ] Tales_Incident.xml
   - [ ] Tales_Job.xml
   - [ ] Tales_SinglePawn.xml
-- [ ] TerrainAffordanceDef/
-  - [ ] TerrainAffordances.xml
+- [x] TerrainAffordanceDef/
+  - [x] TerrainAffordances.xml
 - [ ] TerrainDef/
   - [ ] Terrain_Add.xml
   - [ ] Terrain_Floors.xml

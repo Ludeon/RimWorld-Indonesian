@@ -3,33 +3,33 @@
 
   <!-- General -->
 
-  <Basics.label>Basics</Basics.label>
-  <BasicsPawn.label>Basics</BasicsPawn.label>
-  <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
+  <Basics.label>Dasar</Basics.label>
+  <BasicsPawn.label>Dasar</BasicsPawn.label>
+  <BasicsNonPawn.label>Dasar</BasicsNonPawn.label>
 
 
   <!-- Non-pawn -->
 
-  <Apparel.label>Apparel</Apparel.label>
-  <Weapon.label>Weapon</Weapon.label>
-  <Building.label>Building</Building.label>
+  <Apparel.label>Pakaian</Apparel.label>
+  <Weapon.label>Senjata</Weapon.label>
+  <Building.label>Bangunan</Building.label>
 
 
   <!-- Virtual categories -->
 
-  <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
-  <StuffStatFactors.label>Multipliers when made of this</StuffStatFactors.label>
-  <StuffStatOffsets.label>Offsets when made of this</StuffStatOffsets.label>
-  <StuffOfEquipmentStatFactors.label>Multipliers when equipment made of this</StuffOfEquipmentStatFactors.label>
-  <Surgery.label>Surgical</Surgery.label>
+  <EquippedStatOffsets.label>Offset ketika dipakai</EquippedStatOffsets.label>
+  <StuffStatFactors.label>Pengandaan ketika dibuat oleh ini</StuffStatFactors.label>
+  <StuffStatOffsets.label>Offset ketika dibuat oleh ini</StuffStatOffsets.label>
+  <StuffOfEquipmentStatFactors.label>Pengandaan ketika alat dibuat oleh ini</StuffOfEquipmentStatFactors.label>
+  <Surgery.label>Dapat dipakai untuk membedah</Surgery.label>
 
 
   <!-- Pawn -->
 
-  <PawnCombat.label>Combat</PawnCombat.label>
-  <PawnSocial.label>Social</PawnSocial.label>
-  <PawnMisc.label>Misc</PawnMisc.label>
-  <PawnWork.label>Work</PawnWork.label>
+  <PawnCombat.label>Bertarung</PawnCombat.label>
+  <PawnSocial.label>Sosial</PawnSocial.label>
+  <PawnMisc.label>Lain-lain</PawnMisc.label>
+  <PawnWork.label>Kerja</PawnWork.label>
 
 
 </LanguageData>

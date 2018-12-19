@@ -3,47 +3,47 @@
 
   <!-- Supports light structure -->
 
-  <Light.label>light</Light.label>
+  <Light.label>ringan</Light.label>
 
 
   <!-- Supports medium structures (mainly walls) -->
 
-  <Medium.label>medium</Medium.label>
+  <Medium.label>sedang</Medium.label>
 
 
   <!-- Supports heavy structures -->
 
-  <Heavy.label>heavy</Heavy.label>
+  <Heavy.label>berat</Heavy.label>
 
 
   <!-- Can be built on with things that are waterproof -->
 
-  <ShallowWater.label>shallow water</ShallowWater.label>
+  <ShallowWater.label>Air dangkal</ShallowWater.label>
 
 
   <!-- Contains power usable for hydroelectrics -->
 
-  <MovingFluid.label>moving water</MovingFluid.label>
+  <MovingFluid.label>Air mengalir</MovingFluid.label>
 
 
   <!-- Bridge can be built here -->
 
-  <Bridgeable.label>bridgeable</Bridgeable.label>
+  <Bridgeable.label>Dapat membuat jembatan</Bridgeable.label>
 
 
   <!-- Things can grow here -->
 
-  <GrowSoil.label>growable</GrowSoil.label>
+  <GrowSoil.label>Dapat menanam</GrowSoil.label>
 
 
   <!-- For graves -->
 
-  <Diggable.label>diggable</Diggable.label>
+  <Diggable.label>Dapat digali</Diggable.label>
 
 
   <!-- Can be ground and smoothed into smooth stone -->
 
-  <SmoothableStone.label>smoothable</SmoothableStone.label>
+  <SmoothableStone.label>Dapat dipoles</SmoothableStone.label>
 
 
 </LanguageData>

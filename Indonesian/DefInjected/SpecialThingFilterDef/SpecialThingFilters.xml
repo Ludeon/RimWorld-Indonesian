@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AllowCorpsesColonist.label>allow colonist corpses</AllowCorpsesColonist.label>
-  <AllowCorpsesColonist.description>Allow the dead bodies of colonists.</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.label>ijinkan mayat kolonist</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Ijinkan mayat mayat kolonist.</AllowCorpsesColonist.description>
 
-  <AllowCorpsesStranger.label>allow stranger corpses</AllowCorpsesStranger.label>
-  <AllowCorpsesStranger.description>Allow the dead bodies of strangers and enemies.</AllowCorpsesStranger.description>
+  <AllowCorpsesStranger.label>ijinkan mayat orang asing</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Ijinkan mayat orang asing dan musuh.</AllowCorpsesStranger.description>
 
-  <AllowRotten.label>allow rotten</AllowRotten.label>
-  <AllowRotten.description>Allow organic things which have started to rot.</AllowRotten.description>
+  <AllowRotten.label>ijinkan hal busuk</AllowRotten.label>
+  <AllowRotten.description>Ijinkan hal-hal organik yang membusuk.</AllowRotten.description>
 
-  <AllowFresh.label>allow fresh</AllowFresh.label>
-  <AllowFresh.description>Allow organic things which haven't started to rot yet.</AllowFresh.description>
+  <AllowFresh.label>ijinkan hal belum busuk</AllowFresh.label>
+  <AllowFresh.description>Ijinkan hal organik yang belum membusuk.</AllowFresh.description>
 
-  <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
-  <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
+  <AllowPlantFood.label>ijinkan makanan flora</AllowPlantFood.label>
+  <AllowPlantFood.description>Ijinkan makanan yang berkualitas setara dengan flora yang belum dipanen, seperti jerami.</AllowPlantFood.description>
 
-  <AllowSmeltable.label>allow smeltable</AllowSmeltable.label>
-  <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
+  <AllowSmeltable.label>ijinkan logam yang bisa dilebur</AllowSmeltable.label>
+  <AllowNonSmeltableWeapons.label>ijinkan logam yang tidak bisa dilebur</AllowNonSmeltableWeapons.label>
 
-  <AllowNonDeadmansApparel.label>allow clean apparel</AllowNonDeadmansApparel.label>
-  <AllowNonDeadmansApparel.description>Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowNonDeadmansApparel.description>
+  <AllowNonDeadmansApparel.label>ijinkan pakaian bersih</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.description>Ijinkan pakaian yang tidak pernah dipakai oleh mayat. Hampir semua manusia menilai pakaian yang telah tercemar mayat najis, dan pedagang tidak akan menerima pakaian tersebut.</AllowNonDeadmansApparel.description>
 
-  <AllowDeadmansApparel.label>allow tainted apparel</AllowDeadmansApparel.label>
-  <AllowDeadmansApparel.description>Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowDeadmansApparel.description>
+  <AllowDeadmansApparel.label>ijinkan pakaian tercemar</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.description>Ijinkan pakaian yang telah dicemar oleh mayat. Hampir semua manusia menilai pakaian yang telah tercemar mayat najis, dan pedagang tidak akan menerima pakaian tersebut.</AllowDeadmansApparel.description>
 
 
 </LanguageData>

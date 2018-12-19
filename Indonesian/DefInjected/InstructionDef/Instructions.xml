@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateWorldParams.text>Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE!</CreateWorldParams.text>
+  <CreateWorldParams.text>Selamat datang di Rimworld! Tutorial ini akan melatih kamu untuk cara bermain.\n\nLangkah pertama adalah untuk menghasilkan sebauh dunia untuk bermain.\n\nHalaman ini mengkonfigurasikan bagaimana dunia kamu akan dibuat.\n\nSetting default disini sudah cukup bagus - Langsung saja tekan GENERATE!</CreateWorldParams.text>
 
-  <ChooseLandingSite.text>Here, you choose your starting site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a location with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile.</ChooseLandingSite.text>
+  <ChooseLandingSite.text>Disini, kamu pilih lokasi awalmu.\n\nBanyak sekali There are lots of biomes, but for now, let's start with a friendly one.\n\nClick a location with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile.</ChooseLandingSite.text>
   <ChooseLandingSite.rejectInputMessage>Please choose a temperate forest site with flat terrain.</ChooseLandingSite.rejectInputMessage>
 
   <ReorderCharacters.text>Now you can choose characters!\n\nClick in the left area to select from available characters. If you find a character you like, drag them into the top section with the SELECTED label.</ReorderCharacters.text>

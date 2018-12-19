@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <StuffEffectMultiplierInsulation_Cold.label>Insulation - Cold - Material effect multiplier</StuffEffectMultiplierInsulation_Cold.label>
-  <StuffEffectMultiplierInsulation_Heat.label>Insulation - Heat - Material effect multiplier</StuffEffectMultiplierInsulation_Heat.label>
+  <StuffEffectMultiplierInsulation_Cold.label>Isolasi - Dingin - Efek pengandaan materi</StuffEffectMultiplierInsulation_Cold.label>
+  <StuffEffectMultiplierInsulation_Heat.label>Isolasi - Panas - Efek pengandaan materi</StuffEffectMultiplierInsulation_Heat.label>
   <StuffEffectMultiplierArmor.label>Armor - Material effect multiplier</StuffEffectMultiplierArmor.label>
 
   <ArmorRating_Sharp.label>Armor - Sharp</ArmorRating_Sharp.label>
@@ -20,20 +20,20 @@
   <Insulation_Heat.label>Insulation - Heat</Insulation_Heat.label>
   <Insulation_Heat.description>How much this apparel improves a wearer's maximum comfortable temperature. Greater values allow surviving in warmer temperatures.</Insulation_Heat.description>
 
-  <EnergyShieldEnergyMax.label>Shield max energy</EnergyShieldEnergyMax.label>
-  <EnergyShieldEnergyMax.description>The maximum energy a shield belt can have at one time. More energy absorbs more damage.</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.label>Energi max perisai</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.description>Energi maksimum yang dapat dimiliki sabuk perisai. Semakin banyak energi semakin banyak damage terserap.</EnergyShieldEnergyMax.description>
 
   <EnergyShieldRechargeRate.label>Shield recharge rate</EnergyShieldRechargeRate.label>
   <EnergyShieldRechargeRate.description>The rate at which a shield gains energy as long as it is not broken.</EnergyShieldRechargeRate.description>
-  <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
+  <EnergyShieldRechargeRate.formatString>{0}/detik</EnergyShieldRechargeRate.formatString>
 
-  <SmokepopBeltRadius.label>Smokepop belt radius</SmokepopBeltRadius.label>
-  <SmokepopBeltRadius.description>The area obscured when a smokepop belt detonates.</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.label>Radius lingkaran sabuk smokepop</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.description>Area yang tertutup oleh asap ketika sabuk smokepop meledak.</SmokepopBeltRadius.description>
   <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
 
   <EquipDelay.label>equip delay</EquipDelay.label>
-  <EquipDelay.description>The time it takes to equip and unequip this item.</EquipDelay.description>
-  <EquipDelay.formatString>{0} s</EquipDelay.formatString>
+  <EquipDelay.description>Waktu yang dibutuhkan untuk memakai dan melepas barang ini.</EquipDelay.description>
+  <EquipDelay.formatString>{0} detik</EquipDelay.formatString>
 
 
 </LanguageData>

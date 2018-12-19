@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MaxHitPoints.label>max hit points</MaxHitPoints.label>
-  <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+  <MaxHitPoints.label>hit point maksimum</MaxHitPoints.label>
+  <MaxHitPoints.description>hit point maksimum suatu benda. Ini menunjukan berapa banyak damage yang dapat diterima sebelum menjadi hancur.</MaxHitPoints.description>
 
-  <Mass.label>mass</Mass.label>
-  <Mass.description>The physical mass of an object.</Mass.description>
+  <Mass.label>berat</Mass.label>
+  <Mass.description>Berat fisik suatu benda.</Mass.description>
   <Mass.formatString>{0} kg</Mass.formatString>
 
-  <MarketValue.label>market value</MarketValue.label>
-  <MarketValue.description>The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors.</MarketValue.description>
+  <MarketValue.label>Harga pasar</MarketValue.label>
+  <MarketValue.description>Harga pasar suatu benda. Harga transaksi akan disesuaikan berdasarkan kepandaian negosiasi, status hubungan, dan faktor kontekstual lain.</MarketValue.description>
   <MarketValue.formatString>${0}</MarketValue.formatString>
 
-  <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
-  <SellPriceFactor.description>A multiplier on the price at which you can sell items.</SellPriceFactor.description>
+  <SellPriceFactor.label>pengandaan harga jual</SellPriceFactor.label>
+  <SellPriceFactor.description>Faktor pengandaan di harga-harga barang yang kamu jual.</SellPriceFactor.description>
 
-  <Flammability.label>flammability</Flammability.label>
+  <Flammability.label>Faktor mudah terbakar</Flammability.label>
   <Flammability.description>How easily an object catches fire and how quickly a fire will grow as it burns.</Flammability.description>
 
-  <WorkToMake.label>work to make</WorkToMake.label>
-  <WorkToMake.description>The base amount of work it takes to make an item, once all materials are gathered.</WorkToMake.description>
+  <WorkToMake.label>jumlah kerja untuk dibuat</WorkToMake.label>
+  <WorkToMake.description>jumlah kerja yang harus dilakukan untuk membuat sebuah barang, ketika semua materi dikumpulkan.</WorkToMake.description>
 
-  <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
-  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water.</DeteriorationRate.description>
+  <DeteriorationRate.label>tingkat pemburukan</DeteriorationRate.label>
+  <DeteriorationRate.description>tingkat kecepatan untuk pemburukan sebuah benda ketika ditinggalkan di tempat terbuka, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water.</DeteriorationRate.description>
   <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
 
-  <Beauty.label>beauty</Beauty.label>
-  <Beauty.description>How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty.</Beauty.description>
+  <Beauty.label>keindahan</Beauty.label>
+  <Beauty.description>Seberapa menyenangkan sebuah benda untuk dilihat. Barang indah memenuhi kebutuhan karakter akan keindahan.</Beauty.description>
 
-  <Cleanliness.label>cleanliness</Cleanliness.label>
-  <Cleanliness.description>How much an object contributes to an area's cleanliness score.</Cleanliness.description>
+  <Cleanliness.label>kebersihan</Cleanliness.label>
+  <Cleanliness.description>Seberapa banyak sebuah benda mengkontribusi untuk niilai kebersihan suatu daerah.</Cleanliness.description>
 
-  <Comfort.label>comfort</Comfort.label>
-  <Comfort.description>How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort.</Comfort.description>
+  <Comfort.label>kenyamanan</Comfort.label>
+  <Comfort.description>Seberapa nyaman suatu benda untuk diduduki atau ditiduri. Menggunakan benda nyaman memenuhi kebutuhan karatker akan kenyamanan.</Comfort.description>
 
-  <Nutrition.label>nutrition</Nutrition.label>
-  <Nutrition.description>How nutritious this food is.</Nutrition.description>
+  <Nutrition.label>Nutrisi</Nutrition.label>
+  <Nutrition.description>Seberapa bernutrisi pangan tersebut.</Nutrition.description>
 
-  <FoodPoisonChanceFixedHuman.label>food poison chance</FoodPoisonChanceFixedHuman.label>
-  <FoodPoisonChanceFixedHuman.description>The chance this food will cause food poisoning.</FoodPoisonChanceFixedHuman.description>
+  <FoodPoisonChanceFixedHuman.label>kesempatan keracunan makanan</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.description>Kesempatan untuk sebuah makanan pangan untuk meracuni pemakannya.</FoodPoisonChanceFixedHuman.description>
 
-  <ShootingAccuracyTurret.label>shooting accuracy</ShootingAccuracyTurret.label>
-  <ShootingAccuracyTurret.description>Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyTurret.description>
+  <ShootingAccuracyTurret.label>keakuratan menembak</ShootingAccuracyTurret.label>
+  <ShootingAccuracyTurret.description>Kesempatan dasar untuk tidak meleset per jarak sel. Kesempatan menembak juga dipengaruhi oleh banyak faktor lain. Penjelasan kesempatan jitu untuk sebuah tembakan bisa dilihat dengan cara menyeleksi sebuah penembak dan mengkursor ke sebuah target.</ShootingAccuracyTurret.description>
 
 
 </LanguageData>
