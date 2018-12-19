@@ -19,7 +19,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 As Rimworld is first and foremost a storytelling game, language fit is more crucial than literal translation. I understand that things can and will get lost in traslation, especially nuances and differences in how languages convey things. Please ensure that the messages flow nicely in game, even if that means changing the grammatical structure.
 
 ## Official Translators
-| [<img src="https://avatars0.githubusercontent.com/u/10151729?s=460&v=4" width="100px;"/><br /><sub><b>JulianJason</b></sub>](https://github.com/JulianJason)<br /> Big Boss | [<img src="https://avatars3.githubusercontent.com/u/948279?s=460&v=4" width="100px;"/><br /><sub><b>JulianJason</b></sub>](https://github.com/junwatu)<br /> Tulis disini |
+| [<img src="https://avatars0.githubusercontent.com/u/10151729?s=460&v=4" width="100px;"/><br /><sub><b>JulianJason</b></sub>](https://github.com/JulianJason)<br /> Big Boss | [<img src="https://avatars3.githubusercontent.com/u/948279?s=460&v=4" width="100px;"/><br /><sub><b>Equan Pr.</b></sub>](https://github.com/junwatu)<br /> Pra Pangurakan |
 |---|---|
 
 ## Contributing
