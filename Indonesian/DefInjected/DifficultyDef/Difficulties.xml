@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Peaceful.label>peaceful</Peaceful.label>
-  <Peaceful.description>Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur.</Peaceful.description>
+  <Peaceful.label>penuh kedamaian</Peaceful.label>
+  <Peaceful.description>Membangun komunitas di lingkungan aman.\n\nDisarankan untuk: Pemain yang ingin fokus ke aspek pembangunan komunitas di Rimworld.\n\nMode ini This mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur.</Peaceful.description>
 
   <Easy.label>builder</Easy.label>
   <Easy.description>Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled.</Easy.description>

@@ -1,32 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Cut.label>cut</Cut.label>
-  <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
+  <Cut.label>belah</Cut.label>
+  <Cut.deathMessage>{0} telah terbelah sampai mati.</Cut.deathMessage>
 
-  <Crush.label>crush</Crush.label>
-  <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
+  <Crush.label>hancur</Crush.label>
+  <Crush.deathMessage>{0} telah hancur sampai mati.</Crush.deathMessage>
 
-  <Blunt.label>blunt</Blunt.label>
-  <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+  <Blunt.label>lebam</Blunt.label>
+  <Blunt.deathMessage>{0} telah dipukuli sampai mati.</Blunt.deathMessage>
 
 
   <!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
 
-  <Poke.label>blunt</Poke.label>
-  <Poke.deathMessage>{0} has been beaten to death.</Poke.deathMessage>
+  <Poke.label>lebam</Poke.label>
+  <Poke.deathMessage>{0} telah terkalahkan sampai mati.</Poke.deathMessage>
 
-  <Stab.label>stab</Stab.label>
-  <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
+  <Stab.label>tusuk</Stab.label>
+  <Stab.deathMessage>{0} telah tertusuk sampai mati.</Stab.deathMessage>
 
-  <Scratch.label>scratch</Scratch.label>
-  <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
+  <Scratch.label>gores</Scratch.label>
+  <Scratch.deathMessage>{0} telah terobek sampai mati.</Scratch.deathMessage>
 
-  <Bite.label>bite</Bite.label>
-  <Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
+  <Bite.label>gigitan</Bite.label>
+  <Bite.deathMessage>{0} telah tergigit sampai mati.</Bite.deathMessage>
 
-  <ToxicBite.label>toxic bite</ToxicBite.label>
-  <ToxicBite.deathMessage>{0} has been bitten to death.</ToxicBite.deathMessage>
+  <ToxicBite.label>gigitan beracun</ToxicBite.label>
+  <ToxicBite.deathMessage>{0} telah tergigit smapai mati.</ToxicBite.deathMessage>
 
 
 </LanguageData>
