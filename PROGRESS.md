@@ -46,11 +46,11 @@
   - [ ] Example_Concepts.xml
 - [ ] DamageDef/
   - [x] Damages_Environmental.xml
-  - [ ] Damages_Medical.xml
-  - [ ] Damages_MeleeWeapon.xml
+  - [x] Damages_Medical.xml
+  - [x] Damages_MeleeWeapon.xml
   - [x] Damages_Misc.xml
   - [x] Damages_RangedWeapon.xml
-  - [ ] Damages_Stun.xml
+  - [x] Damages_Stun.xml
 - [ ] DesignationCategoryDef/
   - [ ] DesignationCategories.xml
 - [ ] DifficultyDef/
