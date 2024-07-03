@@ -40,8 +40,8 @@
   - [ ] WakeUp.xml
 - [ ] ConceptDef/
   - [ ] Concepts_Entry.xml
-  - [ ] Concepts_NotedOpportunistic.xml
-  - [ ] Concepts_NotedSelfshow.xml
+  - [x] Concepts_NotedOpportunistic.xml
+  - [x] Concepts_NotedSelfshow.xml
   - [ ] Concepts_TriggeredModal.xml
   - [ ] Example_Concepts.xml
 - [ ] DamageDef/
