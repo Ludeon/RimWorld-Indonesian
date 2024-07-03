@@ -55,7 +55,7 @@
   <DoorOpenSpeed.label>Kecepatan Membuka Pintu</DoorOpenSpeed.label>
   <DoorOpenSpeed.helpText>Pintu terbuka dengan kecepatan berbeda-beda, bergantung pada bahan pembuatnya.\n\nPeringatan: Pintu batu terbuka sangat lambat. Siapapun yang melewatinya akan diperlambat secara signifikan.</DoorOpenSpeed.helpText>
 
-  <QueueOrders.label>Order queueing</QueueOrders.label>
+  <QueueOrders.label>Urutan Perintah</QueueOrders.label>
   <QueueOrders.helpText>Saat memberikan perintah kepada pion, Anda dapat mengantri beberapa perintah dengan menahan "shift". Hal ini juga berlaku ketika memberikan pekerjaan kepada pion yang belum direkrut.</QueueOrders.helpText>
 
 
