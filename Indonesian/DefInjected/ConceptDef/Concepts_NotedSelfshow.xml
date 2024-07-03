@@ -3,111 +3,111 @@
 
   <!-- Concepts taught through the learning readout, with no opportunity needed -->
 
-  <CameraDolly.label>Camera dolly</CameraDolly.label>
+  <CameraDolly.label>Doli kamera</CameraDolly.label>
   <CameraDolly.helpText>Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys.</CameraDolly.helpText>
 
-  <CameraZoom.label>Camera zoom</CameraZoom.label>
-  <CameraZoom.helpText>Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.</CameraZoom.helpText>
+  <CameraZoom.label>Perbesar/perkecil Kamera</CameraZoom.label>
+  <CameraZoom.helpText>gerakkan kamera dengan klik dan seret Tombol 3 di mouse (tombol tengah untuk scroll) atau dengan key {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}.</CameraZoom.helpText>
 
-  <TimeControls.label>Time controls</TimeControls.label>
-  <TimeControls.helpText>You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right.</TimeControls.helpText>
+  <TimeControls.label>Kontrol Waktu</TimeControls.label>
+  <TimeControls.helpText>Kamu bisa mempercepat waktu.\n\nCobalah mengontrol waktumu dengan key {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, dan {Key:TimeSpeed_Superfast}, atau dengan kontrol waktu di kanan bawah.</TimeControls.helpText>
 
-  <Pause.label>Pausing</Pause.label>
-  <Pause.helpText>Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}!</Pause.helpText>
+  <Pause.label>Hentikan Sementara</Pause.label>
+  <Pause.helpText>Tekan {Key:TogglePause} untuk menghentikan sementara game serta melanjutkannya kembali.\n\nKamu tetap bisa memberi perintah saat game dijeda.\n\nIngatlah! - jika keadaan menjadi tak terkendali, tekan saja {Key:TogglePause}!</Pause.helpText>
 
-  <Stockpiles.label>Stockpiles</Stockpiles.label>
-  <Stockpiles.helpText>Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left.</Stockpiles.helpText>
+  <Stockpiles.label>Tempat Penyimpanan</Stockpiles.label>
+  <Stockpiles.helpText>Kolonimu membutuhkan tempat untuk menyimpan item. Tentukan sebuah tempat untuk mereka menyimpan item.\n\n Anda bisa membuat ZONA PENYIMPANAN di menu ARSITEK di kiri bawah.</Stockpiles.helpText>
 
-  <Forbidding.label>Forbid and allow</Forbidding.label>
-  <Forbidding.helpText>Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it.</Forbidding.helpText>
+  <Forbidding.label>Larang dan Perbolehkan</Forbidding.label>
+  <Forbidding.helpText>Koloni tidak akan berinteraksi dengan item yang ditandai TERLARANG.\n\nItem TERLARANG mempunyai tanda X. Pilih sebuah benda yang dilarang dan gunakan kontrol di bawah untuk memPERBOLEHKANnya.</Forbidding.helpText>
 
-  <GrowingFood.label>Growing zones</GrowingFood.label>
-  <GrowingFood.helpText>To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground.</GrowingFood.helpText>
+  <GrowingFood.label>Zona Penanaman</GrowingFood.label>
+  <GrowingFood.helpText>Untuk menanam tanaman pangan, tempatkan ZONA PENANAMAN di menu ARSITEK.\n\nZONA PENANAMAN hanya dapat ditempatkan di tanah subur.</GrowingFood.helpText>
 
-  <EquippingWeapons.label>Equipping weapons</EquippingWeapons.label>
-  <EquippingWeapons.helpText>Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip.</EquippingWeapons.helpText>
+  <EquippingWeapons.label>Dilengkapi Dengan Senjata</EquippingWeapons.label>
+  <EquippingWeapons.helpText>Kolonimu tiba dengan membawa beberapa persenjataan. Lengkapi mereka dengan persenjataan tersebut!\n\nPilih koloni kemudian klik kanan pada senjata yang ingin dipakai.</EquippingWeapons.helpText>
 
-  <Alerts.label>Alerts</Alerts.label>
-  <Alerts.helpText>The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts.</Alerts.helpText>
+  <Alerts.label>Peringatan</Alerts.label>
+  <Alerts.helpText>Peringatan di tepi kanan layar memberi tahumu tentang masalah yang harus diperhatikan.\n\nSelalu perhatikan peringatan tersebut.</Alerts.helpText>
 
-  <Mining.label>Mining</Mining.label>
-  <Mining.helpText>You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials.</Mining.helpText>
+  <Mining.label>Menambang</Mining.label>
+  <Mining.helpText>Kamu bisa menentukan tempat untuk menambang dengan membuka menu ARSITEK dan memilih tab PERINTAHKAN.\n\nBeberapa blok yang dapat ditambang menghasilkan BAJA, EMAS, PLASTEEL, dan bahan berguna lainnya.</Mining.helpText>
 
-  <WorkTab.label>Work settings</WorkTab.label>
-  <WorkTab.helpText>You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done.</WorkTab.helpText>
+  <WorkTab.label>Mengatur Pekerjaan</WorkTab.label>
+  <WorkTab.helpText>Kamu bisa mengatur perkerjaan masing-masing koloni di tab PEKERJAAN di kiri bawah layar.\n\nMereka akan selalu melakukan pekerjaan dengan prioritas tertinggi yang dapat mereka temukan.\n\nJika mereka tidak ditetapkan dengan jenis pekerjaan tertentu, atau jika mereka sibuk dengan tugas-tugas dengan prioritas lebih tinggi, maka pekerjaan itu tidak akan pernah selesai.</WorkTab.helpText>
 
-  <ForbiddingDoors.label>Forbidding doors</ForbiddingDoors.label>
-  <ForbiddingDoors.helpText>You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway.</ForbiddingDoors.helpText>
+  <ForbiddingDoors.label>Larang Pintu</ForbiddingDoors.label>
+  <ForbiddingDoors.helpText>Kamu bisa LARANG pintu agar penjajah dan hewan jinak tidak dapat melewatinya.\n\nPerhatikan bahwa ini bukan kunci pintu. Pintu selalu terkunci, sehingga musuh tidak bisa lewat dengan mudah. Melarang hanya akan membuat koloni tidak bisa menggunakan pintu itu. Koloni yang "sakit mental" akan tetap menggunakan pintu itu meski dilarang.</ForbiddingDoors.helpText>
 
-  <CoverAndShooting.label>Cover and shooting</CoverAndShooting.label>
-  <CoverAndShooting.helpText>The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree.</CoverAndShooting.helpText>
+  <CoverAndShooting.label>Perlindungan dan Penembakan</CoverAndShooting.label>
+  <CoverAndShooting.helpText>Hal terpenting yang harus dilakukan dalam pertarungan jarak jauh adalah menggunakan perlindungan.\n\nPerlindungan hanya berfungsi jika koloni menyentuhnya, dan perlindungan tersebut berada di antara kolonimu dan musuh.\n\nKamu bisa menempatkan kolonis di belakang sudut dinding. Mereka akan menyandar keluar untuk menembak.\n\nKebanyakan benda dapat digunakan sebagai perlindungan, tetapi beberapa benda lebih baik daripada yang lain. Bersembunyi di belakang pohon lebih baik daripada tidak ada perlindungan sama sekali, tetapi bersembunyi di belakang karung pasir lebih baik daripada menggunakan pohon.</CoverAndShooting.helpText>
 
-  <FormCaravan.label>Forming caravans</FormCaravan.label>
-  <FormCaravan.helpText>You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button.</FormCaravan.helpText>
+  <FormCaravan.label>Bentuk Kafilah</FormCaravan.label>
+  <FormCaravan.helpText>Kamu dapat membentuk kafilah (karavan) untuk mengirim kelompok orang bepergian melintasi planet ini!\n\nDi tab DUNIA pilih basis rumahmu dan klik tombol "bentuk kafilah".</FormCaravan.helpText>
 
-  <AnimalTaming.label>Animal taming</AnimalTaming.label>
-  <AnimalTaming.helpText>You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts.</AnimalTaming.helpText>
+  <AnimalTaming.label>Jinakkan Hewan</AnimalTaming.label>
+  <AnimalTaming.helpText>Kamu bisa menugaskan kolonis untuk menjinakkan hewan liar dengan penanda JINAKKAN.\n\nKolonis akan menawarkan makanan kepada hewan dan mencoba menjinakkannya.\n\nHati-hati: Beberapa hewan bisa merespons dengan kekerasan jika upaya penjinakan gagal.</AnimalTaming.helpText>
 
-  <AnimalTraining.label>Animal training</AnimalTraining.label>
-  <AnimalTraining.helpText>You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions.</AnimalTraining.helpText>
+  <AnimalTraining.label>Melatih Peliharaan</AnimalTraining.label>
+  <AnimalTraining.helpText>Kamu bisa menugaskan hewan jinak untuk dilatih dalam keterampilan tertentu di tab LATIHAN-nya.\n\nHewan tidak bisa dilatih secara terus-menerus; mereka membutuhkan waktu jeda antara sesi pelatihan.</AnimalTraining.helpText>
 
-  <InfoCard.label>Info card</InfoCard.label>
-  <InfoCard.helpText>The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane.</InfoCard.helpText>
+  <InfoCard.label>Kartu Info</InfoCard.label>
+  <InfoCard.helpText>Kartu info menunjukkan statistik terperinci tentang setiap item, orang, atau konstruksi.\n\nPilih orang atau item dan buka kartu info mereka dengan tombol 'i' di panel inspeksi.</InfoCard.helpText>
 
-  <StorageTab.label>Storage tab</StorageTab.label>
-  <StorageTab.helpText>You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority.</StorageTab.helpText>
+  <StorageTab.label>Tab Penyimpanan</StorageTab.label>
+  <StorageTab.helpText>Kamu bisa mengatur stok dan bangunan penyimpanan dengan memilihnya dan membuka TAB PENYIMPANAN di atas panel inspektur kiri bawah.\n\nDi tab penyimpanan stok, kamu bisa memperluas kategori untuk mengizinkan atau melarang item tertentu. Klik segitiga di sebelah kiri nama kategori.\n\nKamu bisa mengubah PRIORITAS penyimpanan. Kolonis akan mengisi penyimpanan dengan prioritas lebih tinggi terlebih dahulu, dan memindahkan item dari prioritas lebih rendah ke prioritas lebih tinggi.</StorageTab.helpText>
 
-  <HomeArea.label>Home area</HomeArea.label>
-  <HomeArea.helpText>The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu.</HomeArea.helpText>
+  <HomeArea.label>Area Rumah</HomeArea.label>
+  <HomeArea.helpText>AREA RUMAH memberi tahu kolonis area mana yang harus dibersihkan dan di mana memadamkan kebakaran.\n\nTentukan AREA RUMAH dengan kategori Zona di bawah menu Arsitek.</HomeArea.helpText>
 
-  <SpoilageAndFreezers.label>Spoilage and freezers</SpoilageAndFreezers.label>
-  <SpoilageAndFreezers.helpText>Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil.</SpoilageAndFreezers.helpText>
+  <SpoilageAndFreezers.label>Pembusukan dan Freezer</SpoilageAndFreezers.label>
+  <SpoilageAndFreezers.helpText>Sebagian makanan akan basi dalam waktu yang relatif singkat.\n\nUntuk mencegah hal ini, kamu bisa membuat Walk-in Freezer.\n\nUntuk membuatnya, buatlah ruangan yang tertutup, kemudian letakkan satu atau dua pendingin di dinding. Setel pendingin ke suhu target negatif.\n\nMakanan beku tidak akan rusak.</SpoilageAndFreezers.helpText>
 
-  <Deterioration.label>Item deterioration</Deterioration.label>
-  <Deterioration.helpText>Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room.</Deterioration.helpText>
+  <Deterioration.label>Item Perlahan-lahan Rusak</Deterioration.label>
+  <Deterioration.helpText>Barang-barang yang dibiarkan di luar ruangan akan perlahan-lahan rusak.\n\nJika kamu ingin menyimpan barang-barang dalam jangka panjang, simpanlah di ruangan yang beratap.</Deterioration.helpText>
 
-  <HostilityResponse.label>Hostility response modes</HostilityResponse.label>
-  <HostilityResponse.helpText>You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu.</HostilityResponse.helpText>
+  <HostilityResponse.label>Respon Terhadap Ancaman</HostilityResponse.label>
+  <HostilityResponse.helpText>Kamu bisa mengatur bagaimana para kolonis secara otomatis merespons ancaman seperti hewan pemangsa.\n\nPilih dari mode LARI, SERANG, dan ABAIKAN di menu TUGAS.</HostilityResponse.helpText>
 
   <AllowedAreas.label>Allowed areas</AllowedAreas.label>
-  <AllowedAreas.helpText>Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab.</AllowedAreas.helpText>
+  <AllowedAreas.helpText>Para kolonis dan hewan koloni bisa ditugaskan ke AREA YANG DIIZINKAN. Ini melarang mereka untuk pergi ke tujuan di luar area yang diizinkan.\n\nIni bisa digunakan, misalnya, untuk melarang kolonis pergi ke luar.\n\nKamu bisa membuat beberapa area yang diizinkan dan menugaskannya ke kolonis dan hewan yang berbeda.\n\nBuat, hapus, dan tugaskan area yang diizinkan di tab BATAS.\n\nGambar area yang diizinkan di peta menggunakan penanda PERLUAS AREA YANG DIIZINKAN dan HAPUS AREA YANG DIIZINKAN di tab Arsitek.</AllowedAreas.helpText>
 
-  <MedicalOperations.label>Medical operations</MedicalOperations.label>
-  <MedicalOperations.helpText>To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab.</MedicalOperations.helpText>
+  <MedicalOperations.label>Operasi Medis</MedicalOperations.label>
+  <MedicalOperations.helpText>Untuk menugaskan operasi medis, seperti pengambilan organ atau pemasangan prostetik, buka tab KESEHATAN kolonis, lalu beralih ke sub-tab OPERASI.</MedicalOperations.helpText>
 
-  <TimeAssignments.label>Time assignments</TimeAssignments.label>
-  <TimeAssignments.helpText>You can modify what time of day colonists should do different activities using the RESTRICT tab.</TimeAssignments.helpText>
+  <TimeAssignments.label>Waktu Kegiatan</TimeAssignments.label>
+  <TimeAssignments.helpText>Kamu bisa mengatur waktu kegiatan yang dilakukan kolonis menggunakan tab BATAS.</TimeAssignments.helpText>
 
-  <ManualWorkPriorities.label>Manual work priorities</ManualWorkPriorities.label>
-  <ManualWorkPriorities.helpText>One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony.</ManualWorkPriorities.helpText>
+  <ManualWorkPriorities.label>Pekerjaan Prioritas Manual</ManualWorkPriorities.label>
+  <ManualWorkPriorities.helpText>Salah satu bagian terpenting dari RimWorld adalah memilih pengaturan kerja yang baik untuk kolonis kamu.\n\nPengaturan kerja yang buruk dapat membuat pekerjaan penting tidak selesai dalam waktu yang lama sementara kolonis menghabiskan waktu untuk tugas yang tidak penting.\n\nUntuk memberikan lebih banyak kontrol atas pekerjaan yang dilakukan kolonis, kamu bisa menggunakan mode Prioritas Manual di tab KERJA.\n\nDalam mode ini, setiap kolonis memiliki nomor prioritas untuk setiap jenis pekerjaan. Kolonis akan melakukan pekerjaan prioritas 1 dari kiri ke kanan, kemudian pekerjaan prioritas 2 dari kiri ke kanan, dan seterusnya.\n\nPenggunaan cerdas dari pengaturan ini sangat penting untuk koloni yang besar dan terotomatisasi dengan baik.</ManualWorkPriorities.helpText>
 
-  <GettingMoreTraders.label>Getting more traders</GettingMoreTraders.label>
-  <GettingMoreTraders.helpText>More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console.</GettingMoreTraders.helpText>
+  <GettingMoreTraders.label>Dapatkan Lebih Banyak Pedagang</GettingMoreTraders.label>
+  <GettingMoreTraders.helpText>Lebih banyak karavan pedagang akan datang mengunjungi kamu jika kamu bersekutu dengan lebih banyak faksi.\n\nJika kamu tidak memiliki sekutu, tidak ada karavan yang akan mengunjungi.\n\nKamu juga bisa membayar sekutu untuk mengirim karavan dagang dengan menghubungi mereka melalui konsol komunikasi.</GettingMoreTraders.helpText>
 
-  <InspectRoomStats.label>Room stats inspector</InspectRoomStats.label>
-  <InspectRoomStats.helpText>You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right.</InspectRoomStats.helpText>
+  <InspectRoomStats.label>Inspek Statistik Ruangan</InspectRoomStats.label>
+  <InspectRoomStats.helpText>Kamu bisa memeriksa tingkat keindahan, kekayaan, dan keindahan setiap ruangan menggunakan tombol INSPEK STATISTIK RUANGAN di bagian kanan bawah.</InspectRoomStats.helpText>
 
-  <Outfits.label>Outfits</Outfits.label>
-  <Outfits.helpText>Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists.</Outfits.helpText>
+  <Outfits.label>Pakaian</Outfits.label>
+  <Outfits.helpText>Kolonis akan secara otomatis mencoba mengenakan pakaian terbaru dan berkualitas tertinggi yang mereka bisa.\n\nKamu tidak perlu secara manual menugaskan setiap potong pakaian kepada kolonis (meskipun kamu bisa, jika kamu mau).\n\nUntuk menugaskan batasan berpakaian kepada kolonis, buka tab TUGAS, gunakan kotak dialog "Kelola pakaian" untuk merancang pakaian baru, lalu tugaskan pakaian tersebut kepada kolonis.</Outfits.helpText>
 
   <FirePreparation.label>Fire preparation</FirePreparation.label>
-  <FirePreparation.helpText>Fires can easily burn down a colony. To defeat them, you must prepare before they happen.
-\nThese design elements can help reduce the damage from fires:
-\n1. Instead of constructing one super-building, build separate buildings with spaces in between.
-\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.
-\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire.</FirePreparation.helpText>
+  <FirePreparation.helpText>Kebakaran bisa dengan mudah membakar habis sebuah koloni. Untuk mengatasinya, kamu harus mempersiapkan diri sebelum kebakaran terjadi.
+\nElemen desain ini dapat membantu mengurangi kerusakan akibat kebakaran:
+\n1. Alih-alih membangun satu bangunan besar, bangun beberapa bangunan terpisah dengan ruang di antaranya.
+\n2. Gunakan bahan yang kurang mudah terbakar. Kayu memang murah dan cepat - tetapi sangat mudah terbakar.
+\n3. Bangun pemutus api untuk menghentikan kebakaran liar mendekati basis kamu. Sebuah strip lantai beton selebar 3 atau 4 sel umumnya akan menghentikan api yang mendekat.</FirePreparation.helpText>
 
-  <HistoryTab.label>History tab</HistoryTab.label>
-  <HistoryTab.helpText>You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen.</HistoryTab.helpText>
+  <HistoryTab.label>Tab Sejarah</HistoryTab.label>
+  <HistoryTab.helpText>Kamu bisa melihat catatan kekayaan kolonimu dari waktu ke waktu di tab SEJARAH di bagian bawah layar</HistoryTab.helpText>
 
-  <ClickingMessages.label>Clicking messages</ClickingMessages.label>
-  <ClickingMessages.helpText>You can click on the notifications in the top-left of the screen to instantly center the camera on their subject.</ClickingMessages.helpText>
+  <ClickingMessages.label>Klik Notifikasi</ClickingMessages.label>
+  <ClickingMessages.helpText>Kamu bisa klik notifikasi di kiri atas layar untuk langsung memusatkan kamera pada subjek yang berhubungan dengan notifikasinya.</ClickingMessages.helpText>
 
-  <ShotAccuracyTooltip.label>Shot accuracy tooltip</ShotAccuracyTooltip.label>
-  <ShotAccuracyTooltip.helpText>You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers.</ShotAccuracyTooltip.helpText>
+  <ShotAccuracyTooltip.label>Keterangan alat akurasi tembakan</ShotAccuracyTooltip.label>
+  <ShotAccuracyTooltip.helpText>Kamu dapat melihat penghitungan pasti di balik keakuratan tembakan apa pun.\n\nUntuk melakukannya, pilih penembak, lalu arahkan mouse ke target. Tooltip akan menunjukkan peluang untuk melakukan pukulan, dan rincian kontribusi berbagai pengganda peluang untuk melakukan pukulan.</ShotAccuracyTooltip.helpText>
 
-  <FriendlyFireSafety.label>Friendly fire safety</FriendlyFireSafety.label>
-  <FriendlyFireSafety.helpText>Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.label>Tidak Ada "Friendly Fire"</FriendlyFireSafety.label>
+  <FriendlyFireSafety.helpText>Friendly fire (tembakan kepada sesama koloni) tidak akan pernah terjadi jika penembak dekat dengan sekutu mereka.\n\nMisalnya, kamu bisa dengan menempatkan koloni yang menggunakan pedang tepat di depan penjajah yang menggunakan pistol. Penembak akan menembak di atas bahu temannya.\n\nIni adalah cara yang baik untuk menggabungkan petarung jarak jauh dan jarak dekat.</FriendlyFireSafety.helpText>
 
 
 </LanguageData>
