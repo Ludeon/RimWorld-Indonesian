@@ -5,9 +5,9 @@
   <PlayerColony.description>Sebuah koloni manusia dari dunia luar baru.</PlayerColony.description>
   <PlayerColony.pawnsPlural>koloni</PlayerColony.pawnsPlural>
 
-  <PlayerTribe.label>New Tribe</PlayerTribe.label>
-  <PlayerTribe.description>A small tribe.</PlayerTribe.description>
-  <PlayerTribe.pawnsPlural>tribespeople</PlayerTribe.pawnsPlural>
+  <PlayerTribe.label>Suku Baru</PlayerTribe.label>
+  <PlayerTribe.description>Sebuah suku kecil.</PlayerTribe.description>
+  <PlayerTribe.pawnsPlural>anggota suku</PlayerTribe.pawnsPlural>
 
 
 </LanguageData>
