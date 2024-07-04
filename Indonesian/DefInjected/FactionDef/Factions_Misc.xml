@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <OutlanderCivil.label>civil outlander union</OutlanderCivil.label>
-  <OutlanderCivil.description>These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard.</OutlanderCivil.description>
-  <OutlanderCivil.pawnsPlural>outlanders</OutlanderCivil.pawnsPlural>
-  <OutlanderCivil.leaderTitle>prime councilor</OutlanderCivil.leaderTitle>
+  <OutlanderCivil.label>Persatuan Pendatang Sipil</OutlanderCivil.label>
+  <OutlanderCivil.description>Orang-orang ini telah tinggal di sini selama beberapa dekade atau abad, dan telah kehilangan sebagian besar teknologi yang membawa mereka ke dunia ini. Mereka biasanya bekerja dengan mesin sederhana dan mempertahankan diri dengan senjata mesiu yang canggih.\n\nMereka peduli dengan hal-hal praktis seperti perdagangan, kepercayaan, dan kelangsungan hidup.\n\nKelompok ini secara khusus sangat menghargai perilaku sipil.</OutlanderCivil.description>
+  <OutlanderCivil.pawnsPlural>Pendatang</OutlanderCivil.pawnsPlural>
+  <OutlanderCivil.leaderTitle>Dewan Utama</OutlanderCivil.leaderTitle>
 
-  <OutlanderRough.label>rough outlander union</OutlanderRough.label>
-  <OutlanderRough.description>These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them.</OutlanderRough.description>
-  <OutlanderRough.pawnsPlural>outlanders</OutlanderRough.pawnsPlural>
-  <OutlanderRough.leaderTitle>prime councilor</OutlanderRough.leaderTitle>
+  <OutlanderRough.label>Persatuan Pendatang Kasar</OutlanderRough.label>
+  <OutlanderRough.description>Orang-orang ini telah tinggal di sini selama beberapa dekade atau abad, dan telah kehilangan sebagian besar teknologi yang membawa mereka ke dunia ini. Mereka biasanya bekerja dengan mesin sederhana dan mempertahankan diri dengan senjata mesiu yang canggih.\n\nMereka peduli dengan hal-hal praktis seperti perdagangan, kepercayaan, dan kelangsungan hidup.\n\nKelompok ini memiliki sedikit sifat kebiadaban dalam diri mereka.</OutlanderRough.description>
+  <OutlanderRough.pawnsPlural>Pendatang</OutlanderRough.pawnsPlural>
+  <OutlanderRough.leaderTitle>Dewan Utama</OutlanderRough.leaderTitle>
 
-  <TribeCivil.label>gentle tribe</TribeCivil.label>
-  <TribeCivil.description>These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples.</TribeCivil.description>
-  <TribeCivil.pawnsPlural>tribespeople</TribeCivil.pawnsPlural>
-  <TribeCivil.leaderTitle>chief</TribeCivil.leaderTitle>
+  <TribeCivil.label>Suku "Lembut"</TribeCivil.label>
+  <TribeCivil.description>Orang-orang ini telah berada di sini sejak lama. Mungkin leluhur mereka jatuh di sini ribuan tahun yang lalu. Mungkin mereka selamat dari bencana yang menghancurkan peradaban teknologi di sini. Bagaimanapun, suku-suku ini sebagian besar adalah orang nomaden yang hidup dari tanah dengan menggunakan alat dan senjata primitif.\n\nMeskipun tampak lemah dalam hal teknologi, suku-suku ini bisa menjadi musuh yang berbahaya dan teman yang berharga karena keterampilan mereka dalam peperangan berteknologi rendah, jumlah mereka yang banyak, dan ketangguhan mereka.Suku ini secara khusus menjalani cara hidup yang lembut di mana mereka bisa. Mereka cukup \n\nterbuka untuk berdagang dan beraliansi, bahkan dengan orang-orang yang asing.</TribeCivil.description>
+  <TribeCivil.pawnsPlural>Anggota Suku</TribeCivil.pawnsPlural>
+  <TribeCivil.leaderTitle>Kepala Suku</TribeCivil.leaderTitle>
 
-  <TribeRough.label>savage tribe</TribeRough.label>
-  <TribeRough.description>These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally.</TribeRough.description>
-  <TribeRough.pawnsPlural>tribespeople</TribeRough.pawnsPlural>
-  <TribeRough.leaderTitle>chief</TribeRough.leaderTitle>
+  <TribeRough.label>Suku "Buas"</TribeRough.label>
+  <TribeRough.description>Orang-orang ini sudah lama berada di sini. Mungkin nenek moyang mereka jatuh di sini seribu tahun yang lalu. Mungkin mereka selamat dari bencana alam yang menghancurkan peradaban teknologi di sini. Bagaimanapun juga, suku-suku tersebut sebagian besar merupakan masyarakat nomaden yang hidup dari tanah dengan menggunakan peralatan dan senjata primitif.\n\nMeskipun mereka terlihat memiliki kelemahan teknologi, suku-suku tersebut dapat menjadi musuh yang berbahaya dan kawan yang berharga karena keahlian mereka dalam peperangan berteknologi rendah, jumlah, dan sifat "tahan banting" mereka.\n\nSuku khusus ini menghargai dominasi suka berperang; mungkin sulit untuk mengubah mereka menjadi sekutu.</TribeRough.description>
+  <TribeRough.pawnsPlural>Anggota Suku</TribeRough.pawnsPlural>
+  <TribeRough.leaderTitle>Kepala Suku</TribeRough.leaderTitle>
 
-  <Pirate.label>pirate band</Pirate.label>
-  <Pirate.description>A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range.</Pirate.description>
-  <Pirate.pawnsPlural>pirates</Pirate.pawnsPlural>
-  <Pirate.leaderTitle>boss</Pirate.leaderTitle>
+  <Pirate.label>Kelompok Lanun</Pirate.label>
+  <Pirate.description>Sebuah konfederasi geng bajak laut (lanun) yang sepakat untuk lebih sering melawan orang luar daripada berkelahi satu sama lain.\n\nBajak laut tidak menabur, tidak membangun, dan jarang berdagang. Didorong oleh budaya darah dan kehormatan yang menghargai kekuatan dan kekejaman pribadi, mereka memperkaya diri mereka sendiri dengan menyerang dan merampok tetangga mereka yang lebih produktif.\n\nTingkat teknologi mereka sangat bergantung pada siapa yang berhasil mereka curi baru-baru ini. Kebanyakan mereka membawa senjata mesiu, meski ada juga yang lebih suka menikam korbannya dari jarak dekat.</Pirate.description>
+  <Pirate.pawnsPlural>Kru</Pirate.pawnsPlural>
+  <Pirate.leaderTitle>Bos</Pirate.leaderTitle>
 
 
 </LanguageData>
