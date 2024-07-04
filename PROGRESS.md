@@ -38,12 +38,12 @@
   - [ ] Psychite_Yayo.xml
   - [ ] Smokeleaf.xml
   - [ ] WakeUp.xml
-- [ ] ConceptDef/
-  - [ ] Concepts_Entry.xml
+- [x] ConceptDef/
+  - [x] Concepts_Entry.xml
   - [x] Concepts_NotedOpportunistic.xml
   - [x] Concepts_NotedSelfshow.xml
-  - [ ] Concepts_TriggeredModal.xml
-  - [ ] Example_Concepts.xml
+  - [x] Concepts_TriggeredModal.xml
+  - [x] Example_Concepts.xml
 - [ ] DamageDef/
   - [x] Damages_Environmental.xml
   - [x] Damages_Medical.xml
