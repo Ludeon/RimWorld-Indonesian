@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SolarFlare.label>Badai Matahari</SolarFlare.label>
+  <SolarFlare.label>Badai Matahari</SolarFlare.label> 
   <SolarFlare.description>Badai matahari telah menghantam planet ini. Itu membuat sebagian besar perangkat listrik tidak bekerja dikarenakan interferensi elektromagnetik.</SolarFlare.description>
   <SolarFlare.endMessage>Badai Matahari Telah Berakhir.</SolarFlare.endMessage>
 
