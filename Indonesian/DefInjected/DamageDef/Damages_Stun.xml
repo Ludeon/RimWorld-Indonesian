@@ -5,7 +5,7 @@
   <Stun.deathMessage>{0} telah tersetrum sampai mati.</Stun.deathMessage>
 
   <EMP.label>EMP</EMP.label>
-  <EMP.deathMessage>{0} telah ter-EMP sampai mati.</EMP.deathMessage>
+  <EMP.deathMessage>{0} telah terkena radiasi EMP sampai mati.</EMP.deathMessage>
 
 
 </LanguageData>
