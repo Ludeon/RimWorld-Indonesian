@@ -1,51 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SolarFlare.label>solar flare</SolarFlare.label>
-  <SolarFlare.description>A solar flare is blasting the planet. The electromagnetic interference prevents most electrical devices from working.</SolarFlare.description>
-  <SolarFlare.endMessage>The solar flare is ending.</SolarFlare.endMessage>
+  <SolarFlare.label>Badai Matahari</SolarFlare.label>
+  <SolarFlare.description>Badai matahari telah menghantam planet ini. Itu membuat sebagian besar perangkat listrik tidak bekerja dikarenakan interferensi elektromagnetik.</SolarFlare.description>
+  <SolarFlare.endMessage>Badai Matahari Telah Berakhir.</SolarFlare.endMessage>
 
-  <Eclipse.label>eclipse</Eclipse.label>
-  <Eclipse.description>An eclipse is shadowing the surface. It will be dark, even during the daytime.</Eclipse.description>
-  <Eclipse.endMessage>The eclipse is ending.</Eclipse.endMessage>
+  <Eclipse.label>Gerhana</Eclipse.label>
+  <Eclipse.description>Gerhana akan membuat permukaan planet ditutupi dengan kegelapan, bahkan pada saat siang hari.</Eclipse.description>
+  <Eclipse.endMessage>Gerhana Telah Berakhir.</Eclipse.endMessage>
 
-  <PsychicDrone.label>psychic drone</PsychicDrone.label>
-  <PsychicDrone.description>A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity.</PsychicDrone.description>
-  <PsychicDrone.endMessage>The psychic drone is ending.</PsychicDrone.endMessage>
+  <PsychicDrone.label>Drone Psikis</PsychicDrone.label>
+  <PsychicDrone.description>Sebuah AI yang jauh dan kuat mengeluarkan gelombang kekuatan psikis yang mendorong orang menuju kegilaan.</PsychicDrone.description>
+  <PsychicDrone.endMessage>Drone Psikis Telah Berakhir.</PsychicDrone.endMessage>
 
-  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
-  <PsychicSoothe.description>A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds.</PsychicSoothe.description>
-  <PsychicSoothe.endMessage>The psychic soothe is ending.</PsychicSoothe.endMessage>
+  <PsychicSoothe.label>Ketenangan Psikis</PsychicSoothe.label>
+  <PsychicSoothe.description>Sebuah AI yang jauh dan kuat mengeluarkan gelombang kekuatan psikis yang menenangkan orang dan menstabilkan pikiran mereka.</PsychicSoothe.description>
+  <PsychicSoothe.endMessage>Ketenangan Psikis Telah Berakhir.</PsychicSoothe.endMessage>
 
-  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
-  <ToxicFallout.description>A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode.</ToxicFallout.description>
-  <ToxicFallout.endMessage>The worst of the toxic fallout has settled.</ToxicFallout.endMessage>
+  <ToxicFallout.label>Hujan Debu Beracun</ToxicFallout.label>
+  <ToxicFallout.description>Sebuah plume debu beracun dari sumber yang jauh sedang perlahan-lahan mengendap di seluruh wilayah ini. Setiap makhluk hidup yang tidak berada di bawah atap akan perlahan-lahan terpapar racun, dan barang-barang yang ditinggalkan di luar akan mengalami korosi</ToxicFallout.description>
+  <ToxicFallout.endMessage>Hujan Debu Beracun Telah Mereda.</ToxicFallout.endMessage>
 
-  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
-  <VolcanicWinter.description>A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower.</VolcanicWinter.description>
-  <VolcanicWinter.endMessage>Most of the volcanic ash has settled.</VolcanicWinter.endMessage>
+  <VolcanicWinter.label>Musim Dingin Vulkanik</VolcanicWinter.label>
+  <VolcanicWinter.description>Sebuah gunung berapi yang jauh telah menghambat atmosfer dengan partikel vulkanik, secara signifikan mengurangi jumlah cahaya yang mencapai permukaan. Suhu akan lebih dingin dan tanaman akan tumbuh lebih lambat.</VolcanicWinter.description>
+  <VolcanicWinter.endMessage>Sebagian besar abu vulkanik telah mengendap.</VolcanicWinter.endMessage>
 
-  <HeatWave.label>heat wave</HeatWave.label>
-  <HeatWave.description>An extreme wave of heat is baking the area.</HeatWave.description>
-  <HeatWave.endMessage>The heat wave is over.</HeatWave.endMessage>
+  <HeatWave.label>Gelombang Panas</HeatWave.label>
+  <HeatWave.description>Sebuah gelombang panas yang ekstrem sedang "memanggang" daerah ini.</HeatWave.description>
+  <HeatWave.endMessage>Gelombang Panas Sudah Berakhir.</HeatWave.endMessage>
 
-  <ColdSnap.label>cold snap</ColdSnap.label>
-  <ColdSnap.description>An unusual cold snap is freezing the region.</ColdSnap.description>
-  <ColdSnap.endMessage>The cold snap is over.</ColdSnap.endMessage>
+  <ColdSnap.label>Gelombang Dingin</ColdSnap.label>
+  <ColdSnap.description>Sebuah gelombang dingin sedang "membekukan" daerah ini.</ColdSnap.description>
+  <ColdSnap.endMessage>Gelombang Dingin Sudah Berakhir.</ColdSnap.endMessage>
 
-  <Flashstorm.label>flashstorm</Flashstorm.label>
-  <Flashstorm.description>A freak localized storm is blasting a small area with repeated lightning strikes.</Flashstorm.description>
-  <Flashstorm.endMessage>The flashstorm is over.</Flashstorm.endMessage>
+  <Flashstorm.label>Badai Petir</Flashstorm.label>
+  <Flashstorm.description>Sebuah badai lokal yang aneh sedang menghantam area kecil dengan serangan petir berulang.</Flashstorm.description>
+  <Flashstorm.endMessage>Badai petir telah berakhir.</Flashstorm.endMessage>
 
-  <ClimateCycle.label>climate cycle</ClimateCycle.label>
-  <ClimateCycle.description>A multi-year climate cycle due to an elliptical orbit.</ClimateCycle.description>
+  <ClimateCycle.label>Siklus Iklim</ClimateCycle.label>
+  <ClimateCycle.description>Siklus iklim multi-tahun akibat orbit elips.</ClimateCycle.description>
 
-  <Planetkiller.label>planetkiller</Planetkiller.label>
-  <Planetkiller.description>An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life.</Planetkiller.description>
+  <Planetkiller.label>Planetkiller</Planetkiller.label>
+  <Planetkiller.description>Planetkiller: Senjata pembunuh planet antarbintang mendekati planet ini. Senjata ini akan menghancurkan planet seperti peluru senapan yang mengenai telur, memusnahkan seluruh kehidupan.</Planetkiller.description>
 
-  <Aurora.label>aurora</Aurora.label>
-  <Aurora.description>An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it.</Aurora.description>
-  <Aurora.endMessage>The aurora is ending.</Aurora.endMessage>
+  <Aurora.label>Aurora</Aurora.label>
+  <Aurora.description>Sebuah aurora menerangi langit. Tampilan yang memukau ini akan meningkatkan suasana hati siapa pun yang berada di luar untuk melihatnya.</Aurora.description>
+  <Aurora.endMessage>"Pertunjukkan" aurora telah berakhir.</Aurora.endMessage>
 
 
 </LanguageData>
