@@ -3,17 +3,17 @@
 
   <!-- Concepts taught in modal dialogs -->
 
-  <TradeGoodsMustBeNearBeacon.label>Trade goods and trade beacons</TradeGoodsMustBeNearBeacon.label>
-  <TradeGoodsMustBeNearBeacon.helpText>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it.</TradeGoodsMustBeNearBeacon.helpText>
+  <TradeGoodsMustBeNearBeacon.label>Perdagangkan Barang dan Suar Perdagangan</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.helpText>Untuk mengirimkan barang atau perak ke pedagang orbital, kamu harus membangun sebuah SUAR PERDAGANGAN ORBITAL dan meletakkan barang-barangmu didekatnya.</TradeGoodsMustBeNearBeacon.helpText>
 
-  <ArrestingCreatesEnemies.label>Arresting worsens faction relations</ArrestingCreatesEnemies.label>
-  <ArrestingCreatesEnemies.helpText>Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy.</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.label>Penangkapan memperburuk hubungan faksi</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.helpText>Peringatan: Orang yang kamu tangkap mungkin tidak akan pergi diam-diam.\n\nJika kamu menangkap seorang yang bukan kolonimu, maka seluruh faksi mereka akan menjadi musuhmu.</ArrestingCreatesEnemies.helpText>
 
-  <SwitchFlickingDesignation.label>Flick designations only designate</SwitchFlickingDesignation.label>
-  <SwitchFlickingDesignation.helpText>Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand.</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.label>Menekan Tombol Hanya Menyuruh</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.helpText>Catatan: Ini hanya berarti bahwa penjajah harus menekan tombolnya.\n\nTidak ada yang akan terjadi sampai penjajah datang dan menekan tombol dengan tangan.</SwitchFlickingDesignation.helpText>
 
-  <MaxNumberOfPlayerSettlements.label>Maximum number of player colonies</MaxNumberOfPlayerSettlements.label>
-  <MaxNumberOfPlayerSettlements.helpText>Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum.</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.label>Jumlah maksimum koloni pemain</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.helpText>Peringatan: RimWorld dirancang untuk dimainkan dengan satu koloni pemain dalam satu waktu. Meskipun mungkin untuk memiliki lebih banyak koloni, hal ini mungkin akan menyebabkan penurunan kinerja dan ketidakseimbangan gameplay. Kami menyarankan, setidaknya pada awalnya, Kamu memainkan game dengan maksimal satu koloni.</MaxNumberOfPlayerSettlements.helpText>
 
 
 </LanguageData>
