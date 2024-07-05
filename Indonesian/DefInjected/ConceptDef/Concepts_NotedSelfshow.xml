@@ -90,7 +90,7 @@
   <Outfits.label>Pakaian</Outfits.label>
   <Outfits.helpText>Kolonis akan secara otomatis mencoba mengenakan pakaian terbaru dan berkualitas tertinggi yang mereka bisa.\n\nKamu tidak perlu secara manual menugaskan setiap potong pakaian kepada kolonis (meskipun kamu bisa, jika kamu mau).\n\nUntuk menugaskan batasan berpakaian kepada kolonis, buka tab TUGAS, gunakan kotak dialog "Kelola pakaian" untuk merancang pakaian baru, lalu tugaskan pakaian tersebut kepada kolonis.</Outfits.helpText>
 
-  <FirePreparation.label>Fire preparation</FirePreparation.label>
+  <FirePreparation.label>Persiapan Pemadaman</FirePreparation.label>
   <FirePreparation.helpText>Kebakaran bisa dengan mudah membakar habis sebuah koloni. Untuk mengatasinya, kamu harus mempersiapkan diri sebelum kebakaran terjadi.
 \nElemen desain ini dapat membantu mengurangi kerusakan akibat kebakaran:
 \n1. Alih-alih membangun satu bangunan besar, bangun beberapa bangunan terpisah dengan ruang di antaranya.
