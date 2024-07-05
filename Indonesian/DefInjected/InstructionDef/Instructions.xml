@@ -1,122 +1,124 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateWorldParams.text>Selamat datang di Rimworld! Tutorial ini akan melatih kamu untuk cara bermain.\n\nLangkah pertama adalah untuk menghasilkan sebauh dunia untuk bermain.\n\nHalaman ini mengkonfigurasikan bagaimana dunia kamu akan dibuat.\n\nSetting default disini sudah cukup bagus - Langsung saja tekan GENERATE!</CreateWorldParams.text>
+  <CreateWorldParams.text>Selamat datang di Rimworld! Tutorial ini akan melatih kamu cara bermain.\n\nLangkah pertama adalah menghasilkan sebuah dunia untuk bermain.\n\nHalaman ini mengkonfigurasikan bagaimana dunia kamu akan dibuat.\n\nPengaturan default di sini sudah cukup bagus - Langsung saja tekan GENERATE!</CreateWorldParams.text>
 
-  <ChooseLandingSite.text>Disini, kamu pilih lokasi awalmu.\n\nBanyak sekali There are lots of biomes, but for now, let's start with a friendly one.\n\nClick a location with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile.</ChooseLandingSite.text>
-  <ChooseLandingSite.rejectInputMessage>Please choose a temperate forest site with flat terrain.</ChooseLandingSite.rejectInputMessage>
+  <ChooseLandingSite.text>Di sini, kamu memilih lokasi awalmu.\n\nAda banyak bioma, tapi untuk sekarang, mari mulai dengan yang 'ramah'.\n\nKlik lokasi dengan bioma hutan sedang dan medan datar, lalu klik NEXT.\n\nKamu bisa menggunakan tab MEDAN untuk melihat informasi tentang ubin yang dipilih.</ChooseLandingSite.text>
+  <ChooseLandingSite.rejectInputMessage>Silakan pilih lokasi dengan bioma hutan sedang dan medan datar.</ChooseLandingSite.rejectInputMessage>
 
-  <ReorderCharacters.text>Now you can choose characters!\n\nClick in the left area to select from available characters. If you find a character you like, drag them into the top section with the SELECTED label.</ReorderCharacters.text>
-  <ReorderCharacters.rejectInputMessage>Please try choosing a character first.</ReorderCharacters.rejectInputMessage>
+  <ReorderCharacters.text>Sekarang kamu bisa memilih karakter!\n\nKlik di area kiri untuk memilih dari karakter yang tersedia. Jika kamu menemukan karakter yang kamu suka, seret mereka ke bagian atas dengan label DIPILIH.</ReorderCharacters.text>
+  <ReorderCharacters.rejectInputMessage>Silakan coba memilih karakter terlebih dahulu.</ReorderCharacters.rejectInputMessage>
 
-  <RandomizeCharacter.text>If you don't like a character, you can regenerate them!\n\nTry randomizing a character with the RANDOMIZE button.</RandomizeCharacter.text>
-  <RandomizeCharacter.rejectInputMessage>Please try randomizing a character first.</RandomizeCharacter.rejectInputMessage>
+  <RandomizeCharacter.text>Jika kamu tidak suka karakter, kamu bisa mengubahnya!\n\nCoba acak karakter dengan tombol RANDOMIZE.</RandomizeCharacter.text>
+  <RandomizeCharacter.rejectInputMessage>Silakan coba mengacak karakter terlebih dahulu.</RandomizeCharacter.rejectInputMessage>
 
-  <AcceptStartingPawns.text>Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready.</AcceptStartingPawns.text>
-  <MapCameraDolly.text>Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now!</MapCameraDolly.text>
-  <MapCameraZoom.text>Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now!</MapCameraZoom.text>
-  <Pause.text>You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right.</Pause.text>
-  <TimeControls.text>You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right.</TimeControls.text>
+  <AcceptStartingPawns.text>Hebat!\n\nUrutkan dan acak lagi jika kamu mau - tapi jangan mencoba mendapatkan karakter yang sempurna. Semua orang punya kekurangan, dan itu membuat ceritanya lebih menarik!\n\nKamu juga bisa mengganti nama karakter dengan mengklik nama mereka.\n\nKlik MULAI jika kamu sudah siap.</AcceptStartingPawns.text>
 
-  <MakeStockpile.text>Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map.</MakeStockpile.text>
-  <MakeStockpile.rejectInputMessage>Please make a stockpile on the indicated area.</MakeStockpile.rejectInputMessage>
-  <MakeStockpile.onMapInstruction>Place stockpile here\n(drag corner-to-corner)</MakeStockpile.onMapInstruction>
+  <MapCameraDolly.text>Ini adalah permukaannya!\n\nSekarang coba gerakkan kamera di sekitar.\n\nGunakan tombol {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}, atau klik dan seret dengan tombol tengah mouse.\n\nCoba sekarang!</MapCameraDolly.text>
+  <MapCameraZoom.text>Hebat!\n\nKamu juga bisa memperbesar dan memperkecil dengan roda mouse, atau tombol {Key:MapZoom_In} dan {Key:MapZoom_Out}.\n\nCoba sekarang!</MapCameraZoom.text>
 
-  <EndStockpileDesignating.text>Right-click to get out of stockpile designating mode.</EndStockpileDesignating.text>
+  <Pause.text>Kamu bisa menghentikan waktu.\n\nIni berarti kamu tidak perlu terburu-buru. Kamu selalu bisa berhenti sejenak dan mengambil waktu untuk memberi perintah.\n\nCoba hentikan waktu dengan tombol {Key:TogglePause}, atau gunakan kontrol waktu di kanan bawah.</Pause.text>
 
-  <UnforbidStartingResources.text>Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)</UnforbidStartingResources.text>
-  <UnforbidStartingResources.rejectInputMessage>Please allow your starting items.</UnforbidStartingResources.rejectInputMessage>
-  <UnforbidStartingResources.onMapInstruction>Allow this</UnforbidStartingResources.onMapInstruction>
+  <TimeControls.text>Kamu juga bisa mempercepat waktu.\n\nCoba kendalikan waktu dengan tombol {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, dan {Key:TimeSpeed_Superfast}, atau dengan kontrol waktu di kanan bawah.</TimeControls.text>
 
-  <BuildRoomWalls.text>Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map.</BuildRoomWalls.text>
-  <BuildRoomWalls.rejectInputMessage>Please build wooden walls along the edges of the highlighted rectangle.</BuildRoomWalls.rejectInputMessage>
-  <BuildRoomWalls.onMapInstruction>Build walls</BuildRoomWalls.onMapInstruction>
+  <MakeStockpile.text>Hebat!\n\nSekarang, buat stok agar kolonismu tahu di mana menyimpan barang-barang.\n\n1. Klik tab ARCHITECT di kiri bawah.\n2. Klik kategori ZONA/AREA.\n3. Pilih alat BUAT PENYIMPANAN.\n4. Klik dan seret persegi seperti yang ditunjukkan di peta.</MakeStockpile.text>
+  <MakeStockpile.rejectInputMessage>Silakan buat stok di area yang ditunjukkan.</MakeStockpile.rejectInputMessage>
+  <MakeStockpile.onMapInstruction>Letakkan stok di sini\n(seret dari sudut ke sudut)</MakeStockpile.onMapInstruction>
 
-  <BuildRoomDoor.text>Now just place a DOOR over any one of the room walls.\n\nDOOR is right beside WALL in the ARCHITECT menu.</BuildRoomDoor.text>
-  <BuildRoomDoor.rejectInputMessage>Please build a wooden door over one of your room walls.</BuildRoomDoor.rejectInputMessage>
-  <BuildRoomDoor.onMapInstruction>Build a door over one wall</BuildRoomDoor.onMapInstruction>
+  <EndStockpileDesignating.text>Klik kanan untuk keluar dari mode penetapan stok.</EndStockpileDesignating.text>
 
-  <BuildBeds.text>Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building.</BuildBeds.text>
-  <BuildBeds.rejectInputMessage>Please build wooden beds inside the room.</BuildBeds.rejectInputMessage>
-  <BuildBeds.onMapInstruction>Build three beds inside the room</BuildBeds.onMapInstruction>
+  <UnforbidStartingResources.text>Sekarang, agar kolonismu bisa membawa barang-barangmu ke stok, kamu harus menghapus penetapan "terlarang" mereka.\n\n1. Klik barang-barangmu untuk memilihnya.\n2. Klik tombol IZINKAN untuk mengizinkannya.\n\n(Tip pro: Klik dua kali barang untuk memilih semua barang sejenis di layar.)</UnforbidStartingResources.text>
+  <UnforbidStartingResources.rejectInputMessage>Silakan izinkan barang-barang awalmu.</UnforbidStartingResources.rejectInputMessage>
+  <UnforbidStartingResources.onMapInstruction>Izinkan ini</UnforbidStartingResources.onMapInstruction>
 
-  <BuildTorchLamp.text>You'll also want some light inside, or your colonists will get grumpy in the dark.\n\nBuild a TORCH LAMP inside the room.</BuildTorchLamp.text>
-  <BuildTorchLamp.rejectInputMessage>Please build a torch lamp inside the room.</BuildTorchLamp.rejectInputMessage>
-  <BuildTorchLamp.onMapInstruction>Build a torch lamp inside the room</BuildTorchLamp.onMapInstruction>
+  <BuildRoomWalls.text>Luar biasa! Selanjutnya, kita akan membangun sebuah ruangan.\n\n1. Klik ARSITEK.\n2. Klik STRUKTUR.\n3. Pilih DINDING.\n4. Pilih KAYU sebagai bahan.\n5. Seret empat dinding untuk membentuk bentuk yang ditunjukkan di peta.</BuildRoomWalls.text>
+  <BuildRoomWalls.rejectInputMessage>Silakan buat dinding kayu di sepanjang tepi persegi panjang yang disorot.</BuildRoomWalls.rejectInputMessage>
+  <BuildRoomWalls.onMapInstruction>Bangun dinding</BuildRoomWalls.onMapInstruction>
 
-  <BuildAnimalSleepingSpot.text>So your pet will sleep inside with you, place an ANIMAL SLEEPING SPOT inside the room.\n\nSleeping spots aren't real buildings - they're just spots on the ground designated for a sleeping.</BuildAnimalSleepingSpot.text>
-  <BuildAnimalSleepingSpot.rejectInputMessage>Please place an animal sleeping spot inside the room.</BuildAnimalSleepingSpot.rejectInputMessage>
-  <BuildAnimalSleepingSpot.onMapInstruction>Build an animal sleeping spot\ninside the room</BuildAnimalSleepingSpot.onMapInstruction>
+  <BuildRoomDoor.text>Sekarang tempatkan PINTU di salah satu dinding ruangan.\n\nPINTU ada di sebelah DINDING di menu ARSITEK.</BuildRoomDoor.text>
+  <BuildRoomDoor.rejectInputMessage>Silakan buat pintu kayu di salah satu dinding ruangan.</BuildRoomDoor.rejectInputMessage>
+  <BuildRoomDoor.onMapInstruction>Bangun pintu di salah satu dinding</BuildRoomDoor.onMapInstruction>
 
-  <BuildHorseshoesPin.text>Your colonists need sources of recreation or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room.</BuildHorseshoesPin.text>
-  <BuildHorseshoesPin.rejectInputMessage>Please place a horseshoes pin somewhere near the room.</BuildHorseshoesPin.rejectInputMessage>
-  <BuildHorseshoesPin.onMapInstruction>Build a horseshoes pin\noutside the room</BuildHorseshoesPin.onMapInstruction>
+  <BuildBeds.text>Kolonismu sekarang akan membangun ruangan!\n\nSekarang mereka membutuhkan tempat tidur. Tempatkan tiga TEMPAT TIDUR di dalam ruangan.\n\nTemukan mereka di kategori FURNITUR.\n\nKamu bisa menggunakan tombol {Key:Designator_RotateLeft} dan {Key:Designator_RotateRight} untuk memutar bangunan.</BuildBeds.text>
+  <BuildBeds.rejectInputMessage>Silakan buat tempat tidur kayu di dalam ruangan.</BuildBeds.rejectInputMessage>
+  <BuildBeds.onMapInstruction>Bangun tiga tempat tidur di dalam ruangan</BuildBeds.onMapInstruction>
 
-  <MakeGrowingZone.text>The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops.</MakeGrowingZone.text>
-  <MakeGrowingZone.rejectInputMessage>Please make a growing zone on the indicated area.</MakeGrowingZone.rejectInputMessage>
-  <MakeGrowingZone.onMapInstruction>Place growing zone here\n(drag corner-to-corner)</MakeGrowingZone.onMapInstruction>
+  <BuildTorchLamp.text>Kamu juga akan ingin ada cahaya di dalamnya, atau kolonismu akan menjadi murung dalam kegelapan.\n\nBangun LAMPU OBOR di dalam ruangan.</BuildTorchLamp.text>
+  <BuildTorchLamp.rejectInputMessage>Silakan buat lampu obor di dalam ruangan.</BuildTorchLamp.rejectInputMessage>
+  <BuildTorchLamp.onMapInstruction>Bangun lampu obor di dalam ruangan</BuildTorchLamp.onMapInstruction>
 
-  <SetToGrowRice.text>You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice.</SetToGrowRice.text>
-  <SetToGrowRice.rejectInputMessage>Please set your growing zone to grow rice.</SetToGrowRice.rejectInputMessage>
-  <SetToGrowRice.onMapInstruction>Set this growing zone to grow rice</SetToGrowRice.onMapInstruction>
+  <BuildAnimalSleepingSpot.text>Agar hewan peliharaanmu tidur di dalam ruangan denganmu, tempatkan TEMPAT TIDUR HEWAN di dalam ruangan.\n\nTempat tidur bukan bangunan nyata - hanya tempat di tanah yang ditetapkan untuk tidur.</BuildAnimalSleepingSpot.text>
+  <BuildAnimalSleepingSpot.rejectInputMessage>Silakan tempatkan tempat tidur hewan di dalam ruangan.</BuildAnimalSleepingSpot.rejectInputMessage>
+  <BuildAnimalSleepingSpot.onMapInstruction>Bangun tempat tidur hewan\n di dalam ruangan</BuildAnimalSleepingSpot.onMapInstruction>
 
-  <EquipWeapons.text>Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist.</EquipWeapons.text>
-  <EquipWeapons.rejectInputMessage>Please have your colonists equip weapons.</EquipWeapons.rejectInputMessage>
-  <EquipWeapons.onMapInstruction>Equip this</EquipWeapons.onMapInstruction>
+  <BuildHorseshoesPin.text>Kolonismu butuh sumber rekreasi atau mereka akan menjadi sedih seiring waktu.\n\nBangun tiang LADAM di luar, dekat ruangan.</BuildHorseshoesPin.text>
+  <BuildHorseshoesPin.rejectInputMessage>Silakan tempatkan tiang ladam di dekat ruangan.</BuildHorseshoesPin.rejectInputMessage>
+  <BuildHorseshoesPin.onMapInstruction>Bangun tiang horseshoes\ndi luar ruangan</BuildHorseshoesPin.onMapInstruction>
 
-  <BuildFueledStove.text>Excellent!\n\nNow you'll need to make a stove to cook food.\n\nBuild a FUELED STOVE inside the room.</BuildFueledStove.text>
-  <BuildFueledStove.rejectInputMessage>Please build the fueled stove inside the room you built earlier.</BuildFueledStove.rejectInputMessage>
-  <BuildFueledStove.onMapInstruction>Build a fueled stove inside the room</BuildFueledStove.onMapInstruction>
+  <MakeGrowingZone.text>Rumah sedang dibangun!\n\nKolonismu akan membutuhkan sesuatu untuk dimakan, jadi tempatkan ZONA PENANAMAN seperti yang ditunjukkan di peta.\n\nDi sini kolonismu akan menanam tanaman.</MakeGrowingZone.text>
+  <MakeGrowingZone.rejectInputMessage>Silakan buat zona tumbuh di area yang ditunjukkan.</MakeGrowingZone.rejectInputMessage>
+  <MakeGrowingZone.onMapInstruction>Tempatkan zona tumbuh di sini\n(seret dari sudut ke sudut)</MakeGrowingZone.onMapInstruction>
 
-  <AddBillSimpleMeal.text>Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it.</AddBillSimpleMeal.text>
-  <AddBillSimpleMeal.rejectInputMessage>Please add a bill to cook simple meals at your cook stove.</AddBillSimpleMeal.rejectInputMessage>
-  <AddBillSimpleMeal.onMapInstruction>Select this</AddBillSimpleMeal.onMapInstruction>
+  <SetToGrowRice.text>Kamu bisa memutuskan tanaman apa yang harus ditanam kolonismu di zona tumbuh.\n\n1. Klik kanan untuk keluar dari mode arsitek.\n2. Klik zona tumbuhmu untuk memilihnya.\n3. Klik pemilih tanaman di bawah dan ubah menjadi padi.</SetToGrowRice.text>
+  <SetToGrowRice.rejectInputMessage>Silakan tetapkan zona tumbuhmu untuk menanam padi.</SetToGrowRice.rejectInputMessage>
+  <SetToGrowRice.onMapInstruction>Tetapkan zona tumbuh ini untuk menanam padi</SetToGrowRice.onMapInstruction>
 
-  <MineSteel.text>Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining.</MineSteel.text>
-  <MineSteel.rejectInputMessage>Please use the 'mine' designator on the compacted steel.</MineSteel.rejectInputMessage>
-  <MineSteel.onMapInstruction>Designate all this\nfor mining</MineSteel.onMapInstruction>
+  <EquipWeapons.text>Biarkan kolonismu melengkapi senjata awal. Untuk melengkapi senjata:\n\n1. Klik seorang kolonis untuk memilihnya.\n2. Klik kanan senjata yang ingin kamu lengkapi.\n3. Klik 'lengkapi senjata' di menu konteks.\n\nLakukan ini untuk setiap kolonis.</EquipWeapons.text>
+  <EquipWeapons.rejectInputMessage>Silakan lengkapi kolonismu dengan senjata.</EquipWeapons.rejectInputMessage>
+  <EquipWeapons.onMapInstruction>Lengkapi ini</EquipWeapons.onMapInstruction>
 
-  <ChopTrees.text>You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.)</ChopTrees.text>
-  <ChopTrees.rejectInputMessage>Please drag the 'chop wood' designator over some trees.</ChopTrees.rejectInputMessage>
+  <BuildFueledStove.text>Bagus!\n\nSekarang kamu akan membutuhkan kompor untuk memasak makanan.\n\nBangun KOMPOR BAHAN BAKAR di dalam ruangan.</BuildFueledStove.text>
+  <BuildFueledStove.rejectInputMessage>Silakan buat kompor bahan bakar di dalam ruangan yang kamu bangun sebelumnya.</BuildFueledStove.rejectInputMessage>
+  <BuildFueledStove.onMapInstruction>Bangun kompor bahan bakar di dalam ruangan</BuildFueledStove.onMapInstruction>
 
-  <OpenMainTabWork.text>You can control which colonist does what kind of work.\n\nOpen the WORK tab at the bottom of the screen.</OpenMainTabWork.text>
-  <OpenMainTabWork.rejectInputMessage>Please open the 'Work' tab.</OpenMainTabWork.rejectInputMessage>
+  <AddBillSimpleMeal.text>Kolonismu perlu diberitahu apa yang harus dimasak.\n\nPerintah memasak ditambahkan di kompor itu sendiri. Setelah tagihan dibuat, kolonis akan bekerja secara otomatis.\n\n1. Tunggu kompor dibangun.\n2. Klik kompor untuk memilihnya.\n3. Buka tab BILLS.\n4. Klik TAMBAH TAGIHAN.\n5. Pilih MASAKAN SEDERHANA di menu konteks.\n6. Klik tombol + untuk meningkatkan jumlahnya menjadi 10.\n\nIngat, kamu bisa mempercepat waktu jika pembangunannya terlalu lama.\n\nKamu juga bisa memilih kolonis dan klik kanan kompor untuk memprioritaskan pembangunannya.</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.rejectInputMessage>Silakan tambahkan tagihan untuk memasak makanan sederhana di kompor memasakmu.</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.onMapInstruction>Pilih ini</AddBillSimpleMeal.onMapInstruction>
 
-  <ChangeWorkSettings.text>You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often!</ChangeWorkSettings.text>
-  <ChangeWorkSettings.rejectInputMessage>Please open the 'Work' tab and change some settings.</ChangeWorkSettings.rejectInputMessage>
+  <MineSteel.text>Sekarang kolonismu akan memasak makanan! Lezat!\n\nSelanjutnya, kamu akan ingin menambang beberapa mineral. Saya telah menempatkan baja yang dapat ditambang di dekat basismu.\n\nPilih penanda TAMBANG dan seret ke baja untuk menandainya untuk ditambang.</MineSteel.text>
+  <MineSteel.rejectInputMessage>Silakan gunakan penanda 'tambang' pada baja yang padat.</MineSteel.rejectInputMessage>
+  <MineSteel.onMapInstruction>Tandai semua ini\nuntuk ditambang</MineSteel.onMapInstruction>
 
-  <BuildSimpleResearchBench.text>To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room.</BuildSimpleResearchBench.text>
-  <BuildSimpleResearchBench.rejectInputMessage>Please place a wooden simple research bench inside the room you built earlier.</BuildSimpleResearchBench.rejectInputMessage>
-  <BuildSimpleResearchBench.onMapInstruction>Build a wooden simple research bench\ninside the room</BuildSimpleResearchBench.onMapInstruction>
+  <ChopTrees.text>Kamu akan ingin memanen kayu. Tandai beberapa pohon untuk ditebang.\n\nPilih penanda TEBANG POHON dan tandai 10 pohon untuk ditebang.\n\n(Tip pro: Kamu bisa menyeret kotak di atas pohon untuk menandai beberapa sekaligus.)</ChopTrees.text>
+  <ChopTrees.rejectInputMessage>Silakan seret penanda 'tebang pohon' ke beberapa pohon.</ChopTrees.rejectInputMessage>
 
-  <OpenMainTabResearch.text>Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab.</OpenMainTabResearch.text>
-  <OpenMainTabResearch.rejectInputMessage>Please open the 'Research' tab.</OpenMainTabResearch.rejectInputMessage>
+  <OpenMainTabWork.text>Kamu bisa mengontrol kolonis mana yang melakukan jenis pekerjaan apa.\n\nBuka tab TUGAS di bagian bawah layar.</OpenMainTabWork.text>
+  <OpenMainTabWork.rejectInputMessage>Silakan buka tab 'Tugas'.</OpenMainTabWork.rejectInputMessage>
 
-  <SelectResearchProject.text>Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct.</SelectResearchProject.text>
-  <SelectResearchProject.rejectInputMessage>Please choose a research project.</SelectResearchProject.rejectInputMessage>
+  <ChangeWorkSettings.text>Kamu bisa mengontrol siapa yang melakukan jenis pekerjaan apa menggunakan kotak centang. Kolonis akan melakukan tugas sesuai urutan, dari kiri ke kanan.\n\nCoba ubah beberapa pengaturan sekarang.\n\nIngat - Kolonis selalu mengikuti prioritas pekerjaan mereka, bahkan jika ini membuat mereka melakukan hal-hal bodoh! Menetapkan skema kerja yang cerdas adalah keterampilan penting di RimWorld. Jadi atur pengaturan pekerjaan dengan hati-hati, dan tinjau sesering mungkin!</ChangeWorkSettings.text>
+  <ChangeWorkSettings.rejectInputMessage>Silakan buka tab 'Pekerjaan' dan ubah beberapa pengaturan.</ChangeWorkSettings.rejectInputMessage>
 
-  <ExpandAreaHome.text>Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map.</ExpandAreaHome.text>
-  <ExpandAreaHome.rejectInputMessage>Please expand the home area a bit, just for practice.</ExpandAreaHome.rejectInputMessage>
+  <BuildSimpleResearchBench.text>Untuk maju, kamu akan perlu meneliti teknologi baru.\n\nBangun BANGKU PENELITIAN SEDERHANA dari kayu di dalam ruanganmu.</BuildSimpleResearchBench.text>
+  <BuildSimpleResearchBench.rejectInputMessage>Silakan tempatkan bangku penelitian sederhana dari kayu di dalam ruangan yang kamu bangun sebelumnya.</BuildSimpleResearchBench.rejectInputMessage>
+  <BuildSimpleResearchBench.onMapInstruction>Bangun bangku penelitian sederhana dari kayu\ndi dalam ruangan</BuildSimpleResearchBench.onMapInstruction>
 
-  <ExpandAreaBuildRoof.text>The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house.</ExpandAreaBuildRoof.text>
-  <ExpandAreaBuildRoof.rejectInputMessage>Please expand the build roof area a bit, just for practice.</ExpandAreaBuildRoof.rejectInputMessage>
+  <OpenMainTabResearch.text>Bagus! Selanjutnya, kamu akan ingin memilih apa yang ingin diteliti.\n\nBuka tab RESEARCH.</OpenMainTabResearch.text>
+  <OpenMainTabResearch.rejectInputMessage>Silakan buka tab 'Penelitian'.</OpenMainTabResearch.rejectInputMessage>
 
-  <BuildSandbags.text>Great! You've now got a basic colony running! Eventually, enemies will raid your colony. It's time to prepare for that.\n\nSelect the SANDBAGS designator and drag the sandbags out at the designated area.</BuildSandbags.text>
-  <BuildSandbags.rejectInputMessage>Please build sandbags in the highlighted area.</BuildSandbags.rejectInputMessage>
-  <BuildSandbags.onMapInstruction>Build sandbags here</BuildSandbags.onMapInstruction>
+  <SelectResearchProject.text>Sekarang pilih saja apa yang ingin kamu teliti terlebih dahulu.\n\nKamu mungkin harus menunggu bangku penelitian dibangun, atau pohon ditebang untuk kayu.\n\nJika terlalu lama, gunakan tab WORK untuk menugaskan lebih banyak kolonis untuk membangun.</SelectResearchProject.text>
+  <SelectResearchProject.rejectInputMessage>Silakan pilih proyek penelitian.</SelectResearchProject.rejectInputMessage>
 
-  <FinishSandbags.text>Let's just wait for all your constructions to be built.\n\nConsider using the WORK tab to assign more colonists to Construct.\n\nAlso, you can speed up time to shorten the wait.\n\nOnce everything's built, I'll send an attacker to test your defenses!</FinishSandbags.text>
-  <FinishSandbags.rejectInputMessage>Please wait for your colonists to finish building the sandbags.</FinishSandbags.rejectInputMessage>
+  <ExpandAreaHome.text>Selanjutnya, kamu akan belajar memperluas AREA RUMAH.\n\nKolonis akan membersihkan lantai dan memadamkan api hanya di area rumah, dan mengabaikan api atau kotoran di luar area itu.\n\nArea rumah ditambahkan secara otomatis ketika kamu membangun sesuatu - tapi kamu juga bisa memperluasnya secara manual.\n\nPilih alat lUASKAN AREA RUMAH dan seret area baru di peta.</ExpandAreaHome.text>
+  <ExpandAreaHome.rejectInputMessage>Silakan perluas area rumah sedikit, untuk latihan.</ExpandAreaHome.rejectInputMessage>
 
-  <DownRaider.text>I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically.</DownRaider.text>
-  <DownRaider.rejectInputMessage>Please focus on winning the fight!</DownRaider.rejectInputMessage>
-  <DownRaider.onMapInstruction>Send colonists here\ntouching sandbags for cover</DownRaider.onMapInstruction>
+  <ExpandAreaBuildRoof.text>AREA BANGUN ATAP mendefinisikan di mana kolonismu akan mencoba membangun atap.\n\nIni terisi otomatis ketika kamu menutup ruangan baru.\n\nPilih alat LUASKAN AREA BANGUN ATAP dan seret bentuk atap teras di depan rumah.</ExpandAreaBuildRoof.text>
+  <ExpandAreaBuildRoof.rejectInputMessage>Silakan perluas area bangun atap sedikit, untuk latihan.</ExpandAreaBuildRoof.rejectInputMessage>
 
-  <UndraftAll.text>Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules.</UndraftAll.text>
-  <UndraftAll.rejectInputMessage>Please un-draft your colonists.</UndraftAll.rejectInputMessage>
+  <BuildSandbags.text>Hebat! Sekarang kamu memiliki koloni dasar yang berjalan! Akhirnya, musuh akan menyerang kolonimu. Saatnya untuk bersiap.\n\nPilih penanda SANDBAGS dan seret sandbag di area yang ditunjuk.</BuildSandbags.text>
+  <BuildSandbags.rejectInputMessage>Silakan buat sandbag di area yang disorot.</BuildSandbags.rejectInputMessage>
+  <BuildSandbags.onMapInstruction>Bangun sandbag di sini</BuildSandbags.onMapInstruction>
 
-  <ChooseStoryteller.text>This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun.</ChooseStoryteller.text>
-  <ChooseStoryteller.rejectInputMessage>Please choose a storyteller in the Options menu to end the tutorial.</ChooseStoryteller.rejectInputMessage>
+  <FinishSandbags.text>Biarkan semua konstruksi selesai dibangun.\n\nPertimbangkan menggunakan tab PEKERJAAN untuk menugaskan lebih banyak kolonis untuk membangun.\n\nKamu juga bisa mempercepat waktu untuk memperpendek waktu tunggu.\n\nSetelah semuanya selesai dibangun, saya akan mengirim penyerang untuk menguji pertahananmu!</FinishSandbags.text>
+  <FinishSandbags.rejectInputMessage>Silakan tunggu sampai kolonis selesai membangun sandbag.</FinishSandbags.rejectInputMessage>
 
+  <DownRaider.text>Saya telah mengirim penyerang untuk menyerang kolonimu!\n\n1. Hentikan permainan dengan menekan tombol {Key:TogglePause}!\n2. Baca surat merah di kanan bawah layar.\n3. DRAF kolonismu dengan memilih mereka dan menekan perintah DRAF.\n4. Klik kanan untuk menggerakkan mereka ke posisi di dalam kotak sandbag, menyentuh sandbag.\n5. Lanjutkan.\n\nKolonis harus menyentuh perlindungan untuk mendapatkan manfaat darinya. Setelah kamu berada di perlindungan, tunggu penyerang mendekat. Kolonismu akan menembak otomatis.</DownRaider.text>
+  <DownRaider.rejectInputMessage>Silakan fokus untuk memenangkan pertarungan!</DownRaider.rejectInputMessage>
+  <DownRaider.onMapInstruction>Kirim kolonis ke sini\nmenyentuh sandbag untuk perlindungan</DownRaider.onMapInstruction>
+
+  <UndraftAll.text>Sukses! Sekarang lepaskan DRAF semua kolonis menggunakan perintah yang sama seperti sebelumnya.\n\nIni akan membiarkan mereka kembali ke jadwal mereka sendiri.</UndraftAll.text>
+  <UndraftAll.rejectInputMessage>Silakan lepaskan kolonismu dari DRAF.</UndraftAll.rejectInputMessage>
+
+  <ChooseStoryteller.text>Ini adalah akhir dari tutorial!\n\nMasih banyak lagi yang bisa dipelajari, termasuk tahanan, berburu, perdagangan, menjinakkan hewan, dan banyak lagi. Tapi kamu sudah mendapatkan dasarnya.\n\nKejadian acak dinonaktifkan selama tutorial ini. Untuk memulai permainan sesungguhnya:\n\n1. Buka tab MENU di kanan bawah.\n2. Pilih OPTIONS.\n3. Klik STORYTELLER SETTINGS.\n4. Pilih seorang pencerita dan tingkat kesulitan yang menarik bagimu.\n\nSemoga beruntung, dan selamat bersenang-senang.</ChooseStoryteller.text>
+  <ChooseStoryteller.rejectInputMessage>Silakan pilih pencerita di menu Pengaturan untuk mengakhiri tutorial.</ChooseStoryteller.rejectInputMessage>
 
 </LanguageData>
