@@ -1,11 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Nuzzle.reportString>nuzzling TargetA.</Nuzzle.reportString>
-  <Mate.reportString>mating with TargetA.</Mate.reportString>
-  <LayEgg.reportString>laying egg.</LayEgg.reportString>
-  <PredatorHunt.reportString>hunting TargetA.</PredatorHunt.reportString>
-  <Maintain.reportString>maintaining TargetA.</Maintain.reportString>
-
+  <Nuzzle.reportString>mengelus TargetA.</Nuzzle.reportString>
+  <Mate.reportString>berkawin dengan TargetA.</Mate.reportString>
+  <LayEgg.reportString>bertelur.</LayEgg.reportString>
+  <PredatorHunt.reportString>berburu TargetA.</PredatorHunt.reportString>
+  <Maintain.reportString>memelihara TargetA.</Maintain.reportString>
 
 </LanguageData>
