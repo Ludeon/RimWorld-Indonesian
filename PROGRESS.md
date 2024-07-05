@@ -44,7 +44,7 @@
   - [x] Concepts_NotedSelfshow.xml
   - [x] Concepts_TriggeredModal.xml
   - [x] Example_Concepts.xml
-- [ ] DamageDef/
+- [x] DamageDef/
   - [x] Damages_Environmental.xml
   - [x] Damages_Medical.xml
   - [x] Damages_MeleeWeapon.xml
@@ -57,12 +57,12 @@
   - [ ] Difficulties.xml
 - [ ] ExpectationDef/
   - [ ] Expectations.xml
-- [ ] FactionDef/
+- [x] FactionDef/
   - [x] Factions_Hidden.xml
-  - [ ] Factions_Misc.xml
+  - [x] Factions_Misc.xml
   - [x] Factions_Player.xml
-- [ ] GameConditionDef/
-  - [ ] GameConditions_Misc.xml
+- [x] GameConditionDef/
+  - [x] GameConditions_Misc.xml
 - [ ] HairDef/
   - [ ] HairsGeneral.xml
 - [ ] HediffDef/
@@ -100,17 +100,17 @@
   - [ ] Incidents_Map_Threats.xml
   - [ ] Incidents_World_Conditions.xml
   - [ ] Incidents_World_Quests.xml
-- [ ] InspirationDef/
-  - [ ] Inspirations.xml
-- [ ] InstructionDef/
-  - [ ] Instructions.xml
+- [x] InspirationDef/
+  - [x] Inspirations.xml
+- [x] InstructionDef/
+  - [x] Instructions.xml
 - [ ] InteractionDef/
   - [ ] Interactions_Animal.xml
   - [ ] Interactions_Prisoner.xml
   - [ ] Interactions_Romance.xml
   - [ ] Interactions_Social.xml
 - [ ] JobDef/
-  - [ ] Jobs_Animal.xml
+  - [x] Jobs_Animal.xml
   - [ ] Jobs_Caravan.xml
   - [ ] Jobs_Gatherings.xml
   - [ ] Jobs_Joy.xml
