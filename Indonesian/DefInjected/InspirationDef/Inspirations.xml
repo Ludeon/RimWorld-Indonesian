@@ -1,40 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Frenzy_Work.label>work frenzy</Frenzy_Work.label>
-  <Frenzy_Work.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will work faster for the next 8 days.</Frenzy_Work.beginLetter>
-  <Frenzy_Work.endMessage>{0} is no longer inspired (work frenzy).</Frenzy_Work.endMessage>
-  <Frenzy_Work.baseInspectLine>Inspired: Work frenzy</Frenzy_Work.baseInspectLine>
+  <Frenzy_Work.label>Semangat Bekerja</Frenzy_Work.label>
+  <Frenzy_Work.beginLetter>[PAWN_nameIndef] mengalami inspirasi yang kuat!\n\n[PAWN_pronoun] akan bekerja lebih cepat sampai 8 hari ke depan.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.endMessage>{0} telah kehilangan inspirasi (semangat bekerja).</Frenzy_Work.endMessage>
+  <Frenzy_Work.baseInspectLine>Inspirai: Semangat bekerja</Frenzy_Work.baseInspectLine>
 
-  <Frenzy_Go.label>go frenzy</Frenzy_Go.label>
-  <Frenzy_Go.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will move faster for the next 8 days.</Frenzy_Go.beginLetter>
-  <Frenzy_Go.endMessage>{0} is no longer inspired (go frenzy).</Frenzy_Go.endMessage>
-  <Frenzy_Go.baseInspectLine>Inspired: Go frenzy</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.label>Bersemangat</Frenzy_Go.label>
+  <Frenzy_Go.beginLetter>[PAWN_nameIndef] mengalami inspirasi yang kuat!\n\n[PAWN_pronoun] akan bergerak lebih cepat sampai 8 hari ke depan.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.endMessage>{0} telah kehilangan inspirasi (bersemangat).</Frenzy_Go.endMessage>
+  <Frenzy_Go.baseInspectLine>Inspirasi: Bersemangat</Frenzy_Go.baseInspectLine>
 
-  <Frenzy_Shoot.label>shoot frenzy</Frenzy_Shoot.label>
-  <Frenzy_Shoot.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will shoot more accurately for the next 8 days.</Frenzy_Shoot.beginLetter>
-  <Frenzy_Shoot.endMessage>{0} is no longer inspired (shoot frenzy).</Frenzy_Shoot.endMessage>
-  <Frenzy_Shoot.baseInspectLine>Inspired: Shoot frenzy</Frenzy_Shoot.baseInspectLine>
+  <Frenzy_Shoot.label>Semangat Menembak</Frenzy_Shoot.label>
+  <Frenzy_Shoot.beginLetter>[PAWN_nameIndef] mengalami inspirasi yang kuat!\n\n[PAWN_pronoun] akan menembak lebih akurat sampai 8 hari ke depan.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.endMessage>{0} telah kehilangan inspirasi (semangat menembak).</Frenzy_Shoot.endMessage>
+  <Frenzy_Shoot.baseInspectLine>Inspirasi: Semangat menembak</Frenzy_Shoot.baseInspectLine>
 
-  <Inspired_Trade.label>inspired trade</Inspired_Trade.label>
-  <Inspired_Trade.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done.</Inspired_Trade.beginLetter>
-  <Inspired_Trade.endMessage>{0} is no longer inspired (inspired trade).</Inspired_Trade.endMessage>
-  <Inspired_Trade.baseInspectLine>Inspired: Inspired trade</Inspired_Trade.baseInspectLine>
+  <Inspired_Trade.label>Inspirasi Berdagang</Inspired_Trade.label>
+  <Inspired_Trade.beginLetter>[PAWN_nameIndef] mengalami inspirasi yang kuat!\n\n[PAWN_pronoun] akan mendapatkan bonus harga perdagangan yang signifikan saat menutup kesepakatan perdagangan berikutnya. Inspirasi ini akan berakhir setelah 8 hari, atau ketika kesepakatan selesai.</Inspired_Trade.beginLetter>
+  <Inspired_Trade.endMessage>{0} tidak lagi terinspirasi (inspirasi berdagang).</Inspired_Trade.endMessage>
+  <Inspired_Trade.baseInspectLine>Inspirasi: Inspirasi berdagang</Inspired_Trade.baseInspectLine>
 
-  <Inspired_Recruitment.label>inspired recruitment</Inspired_Recruitment.label>
-  <Inspired_Recruitment.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited.</Inspired_Recruitment.beginLetter>
-  <Inspired_Recruitment.endMessage>{0} is no longer inspired (inspired recruitment).</Inspired_Recruitment.endMessage>
-  <Inspired_Recruitment.baseInspectLine>Inspired: Inspired recruitment</Inspired_Recruitment.baseInspectLine>
+  <Inspired_Recruitment.label>Inspirasi Merekrut</Inspired_Recruitment.label>
+  <Inspired_Recruitment.beginLetter>[PAWN_nameIndef] mengalami inspirasi yang kuat!\n\n[PAWN_pronoun] akan berhasil merekrut tahanan berikutnya terlepas dari kesulitan atau perlawanan.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.endMessage>{0} tidak lagi terinspirasi (inspirasi merekrut).</Inspired_Recruitment.endMessage>
+  <Inspired_Recruitment.baseInspectLine>Inspirasi: Inspirasi merekrut</Inspired_Recruitment.baseInspectLine>
 
-  <Inspired_Surgery.label>inspired surgery</Inspired_Surgery.label>
-  <Inspired_Surgery.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed.</Inspired_Surgery.beginLetter>
-  <Inspired_Surgery.endMessage>{0} is no longer inspired (inspired surgery).</Inspired_Surgery.endMessage>
-  <Inspired_Surgery.baseInspectLine>Inspired: Inspired surgery</Inspired_Surgery.baseInspectLine>
+  <Inspired_Surgery.label>Inspirasi Membedah</Inspired_Surgery.label>
+  <Inspired_Surgery.beginLetter>[PAWN_nameIndef] telah mengalami sebuah inspirasi!Saat [PAWN_pronoun] melakukan operasi, peluang keberhasilannya akan berlipat ganda. Namun, masih ada sedikit kemungkinan kegagalan yang tetap berlaku.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.endMessage>{0} telah kehilangan inspirasi (inspirasi membedah).</Inspired_Surgery.endMessage>
+  <Inspired_Surgery.baseInspectLine>Inspirasi: Inspirasi membedah</Inspired_Surgery.baseInspectLine>
 
-  <Inspired_Creativity.label>inspired creativity</Inspired_Creativity.label>
-  <Inspired_Creativity.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\nThe next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed.</Inspired_Creativity.beginLetter>
-  <Inspired_Creativity.endMessage>{0} is no longer inspired (inspired creativity).</Inspired_Creativity.endMessage>
-  <Inspired_Creativity.baseInspectLine>Inspired: Inspired creativity</Inspired_Creativity.baseInspectLine>
+  <Inspired_Creativity.label>Inspirasi Kreativitas</Inspired_Creativity.label>
+  <Inspired_Creativity.beginLetter>[PAWN_nameIndef] telah mengalami sebuah inspirasi!\n\nItem, karya seni, atau furnitur berikutnya yang dibuat oleh [PAWN_pronoun] akan memiliki kualitas dua tingkat lebih tinggi daripada biasanya. Ini bahkan memungkinkan pembuatan item legendaris.\n\nInspirasi ini akan berakhir setelah 8 hari, atau ketika pembuatan selesai.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.endMessage>{0} tidak lagi terinspirasi (inspirasi kreativitas).</Inspired_Creativity.endMessage>
+  <Inspired_Creativity.baseInspectLine>Inspirasi: Inspirasi Kreativitas</Inspired_Creativity.baseInspectLine>
 
 
 </LanguageData>
