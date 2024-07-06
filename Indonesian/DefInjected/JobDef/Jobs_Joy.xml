@@ -1,33 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Meditative -->
 
-  <Skygaze.reportString>skygazing.</Skygaze.reportString>
-  <Meditate.reportString>meditating.</Meditate.reportString>
-  <Pray.reportString>praying.</Pray.reportString>
-  <GoForWalk.reportString>going for a walk.</GoForWalk.reportString>
-  <BuildSnowman.reportString>building snowman.</BuildSnowman.reportString>
-  <VisitGrave.reportString>visiting grave.</VisitGrave.reportString>
-  <ViewArt.reportString>viewing art.</ViewArt.reportString>
+  <Skygaze.reportString>melihat langit.</Skygaze.reportString>
+  <Meditate.reportString>bermeditasi.</Meditate.reportString>
+  <Pray.reportString>berdoa.</Pray.reportString>
+  <GoForWalk.reportString>berjalan-jalan.</GoForWalk.reportString>
+  <BuildSnowman.reportString>membuat manusia salju.</BuildSnowman.reportString>
+  <VisitGrave.reportString>mengunjungi makam.</VisitGrave.reportString>
+  <ViewArt.reportString>melihat karya seni.</ViewArt.reportString>
 
 
   <!-- Social -->
 
-  <SocialRelax.reportString>relaxing socially.</SocialRelax.reportString>
-  <VisitSickPawn.reportString>cheering up patient TargetA.</VisitSickPawn.reportString>
+  <SocialRelax.reportString>bersantai secara sosial.</SocialRelax.reportString>
+  <VisitSickPawn.reportString>menghibur pasien TargetA.</VisitSickPawn.reportString>
 
 
   <!-- Building interaction -->
 
-  <Play_Horseshoes.reportString>playing horseshoes.</Play_Horseshoes.reportString>
-  <Play_Hoopstone.reportString>playing hoopstone.</Play_Hoopstone.reportString>
-  <Play_GameOfUr.reportString>playing the game of Ur.</Play_GameOfUr.reportString>
-  <Play_Chess.reportString>playing chess.</Play_Chess.reportString>
-  <Play_Billiards.reportString>playing billiards.</Play_Billiards.reportString>
-  <Play_Poker.reportString>playing poker.</Play_Poker.reportString>
-  <WatchTelevision.reportString>watching television.</WatchTelevision.reportString>
-  <UseTelescope.reportString>using telescope.</UseTelescope.reportString>
+  <Play_Horseshoes.reportString>bermain kuda-kudaan.</Play_Horseshoes.reportString>
+  <Play_Hoopstone.reportString>bermain hoopstone.</Play_Hoopstone.reportString>
+  <Play_GameOfUr.reportString>bermain permainan Ur.</Play_GameOfUr.reportString>
+  <Play_Chess.reportString>bermain catur.</Play_Chess.reportString>
+  <Play_Billiards.reportString>bermain biliar.</Play_Billiards.reportString>
+  <Play_Poker.reportString>bermain poker.</Play_Poker.reportString>
+  <WatchTelevision.reportString>menonton televisi.</WatchTelevision.reportString>
+  <UseTelescope.reportString>menggunakan teleskop.</UseTelescope.reportString>
 
 
 </LanguageData>
