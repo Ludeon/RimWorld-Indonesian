@@ -109,18 +109,18 @@
   - [ ] Interactions_Prisoner.xml
   - [ ] Interactions_Romance.xml
   - [ ] Interactions_Social.xml
-- [ ] JobDef/
+- [x] JobDef/
   - [x] Jobs_Animal.xml
-  - [ ] Jobs_Caravan.xml
-  - [ ] Jobs_Gatherings.xml
-  - [ ] Jobs_Joy.xml
-  - [ ] Jobs_Misc.xml
-  - [ ] Jobs_Work.xml
-- [ ] JoyKindDef/
-  - [ ] JoyKinds.xml
-- [ ] KeyBindingCategoryDef/
-  - [ ] KeyBindingCategories.xml
-  - [ ] KeyBindingCategories_Add_Architect.xml
+  - [x] Jobs_Caravan.xml
+  - [x] Jobs_Gatherings.xml
+  - [x] Jobs_Joy.xml
+  - [x] Jobs_Misc.xml
+  - [x] Jobs_Work.xml
+- [x] JoyKindDef/
+  - [x] JoyKinds.xml
+- [x] KeyBindingCategoryDef/
+  - [x] KeyBindingCategories.xml
+  - [x] KeyBindingCategories_Add_Architect.xml
 - [ ] LifeStageDef/
   - [ ] LifeStages.xml
 - [ ] MainButtonDef/
