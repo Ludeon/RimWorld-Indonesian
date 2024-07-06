@@ -1,29 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GameMapCamera.label>camera</GameMapCamera.label>
-  <GameMapCamera.description>Controls for the camera.</GameMapCamera.description>
+  <GameMapCamera.label>kamera</GameMapCamera.label>
+  <GameMapCamera.description>Kontrol untuk kamera.</GameMapCamera.description>
 
-  <Game.label>in-game global</Game.label>
-  <Game.description>Colony mode controls that apply in most situations.</Game.description>
+  <Game.label>global dalam game</Game.label>
+  <Game.description>Kontrol mode koloni yang berlaku dalam sebagian besar situasi.</Game.description>
 
-  <SelectionMisc.label>misc</SelectionMisc.label>
-  <SelectionMisc.description>Generic controls that are re-used by many items and objects throughout the game.</SelectionMisc.description>
+  <SelectionMisc.label>lain-lain</SelectionMisc.label>
+  <SelectionMisc.description>Kontrol generik yang digunakan kembali oleh banyak item dan objek di seluruh game.</SelectionMisc.description>
 
-  <SelectionSpecial.label>special</SelectionSpecial.label>
-  <SelectionSpecial.description>Special controls reserved for specific functions on specific objects.</SelectionSpecial.description>
+  <SelectionSpecial.label>khusus</SelectionSpecial.label>
+  <SelectionSpecial.description>Kontrol khusus yang dicadangkan untuk fungsi spesifik pada objek tertentu.</SelectionSpecial.description>
 
-  <Architect.label>architect</Architect.label>
-  <Architect.description>General-use controls for the architect mode menu.</Architect.description>
+  <Architect.label>arsitek</Architect.label>
+  <Architect.description>Kontrol umum untuk menu mode arsitek.</Architect.description>
 
-  <MainTabs.label>main tabs</MainTabs.label>
-  <MainTabs.description>Controls for the main tabs.</MainTabs.description>
+  <MainTabs.label>tab utama</MainTabs.label>
+  <MainTabs.description>Kontrol untuk tab utama.</MainTabs.description>
 
-  <Modifiers.label>modifiers</Modifiers.label>
-  <Modifiers.description>Controls used to modify other actions.</Modifiers.description>
+  <Modifiers.label>pengubah</Modifiers.label>
+  <Modifiers.description>Kontrol yang digunakan untuk memodifikasi tindakan lain.</Modifiers.description>
 
-  <Development.label>developer tools</Development.label>
-  <Development.description>Controls for developers and modders. Active in development mode only.</Development.description>
-
+  <Development.label>alat pengembang</Development.label>
+  <Development.description>Kontrol untuk pengembang dan modder. Aktif hanya dalam mode pengembangan.</Development.description>
 
 </LanguageData>
