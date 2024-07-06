@@ -1,79 +1,79 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Item hauling -->
 
-  <HaulToCell.reportString>hauling TargetA.</HaulToCell.reportString>
-  <HaulToContainer.reportString>hauling TargetA.</HaulToContainer.reportString>
+  <HaulToCell.reportString>mengangkut TargetA.</HaulToCell.reportString>
+  <HaulToContainer.reportString>mengangkut TargetA.</HaulToContainer.reportString>
 
 
   <!-- Special hauling -->
 
-  <Steal.reportString>stealing TargetA.</Steal.reportString>
-  <Kidnap.reportString>kidnapping TargetA.</Kidnap.reportString>
-  <CarryDownedPawnToExit.reportString>carrying TargetA.</CarryDownedPawnToExit.reportString>
+  <Steal.reportString>mencuri TargetA.</Steal.reportString>
+  <Kidnap.reportString>menculik TargetA.</Kidnap.reportString>
+  <CarryDownedPawnToExit.reportString>membawa TargetA.</CarryDownedPawnToExit.reportString>
 
 
   <!-- Pawn hauling -->
 
-  <Rescue.reportString>rescuing TargetA.</Rescue.reportString>
-  <CarryToCryptosleepCasket.reportString>carrying TargetA to cryptosleep casket.</CarryToCryptosleepCasket.reportString>
-  <Capture.reportString>capturing TargetA.</Capture.reportString>
-  <Arrest.reportString>arresting TargetA.</Arrest.reportString>
-  <ReleasePrisoner.reportString>releasing TargetA.</ReleasePrisoner.reportString>
-  <EscortPrisonerToBed.reportString>escorting prisoner TargetA.</EscortPrisonerToBed.reportString>
-  <TakeWoundedPrisonerToBed.reportString>taking wounded prisoner TargetA.</TakeWoundedPrisonerToBed.reportString>
-  <TakeToBedToOperate.reportString>taking TargetA to bed.</TakeToBedToOperate.reportString>
+  <Rescue.reportString>menyelamatkan TargetA.</Rescue.reportString>
+  <CarryToCryptosleepCasket.reportString>membawa TargetA ke peti tidur kripto.</CarryToCryptosleepCasket.reportString>
+  <Capture.reportString>menangkap TargetA.</Capture.reportString>
+  <Arrest.reportString>menangkap TargetA.</Arrest.reportString>
+  <ReleasePrisoner.reportString>membebaskan TargetA.</ReleasePrisoner.reportString>
+  <EscortPrisonerToBed.reportString>mengawal tahanan TargetA.</EscortPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>membawa tahanan yang terluka TargetA.</TakeWoundedPrisonerToBed.reportString>
+  <TakeToBedToOperate.reportString>membawa TargetA ke tempat tidur.</TakeToBedToOperate.reportString>
 
 
   <!-- Animal handling -->
 
-  <Slaughter.reportString>slaughtering TargetA.</Slaughter.reportString>
-  <Milk.reportString>milking TargetA.</Milk.reportString>
-  <Shear.reportString>shearing TargetA.</Shear.reportString>
-  <Tame.reportString>taming TargetA.</Tame.reportString>
-  <Train.reportString>training TargetA.</Train.reportString>
+  <Slaughter.reportString>menyembelih TargetA.</Slaughter.reportString>
+  <Milk.reportString>memerah susu TargetA.</Milk.reportString>
+  <Shear.reportString>mencukur TargetA.</Shear.reportString>
+  <Tame.reportString>menjinakkan TargetA.</Tame.reportString>
+  <Train.reportString>melatih TargetA.</Train.reportString>
 
 
   <!-- Construction and repair -->
 
-  <PlaceNoCostFrame.reportString>building TargetA.</PlaceNoCostFrame.reportString>
-  <FinishFrame.reportString>building TargetA.</FinishFrame.reportString>
-  <Deconstruct.reportString>deconstructing TargetA.</Deconstruct.reportString>
-  <Uninstall.reportString>uninstalling TargetA.</Uninstall.reportString>
-  <Repair.reportString>repairing TargetA.</Repair.reportString>
-  <FixBrokenDownBuilding.reportString>replacing broken components in TargetA.</FixBrokenDownBuilding.reportString>
-  <BuildRoof.reportString>building roof.</BuildRoof.reportString>
-  <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
+  <PlaceNoCostFrame.reportString>membangun TargetA.</PlaceNoCostFrame.reportString>
+  <FinishFrame.reportString>membangun TargetA.</FinishFrame.reportString>
+  <Deconstruct.reportString>membongkar TargetA.</Deconstruct.reportString>
+  <Uninstall.reportString>melepas TargetA.</Uninstall.reportString>
+  <Repair.reportString>memperbaiki TargetA.</Repair.reportString>
+  <FixBrokenDownBuilding.reportString>mengganti komponen yang rusak di TargetA.</FixBrokenDownBuilding.reportString>
+  <BuildRoof.reportString>membangun atap.</BuildRoof.reportString>
+  <RemoveRoof.reportString>melepas atap.</RemoveRoof.reportString>
 
 
   <!-- Medical -->
 
-  <FeedPatient.reportString>feeding TargetA to TargetB.</FeedPatient.reportString>
-  <TendPatient.reportString>tending to TargetA.</TendPatient.reportString>
+  <FeedPatient.reportString>memberi makan TargetA kepada TargetB.</FeedPatient.reportString>
+  <TendPatient.reportString>merawat TargetA.</TendPatient.reportString>
 
 
   <!-- Misc -->
 
-  <DeliverFood.reportString>feeding TargetA to TargetB.</DeliverFood.reportString>
-  <DoBill.reportString>doing bill at TargetA.</DoBill.reportString>
-  <OperateDeepDrill.reportString>drilling at TargetA.</OperateDeepDrill.reportString>
-  <OperateScanner.reportString>scanning at TargetA.</OperateScanner.reportString>
-  <Clean.reportString>cleaning TargetA.</Clean.reportString>
-  <Research.reportString>researching.</Research.reportString>
-  <Hunt.reportString>hunting TargetA.</Hunt.reportString>
-  <UseCommsConsole.reportString>using comms console.</UseCommsConsole.reportString>
-  <Mine.reportString>digging at TargetA.</Mine.reportString>
-  <SmoothFloor.reportString>smoothing floor.</SmoothFloor.reportString>
-  <RemoveFloor.reportString>removing floor.</RemoveFloor.reportString>
-  <SmoothWall.reportString>smoothing wall.</SmoothWall.reportString>
-  <Sow.reportString>sowing TargetA.</Sow.reportString>
-  <Harvest.reportString>harvesting TargetA.</Harvest.reportString>
-  <HarvestDesignated.reportString>harvesting TargetA.</HarvestDesignated.reportString>
-  <CutPlant.reportString>cutting TargetA.</CutPlant.reportString>
-  <CutPlantDesignated.reportString>cutting TargetA.</CutPlantDesignated.reportString>
-  <PrisonerAttemptRecruit.reportString>attempting to recruit TargetA.</PrisonerAttemptRecruit.reportString>
-  <PrisonerExecution.reportString>executing TargetA.</PrisonerExecution.reportString>
+  <DeliverFood.reportString>memberi makan TargetA kepada TargetB.</DeliverFood.reportString>
+  <DoBill.reportString>melaksanakan tugas di TargetA.</DoBill.reportString>
+  <OperateDeepDrill.reportString>mengebor di TargetA.</OperateDeepDrill.reportString>
+  <OperateScanner.reportString>memindai di TargetA.</OperateScanner.reportString>
+  <Clean.reportString>membersihkan TargetA.</Clean.reportString>
+  <Research.reportString>melakukan penelitian.</Research.reportString>
+  <Hunt.reportString>berburu TargetA.</Hunt.reportString>
+  <UseCommsConsole.reportString>menggunakan konsol komunikasi.</UseCommsConsole.reportString>
+  <Mine.reportString>menambang di TargetA.</Mine.reportString>
+  <SmoothFloor.reportString>meratakan lantai.</SmoothFloor.reportString>
+  <RemoveFloor.reportString>menghapus lantai.</RemoveFloor.reportString>
+  <SmoothWall.reportString>meratakan dinding.</SmoothWall.reportString>
+  <Sow.reportString>menanam TargetA.</Sow.reportString>
+  <Harvest.reportString>memanen TargetA.</Harvest.reportString>
+  <HarvestDesignated.reportString>memanen TargetA.</HarvestDesignated.reportString>
+  <CutPlant.reportString>memotong TargetA.</CutPlant.reportString>
+  <CutPlantDesignated.reportString>memotong TargetA.</CutPlantDesignated.reportString>
+  <PrisonerAttemptRecruit.reportString>berusaha merekrut TargetA.</PrisonerAttemptRecruit.reportString>
+  <PrisonerExecution.reportString>mengeksekusi TargetA.</PrisonerExecution.reportString>
 
 
 </LanguageData>
