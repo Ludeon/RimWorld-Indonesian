@@ -1,76 +1,55 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- General -->
 
-  <Goto.reportString>moving.</Goto.reportString>
-  <Follow.reportString>following TargetA.</Follow.reportString>
-  <FollowClose.reportString>following TargetA.</FollowClose.reportString>
-  <GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>
-  <GotoWander.reportString>wandering.</GotoWander.reportString>
-  <Wait.reportString>standing.</Wait.reportString>
-  <Wait_MaintainPosture.reportString>standing.</Wait_MaintainPosture.reportString>
-  <Wait_Downed.reportString>downed.</Wait_Downed.reportString>
-  <Wait_SafeTemperature.reportString>waiting in safe temperature.</Wait_SafeTemperature.reportString>
-  <Wait_Wander.reportString>wandering.</Wait_Wander.reportString>
-  <Wait_Combat.reportString>watching for targets.</Wait_Combat.reportString>
-  <AttackStatic.reportString>attacking TargetA.</AttackStatic.reportString>
-  <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
-  <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
-  <UseVerbOnThing.reportString>Doing something.</UseVerbOnThing.reportString>
-  <Equip.reportString>equipping TargetA.</Equip.reportString>
-  <TakeInventory.reportString>taking TargetA.</TakeInventory.reportString>
-  <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
-  <Wear.reportString>wearing TargetA.</Wear.reportString>
-  <RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
-  <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
-  <Strip.reportString>stripping TargetA.</Strip.reportString>
-  <Open.reportString>opening TargetA.</Open.reportString>
-  <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
-  <RearmTurretAtomic.reportString>rearming TargetA.</RearmTurretAtomic.reportString>
-  <Refuel.reportString>refueling TargetA.</Refuel.reportString>
-  <RefuelAtomic.reportString>refueling TargetA.</RefuelAtomic.reportString>
-  <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
-  <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
-  <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
-  <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
-  <HaulToTransporter.reportString>hauling TargetA.</HaulToTransporter.reportString>
-  <ManTurret.reportString>operating turret.</ManTurret.reportString>
-  <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
-  <UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
-  <UseArtifact.reportString>activating artifact.</UseArtifact.reportString>
-  <UseItem.reportString>using TargetA.</UseItem.reportString>
-  <TriggerFirefoamPopper.reportString>triggering firefoam popper.</TriggerFirefoamPopper.reportString>
-  <ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
-  <Vomit.reportString>vomiting.</Vomit.reportString>
-  <Flick.reportString>flicking switch.</Flick.reportString>
-  <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
-  <Flee.reportString>fleeing.</Flee.reportString>
-  <FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
-  <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
-  <Resurrect.reportString>resurrecting TargetA.</Resurrect.reportString>
-  <Insult.reportString>insulting TargetA.</Insult.reportString>
-  <HaulCorpseToPublicPlace.reportString>hauling TargetA.</HaulCorpseToPublicPlace.reportString>
-  <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
-  <OfferHelp.reportString>helping TargetA.</OfferHelp.reportString>
-
-
-  <!-- Fire -->
-
-  <Ignite.reportString>igniting TargetA.</Ignite.reportString>
-  <BeatFire.reportString>beating fire out.</BeatFire.reportString>
-  <ExtinguishSelf.reportString>extinguishing self.</ExtinguishSelf.reportString>
-
-
-  <!-- Need satisfaction -->
-
-  <Ingest.reportString>consuming TargetA.</Ingest.reportString>
-  <LayDown.reportString>lying down.</LayDown.reportString>
-
-
-  <!-- Love -->
-
-  <Lovin.reportString>lovin'.</Lovin.reportString>
-
-
-</LanguageData>
+  <Goto.reportString>bergerak.</Goto.reportString>
+  <Follow.reportString>mengikuti TargetA.</Follow.reportString>
+  <FollowClose.reportString>mengikuti TargetA.</FollowClose.reportString>
+  <GotoSafeTemperature.reportString>mencari suhu yang aman.</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>berkeliaran.</GotoWander.reportString>
+  <Wait.reportString>berdiri.</Wait.reportString>
+  <Wait_MaintainPosture.reportString>berdiri.</Wait_MaintainPosture.reportString>
+  <Wait_Downed.reportString>terjatuh.</Wait_Downed.reportString>
+  <Wait_SafeTemperature.reportString>menunggu di suhu yang aman.</Wait_SafeTemperature.reportString>
+  <Wait_Wander.reportString>berkeliaran.</Wait_Wander.reportString>
+  <Wait_Combat.reportString>mengawasi target.</Wait_Combat.reportString>
+  <AttackStatic.reportString>menyerang TargetA.</AttackStatic.reportString>
+  <AttackMelee.reportString>menyerang TargetA dengan serangan jarak dekat.</AttackMelee.reportString>
+  <SocialFight.reportString>berkelahi dengan TargetA.</SocialFight.reportString>
+  <UseVerbOnThing.reportString>melakukan sesuatu.</UseVerbOnThing.reportString>
+  <Equip.reportString>melengkapi TargetA.</Equip.reportString>
+  <TakeInventory.reportString>mengambil TargetA.</TakeInventory.reportString>
+  <GiveToPackAnimal.reportString>memberikan TargetA.</GiveToPackAnimal.reportString>
+  <Wear.reportString>memakai TargetA.</Wear.reportString>
+  <RemoveApparel.reportString>melepas TargetA.</RemoveApparel.reportString>
+  <DropEquipment.reportString>menjatuhkan TargetA.</DropEquipment.reportString>
+  <Strip.reportString>mencopot TargetA.</Strip.reportString>
+  <Open.reportString>membuka TargetA.</Open.reportString>
+  <RearmTurret.reportString>memperlengkapi kembali TargetA.</RearmTurret.reportString>
+  <RearmTurretAtomic.reportString>memperlengkapi kembali TargetA.</RearmTurretAtomic.reportString>
+  <Refuel.reportString>mengisi bahan bakar TargetA.</Refuel.reportString>
+  <RefuelAtomic.reportString>mengisi bahan bakar TargetA.</RefuelAtomic.reportString>
+  <FillFermentingBarrel.reportString>mengisi TargetA.</FillFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>mengambil bir dari TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <UnloadInventory.reportString>mengosongkan TargetA.</UnloadInventory.reportString>
+  <UnloadYourInventory.reportString>mengosongkan inventaris.</UnloadYourInventory.reportString>
+  <HaulToTransporter.reportString>mengangkut TargetA.</HaulToTransporter.reportString>
+  <ManTurret.reportString>mengoperasikan turret.</ManTurret.reportString>
+  <EnterCryptosleepCasket.reportString>memasuki peti tidur kripto.</EnterCryptosleepCasket.reportString>
+  <UseNeurotrainer.reportString>menggunakan neurotrainer.</UseNeurotrainer.reportString>
+  <UseArtifact.reportString>mengaktifkan artefak.</UseArtifact.reportString>
+  <UseItem.reportString>menggunakan TargetA.</UseItem.reportString>
+  <TriggerFirefoamPopper.reportString>memicu firefoam popper.</TriggerFirefoamPopper.reportString>
+  <ClearSnow.reportString>membersihkan salju.</ClearSnow.reportString>
+  <Vomit.reportString>muntah.</Vomit.reportString>
+  <Flick.reportString>menghidupkan/mematikan saklar.</Flick.reportString>
+  <TradeWithPawn.reportString>berdagang dengan TargetA.</TradeWithPawn.reportString>
+  <Flee.reportString>melarikan diri.</Flee.reportString>
+  <FleeAndCower.reportString>melarikan diri.</FleeAndCower.reportString>
+  <EnterTransporter.reportString>memasuki TargetA.</EnterTransporter.reportString>
+  <Resurrect.reportString>membangkitkan TargetA.</Resurrect.reportString>
+  <Insult.reportString>menghina TargetA.</Insult.reportString>
+  <HaulCorpseToPublicPlace.reportString>mengangkut TargetA.</HaulCorpseToPublicPlace.reportString>
+  <InducePrisonerToEscape.reportString>mendorong TargetA untuk melarikan diri.</InducePrisonerToEscape.reportString>
+  <OfferHelp.r
