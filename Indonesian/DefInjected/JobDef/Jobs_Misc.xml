@@ -50,6 +50,6 @@
   <EnterTransporter.reportString>memasuki TargetA.</EnterTransporter.reportString>
   <Resurrect.reportString>membangkitkan TargetA.</Resurrect.reportString>
   <Insult.reportString>menghina TargetA.</Insult.reportString>
-  <HaulCorpseToPublicPlace.reportString>mengangkut TargetA.</HaulCorpseToPublicPlace.reportString>
-  <InducePrisonerToEscape.reportString>mendorong TargetA untuk melarikan diri.</InducePrisonerToEscape.reportString>
+  <HaulCorpseToPublicPlace.reportString>menggendong TargetA.</HaulCorpseToPublicPlace.reportString>
+  <InducePrisonerToEscape.reportString>menghasut TargetA untuk melarikan diri.</InducePrisonerToEscape.reportString>
   <OfferHelp.r
