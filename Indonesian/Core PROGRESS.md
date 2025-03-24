@@ -1,8 +1,8 @@
 # Core
 
-**Checklist Yang sudah diTerjemahkan**:
+**Checklist Yang sudah di Terjemahkan**:
 
-  - [ ] README.md
+  - [x] README.md
 - [ ] DefInjected/
 - [ ] DefInjected/ApparelLayerDef/
   - [ ] ApparelLayerDefs.xml
