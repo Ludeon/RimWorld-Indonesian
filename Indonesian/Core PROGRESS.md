@@ -1,6 +1,6 @@
 # Core
 
-**Checklist Konten**:
+**Checklist Terjemahan**:
 
   - [ ] README.md
 - [ ] DefInjected/
