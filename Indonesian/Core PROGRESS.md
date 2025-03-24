@@ -1,6 +1,6 @@
 # Core
 
-**Checklist Terjemahan**:
+**Checklist Yang sudah diTerjemahkan**:
 
   - [ ] README.md
 - [ ] DefInjected/
