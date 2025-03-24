@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Autosaving -->
+  <Autosaving>TODO</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>TODO</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>TODO</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>TODO</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>TODO</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>TODO</DisabledLower>
+
+  <!-- EN: Version {0} -->
+  <VersionIndicator>TODO</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>TODO</GameVersionIndicator>
+  <!-- EN: development build -->
+  <DevelopmentBuildLower>TODO</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
+  <CompiledOn>TODO</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>TODO</LoggedIntoSteamAs>
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>TODO</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>TODO</ToCommaListOr>
+  
+  <!-- General-use words -->
+  <!-- EN: Yes -->
+  <Yes>TODO</Yes>
+  <!-- EN: No -->
+  <No>TODO</No>
+  <!-- EN: No {0} -->
+  <NoSubject>TODO</NoSubject>
+  <!-- EN: new -->
+  <New>TODO</New>
+  <!-- EN: Gender -->
+  <Gender>TODO</Gender>
+  <!-- EN: Sex -->
+  <Sex>TODO</Sex>
+  <!-- EN: min -->
+  <min>TODO</min>
+  <!-- EN: max -->
+  <max>TODO</max>
+  <!-- EN: chance -->
+  <chance>TODO</chance>
+  <!-- EN: context -->
+  <context>TODO</context>
+  <!-- EN: multiplier -->
+  <multiplier>TODO</multiplier>
+  <!-- EN: damage -->
+  <damage>TODO</damage>
+  <!-- EN: radius -->
+  <radius>TODO</radius>
+  <!-- EN: expired -->
+  <expired>TODO</expired>
+  <!-- EN: duration (days) -->
+  <durationDays>TODO</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>TODO</intervalDays>
+  <!-- EN: delay (days) -->
+  <delayDays>TODO</delayDays>
+  <!-- EN: repeat -->
+  <repeat>TODO</repeat>
+  <!-- EN: default -->
+  <default>TODO</default>
+  <!-- EN: distance -->
+  <distance>TODO</distance>
+  <!-- EN: YES -->
+  <YesUppercase>TODO</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>TODO</NoUppercase>
+  <!-- EN: kg -->
+  <kg>TODO</kg>
+  <!-- EN: Day -->
+  <Day>TODO</Day>
+  <!-- EN: day -->
+  <day>TODO</day>
+  <!-- EN: Default -->
+  <Default>TODO</Default>
+  <!-- EN: Average -->
+  <Average>TODO</Average>
+  <!-- EN: Cause -->
+  <Cause>TODO</Cause>
+  <!-- EN: etc -->
+  <Etc>TODO</Etc>
+  <!-- EN: ${0} -->
+  <MoneyFormat>TODO</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>TODO</Factors>
+  <!-- EN: Uses -->
+  <Uses>TODO</Uses>
+  <!-- EN: Translation -->
+  <Translation>TODO</Translation>
+  <!-- EN: min(days) -->
+  <minDays>TODO</minDays>
+  <!-- EN: max(days) -->
+  <maxDays>TODO</maxDays>
+  <!-- EN: Processing -->
+  <Processing>TODO</Processing>
+  <!-- EN: Inspect -->
+  <Inspect>TODO</Inspect> 
+
+  <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
+  <MeatLabel>TODO</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>TODO</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>TODO</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>TODO</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>TODO</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>TODO</Unlocks>
+
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>TODO</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>TODO</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>TODO</DeadLabel>
+
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>TODO</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>TODO</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>TODO</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>TODO</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
+  <SmoothStoneTerrainLabel>TODO</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>TODO</SmoothStoneTerrainDesc>
+
+  <!-- EN:  (blueprint) -->
+  <BlueprintLabelExtra>TODO</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
+  <FrameLabelExtra>TODO</FrameLabelExtra>
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>TODO</FactionUnaffiliated>
+
+  <!-- EN: Continue anyway? -->
+  <StillWishContinue>TODO</StillWishContinue>
+  
+  <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
+  <BabyTalk>TODO</BabyTalk>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>TODO</ThingMadeOfStuffLabel>
+
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>TODO</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>TODO</CouplesRoom>
+  
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  
+  <!-- EN: (various) -->
+  <VariousLabel>TODO</VariousLabel>
+
+  <!-- History events -->
+  <!-- EN: Colonist died -->
+  <ColonistDied>TODO</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>TODO</North>
+  <!-- EN: South -->
+  <South>TODO</South>
+  <!-- EN: West -->
+  <West>TODO</West>
+  <!-- EN: East -->
+  <East>TODO</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>TODO</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>TODO</VariantOf>
+  
+  <!-- Familial relationships -->
+  <!-- EN: born to {0} -->
+  <BornOfParents>TODO</BornOfParents>
+  <!-- EN: unknown parents -->
+  <ParentsUnknown>TODO</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <!-- EN: colonist -->
+  <Colonist>TODO</Colonist>
+
+</LanguageData>
