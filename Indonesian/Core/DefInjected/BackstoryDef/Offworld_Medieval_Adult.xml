@@ -2,66 +2,66 @@
 <LanguageData>
   
   <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
-  <Blacksmith72.description>TODO</Blacksmith72.description>
+  <Blacksmith72.description>Sebagai pandai besi di dunia abad pertengahan, [PAWN_nameDef] mendapatkan reputasi atas kualitas tinggi dari pekerjaan [PAWN_possessive]. [PAWN_pronoun] juga cukup mahir menggunakan pedang yang [PAWN_pronoun] tempa.</Blacksmith72.description>
   <!-- EN: blacksmith -->
-  <Blacksmith72.title>TODO</Blacksmith72.title>
+  <Blacksmith72.title>pandai besi</Blacksmith72.title>
   <!-- EN: blacksmith -->
-  <Blacksmith72.titleShort>TODO</Blacksmith72.titleShort>
+  <Blacksmith72.titleShort>pandai besi</Blacksmith72.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
-  <Herbalist54.description>TODO</Herbalist54.description>
+  <Herbalist54.description>[PAWN_nameDef] tinggal di hutan dekat sebuah desa. Meskipun banyak penduduk desa takut pada [PAWN_objective], penduduk desa yang sakit datang kepada [PAWN_objective] untuk membeli salep dan ramuan yang dibuat dari tumbuhan yang [PAWN_pronoun] tanam di kebun [PAWN_possessive]. [PAWN_pronoun] senang membantu mereka — dengan harga tertentu.</Herbalist54.description>
   <!-- EN: herbalist -->
-  <Herbalist54.title>TODO</Herbalist54.title>
+  <Herbalist54.title>ahli herbal</Herbalist54.title>
   <!-- EN: herbalist -->
-  <Herbalist54.titleShort>TODO</Herbalist54.titleShort>
+  <Herbalist54.titleShort>ahli herbal</Herbalist54.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
-  <MedievalDoctor40.description>TODO</MedievalDoctor40.description>
+  <MedievalDoctor40.description>[PAWN_nameDef] bekerja sebagai dokter di planet abad pertengahan. [PAWN_pronoun] sangat percaya bahwa sebagian besar penyakit dapat disembuhkan dengan sedikit pengeluaran darah.\n\n[PAWN_pronoun] juga seorang ahli anestesi, mengembangkan teknik khusus yang melibatkan pukulan keras ke kepala.</MedievalDoctor40.description>
   <!-- EN: medieval doctor -->
-  <MedievalDoctor40.title>TODO</MedievalDoctor40.title>
+  <MedievalDoctor40.title>dokter abad pertengahan</MedievalDoctor40.title>
   <!-- EN: quack -->
-  <MedievalDoctor40.titleShort>TODO</MedievalDoctor40.titleShort>
+  <MedievalDoctor40.titleShort>tabib</MedievalDoctor40.titleShort>
   
   <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life can leave one  incapable of participating in technology-driven activities. -->
-  <MedievalFarmOaf58.description>TODO</MedievalFarmOaf58.description>
+  <MedievalFarmOaf58.description>Membajak, mencangkul, mengarahkan gerobak sapi, mendorong gerobak dorong. Menggali parit, menanam benih, memprediksi panen.\n\nPetani tingkat abad pertengahan tidak terdidik dalam arti biasa, tetapi mereka tahu banyak tentang menanam tanaman tanpa teknologi. Namun, kehidupan seperti itu dapat membuat seseorang tidak mampu berpartisipasi dalam aktivitas yang digerakkan oleh teknologi.</MedievalFarmOaf58.description>
   <!-- EN: medieval farm oaf -->
-  <MedievalFarmOaf58.title>TODO</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.title>petani abad pertengahan</MedievalFarmOaf58.title>
   <!-- EN: oaf -->
-  <MedievalFarmOaf58.titleShort>TODO</MedievalFarmOaf58.titleShort>
+  <MedievalFarmOaf58.titleShort>petani</MedievalFarmOaf58.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a lord on a pre-industrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a tool once during that entire time. Now, [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
-  <MedievalLord57.description>TODO</MedievalLord57.description>
+  <MedievalLord57.description>[PAWN_nameDef] adalah seorang bangsawan di planet pra-industri. [PAWN_pronoun] menghadiri pesta, mengelola bawahan, dan bahkan belajar bermain pedang.\n\nTangan lembut [PAWN_possessive] tidak pernah memegang alat selama waktu itu. Sekarang, [PAWN_pronoun] menganggap pekerjaan manual tidak layak untuk [PAWN_objective].</MedievalLord57.description>
   <!-- EN: medieval lord -->
-  <MedievalLord57.title>TODO</MedievalLord57.title>
+  <MedievalLord57.title>bangsawan abad pertengahan</MedievalLord57.title>
   <!-- EN: noble -->
-  <MedievalLord57.titleShort>TODO</MedievalLord57.titleShort>
+  <MedievalLord57.titleShort>bangsawan</MedievalLord57.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world and [PAWN_pronoun] could always be found telling stories or singing songs.\n\nThe roads were dangerous, so [PAWN_pronoun] is capable of protecting [PAWN_objective]self. However, [PAWN_pronoun] would always move on when there was hard labour to be done. -->
-  <MedievalMinstrel95.description>TODO</MedievalMinstrel95.description>
+  <MedievalMinstrel95.description>[PAWN_nameDef] adalah seorang penghibur keliling di dunia abad pertengahan dan [PAWN_pronoun] selalu ditemukan bercerita atau menyanyikan lagu.\n\nJalanan berbahaya, jadi [PAWN_pronoun] mampu melindungi diri [PAWN_objective]. Namun, [PAWN_pronoun] selalu pergi ketika ada pekerjaan berat yang harus dilakukan.</MedievalMinstrel95.description>
   <!-- EN: medieval minstrel -->
-  <MedievalMinstrel95.title>TODO</MedievalMinstrel95.title>
+  <MedievalMinstrel95.title>penyair abad pertengahan</MedievalMinstrel95.title>
   <!-- EN: minstrel -->
-  <MedievalMinstrel95.titleShort>TODO</MedievalMinstrel95.titleShort>
+  <MedievalMinstrel95.titleShort>penyair</MedievalMinstrel95.titleShort>
   
   <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected. -->
-  <MedievalSailor97.description>TODO</MedievalSailor97.description>
+  <MedievalSailor97.description>[PAWN_nameDef] menjelajahi lautan dengan kapal kayu, mencari spesimen tumbuhan dan hewan dari tempat-tempat eksotis, dan sesekali melawan bajak laut. [PAWN_pronoun] sangat mencintai laut sehingga [PAWN_pronoun] menolak melakukan apa pun kecuali pekerjaan paling minim di darat, kecuali untuk menjual harta yang [PAWN_pronoun] kumpulkan.</MedievalSailor97.description>
   <!-- EN: medieval sailor -->
-  <MedievalSailor97.title>TODO</MedievalSailor97.title>
+  <MedievalSailor97.title>pelaut abad pertengahan</MedievalSailor97.title>
   <!-- EN: sailor -->
-  <MedievalSailor97.titleShort>TODO</MedievalSailor97.titleShort>
+  <MedievalSailor97.titleShort>pelaut</MedievalSailor97.titleShort>
   
   <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
-  <MessageCarrier77.description>TODO</MessageCarrier77.description>
+  <MessageCarrier77.description>Di dunia abad pertengahan, cara tercepat untuk mengirim pesan adalah memberikannya kepada seseorang yang menunggang kuda dan berharap mereka selamat dalam perjalanan. [PAWN_nameDef] adalah orang itu.</MessageCarrier77.description>
   <!-- EN: message carrier -->
-  <MessageCarrier77.title>TODO</MessageCarrier77.title>
+  <MessageCarrier77.title>pengantar pesan</MessageCarrier77.title>
   <!-- EN: messenger -->
-  <MessageCarrier77.titleShort>TODO</MessageCarrier77.titleShort>
+  <MessageCarrier77.titleShort>kurir</MessageCarrier77.titleShort>
   
   <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
-  <Taster16.description>TODO</Taster16.description>
+  <Taster16.description>Sebagai pencicip makanan untuk seorang raja abad pertengahan, [PAWN_nameDef] mencicipi setiap hidangan yang disajikan di meja kerajaan. [PAWN_pronoun] menjalani gaya hidup mewah di istana, menjadi gemuk dan hampir tidak melakukan pekerjaan nyata.</Taster16.description>
   <!-- EN: taster -->
-  <Taster16.title>TODO</Taster16.title>
+  <Taster16.title>pencicip makanan</Taster16.title>
   <!-- EN: taster -->
-  <Taster16.titleShort>TODO</Taster16.titleShort>
+  <Taster16.titleShort>pencicip</Taster16.titleShort>
   
 </LanguageData>

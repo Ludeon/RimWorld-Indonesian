@@ -2,93 +2,128 @@
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
-  <ClickToJumpToProblem>TODO</ClickToJumpToProblem>
+  <!-- ID: Klik untuk menuju ke masalah -->
+  <ClickToJumpToProblem>Klik untuk menuju ke masalah</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>TODO</BreakRiskMinor>
+  <!-- ID: Risiko gangguan kecil -->
+  <BreakRiskMinor>Risiko Gangguan Kecil</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>TODO</BreakRiskMajor>
+  <!-- ID: Risiko gangguan besar -->
+  <BreakRiskMajor>Risiko Gangguan Besar</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>TODO</BreakRiskExtreme>
+  <!-- ID: Risiko gangguan ekstrem -->
+  <BreakRiskExtreme>Risiko Gangguan Ekstrem</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
-  <BreakRiskMinorDesc>TODO</BreakRiskMinorDesc>
+  <!-- ID: Kolonis ini sedang dalam suasana hati buruk dan mungkin mengalami gangguan mental kecil kapan saja:\n{0} -->
+  <BreakRiskMinorDesc>Kolonis ini sedang dalam suasana hati buruk dan mungkin mengalami gangguan mental kecil kapan saja:\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
-  <BreakRiskMajorDesc>TODO</BreakRiskMajorDesc>
+  <!-- ID: Kolonis ini sedang dalam suasana hati yang sangat buruk dan mungkin mengalami gangguan mental besar kapan saja:\n{0} -->
+  <BreakRiskMajorDesc>Kolonis ini sedang dalam suasana hati yang sangat buruk dan mungkin mengalami gangguan mental besar kapan saja:\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
-  <BreakRiskExtremeDesc>TODO</BreakRiskExtremeDesc>
+  <!-- ID: Kolonis ini sangat tertekan dan mungkin mengalami gangguan mental ekstrem (dan mungkin kekerasan) kapan saja:\n{0} -->
+  <BreakRiskExtremeDesc>Kolonis ini sangat tertekan dan mungkin mengalami gangguan mental ekstrem (dan mungkin kekerasan) kapan saja:\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>TODO</BreakRiskDescEnding>
+  <!-- ID: Periksa tab Kebutuhan kolonis ini untuk melihat apa yang mengganggu mereka.\n\nUntuk membuat kolonis merasa lebih baik, Anda dapat melakukan hal-hal seperti membuat makanan mewah, memberi mereka lebih banyak waktu rekreasi per hari dan objek rekreasi yang lebih baik, menempatkan mereka di lingkungan yang indah, memberi mereka minuman dan rokok, dan banyak lagi. -->
+  <BreakRiskDescEnding>Periksa tab Kebutuhan kolonis ini untuk melihat apa yang mengganggu mereka.\n\nUntuk membuat kolonis merasa lebih baik, Anda dapat melakukan hal-hal seperti membuat makanan mewah, memberi mereka lebih banyak waktu rekreasi per hari dan objek rekreasi yang lebih baik, menempatkan mereka di lingkungan yang indah, memberi mereka minuman dan rokok, dan banyak lagi.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
-  <ColonistNeedsRescue>TODO</ColonistNeedsRescue>
+  <!-- ID: Kolonis membutuhkan Pertolongan -->
+  <ColonistNeedsRescue>Kolonis Membutuhkan Pertolongan</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
-  <ColonistsNeedRescue>TODO</ColonistsNeedRescue>
+  <!-- ID: Kolonis membutuhkan Pertolongan -->
+  <ColonistsNeedRescue>Kolonis Membutuhkan Pertolongan</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDesc>TODO</ColonistsNeedRescueDesc>
+  <!-- ID: Kolonis ini tidak berdaya di tanah:\n{0}\nKirim kolonis lain untuk menyelamatkan mereka dan membawa mereka kembali ke tempat tidur.\n\n(Untuk menyelamatkan, pilih kolonis lain, lalu klik kanan pada korban dan pilih Penyelamatan.) -->
+  <ColonistsNeedRescueDesc>Kolonis ini tidak berdaya di tanah:\n{0}\nKirim kolonis lain untuk menyelamatkan mereka dan membawa mereka kembali ke tempat tidur.\n\n(Untuk menyelamatkan, pilih kolonis lain, lalu klik kanan pada korban dan pilih Penyelamatan.)</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDescController>TODO</ColonistsNeedRescueDescController>
+  <!-- ID: Kolonis ini tidak berdaya di tanah:\n{0}\n\nKirim kolonis lain untuk menyelamatkan mereka dan membawa mereka kembali ke tempat tidur.\n\n(Untuk menyelamatkan, pilih kolonis lain, lalu tekan tombol pemicu kiri pada korban dan pilih Penyelamatan.) -->
+  <ColonistsNeedRescueDescController>Kolonis ini tidak berdaya di tanah:\n{0}\n\nKirim kolonis lain untuk menyelamatkan mereka dan membawa mereka kembali ke tempat tidur.\n\n(Untuk menyelamatkan, pilih kolonis lain, lalu tekan tombol pemicu kiri pada korban dan pilih Penyelamatan.)</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>TODO</NeedDefenses>
+  <!-- ID: Butuh pertahanan -->
+  <NeedDefenses>Butuh Pertahanan</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>TODO</NeedDefensesDesc>
+  <!-- ID: Kamu sudah di sini beberapa waktu dan mungkin sudah diintai. Perampok akan menyerang sebentar lagi.\n\nKamu sebaiknya menyiapkan pertahanan seperti karung pasir atau jebakan. -->
+  <NeedDefensesDesc>Kamu sudah di sini beberapa waktu dan mungkin sudah diintai. Perampok akan menyerang sebentar lagi.\n\nKamu sebaiknya menyiapkan pertahanan seperti karung pasir atau jebakan.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
-  <NeedDoctor>TODO</NeedDoctor>
+  <!-- ID: Butuh dokter -->
+  <NeedDoctor>Butuh Dokter</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>TODO</NeedDoctorDesc>
+  <!-- ID: Kolonis ini membutuhkan perawatan medis, tetapi Anda tidak memiliki kolonis sehat yang ditugaskan sebagai dokter.\n{0}\n\nTugaskan kolonis sehat ke jenis pekerjaan Dokter. Jika tidak dirawat, luka mungkin tidak pernah sembuh dengan baik dan bisa menjadi permanen. -->
+  <NeedDoctorDesc>Kolonis ini membutuhkan perawatan medis, tetapi Anda tidak memiliki kolonis sehat yang ditugaskan sebagai dokter.\n{0}\n\nTugaskan kolonis sehat ke jenis pekerjaan Dokter. Jika tidak dirawat, luka mungkin tidak pernah sembuh dengan baik dan bisa menjadi permanen.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
-  <NeedMiner>TODO</NeedMiner>
+  <!-- ID: Butuh penambang -->
+  <NeedMiner>Butuh Penambang</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>TODO</NeedMinerDesc>
+  <!-- ID: Anda telah menetapkan beberapa batu untuk ditambang, tetapi tidak ada kolonis yang memiliki jenis pekerjaan Penambangan.\n\nTugaskan kolonis ke jenis pekerjaan Penambangan. -->
+  <NeedMinerDesc>Anda telah menetapkan beberapa batu untuk ditambang, tetapi tidak ada kolonis yang memiliki jenis pekerjaan Penambangan.\n\nTugaskan kolonis ke jenis pekerjaan Penambangan.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
-  <NeedWarden>TODO</NeedWarden>
+  <!-- ID: Butuh penjaga -->
+  <NeedWarden>Butuh Penjaga</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>TODO</NeedWardenDesc>
+  <!-- ID: Anda memiliki seorang tahanan, tetapi tidak ada kolonis yang memiliki jenis pekerjaan Penjaga.\n\nTugaskan kolonis ke jenis pekerjaan Penjaga. -->
+  <NeedWardenDesc>Anda memiliki seorang tahanan, tetapi tidak ada kolonis yang memiliki jenis pekerjaan Penjaga.\n\nTugaskan kolonis ke jenis pekerjaan Penjaga.</NeedWardenDesc>
 
   <!-- EN: Low food -->
-  <LowFood>TODO</LowFood>
+  <!-- ID: Makanan sedikit -->
+  <LowFood>Makanan Sedikit</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>TODO</LowFoodDesc>
+  <!-- ID: Anda sangat kekurangan makanan.\n\n    Jumlah penuh makanan di penyimpanan: {0}\n    Kolonis dan tahanan yang mendapatkan makanan: {1}\n    Hari persediaan makanan di penyimpanan: {2}\n\nTumbuhkan, beli, temukan, atau bunuh beberapa makanan. -->
+  <LowFoodDesc>Anda sangat kekurangan makanan.\n\n    Jumlah penuh makanan di penyimpanan: {0}\n    Kolonis dan tahanan yang mendapatkan makanan: {1}\n    Hari persediaan makanan di penyimpanan: {2}\n\nTumbuhkan, beli, temukan, atau bunuh beberapa makanan.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
-  <LowMedicine>TODO</LowMedicine>
+  <!-- ID: Obat sedikit -->
+  <LowMedicine>Obat Sedikit</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>TODO</LowMedicineDesc>
+  <!-- ID: Anda hanya memiliki {0} obat tersisa di penyimpanan.\n\nBeli lebih banyak obat dari pedagang. -->
+  <LowMedicineDesc>Anda hanya memiliki {0} obat tersisa di penyimpanan.\n\nBeli lebih banyak obat dari pedagang.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>TODO</NoMedicineDesc>
-  
+  <!-- ID: Anda tidak memiliki obat tersisa di penyimpanan.\n\nBeli lebih banyak obat dari pedagang. -->
+  <NoMedicineDesc>Anda tidak memiliki obat tersisa di penyimpanan.\n\nBeli lebih banyak obat dari pedagang.</NoMedicineDesc>
+
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>TODO</NeedColonistBeds>
+  <!-- ID: Butuh tempat tidur kolonis -->
+  <NeedColonistBeds>Butuh Tempat Tidur Kolonis</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>TODO</NeedColonistBedsDesc>
-  
+  <!-- ID: Anda memiliki lebih banyak kolonis daripada tempat tidur kolonis. Seseorang akan kekurangan tempat untuk tidur.\n\nBuat lebih banyak tempat tidur, atau ubah tempat tidur tahanan menjadi tempat tidur kolonis.\n\nJika Anda tidak memiliki sumber daya, tempat tidur darurat gratis dan dapat ditempatkan secara instan. -->
+  <NeedColonistBedsDesc>Anda memiliki lebih banyak kolonis daripada tempat tidur kolonis. Seseorang akan kekurangan tempat untuk tidur.\n\nBuat lebih banyak tempat tidur, atau ubah tempat tidur tahanan menjadi tempat tidur kolonis.\n\nJika Anda tidak memiliki sumber daya, tempat tidur darurat gratis dan dapat ditempatkan secara instan.</NeedColonistBedsDesc>
+
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <!-- ID: Kolonis dibiarkan tidak dikubur -->
+  <AlertColonistLeftUnburied>Kolonis Dibiarkan Tidak Dikubur</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
-  <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
+  <!-- ID: Seorang kolonis dibiarkan tidak dikubur.\n\nIni dapat memengaruhi suasana hati kolonis Anda secara negatif. -->
+  <AlertColonistLeftUnburiedDesc>Seorang kolonis dibiarkan tidak dikubur.\n\nIni dapat memengaruhi suasana hati kolonis Anda secara negatif.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks suitable weapon -->
-  <HunterLacksWeapon>TODO</HunterLacksWeapon>
+  <!-- ID: Pemburu kekurangan senjata yang sesuai -->
+  <HunterLacksWeapon>Pemburu Kekurangan Senjata yang Sesuai</HunterLacksWeapon>
   <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons -->
-  <HunterLacksWeaponDesc>TODO</HunterLacksWeaponDesc>
+  <!-- ID: Seorang kolonis ditugaskan untuk bekerja sebagai pemburu tetapi tidak memiliki senjata jarak jauh yang sesuai untuk berburu.\n\nMereka tidak akan berburu sampai mereka membawa senjata yang sesuai.\n\nKolonis berikut ditugaskan sebagai pemburu dan membutuhkan senjata jarak jauh yang sesuai -->
+  <HunterLacksWeaponDesc>Seorang kolonis ditugaskan untuk bekerja sebagai pemburu tetapi tidak memiliki senjata jarak jauh yang sesuai untuk berburu.\n\nMereka tidak akan berburu sampai mereka membawa senjata yang sesuai.\n\nKolonis berikut ditugaskan sebagai pemburu dan membutuhkan senjata jarak jauh yang sesuai:</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>TODO</AlertTatteredApparel>
+  <!-- ID: Pakaian compang-camping -->
+  <AlertTatteredApparel>Pakaian Compang-Camping</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>TODO</AlertTatteredApparelDesc>
+  <!-- ID: Kolonis ini mengenakan pakaian compang-camping, yang membuat mereka sedih:\n{0}\n\nBerikan mereka pakaian yang tidak terlalu rusak.\n\nAnda dapat menjahit pakaian di tempat kerajinan atau meja menjahit, atau membelinya dari pedagang. -->
+  <AlertTatteredApparelDesc>Kolonis ini mengenakan pakaian compang-camping, yang membuat mereka sedih:\n{0}\n\nBerikan mereka pakaian yang tidak terlalu rusak.\n\nAnda dapat menjahit pakaian di tempat kerajinan atau meja menjahit, atau membelinya dari pedagang.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>TODO</AlertUnhappyNudity>
+  <!-- ID: Tidak suka telanjang-->
+  <AlertUnhappyNudity>Tidak suka telanjang</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>TODO</AlertUnhappyNudityDesc>
+  <!-- ID: Kolonis berikut telanjang dan tidak menyukainya:\n{0}\n\nBerikan mereka pakaian.\n\nKamu dapat menjahit pakaian di tempat kerajinan atau meja jahit, atau membelinya dari pedagang-->
+  <AlertUnhappyNudityDesc>Kolonis berikut telanjang dan tidak menyukainya:\n{0}\n\nBerikan mereka pakaian.\n\nKamu dapat menjahit pakaian di tempat kerajinan atau meja jahit, atau membelinya dari pedagang.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
-  <Starvation>TODO</Starvation>
+  <Starvation>Kelaparan</Starvation>
   <!-- EN: These colonists are starving:\n{0}\n\nGet them some food. -->
-  <StarvationDesc>TODO</StarvationDesc>
+  <StarvationDesc>Kolonis berikut sangat kelaparan: \n{0}\n\nBerikan mereka beberapa makanan.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>TODO</StarvationAnimals>
