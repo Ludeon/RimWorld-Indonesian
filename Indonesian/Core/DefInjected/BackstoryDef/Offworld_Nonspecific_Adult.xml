@@ -2,60 +2,60 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] traveled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
-  <Actor72.description>TODO</Actor72.description>
+  <Actor72.description>[PAWN_nameDef] bepergian dengan sekelompok aktor, bermain di teater yang penuh dan disukai penonton di mana-mana. [PAWN_pronoun] adalah seorang perfeksionis, dan menjadikan [PAWN_possessive] properti dan kostum miliknya sendiri daripada menggunakan yang diberikan [PAWN_pronoun].</Actor72.description>
   <!-- EN: actor -->
-  <Actor72.title>TODO</Actor72.title>
+  <Actor72.title>Aktor</Actor72.title>
   <!-- EN: actor -->
-  <Actor72.titleShort>TODO</Actor72.titleShort>
+  <Actor72.titleShort>Aktor</Actor72.titleShort>
   
   <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
-  <AnimalFarmer21.description>TODO</AnimalFarmer21.description>
+  <AnimalFarmer21.description>[PAWN_nameDef] merawat berbagai macam hewan untuk menghasilkan daging, susu, telur, dan kulit.</AnimalFarmer21.description>
   <!-- EN: animal farmer -->
-  <AnimalFarmer21.title>TODO</AnimalFarmer21.title>
+  <AnimalFarmer21.title>Peternak Hewan</AnimalFarmer21.title>
   <!-- EN: animal farmer -->
-  <AnimalFarmer21.titleShort>TODO</AnimalFarmer21.titleShort>
+  <AnimalFarmer21.titleShort>Peternak</AnimalFarmer21.titleShort>
   
   <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
-  <AsceticPriest84.description>TODO</AsceticPriest84.description>
+  <AsceticPriest84.description>Setelah mengucapkan sumpah keheningan, [PAWN_nameDef] bergabung dengan sebuah biara untuk menghabiskan hari-hari [PAWN_possessive] dalam perenungan yang tenang.\n\n[PAWN_pronoun] menemukan kebahagiaan dengan menanam sayur-sayuran di kebun dan membuat keju di gudang bawah tanah biara.</AsceticPriest84.description>
   <!-- EN: ascetic priest -->
-  <AsceticPriest84.title>TODO</AsceticPriest84.title>
+  <AsceticPriest84.title>Pendeta asketis</AsceticPriest84.title>
   <!-- EN: priest -->
-  <AsceticPriest84.titleShort>TODO</AsceticPriest84.titleShort>
+  <AsceticPriest84.titleShort>Pendeta</AsceticPriest84.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
-  <Bartender62.description>TODO</Bartender62.description>
+  <Bartender62.description>[PAWN_nameDef] bekerja sebagai bartender di sebuah tempat kumuh. Pekerjaannya adalah mencampur minuman, berdiplomasi, dan memukul kepala.</Bartender62.description>
   <!-- EN: bartender -->
-  <Bartender62.title>TODO</Bartender62.title>
+  <Bartender62.title>Bartender</Bartender62.title>
   <!-- EN: barkeep -->
-  <Bartender62.titleShort>TODO</Bartender62.titleShort>
+  <Bartender62.titleShort>Bartender</Bartender62.titleShort>
   
   <!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
-  <Bodyguard58.description>TODO</Bodyguard58.description>
+  <Bodyguard58.description>[PAWN_nameDef] melindungi siapa pun yang membayar [PAWN_objective]. [PAWN_pronoun] menguasai banyak gaya bertarung yang berbeda, dan dikenal karena kekejaman [PAWN_possessive] kepada mereka yang melanggar [PAWN_objective].</Bodyguard58.description>
   <!-- EN: bodyguard -->
-  <Bodyguard58.title>TODO</Bodyguard58.title>
+  <Bodyguard58.title>Bodyguard</Bodyguard58.title>
   <!-- EN: bodyguard -->
-  <Bodyguard58.titleShort>TODO</Bodyguard58.titleShort>
+  <Bodyguard58.titleShort>Bodyguard</Bodyguard58.titleShort>
   
   <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
-  <CaveExplorer45.description>TODO</CaveExplorer45.description>
+  <CaveExplorer45.description>[PAWN_nameDef] mencari nafkah dengan memetakan terowongan gelap dan celah yang hampir tidak dapat diakses untuk mencari mineral berharga. Pekerjaan [PAWN_possessive] sangat berbahaya, tetapi bayarannya bagus.</CaveExplorer45.description>
   <!-- EN: cave explorer -->
-  <CaveExplorer45.title>TODO</CaveExplorer45.title>
+  <CaveExplorer45.title>Penjelajah gua</CaveExplorer45.title>
   <!-- EN: cave explorer -->
-  <CaveExplorer45.titleShort>TODO</CaveExplorer45.titleShort>
+  <CaveExplorer45.titleShort>Penjelajah gua</CaveExplorer45.titleShort>
   
   <!-- EN: [PAWN_nameDef] was the star chef at a high-class coreworld restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among the kitchen staff for [PAWN_possessive] casual disdain for grunt work. -->
-  <Chef52.description>TODO</Chef52.description>
+  <Chef52.description>[PAWN_nameDef] adalah koki bintang di restoran coreworld kelas atas. [PAWN_pronoun] dikenal bagus di kalangan pelanggan karena [PAWN_possessive] masakannya yang kreatif dan istimewa, dan dikenal buruk di kalangan staf dapur karena [PAWN_possessive] meremehkan pekerjaan mereka.</Chef52.description>
   <!-- EN: chef -->
-  <Chef52.title>TODO</Chef52.title>
+  <Chef52.title>Chef</Chef52.title>
   <!-- EN: chef -->
-  <Chef52.titleShort>TODO</Chef52.titleShort>
+  <Chef52.titleShort>Chef</Chef52.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics. -->
-  <CivilServant2.description>TODO</CivilServant2.description>
+  <CivilServant2.description>[PAWN_nameDef] bekerja sebagai administrator tingkat rendah di birokrasi pemerintah yang hampir mati. [PAWN_pronoun] paling betah mengisi dokumen yang rumit dan terlibat dalam politik kantor.</CivilServant2.description>
   <!-- EN: civil servant -->
-  <CivilServant2.title>TODO</CivilServant2.title>
+  <CivilServant2.title>Pegawai negeri sipil</CivilServant2.title>
   <!-- EN: bureaucrat -->
-  <CivilServant2.titleShort>TODO</CivilServant2.titleShort>
+  <CivilServant2.titleShort>Birokrat</CivilServant2.titleShort>
   
   <!-- EN: [PAWN_nameDef] never created anything in [PAWN_possessive] life. [PAWN_pronoun] did, however, prove to be a natural at getting others to give [PAWN_objective] what they had created. -->
   <ConArtist80.description>TODO</ConArtist80.description>
