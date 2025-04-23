@@ -2,108 +2,108 @@
 <LanguageData>
   
   <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
-  <ChildSpy47.description>TODO</ChildSpy47.description>
+  <ChildSpy47.description>Anak-anak dianggap tidak bersalah, yang membuat mereka menjadi mata-mata yang hebat. [PAWN_nameDef] dilatih dalam seni infiltrasi ketika [PAWN_pronoun] masih kecil.\n\nTahun-tahun [PAWN_possessive] menyamar memberinya pengalaman dalam manipulasi sosial dan berbohong, tetapi [PAWN_pronoun] tidak pernah mendapatkan pendidikan normal.</ChildSpy47.description>
   <!-- EN: child spy -->
-  <ChildSpy47.title>TODO</ChildSpy47.title>
+  <ChildSpy47.title>Mata-mata Anak</ChildSpy47.title>
   <!-- EN: spy -->
-  <ChildSpy47.titleShort>TODO</ChildSpy47.titleShort>
+  <ChildSpy47.titleShort>Mata-mata</ChildSpy47.titleShort>
   
   <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
-  <ChildStar74.description>TODO</ChildStar74.description>
+  <ChildStar74.description>[PAWN_nameDef] dikenal luas di seluruh dunia asalnya sebagai aktor anak dalam film dan acara TV. Ketenarannya membuat [PAWN_objective] berhubungan dengan berbagai macam orang, tetapi juga sering menghalangi pendidikan [PAWN_possessive].</ChildStar74.description>
   <!-- EN: child star -->
-  <ChildStar74.title>TODO</ChildStar74.title>
+  <ChildStar74.title>Bintang Anak</ChildStar74.title>
   <!-- EN: star -->
-  <ChildStar74.titleShort>TODO</ChildStar74.titleShort>
+  <ChildStar74.titleShort>Bintang</ChildStar74.titleShort>
   
   <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
-  <ComaChild93.description>TODO</ComaChild93.description>
+  <ComaChild93.description>Kecelakaan masa kecil membuat [PAWN_nameDef] koma. [PAWN_pronoun] tidak bangun sampai [PAWN_pronoun] berada di akhir masa remajanya. Tubuh [PAWN_possessive] tidak pernah pulih dari tahun-tahun ketidakaktifan, tetapi orang-orang cenderung merasa kasihan pada [PAWN_objective] ketika mereka mendengar kisah [PAWN_possessive].</ComaChild93.description>
   <!-- EN: coma child -->
-  <ComaChild93.title>TODO</ComaChild93.title>
+  <ComaChild93.title>Anak Koma</ComaChild93.title>
   <!-- EN: coma child -->
-  <ComaChild93.titleShort>TODO</ComaChild93.titleShort>
+  <ComaChild93.titleShort>Koma</ComaChild93.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter [PAWN_possessive] first glimpse of the outside world, [PAWN_pronoun] decided to run away. -->
-  <CultChild3.description>TODO</CultChild3.description>
+  <CultChild3.description>[PAWN_nameDef] lahir dalam sebuah sekte kuat yang menghindari teknologi canggih dan percaya bahwa semua penyakit dapat disembuhkan dengan membersihkan jiwa melalui seni suci.\n\nSetelah pandangan pertama [PAWN_possessive] tentang dunia luar, [PAWN_pronoun] memutuskan untuk melarikan diri.</CultChild3.description>
   <!-- EN: cult child -->
-  <CultChild3.title>TODO</CultChild3.title>
+  <CultChild3.title>Anak Sekte</CultChild3.title>
   <!-- EN: cult kid -->
-  <CultChild3.titleShort>TODO</CultChild3.titleShort>
+  <CultChild3.titleShort>Sekte</CultChild3.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up with a laundry list of phobias and neuroses. [PAWN_pronoun] feared, among other things, doctors and foodborne pathogens.\n\nAs a result, [PAWN_pronoun] learned to cook and care for [PAWN_objective]self, but many of [PAWN_possessive] fears dog [PAWN_objective] in adulthood. -->
-  <FrightenedChild43.description>TODO</FrightenedChild43.description>
+  <FrightenedChild43.description>[PAWN_nameDef] tumbuh dengan daftar panjang fobia dan neurosis. [PAWN_pronoun] takut, antara lain, pada dokter dan patogen bawaan makanan.\n\nAkibatnya, [PAWN_pronoun] belajar memasak dan merawat dirinya sendiri, tetapi banyak ketakutan [PAWN_possessive] terus menghantui [PAWN_objective] di masa dewasa.</FrightenedChild43.description>
   <!-- EN: frightened child -->
-  <FrightenedChild43.title>TODO</FrightenedChild43.title>
+  <FrightenedChild43.title>Anak Penakut</FrightenedChild43.title>
   <!-- EN: scared -->
-  <FrightenedChild43.titleShort>TODO</FrightenedChild43.titleShort>
+  <FrightenedChild43.titleShort>Penakut</FrightenedChild43.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
-  <MedicalAssistant12.description>TODO</MedicalAssistant12.description>
+  <MedicalAssistant12.description>[PAWN_nameDef] lahir selama perang dahsyat di mana kedua belah pihak menggunakan senjata pembakar. [PAWN_pronoun] tumbuh membantu orang tuanya di rumah sakit, merawat luka bakar mengerikan dari medan perang. [PAWN_pronoun] dibiarkan dengan ketakutan seumur hidup terhadap api.</MedicalAssistant12.description>
   <!-- EN: medical assistant -->
-  <MedicalAssistant12.title>TODO</MedicalAssistant12.title>
+  <MedicalAssistant12.title>Asisten Medis</MedicalAssistant12.title>
   <!-- EN: medic -->
-  <MedicalAssistant12.titleShort>TODO</MedicalAssistant12.titleShort>
+  <MedicalAssistant12.titleShort>Medis</MedicalAssistant12.titleShort>
   
   <!-- EN: As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed. -->
-  <MusicalKid86.description>TODO</MusicalKid86.description>
+  <MusicalKid86.description>Sebagai anak-anak, [PAWN_nameDef] memiliki bakat bermain alat musik dan bernyanyi. [PAWN_pronoun] diberi pelatihan ahli dan senang tampil dalam resital dan konser, meskipun pujian berlebihan yang diterima [PAWN_pronoun] membuat [PAWN_objective] sedikit terobsesi pada diri sendiri.</MusicalKid86.description>
   <!-- EN: musical kid -->
-  <MusicalKid86.title>TODO</MusicalKid86.title>
+  <MusicalKid86.title>Anak Musik</MusicalKid86.title>
   <!-- EN: musician -->
-  <MusicalKid86.titleShort>TODO</MusicalKid86.titleShort>
+  <MusicalKid86.titleShort>Musisi</MusicalKid86.titleShort>
   
   <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
-  <Mute34.description>TODO</Mute34.description>
+  <Mute34.description>[PAWN_nameDef] sangat terpengaruh oleh peristiwa traumatis di awal kehidupannya. Selama bertahun-tahun [PAWN_pronoun] menolak berbicara dengan orang lain, lebih memilih bermain dengan banyak hewan peliharaan di rumahnya.</Mute34.description>
   <!-- EN: mute -->
-  <Mute34.title>TODO</Mute34.title>
+  <Mute34.title>Bisu</Mute34.title>
   <!-- EN: mute -->
-  <Mute34.titleShort>TODO</Mute34.titleShort>
+  <Mute34.titleShort>Bisu</Mute34.titleShort>
   
   <!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
-  <OrganFarm67.description>TODO</OrganFarm67.description>
+  <OrganFarm67.description>[PAWN_nameDef] dibesarkan di peternakan organ bawah tanah ilegal. Tubuh [PAWN_possessive] digunakan untuk menumbuhkan implan organik bagi tentara bayaran yang terluka. Meskipun masa kecil [PAWN_possessive] meninggalkan trauma, itu juga memberinya pemahaman unik tentang biologi manusia.</OrganFarm67.description>
   <!-- EN: organ farm -->
-  <OrganFarm67.title>TODO</OrganFarm67.title>
+  <OrganFarm67.title>Peternakan Organ</OrganFarm67.title>
   <!-- EN: organ farm -->
-  <OrganFarm67.titleShort>TODO</OrganFarm67.titleShort>
+  <OrganFarm67.titleShort>Organ</OrganFarm67.titleShort>
   
   <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
-  <Pyromaniac18.description>TODO</Pyromaniac18.description>
+  <Pyromaniac18.description>Sejak usia dini, [PAWN_nameDef] memiliki ketertarikan yang tidak sehat terhadap api. [PAWN_pronoun] akan membakar tumpukan sampah dan begitu terpesona oleh api sehingga [PAWN_pronoun] secara tidak sadar membakar dirinya sendiri.\n\nSuatu hari saat bermain dengan korek api, [PAWN_pronoun] dengan ceroboh membakar rumahnya.</Pyromaniac18.description>
   <!-- EN: pyromaniac -->
-  <Pyromaniac18.title>TODO</Pyromaniac18.title>
+  <Pyromaniac18.title>Piromania</Pyromaniac18.title>
   <!-- EN: pyro -->
-  <Pyromaniac18.titleShort>TODO</Pyromaniac18.titleShort>
+  <Pyromaniac18.titleShort>Pyro</Pyromaniac18.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
-  <ShopKid36.description>TODO</ShopKid36.description>
+  <ShopKid36.description>Ibu [PAWN_nameDef] sering sakit, dan [PAWN_objective] harus menjalankan toko yang menjadi satu-satunya sumber penghasilan mereka. [PAWN_pronoun] belajar sedikit tentang artefak eksotis yang dijualnya, dan banyak tentang seni negosiasi.</ShopKid36.description>
   <!-- EN: shop kid -->
-  <ShopKid36.title>TODO</ShopKid36.title>
+  <ShopKid36.title>Anak Toko</ShopKid36.title>
   <!-- EN: shopkid -->
-  <ShopKid36.titleShort>TODO</ShopKid36.titleShort>
+  <ShopKid36.titleShort>Toko</ShopKid36.titleShort>
   
   <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
-  <SicklyChild55.description>TODO</SicklyChild55.description>
+  <SicklyChild55.description>Sebagai anak-anak, [PAWN_nameDef] menderita penyakit langka. Dikarantina di rumah sakit, [PAWN_pronoun] memiliki sedikit kontak manusia dan jarang berolahraga. Namun, di lingkungan rumah sakit yang steril, [PAWN_pronoun] menjadi sangat akrab dengan ilmu pengetahuan dan kedokteran.</SicklyChild55.description>
   <!-- EN: sickly child -->
-  <SicklyChild55.title>TODO</SicklyChild55.title>
+  <SicklyChild55.title>Anak Sakit-sakitan</SicklyChild55.title>
   <!-- EN: patient -->
-  <SicklyChild55.titleShort>TODO</SicklyChild55.titleShort>
+  <SicklyChild55.titleShort>Pasien</SicklyChild55.titleShort>
   
   <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
-  <StoryWriter67.description>TODO</StoryWriter67.description>
+  <StoryWriter67.description>Sebagai anak-anak, [PAWN_nameDef] kecanduan membaca. [PAWN_pronoun] akan menghabiskan sepanjang hari di perpustakaan lokal dengan hidungnya di dalam buku. Ketika pemotongan anggaran memaksa perpustakaan untuk tutup, [PAWN_nameDef] sangat terpukul. [PAWN_pronoun] memutuskan untuk mengisi kekosongan dengan menulis cerita sendiri.</StoryWriter67.description>
   <!-- EN: story writer -->
-  <StoryWriter67.title>TODO</StoryWriter67.title>
+  <StoryWriter67.title>Penulis Cerita</StoryWriter67.title>
   <!-- EN: writer -->
-  <StoryWriter67.titleShort>TODO</StoryWriter67.titleShort>
+  <StoryWriter67.titleShort>Penulis</StoryWriter67.titleShort>
   
   <!-- EN: [PAWN_nameDef] wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during [PAWN_possessive] accelerated growth, [PAWN_nameDef] still has a proclivity for combat of all kinds and an aversion to human contact. -->
-  <VatgrownSoldier8.description>TODO</VatgrownSoldier8.description>
+  <VatgrownSoldier8.description>[PAWN_nameDef] tidak dibuat sebagai manusia, tetapi sebagai alat penghancur. Dibesarkan di fasilitas senjata biologis dan diajari bertempur selama pertumbuhan cepatnya, [PAWN_nameDef] masih memiliki kecenderungan untuk bertempur dalam segala bentuk dan keengganan terhadap kontak manusia.</VatgrownSoldier8.description>
   <!-- EN: vatgrown soldier -->
-  <VatgrownSoldier8.title>TODO</VatgrownSoldier8.title>
+  <VatgrownSoldier8.title>Prajurit Buatan</VatgrownSoldier8.title>
   <!-- EN: vatgrown -->
-  <VatgrownSoldier8.titleShort>TODO</VatgrownSoldier8.titleShort>
+  <VatgrownSoldier8.titleShort>Buatan</VatgrownSoldier8.titleShort>
   
   <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
-  <WarRefugee51.description>TODO</WarRefugee51.description>
+  <WarRefugee51.description>Perang pecah di rumah [PAWN_nameDef] ketika [PAWN_pronoun] masih bayi. Orang tua [PAWN_possessive] melarikan diri bersama [PAWN_objective], mencari keselamatan di mana pun mereka bisa menemukannya. Kenangan paling awal [PAWN_nameDef] adalah diajari cara membela diri.\n\nKekerasan dan kehancuran yang disaksikan [PAWN_pronoun] meninggalkan bekas luka seumur hidup pada [PAWN_objective].</WarRefugee51.description>
   <!-- EN: war refugee -->
-  <WarRefugee51.title>TODO</WarRefugee51.title>
+  <WarRefugee51.title>Pengungsi Perang</WarRefugee51.title>
   <!-- EN: refugee -->
-  <WarRefugee51.titleShort>TODO</WarRefugee51.titleShort>
+  <WarRefugee51.titleShort>Pengungsi</WarRefugee51.titleShort>
   
 </LanguageData>

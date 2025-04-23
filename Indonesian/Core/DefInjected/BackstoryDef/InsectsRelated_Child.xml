@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] grew up in the sludge-smeared sewers of a polluted industrial world.\n\n[PAWN_pronoun] befriended the strange insects in the darkness and learned to love them. -->
-  <SewerKid57.description>[PAWN_nameDef] Tumbuh di selokan berlumuran lumpur dari dunia industri. \n\n[PAWN_pronoun] berteman dengan seranggan aneh di kegelapan dan belajar menyukainya.</SewerKid57.description>
+  <SewerKid57.description>[PAWN_nameDef] tumbuh di selokan yang berlumuran lumpur dari dunia industri yang tercemar. \n\n[PAWN_pronoun] berteman dengan serangga aneh di kegelapan dan belajar mencintainya.</SewerKid57.description>
   <!-- EN: sewer kid -->
   <SewerKid57.title>Anak Selokan</SewerKid57.title>
   <!-- EN: sewer girl -->
