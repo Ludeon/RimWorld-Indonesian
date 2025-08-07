@@ -82,8 +82,4 @@ Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 
 ## ⚖️ Lisensi | License  
 Untuk informasi lisensi, kunjungi:  
-<<<<<<< HEAD
 👉 [http://ludeon.com/forums/index.php?topic=2933.0](http://ludeon.com/forums/index.php?topic=2933.0)
-=======
-👉 [http://ludeon.com/forums/index.php?topic=2933.0](http://ludeon.com/forums/index.php?topic=2933.0)
->>>>>>>
