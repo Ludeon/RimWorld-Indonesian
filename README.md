@@ -34,7 +34,7 @@ Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 ---
 
 ## 🕰️ Kontributor Sebelumnya | Past Contributors  
-| ![Julian](https://avatars.githubusercontent.com/u/10151729?s=96&v=4) <br /> **Julian Jason** <br /> `@JulianJason` | ![Equan](https://avatars.githubusercontent.com/u/948279?s=96&v=4) <br /> **Equan Pr.** <br /> `@junwatu` | ![Faryzal]((https://avatars.githubusercontent.com/u/8612170?v=4)) <br /> **Faryzal** <br /> `@Faryzal2020` | ![Irsyad](https://avatars.githubusercontent.com/u/174414578?v=4)) <br /> **Irsyad Akbar.** <br /> `@irsyad-a` |
+| ![Julian](https://avatars.githubusercontent.com/u/10151729?s=96&v=4) <br /> **Julian Jason** <br /> `@JulianJason` | ![Equan](https://avatars.githubusercontent.com/u/948279?s=96&v=4) <br /> **Equan Pr.** <br /> `@junwatu` | ![Faryzal]((https://avatars.githubusercontent.com/u/8612170?v=4) <br /> **Faryzal** <br /> `@Faryzal2020` | ![Irsyad](https://avatars.githubusercontent.com/u/174414578?v=4) <br /> **Irsyad Akbar.** <br /> `@irsyad-a` |
 |---|---|---|---|
 
 ---
