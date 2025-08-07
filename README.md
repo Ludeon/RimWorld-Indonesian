@@ -32,9 +32,11 @@ Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/34961766?v=4" height="96"/><br/>
-      <b>Ariq S. F. Ibrahim</b><br/>
-      <code>@Rixenses</code>
+      <a href="https://github.com/Rixenses">
+        <img src="https://avatars.githubusercontent.com/u/34961766?v=4" height="96"/><br/>
+        <b>Ariq S. F. Ibrahim</b><br/>
+        <code>@Rixenses</code>
+      </a>
     </td>
   </tr>
 </table>
@@ -46,24 +48,32 @@ Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/10151729?v=4" height="96"/><br/>
-      <b>Julian Jason</b><br/>
-      <code>@JulianJason</code>
+      <a href="https://github.com/JulianJason">
+        <img src="https://avatars.githubusercontent.com/u/10151729?v=4" height="96"/><br/>
+        <b>Julian Jason</b><br/>
+        <code>@JulianJason</code>
+      </a>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/948279?v=4" height="96"/><br/>
-      <b>Equan Pr.</b><br/>
-      <code>@junwatu</code>
+      <a href="https://github.com/junwatu">
+        <img src="https://avatars.githubusercontent.com/u/948279?v=4" height="96"/><br/>
+        <b>Equan Pr.</b><br/>
+        <code>@junwatu</code>
+      </a>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/8612170?v=4" height="96"/><br/>
-      <b>Faryzal</b><br/>
-      <code>@Faryzal2020</code>
+      <a href="https://github.com/Faryzal2020">
+        <img src="https://avatars.githubusercontent.com/u/8612170?v=4" height="96"/><br/>
+        <b>Faryzal</b><br/>
+        <code>@Faryzal2020</code>
+      </a>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/174414578?v=4" height="96"/><br/>
-      <b>Irsyad Akbar</b><br/>
-      <code>@irsyad-a</code>
+      <a href="https://github.com/irsyad-a">
+        <img src="https://avatars.githubusercontent.com/u/174414578?v=4" height="96"/><br/>
+        <b>Irsyad Akbar</b><br/>
+        <code>@irsyad-a</code>
+      </a>
     </td>
   </tr>
 </table>
