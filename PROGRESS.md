@@ -1,550 +1,363 @@
-# Progress checklist
+# 📊 Progress Penerjemahan DefInjected
 
-**Version Checked**: 1.0
-
-- [ ] DefInjected/
-- [x] ApparelLayerDef/
-  - [x] ApparelLayerDefs.xml
-- [x] BillRepeatModeDef/
-  - [x] BillRepeatModeDefs.xml
-- [x] BillStoreModeDef/
-  - [x] BillStoreModeDefs.xml
-- [x] BiomeDef/
-  - [x] Biomes_Cold.xml
-  - [x] Biomes_Temperate.xml
-  - [x] Biomes_Warm.xml
-  - [x] Biomes_WarmArid.xml
-  - [x] Biomes_Water.xml
-- [x] BodyDef/
-  - [x] Bodies_Animal_Bird.xml
-  - [x] Bodies_Animal_Insect.xml
-  - [x] Bodies_Animal_Quadruped.xml
-  - [x] Bodies_Animal_Snake.xml
-  - [x] Bodies_Humanlike.xml
-  - [x] Bodies_Mechanoid.xml
-- [x] BodyPartDef/
-  - [x] BodyParts_Animal.xml
-  - [x] BodyParts_General.xml
-  - [x] BodyParts_Humanoid.xml
-  - [x] BodyParts_Mechanoid.xml
-  - [x] BodyParts_Organs.xml
-- [x] BodyPartGroupDef/
-  - [x] BodyPartGroups.xml
-- [x] ChemicalDef/
-  - [x] Alcohol_Beer.xml
-  - [x] Ambrosia.xml
-  - [x] GoJuice.xml
-  - [x] Luciferium.xml
-  - [x] Psychite_Yayo.xml
-  - [x] Smokeleaf.xml
-  - [x] WakeUp.xml
-- [x] ConceptDef/
-  - [x] Concepts_Entry.xml
-  - [x] Concepts_NotedOpportunistic.xml
-  - [x] Concepts_NotedSelfshow.xml
-  - [x] Concepts_TriggeredModal.xml
-  - [x] Example_Concepts.xml
-- [x] DamageDef/
-  - [x] Damages_Environmental.xml
-  - [x] Damages_Medical.xml
-  - [x] Damages_MeleeWeapon.xml
-  - [x] Damages_Misc.xml
-  - [x] Damages_RangedWeapon.xml
-  - [x] Damages_Stun.xml
-- [x] DesignationCategoryDef/
-  - [x] DesignationCategories.xml
-- [x] DifficultyDef/
-  - [x] Difficulties.xml
-- [x] ExpectationDef/
-  - [x] Expectations.xml
-- [x] FactionDef/
-  - [x] Factions_Hidden.xml
-  - [x] Factions_Misc.xml
-  - [x] Factions_Player.xml
-- [x] GameConditionDef/
-  - [x] GameConditions_Misc.xml
-- [x] HairDef/
-  - [x] HairsGeneral.xml
-- [ ] HediffDef/
-  - [x] Alcohol_Beer.xml
-  - [x] Ambrosia.xml
-  - [x] GoJuice.xml
-  - [x] Hediffs_Global_Misc.xml
-  - [x] Hediffs_Global_Needs.xml
-  - [x] Hediffs_Global_Temperature.xml
-  - [x] Hediffs_Local_AddedParts.xml
-  - [x] Hediffs_Local_Chronic.xml
-  - [x] Hediffs_Local_Implants.xml
-  - [x] Hediffs_Local_Infections.xml
-  - [x] Hediffs_Local_Injuries.xml
-  - [x] Hediffs_Local_Misc.xml
-  - [x] Hediffs_Local_TerrainAttacks.xml
-  - [x] Luciferium.xml
-  - [x] Penoxycyline.xml
-  - [x] Psychite_Flake.xml
-  - [x] Psychite_Tea.xml
-  - [x] Psychite_Yayo.xml
-  - [x] Smokeleaf.xml
-  - [x] WakeUp.xml
-- [x] HediffGiverSetDef/
-  - [x] HediffGiverSets.xml
-- [x] HistoryAutoRecorderDef/
-  - [x] HistoryAutoRecorders.xml
-- [x] HistoryAutoRecorderGroupDef/
-  - [x] HistoryAutoRecorderGroups.xml
-- [x] IncidentDef/
-  - [x] Incidents_Caravan_All.xml
-  - [x] Incidents_Map_Disease.xml
-  - [x] Incidents_Map_Misc.xml
-  - [x] Incidents_Map_Special.xml
-  - [x] Incidents_Map_Threats.xml
-  - [x] Incidents_World_Conditions.xml
-  - [x] Incidents_World_Quests.xml
-- [x] InspirationDef/
-  - [x] Inspirations.xml
-- [x] InstructionDef/
-  - [x] Instructions.xml
-- [ ] InteractionDef/
-  - [x] Interactions_Animal.xml
-  - [x] Interactions_Prisoner.xml
-  - [x] Interactions_Romance.xml
-  - [ ] Interactions_Social.xml
-- [x] JobDef/
-  - [x] Jobs_Animal.xml
-  - [x] Jobs_Caravan.xml
-  - [x] Jobs_Gatherings.xml
-  - [x] Jobs_Joy.xml
-  - [x] Jobs_Misc.xml
-  - [x] Jobs_Work.xml
-- [x] JoyKindDef/
-  - [x] JoyKinds.xml
-- [x] KeyBindingCategoryDef/
-  - [x] KeyBindingCategories.xml
-  - [x] KeyBindingCategories_Add_Architect.xml
-- [x] LifeStageDef/
-  - [x] LifeStages.xml
-- [x] MainButtonDef/
-  - [x] MainButtons.xml
-- [x] MentalBreakDef/
-  - [x] MentalStates_Mood.xml
-- [x] MentalStateDef/
-  - [x] MentalStates_Mood.xml
-  - [ ] MentalStates_Special.xml
-- [ ] NeedDef/
-  - [ ] Alcohol_Beer.xml
-  - [ ] Ambrosia.xml
-  - [ ] GoJuice.xml
-  - [ ] Luciferium.xml
-  - [ ] Needs.xml
-  - [ ] Psychite_Yayo.xml
-  - [ ] Smokeleaf.xml
-  - [ ] WakeUp.xml
-- [ ] PawnCapacityDef/
-  - [ ] PawnCapacity.xml
-- [ ] PawnColumnDef/
-  - [ ] PawnColumns_Add.xml
-  - [ ] PawnColumns_Checkbox.xml
-  - [ ] PawnColumns_Icon.xml
-  - [ ] PawnColumns_Misc.xml
-- [ ] PawnKindDef/
-  - [ ] PawnKinds_Mercenary.xml
-  - [ ] PawnKinds_Outlander.xml
-  - [ ] PawnKinds_Pirate.xml
-  - [ ] PawnKinds_Player.xml
-  - [ ] PawnKinds_Spacer.xml
-  - [ ] PawnKinds_Special.xml
-  - [ ] PawnKinds_Tribal.xml
-  - [ ] Races_Animal_Arid.xml
-  - [ ] Races_Animal_Bears.xml
-  - [ ] Races_Animal_BigCats.xml
-  - [ ] Races_Animal_Birds.xml
-  - [ ] Races_Animal_Farm.xml
-  - [ ] Races_Animal_Giant.xml
-  - [ ] Races_Animal_Hares.xml
-  - [ ] Races_Animal_Insect.xml
-  - [ ] Races_Animal_Pet.xml
-  - [ ] Races_Animal_Rodentlike.xml
-  - [ ] Races_Animal_Temperate.xml
-  - [ ] Races_Animal_Tropical.xml
-  - [ ] Races_Animal_WildCanines.xml
-  - [ ] Races_Mechanoid.xml
-- [ ] PawnRelationDef/
-  - [ ] PawnRelations_FamilyByBlood.xml
-  - [ ] PawnRelations_FamilyByChoice.xml
-  - [ ] PawnRelations_Misc.xml
-- [ ] PrisonerInteractionModeDef/
-  - [ ] PrisonerInteractionMode.xml
-- [ ] RaidStrategyDef/
-  - [ ] RaidStrategies.xml
-- [ ] RecipeDef/
-  - [ ] Alcohol_Beer.xml
-  - [ ] Recipes_Add_Administer.xml
-  - [ ] Recipes_Add_Make.xml
-  - [ ] Recipes_Butchery.xml
-  - [ ] Recipes_Cremation.xml
-  - [ ] Recipes_Food.xml
-  - [ ] Recipes_Meals.xml
-  - [ ] Recipes_Production.xml
-  - [ ] Recipes_Surgery_Installations.xml
-  - [ ] Recipes_Surgery_Misc.xml
-  - [ ] Various_Stone.xml
-- [ ] RecordDef/
-  - [ ] Records_Misc.xml
-  - [ ] Records_Time.xml
-- [ ] ResearchProjectDef/
-  - [ ] ResearchProjects_1.xml
-  - [ ] ResearchProjects_2_Electricity.xml
-  - [ ] ResearchProjects_3_Microelectronics.xml
-  - [ ] ResearchProjects_4_MultiAnalyzer.xml
-  - [ ] ResearchProjects_Tier4_Ship.xml
-- [ ] ResearchTabDef/
-  - [ ] ResearchTabs.xml
-- [ ] RiverDef/
-  - [ ] RiverDefs.xml
-- [x] RoadDef/
-  - [x] RoadDefs.xml
-- [ ] RoofDef/
-  - [ ] Roofs.xml
-- [x] RoomRoleDef/
-  - [x] RoomRoles.xml
-- [x] RoomStatDef/
-  - [x] RoomStats.xml
-- [x] RulePackDef/
-  - [x] Interactions_Prisoner.xml
-  - [x] Interactions_Romance.xml
-  - [x] Interactions_Social.xml
-  - [ ] RulePacks_Art_Descriptions.xml
-  - [ ] RulePacks_Art_DescriptionsPhysical.xml
-  - [ ] RulePacks_Art_ImagesTaleless.xml
-  - [ ] RulePacks_Battles.xml
-  - [ ] RulePacks_Combat.xml
-  - [ ] RulePacks_Common.xml
-  - [ ] RulePacks_Damage.xml
-  - [ ] RulePacks_DamageEvent.xml
-  - [ ] RulePacks_Event.xml
-  - [ ] RulePacks_Global.xml
-  - [ ] RulePacks_Maneuvers.xml
-  - [ ] RulePacks_Namers_Animals.xml
-  - [ ] RulePacks_Namers_Art.xml
-  - [ ] RulePacks_Namers_Factions.xml
-  - [ ] RulePacks_Namers_People.xml
-  - [ ] RulePacks_Namers_Scenarios.xml
-  - [ ] RulePacks_Namers_Traders.xml
-  - [ ] RulePacks_Namers_WorldFeatures.xml
-  - [ ] RulePacks_Namer_World.xml
-  - [ ] RulePacks_Seeds.xml
-  - [ ] RulePacks_Transitions.xml
-  - [ ] RulePacks_Utility.xml
-- [ ] ScenarioDef/
-  - [ ] Scenarios_Classic.xml
-- [x] ScenPartDef/
-  - [x] ScenParts_Fixed.xml
-  - [x] ScenParts_Various.xml
-- [ ] SiteCoreDef/
-  - [ ] DownedRefugee.xml
-  - [ ] ItemStash.xml
-  - [ ] Nothing.xml
-  - [ ] PreciousLump.xml
-  - [ ] PrisonerWillingToJoin.xml
-- [ ] SitePartDef/
-  - [ ] AmbushEdge.xml
-  - [ ] AmbushHidden.xml
-  - [ ] Manhunters.xml
-  - [ ] Outpost.xml
-  - [ ] SleepingMechanoids.xml
-  - [ ] Turrets.xml
-- [ ] SkillDef/
-  - [ ] Skills.xml
-- [x] SpecialThingFilterDef/
-  - [x] SpecialThingFilters.xml
-- [x] StatCategoryDef/
-  - [x] StatCategories.xml
-- [x] StatDef/
-  - [x] Stats_Apparel.xml
-  - [x] Stats_Basics_General.xml
-  - [x] Stats_Basics_Special.xml
-  - [ ] Stats_Building_Special.xml
-  - [ ] Stats_Pawns_Combat.xml
-  - [ ] Stats_Pawns_General.xml
-  - [ ] Stats_Pawns_Social.xml
-  - [ ] Stats_Pawns_WorkGeneral.xml
-  - [ ] Stats_Pawns_WorkMedical.xml
-  - [ ] Stats_Pawns_WorkRecipes.xml
-  - [ ] Stats_Stuff.xml
-  - [ ] Stats_Weapons_Melee.xml
-  - [ ] Stats_Weapons_Ranged.xml
-- [ ] StorytellerDef/
-  - [ ] Storytellers.xml
-- [ ] StuffCategoryDef/
-  - [ ] StuffCategories.xml
-- [ ] TaleDef/
-  - [x] Tales_Caravan.xml
-  - [ ] Tales_DoublePawn.xml
-  - [ ] Tales_DoublePawn_Relationships.xml
-  - [ ] Tales_Event.xml
-  - [ ] Tales_Health.xml
-  - [ ] Tales_Incident.xml
-  - [ ] Tales_Job.xml
-  - [ ] Tales_SinglePawn.xml
-- [x] TerrainAffordanceDef/
-  - [x] TerrainAffordances.xml
-- [ ] TerrainDef/
-  - [ ] Terrain_Add.xml
-  - [ ] Terrain_Floors.xml
-  - [ ] Terrain_Floors_Burned.xml
-  - [ ] Terrain_Floors_StoneTile.xml
-  - [ ] Terrain_Natural.xml
-  - [ ] Terrain_Road.xml
-  - [ ] Terrain_Special.xml
-  - [ ] Terrain_Water.xml
-- [ ] ThingCategoryDef/
-  - [ ] ThingCategories.xml
-- [ ] ThingDef/
-  - [ ] Alcohol_Beer.xml
-  - [ ] Ambrosia.xml
-  - [ ] Apparel_Belts.xml
-  - [ ] Apparel_Headgear.xml
-  - [ ] Apparel_Various.xml
-  - [ ] Buildings_Ancient.xml
-  - [ ] Buildings_Art.xml
-  - [ ] Buildings_Exotic.xml
-  - [ ] Buildings_Furniture.xml
-  - [ ] Buildings_Joy.xml
-  - [ ] Buildings_Misc.xml
-  - [ ] Buildings_Natural.xml
-  - [ ] Buildings_Power.xml
-  - [ ] Buildings_Production.xml
-  - [ ] Buildings_Security.xml
-  - [ ] Buildings_Ship.xml
-  - [ ] Buildings_Special.xml
-  - [ ] Buildings_Structure.xml
-  - [ ] Buildings_Temperature.xml
-  - [ ] Ethereal_OrbitalStrikes.xml
-  - [ ] Ethereal_SignalActions.xml
-  - [ ] Ethereal_Skyfallers.xml
-  - [ ] Ethereal_Various.xml
-  - [ ] Filth_Various.xml
-  - [ ] Gas_Various.xml
-  - [ ] GoJuice.xml
-  - [ ] Items_Artifacts.xml
-  - [ ] Items_BodyParts.xml
-  - [ ] Items_Exotic.xml
-  - [ ] Items_Food.xml
-  - [ ] Items_Implants.xml
-  - [ ] Items_Luxury.xml
-  - [ ] Items_Resource_AnimalProduct.xml
-  - [ ] Items_Resource_Manufactured.xml
-  - [ ] Items_Resource_RawPlant.xml
-  - [ ] Items_Resource_Shell.xml
-  - [ ] Items_Resource_Stuff.xml
-  - [ ] Items_Resource_Stuff_Leather.xml
-  - [ ] Items_Unfinished.xml
-  - [ ] Luciferium.xml
-  - [ ] MeleeMedieval.xml
-  - [ ] MeleeNeolithic.xml
-  - [ ] Penoxycyline.xml
-  - [ ] Plants_Cave.xml
-  - [ ] Plants_Cultivated_Decorative.xml
-  - [ ] Plants_Cultivated_Farm.xml
-  - [ ] Plants_Special.xml
-  - [ ] Plants_Wild_Arid.xml
-  - [ ] Plants_Wild_General.xml
-  - [ ] Plants_Wild_Swamp.xml
-  - [ ] Plants_Wild_Temperate.xml
-  - [ ] Plants_Wild_Tropical.xml
-  - [ ] Psychite_Flake.xml
-  - [ ] Psychite_Tea.xml
-  - [ ] Psychite_Yayo.xml
-  - [ ] Races_Animal_Arid.xml
-  - [ ] Races_Animal_Bears.xml
-  - [ ] Races_Animal_BigCats.xml
-  - [ ] Races_Animal_Birds.xml
-  - [ ] Races_Animal_Farm.xml
-  - [ ] Races_Animal_Giant.xml
-  - [ ] Races_Animal_Hares.xml
-  - [ ] Races_Animal_Insect.xml
-  - [ ] Races_Animal_Pet.xml
-  - [ ] Races_Animal_Rodentlike.xml
-  - [ ] Races_Animal_Temperate.xml
-  - [ ] Races_Animal_Tropical.xml
-  - [ ] Races_Animal_WildCanines.xml
-  - [ ] Races_Humanlike.xml
-  - [ ] Races_Mechanoid.xml
-  - [ ] RangedIndustrial.xml
-  - [ ] RangedIndustrialConsumable.xml
-  - [ ] RangedIndustrialGrenades.xml
-  - [ ] RangedMechanoid.xml
-  - [ ] RangedNeolithic.xml
-  - [ ] RangedSpacer.xml
-  - [ ] RangedSpecial.xml
-  - [ ] Smokeleaf.xml
-  - [ ] Things_Special.xml
-  - [ ] Various_Stone.xml
-  - [ ] WakeUp.xml
-  - [ ] _Terrain_Extra.xml
-  - [ ] _Things_Mote.xml
-- [ ] ThoughtDef/
-  - [ ] Alcohol_Beer.xml
-  - [ ] Ambrosia.xml
-  - [ ] Expectations.xml
-  - [ ] GoJuice.xml
-  - [ ] Psychite_Flake.xml
-  - [ ] Psychite_Tea.xml
-  - [ ] Psychite_Yayo.xml
-  - [ ] Smokeleaf.xml
-  - [ ] Thoughts_Memory_Death.xml
-  - [ ] Thoughts_Memory_Debug.xml
-  - [ ] Thoughts_Memory_Eating.xml
-  - [ ] Thoughts_Memory_Gatherings.xml
-  - [ ] Thoughts_Memory_Misc.xml
-  - [ ] Thoughts_Memory_RoomStats.xml
-  - [ ] Thoughts_Memory_Social.xml
-  - [ ] Thoughts_Memory_Special.xml
-  - [ ] Thoughts_Situation_General.xml
-  - [ ] Thoughts_Situation_Needs.xml
-  - [ ] Thoughts_Situation_RoomStats.xml
-  - [ ] Thoughts_Situation_Social.xml
-  - [ ] Thoughts_Situation_Special.xml
-  - [ ] Thoughts_Situation_Traits.xml
-  - [ ] Thoughts_Situation_TraitsPerm.xml
-  - [ ] WakeUp.xml
-- [x] TimeAssignmentDef/
-  - [x] TimeAssignments.xml
-- [x] TraderKindDef/
-  - [x] TraderKinds_Caravan_Neolithic.xml
-  - [x] TraderKinds_Caravan_Outlander.xml
-  - [x] TraderKinds_Orbital_Misc.xml
-  - [x] TraderKinds_Visitor_Neolithic.xml
-  - [x] TraderKinds_Visitor_Outlander.xml
-- [x] TrainabilityDef/
-  - [x] TrainabilityDefs.xml
-- [x] TrainableDef/
-  - [x] Trainables.xml
-- [ ] TraitDef/
-  - [ ] Example_Traits.xml
-  - [ ] Traits_Singular.xml
-  - [ ] Traits_Spectrum.xml
-- [x] TransferableSorterDef/
-  - [x] TransferableSorters.xml
-- [x] WeatherDef/
-  - [x] Weathers.xml
-- [ ] WorkGiverDef/
-  - [ ] WorkGivers.xml
-- [ ] WorkTypeDef/
-  - [ ] WorkTypes.xml
-- [ ] WorldObjectDef/
-  - [x] Incidents_Caravan_All.xml
-  - [ ] WorldObjects.xml
-- [ ] Keyed/
-- [ ] Alerts.xml
-- [ ] Credits.xml
-- [ ] Dates.xml
-- [ ] Designators.xml
-- [ ] Dialogs_Various.xml
-- [ ] Dialog_StatsReports.xml
-- [ ] Dialog_Trees.xml
-- [ ] Enums.xml
-- [ ] FloatMenu.xml
-- [ ] GameplayCommands.xml
-- [x] Grammar.xml
-- [x] Incidents.xml
-- [x] ITabs.xml
-- [x] Letters.xml
-- [x] MainTabs.xml
-- [x] Menus_Main.xml
-- [x] Menu_KeyBindings.xml
-- [x] Menu_Options.xml
-- [x] Messages.xml
-- [x] Misc.xml
-- [x] Misc_Gameplay.xml
-- [x] PlayInterface.xml
-- [x] ScenParts.xml
-- [x] Skills.xml
-- [x] Time.xml
-- [x] WITabs.xml
-- [x] WorkTags.xml
-- [ ] Strings/
-- [ ] Names/
-  - [ ] Animal_Female.txt
-  - [ ] Animal_Male.txt
-  - [ ] Animal_Unisex.txt
-  - [ ] Business.txt
-  - [ ] Celestial.txt
-  - [ ] CelestialPrefix.txt
-  - [ ] CelestialSuffix.txt
-  - [ ] OutlanderTown.txt
-  - [ ] WorldFeatures/
-	- [ ] Archipelagos_America.txt
-	- [ ] Bays_USA.txt
-	- [ ] ColdDeserts_NorthAmerica.txt
-	- [ ] Forests_USA.txt
-	- [ ] HotDeserts_NorthAmerica.txt
-	- [ ] HotDeserts_SouthAmerica.txt
-	- [ ] HotDeserts_World.txt
-	- [ ] Islands_Canada.txt
-	- [ ] Islands_USA.txt
-	- [ ] Lakes_Canada.txt
-	- [ ] Lakes_USA.txt
-	- [ ] MountainRanges_Canada.txt
-	- [ ] MountainRanges_USA.txt
-	- [ ] Oceans.txt
-	- [ ] Peninsulas_Canada.txt
-	- [ ] Plateaus_USA.txt
-	- [ ] Seas_America.txt
-	- [ ] Seas_World.txt
-	- [ ] Swamps_USA.txt
-- [ ] WordParts/
-  - [ ] CapitalLetters.txt
-  - [ ] PlaceEndings.txt
-  - [ ] Syllables_English.txt
-  - [ ] Syllables_Galician.txt
-- [ ] Words/
-  - [ ] Adjectives/
-	- [ ] Angsty.txt
-	- [ ] Badass.txt
-	- [ ] CompassDirections.txt
-	- [ ] Curious.txt
-	- [ ] Friendly.txt
-	- [ ] Large.txt
-	- [ ] Natural.txt
-	- [ ] PoliticalUnions.txt
-  - [ ] Foreign/
-	- [ ] Tribal.txt
-  - [ ] Misc/
-	- [ ] Numbers_SmallRoman.txt
-  - [ ] Nouns/
-	- [ ] AnimalGroups.txt
-	- [ ] Animals.txt
-	- [ ] Animals_Badass.txt
-	- [ ] Apparel.txt
-	- [ ] Artworks.txt
-	- [ ] Bodyparts.txt
-	- [ ] BusinessTypes.txt
-	- [ ] Colors.txt
-	- [ ] Colors_Badass.txt
-	- [ ] Communities.txt
-	- [ ] Concepts_Angsty.txt
-	- [ ] Concepts_Badass.txt
-	- [ ] Concepts_Positive.txt
-	- [ ] Enemies.txt
-	- [ ] Games.txt
-	- [ ] Gore.txt
-	- [ ] GroupNames.txt
-	- [ ] Mechanoid.txt
-	- [ ] NaturalObject.txt
-	- [ ] People_Allies.txt
-	- [ ] People_Badass.txt
-	- [ ] People_Family.txt
-	- [ ] People_Jobs.txt
-	- [ ] PersonalCharacteristics.txt
-	- [ ] PoliticalUnions_Outlander.txt
-	- [ ] PoliticalUnions_Tribal.txt
-	- [ ] Stories.txt
-	- [ ] TalkTopics_Heavy.txt
-	- [ ] TalkTopics_Light.txt
-	- [ ] TerrainFeatures.txt
-	- [ ] TreeTypes.txt
-	- [ ] Vegetables.txt
-	- [ ] Weapons.txt
-  - [ ] Verbs/
-	- [ ] Friendly.txt
+**Selesai:** 160 / 358 file
+**Progres:** 44.69%
+z
+- [x] DefInjected\ApparelLayerDef\ApparelLayerDefs.xml
+- [x] DefInjected\BillRepeatModeDef\BillRepeatModeDefs.xml
+- [x] DefInjected\BillStoreModeDef\BillStoreModeDefs.xml
+- [x] DefInjected\BiomeDef\Biomes_Cold.xml
+- [x] DefInjected\BiomeDef\Biomes_Temperate.xml
+- [x] DefInjected\BiomeDef\Biomes_Warm.xml
+- [x] DefInjected\BiomeDef\Biomes_WarmArid.xml
+- [x] DefInjected\BiomeDef\Biomes_Water.xml
+- [x] DefInjected\BodyDef\Bodies_Animal_Bird.xml
+- [x] DefInjected\BodyDef\Bodies_Animal_Insect.xml
+- [x] DefInjected\BodyDef\Bodies_Animal_Quadruped.xml
+- [x] DefInjected\BodyDef\Bodies_Animal_Snake.xml
+- [x] DefInjected\BodyDef\Bodies_Humanlike.xml
+- [x] DefInjected\BodyDef\Bodies_Mechanoid.xml
+- [x] DefInjected\BodyPartDef\BodyParts_Animal.xml
+- [x] DefInjected\BodyPartDef\BodyParts_General.xml
+- [x] DefInjected\BodyPartDef\BodyParts_Humanoid.xml
+- [x] DefInjected\BodyPartDef\BodyParts_Mechanoid.xml
+- [x] DefInjected\BodyPartDef\BodyParts_Organs.xml
+- [x] DefInjected\BodyPartGroupDef\BodyPartGroups.xml
+- [x] DefInjected\ChemicalDef\Alcohol_Beer.xml
+- [x] DefInjected\ChemicalDef\Ambrosia.xml
+- [x] DefInjected\ChemicalDef\GoJuice.xml
+- [x] DefInjected\ChemicalDef\Luciferium.xml
+- [x] DefInjected\ChemicalDef\Psychite_Yayo.xml
+- [x] DefInjected\ChemicalDef\Smokeleaf.xml
+- [x] DefInjected\ChemicalDef\WakeUp.xml
+- [x] DefInjected\ConceptDef\Concepts_Entry.xml
+- [x] DefInjected\ConceptDef\Concepts_NotedOpportunistic.xml
+- [x] DefInjected\ConceptDef\Concepts_NotedSelfshow.xml
+- [x] DefInjected\ConceptDef\Concepts_TriggeredModal.xml
+- [x] DefInjected\DamageDef\Damages_Environmental.xml
+- [x] DefInjected\DamageDef\Damages_Medical.xml
+- [x] DefInjected\DamageDef\Damages_MeleeWeapon.xml
+- [x] DefInjected\DamageDef\Damages_Misc.xml
+- [x] DefInjected\DamageDef\Damages_RangedWeapon.xml
+- [x] DefInjected\DamageDef\Damages_Stun.xml
+- [x] DefInjected\DesignationCategoryDef\DesignationCategories.xml
+- [x] DefInjected\DifficultyDef\Difficulties.xml
+- [x] DefInjected\ExpectationDef\Expectations.xml
+- [x] DefInjected\FactionDef\Factions_Hidden.xml
+- [x] DefInjected\FactionDef\Factions_Misc.xml
+- [x] DefInjected\FactionDef\Factions_Player.xml
+- [x] DefInjected\GameConditionDef\GameConditions_Misc.xml
+- [x] DefInjected\HairDef\HairsGeneral.xml
+- [x] DefInjected\HediffDef\Alcohol_Beer.xml
+- [x] DefInjected\HediffDef\Ambrosia.xml
+- [x] DefInjected\HediffDef\GoJuice.xml
+- [x] DefInjected\HediffDef\Hediffs_Global_Misc.xml
+- [x] DefInjected\HediffDef\Hediffs_Global_Needs.xml
+- [x] DefInjected\HediffDef\Hediffs_Global_Temperature.xml
+- [x] DefInjected\HediffDef\Hediffs_Local_AddedParts.xml
+- [x] DefInjected\HediffDef\Hediffs_Local_Chronic.xml
+- [x] DefInjected\HediffDef\Hediffs_Local_Implants.xml
+- [x] DefInjected\HediffDef\Hediffs_Local_Infections.xml
+- [x] DefInjected\HediffDef\Hediffs_Local_Injuries.xml
+- [x] DefInjected\HediffDef\Hediffs_Local_Misc.xml
+- [x] DefInjected\HediffDef\Hediffs_Local_TerrainAttacks.xml
+- [x] DefInjected\HediffDef\Luciferium.xml
+- [x] DefInjected\HediffDef\Psychite_Flake.xml
+- [x] DefInjected\HediffDef\Psychite_Tea.xml
+- [x] DefInjected\HediffDef\Psychite_Yayo.xml
+- [x] DefInjected\HediffDef\Smokeleaf.xml
+- [x] DefInjected\HediffDef\WakeUp.xml
+- [x] DefInjected\HediffGiverSetDef\HediffGiverSets.xml
+- [x] DefInjected\HistoryAutoRecorderDef\HistoryAutoRecorders.xml
+- [x] DefInjected\HistoryAutoRecorderGroupDef\HistoryAutoRecorderGroups.xml
+- [x] DefInjected\IncidentDef\Incidents_Caravan_All.xml
+- [x] DefInjected\IncidentDef\Incidents_Map_Disease.xml
+- [x] DefInjected\IncidentDef\Incidents_Map_Misc.xml
+- [x] DefInjected\IncidentDef\Incidents_Map_Special.xml
+- [x] DefInjected\IncidentDef\Incidents_Map_Threats.xml
+- [x] DefInjected\IncidentDef\Incidents_World_Conditions.xml
+- [x] DefInjected\IncidentDef\Incidents_World_Quests.xml
+- [x] DefInjected\InspirationDef\Inspirations.xml
+- [x] DefInjected\InstructionDef\Instructions.xml
+- [x] DefInjected\InteractionDef\Interactions_Animal.xml
+- [x] DefInjected\InteractionDef\Interactions_Prisoner.xml
+- [x] DefInjected\InteractionDef\Interactions_Romance.xml
+- [x] DefInjected\InteractionDef\Interactions_Social.xml
+- [x] DefInjected\JobDef\Jobs_Animal.xml
+- [x] DefInjected\JobDef\Jobs_Caravan.xml
+- [x] DefInjected\JobDef\Jobs_Gatherings.xml
+- [x] DefInjected\JobDef\Jobs_Joy.xml
+- [x] DefInjected\JobDef\Jobs_Misc.xml
+- [x] DefInjected\JobDef\Jobs_Work.xml
+- [x] DefInjected\JoyKindDef\JoyKinds.xml
+- [x] DefInjected\KeyBindingCategoryDef\KeyBindingCategories.xml
+- [x] DefInjected\KeyBindingCategoryDef\KeyBindingCategories_Add_Architect.xml
+- [x] DefInjected\LifeStageDef\LifeStages.xml
+- [x] DefInjected\MainButtonDef\MainButtons.xml
+- [x] DefInjected\MentalBreakDef\MentalStates_Mood.xml
+- [x] DefInjected\MentalStateDef\MentalStates_Mood.xml
+- [x] DefInjected\MentalStateDef\MentalStates_Special.xml
+- [x] DefInjected\NeedDef\Needs.xml
+- [x] DefInjected\PawnKindDef\PawnKinds_Player.xml
+- [x] DefInjected\PawnKindDef\PawnKinds_Tribal.xml
+- [x] DefInjected\PawnKindDef\Races_Animal_Insect.xml
+- [x] DefInjected\PawnRelationDef\PawnRelations_FamilyByBlood.xml
+- [x] DefInjected\RecipeDef\Recipes_Add_Make.xml
+- [x] DefInjected\RecipeDef\Recipes_Food.xml
+- [x] DefInjected\RecordDef\Records_Misc.xml
+- [x] DefInjected\RecordDef\Records_Time.xml
+- [x] DefInjected\ResearchProjectDef\ResearchProjects_1.xml
+- [x] DefInjected\ResearchProjectDef\ResearchProjects_Tier4_Ship.xml
+- [x] DefInjected\RoadDef\RoadDefs.xml
+- [x] DefInjected\RoomRoleDef\RoomRoles.xml
+- [x] DefInjected\RoomStatDef\RoomStats.xml
+- [x] DefInjected\RulePackDef\Interactions_Prisoner.xml
+- [x] DefInjected\RulePackDef\Interactions_Romance.xml
+- [x] DefInjected\RulePackDef\Interactions_Social.xml
+- [x] DefInjected\RulePackDef\RulePacks_Art_Descriptions.xml
+- [x] DefInjected\RulePackDef\RulePacks_Combat.xml
+- [x] DefInjected\RulePackDef\RulePacks_Damage.xml
+- [x] DefInjected\RulePackDef\RulePacks_Maneuvers.xml
+- [x] DefInjected\ScenPartDef\ScenParts_Fixed.xml
+- [x] DefInjected\ScenPartDef\ScenParts_Various.xml
+- [x] DefInjected\SitePartDef\Manhunters.xml
+- [x] DefInjected\SpecialThingFilterDef\SpecialThingFilters.xml
+- [x] DefInjected\StatCategoryDef\StatCategories.xml
+- [x] DefInjected\StatDef\Stats_Apparel.xml
+- [x] DefInjected\StatDef\Stats_Basics_General.xml
+- [x] DefInjected\StatDef\Stats_Basics_Special.xml
+- [x] DefInjected\StatDef\Stats_Building_Special.xml
+- [x] DefInjected\StatDef\Stats_Weapons_Melee.xml
+- [x] DefInjected\TaleDef\Tales_Caravan.xml
+- [x] DefInjected\TaleDef\Tales_DoublePawn.xml
+- [x] DefInjected\TaleDef\Tales_Incident.xml
+- [x] DefInjected\TerrainAffordanceDef\TerrainAffordances.xml
+- [x] DefInjected\TerrainDef\Terrain_Floors.xml
+- [x] DefInjected\ThingCategoryDef\ThingCategories.xml
+- [x] DefInjected\ThingDef\Apparel_Various.xml
+- [x] DefInjected\ThingDef\Buildings_Furniture.xml
+- [x] DefInjected\ThingDef\Buildings_Production.xml
+- [x] DefInjected\ThingDef\Ethereal_OrbitalStrikes.xml
+- [x] DefInjected\ThingDef\Plants_Special.xml
+- [x] DefInjected\ThingDef\Races_Animal_Arid.xml
+- [x] DefInjected\ThingDef\Races_Animal_Birds.xml
+- [x] DefInjected\ThingDef\Races_Animal_Farm.xml
+- [x] DefInjected\ThingDef\Races_Animal_Insect.xml
+- [x] DefInjected\ThingDef\Races_Animal_Rodentlike.xml
+- [x] DefInjected\ThingDef\Races_Animal_Temperate.xml
+- [x] DefInjected\ThingDef\Races_Humanlike.xml
+- [x] DefInjected\ThingDef\_Terrain_Extra.xml
+- [x] DefInjected\ThoughtDef\Alcohol_Beer.xml
+- [x] DefInjected\ThoughtDef\Thoughts_Situation_General.xml
+- [x] DefInjected\ThoughtDef\Thoughts_Situation_Special.xml
+- [x] DefInjected\TimeAssignmentDef\TimeAssignments.xml
+- [x] DefInjected\TraderKindDef\TraderKinds_Caravan_Neolithic.xml
+- [x] DefInjected\TraderKindDef\TraderKinds_Caravan_Outlander.xml
+- [x] DefInjected\TraderKindDef\TraderKinds_Orbital_Misc.xml
+- [x] DefInjected\TraderKindDef\TraderKinds_Visitor_Neolithic.xml
+- [x] DefInjected\TraderKindDef\TraderKinds_Visitor_Outlander.xml
+- [x] DefInjected\TrainabilityDef\TrainabilityDefs.xml
+- [x] DefInjected\TrainableDef\Trainables.xml
+- [x] DefInjected\TransferableSorterDef\TransferableSorters.xml
+- [x] DefInjected\WeatherDef\Weathers.xml
+- [x] DefInjected\WorkGiverDef\WorkGivers.xml
+- [x] DefInjected\WorkTypeDef\WorkTypes.xml
+- [x] DefInjected\WorldObjectDef\Incidents_Caravan_All.xml
+- [ ] DefInjected\ConceptDef\Example_Concepts.xml
+- [ ] DefInjected\HediffDef\Penoxycyline.xml
+- [ ] DefInjected\NeedDef\Alcohol_Beer.xml
+- [ ] DefInjected\NeedDef\Ambrosia.xml
+- [ ] DefInjected\NeedDef\GoJuice.xml
+- [ ] DefInjected\NeedDef\Luciferium.xml
+- [ ] DefInjected\NeedDef\Psychite_Yayo.xml
+- [ ] DefInjected\NeedDef\Smokeleaf.xml
+- [ ] DefInjected\NeedDef\WakeUp.xml
+- [ ] DefInjected\PawnCapacityDef\PawnCapacity.xml
+- [ ] DefInjected\PawnColumnDef\PawnColumns_Add.xml
+- [ ] DefInjected\PawnColumnDef\PawnColumns_Checkbox.xml
+- [ ] DefInjected\PawnColumnDef\PawnColumns_Icon.xml
+- [ ] DefInjected\PawnColumnDef\PawnColumns_Misc.xml
+- [ ] DefInjected\PawnKindDef\PawnKinds_Mercenary.xml
+- [ ] DefInjected\PawnKindDef\PawnKinds_Outlander.xml
+- [ ] DefInjected\PawnKindDef\PawnKinds_Pirate.xml
+- [ ] DefInjected\PawnKindDef\PawnKinds_Spacer.xml
+- [ ] DefInjected\PawnKindDef\PawnKinds_Special.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Arid.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Bears.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_BigCats.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Birds.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Farm.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Giant.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Hares.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Pet.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Rodentlike.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Temperate.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_Tropical.xml
+- [ ] DefInjected\PawnKindDef\Races_Animal_WildCanines.xml
+- [ ] DefInjected\PawnKindDef\Races_Mechanoid.xml
+- [ ] DefInjected\PawnRelationDef\PawnRelations_FamilyByChoice.xml
+- [ ] DefInjected\PawnRelationDef\PawnRelations_Misc.xml
+- [ ] DefInjected\PrisonerInteractionModeDef\PrisonerInteractionMode.xml
+- [ ] DefInjected\RaidStrategyDef\RaidStrategies.xml
+- [ ] DefInjected\RecipeDef\Alcohol_Beer.xml
+- [ ] DefInjected\RecipeDef\Recipes_Add_Administer.xml
+- [ ] DefInjected\RecipeDef\Recipes_Butchery.xml
+- [ ] DefInjected\RecipeDef\Recipes_Cremation.xml
+- [ ] DefInjected\RecipeDef\Recipes_Meals.xml
+- [ ] DefInjected\RecipeDef\Recipes_Production.xml
+- [ ] DefInjected\RecipeDef\Recipes_Surgery_Installations.xml
+- [ ] DefInjected\RecipeDef\Recipes_Surgery_Misc.xml
+- [ ] DefInjected\RecipeDef\Various_Stone.xml
+- [ ] DefInjected\ResearchProjectDef\ResearchProjects_2_Electricity.xml
+- [ ] DefInjected\ResearchProjectDef\ResearchProjects_3_Microelectronics.xml
+- [ ] DefInjected\ResearchProjectDef\ResearchProjects_4_MultiAnalyzer.xml
+- [ ] DefInjected\ResearchTabDef\ResearchTabs.xml
+- [ ] DefInjected\RiverDef\RiverDefs.xml
+- [ ] DefInjected\RoofDef\Roofs.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Art_DescriptionsPhysical.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Art_ImagesTaleless.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Battles.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Common.xml
+- [ ] DefInjected\RulePackDef\RulePacks_DamageEvent.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Event.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Global.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Namer_World.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Namers_Animals.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Namers_Art.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Namers_Factions.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Namers_People.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Namers_Scenarios.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Namers_Traders.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Namers_WorldFeatures.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Seeds.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Transitions.xml
+- [ ] DefInjected\RulePackDef\RulePacks_Utility.xml
+- [ ] DefInjected\ScenarioDef\Scenarios_Classic.xml
+- [ ] DefInjected\SiteCoreDef\DownedRefugee.xml
+- [ ] DefInjected\SiteCoreDef\ItemStash.xml
+- [ ] DefInjected\SiteCoreDef\Nothing.xml
+- [ ] DefInjected\SiteCoreDef\PreciousLump.xml
+- [ ] DefInjected\SiteCoreDef\PrisonerWillingToJoin.xml
+- [ ] DefInjected\SitePartDef\AmbushEdge.xml
+- [ ] DefInjected\SitePartDef\AmbushHidden.xml
+- [ ] DefInjected\SitePartDef\Outpost.xml
+- [ ] DefInjected\SitePartDef\SleepingMechanoids.xml
+- [ ] DefInjected\SitePartDef\Turrets.xml
+- [ ] DefInjected\SkillDef\Skills.xml
+- [ ] DefInjected\StatDef\Stats_Pawns_Combat.xml
+- [ ] DefInjected\StatDef\Stats_Pawns_General.xml
+- [ ] DefInjected\StatDef\Stats_Pawns_Social.xml
+- [ ] DefInjected\StatDef\Stats_Pawns_WorkGeneral.xml
+- [ ] DefInjected\StatDef\Stats_Pawns_WorkMedical.xml
+- [ ] DefInjected\StatDef\Stats_Pawns_WorkRecipes.xml
+- [ ] DefInjected\StatDef\Stats_Stuff.xml
+- [ ] DefInjected\StatDef\Stats_Weapons_Ranged.xml
+- [ ] DefInjected\StorytellerDef\Storytellers.xml
+- [ ] DefInjected\StuffCategoryDef\StuffCategories.xml
+- [ ] DefInjected\TaleDef\Tales_DoublePawn_Relationships.xml
+- [ ] DefInjected\TaleDef\Tales_Event.xml
+- [ ] DefInjected\TaleDef\Tales_Health.xml
+- [ ] DefInjected\TaleDef\Tales_Job.xml
+- [ ] DefInjected\TaleDef\Tales_SinglePawn.xml
+- [ ] DefInjected\TerrainDef\Terrain_Add.xml
+- [ ] DefInjected\TerrainDef\Terrain_Floors_Burned.xml
+- [ ] DefInjected\TerrainDef\Terrain_Floors_StoneTile.xml
+- [ ] DefInjected\TerrainDef\Terrain_Natural.xml
+- [ ] DefInjected\TerrainDef\Terrain_Road.xml
+- [ ] DefInjected\TerrainDef\Terrain_Special.xml
+- [ ] DefInjected\TerrainDef\Terrain_Water.xml
+- [ ] DefInjected\ThingDef\Alcohol_Beer.xml
+- [ ] DefInjected\ThingDef\Ambrosia.xml
+- [ ] DefInjected\ThingDef\Apparel_Belts.xml
+- [ ] DefInjected\ThingDef\Apparel_Headgear.xml
+- [ ] DefInjected\ThingDef\Buildings_Ancient.xml
+- [ ] DefInjected\ThingDef\Buildings_Art.xml
+- [ ] DefInjected\ThingDef\Buildings_Exotic.xml
+- [ ] DefInjected\ThingDef\Buildings_Joy.xml
+- [ ] DefInjected\ThingDef\Buildings_Misc.xml
+- [ ] DefInjected\ThingDef\Buildings_Natural.xml
+- [ ] DefInjected\ThingDef\Buildings_Power.xml
+- [ ] DefInjected\ThingDef\Buildings_Security.xml
+- [ ] DefInjected\ThingDef\Buildings_Ship.xml
+- [ ] DefInjected\ThingDef\Buildings_Special.xml
+- [ ] DefInjected\ThingDef\Buildings_Structure.xml
+- [ ] DefInjected\ThingDef\Buildings_Temperature.xml
+- [ ] DefInjected\ThingDef\Ethereal_SignalActions.xml
+- [ ] DefInjected\ThingDef\Ethereal_Skyfallers.xml
+- [ ] DefInjected\ThingDef\Ethereal_Various.xml
+- [ ] DefInjected\ThingDef\Filth_Various.xml
+- [ ] DefInjected\ThingDef\Gas_Various.xml
+- [ ] DefInjected\ThingDef\GoJuice.xml
+- [ ] DefInjected\ThingDef\Items_Artifacts.xml
+- [ ] DefInjected\ThingDef\Items_BodyParts.xml
+- [ ] DefInjected\ThingDef\Items_Exotic.xml
+- [ ] DefInjected\ThingDef\Items_Food.xml
+- [ ] DefInjected\ThingDef\Items_Implants.xml
+- [ ] DefInjected\ThingDef\Items_Luxury.xml
+- [ ] DefInjected\ThingDef\Items_Resource_AnimalProduct.xml
+- [ ] DefInjected\ThingDef\Items_Resource_Manufactured.xml
+- [ ] DefInjected\ThingDef\Items_Resource_RawPlant.xml
+- [ ] DefInjected\ThingDef\Items_Resource_Shell.xml
+- [ ] DefInjected\ThingDef\Items_Resource_Stuff.xml
+- [ ] DefInjected\ThingDef\Items_Resource_Stuff_Leather.xml
+- [ ] DefInjected\ThingDef\Items_Unfinished.xml
+- [ ] DefInjected\ThingDef\Luciferium.xml
+- [ ] DefInjected\ThingDef\MeleeMedieval.xml
+- [ ] DefInjected\ThingDef\MeleeNeolithic.xml
+- [ ] DefInjected\ThingDef\Penoxycyline.xml
+- [ ] DefInjected\ThingDef\Plants_Cave.xml
+- [ ] DefInjected\ThingDef\Plants_Cultivated_Decorative.xml
+- [ ] DefInjected\ThingDef\Plants_Cultivated_Farm.xml
+- [ ] DefInjected\ThingDef\Plants_Wild_Arid.xml
+- [ ] DefInjected\ThingDef\Plants_Wild_General.xml
+- [ ] DefInjected\ThingDef\Plants_Wild_Swamp.xml
+- [ ] DefInjected\ThingDef\Plants_Wild_Temperate.xml
+- [ ] DefInjected\ThingDef\Plants_Wild_Tropical.xml
+- [ ] DefInjected\ThingDef\Psychite_Flake.xml
+- [ ] DefInjected\ThingDef\Psychite_Tea.xml
+- [ ] DefInjected\ThingDef\Psychite_Yayo.xml
+- [ ] DefInjected\ThingDef\Races_Animal_Bears.xml
+- [ ] DefInjected\ThingDef\Races_Animal_BigCats.xml
+- [ ] DefInjected\ThingDef\Races_Animal_Giant.xml
+- [ ] DefInjected\ThingDef\Races_Animal_Hares.xml
+- [ ] DefInjected\ThingDef\Races_Animal_Pet.xml
+- [ ] DefInjected\ThingDef\Races_Animal_Tropical.xml
+- [ ] DefInjected\ThingDef\Races_Animal_WildCanines.xml
+- [ ] DefInjected\ThingDef\Races_Mechanoid.xml
+- [ ] DefInjected\ThingDef\RangedIndustrial.xml
+- [ ] DefInjected\ThingDef\RangedIndustrialConsumable.xml
+- [ ] DefInjected\ThingDef\RangedIndustrialGrenades.xml
+- [ ] DefInjected\ThingDef\RangedMechanoid.xml
+- [ ] DefInjected\ThingDef\RangedNeolithic.xml
+- [ ] DefInjected\ThingDef\RangedSpacer.xml
+- [ ] DefInjected\ThingDef\RangedSpecial.xml
+- [ ] DefInjected\ThingDef\Smokeleaf.xml
+- [ ] DefInjected\ThingDef\Things_Special.xml
+- [ ] DefInjected\ThingDef\Various_Stone.xml
+- [ ] DefInjected\ThingDef\WakeUp.xml
+- [ ] DefInjected\ThingDef\_Things_Mote.xml
+- [ ] DefInjected\ThoughtDef\Ambrosia.xml
+- [ ] DefInjected\ThoughtDef\Expectations.xml
+- [ ] DefInjected\ThoughtDef\GoJuice.xml
+- [ ] DefInjected\ThoughtDef\Psychite_Flake.xml
+- [ ] DefInjected\ThoughtDef\Psychite_Tea.xml
+- [ ] DefInjected\ThoughtDef\Psychite_Yayo.xml
+- [ ] DefInjected\ThoughtDef\Smokeleaf.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Memory_Death.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Memory_Debug.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Memory_Eating.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Memory_Gatherings.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Memory_Misc.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Memory_RoomStats.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Memory_Social.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Memory_Special.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Situation_Needs.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Situation_RoomStats.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Situation_Social.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Situation_Traits.xml
+- [ ] DefInjected\ThoughtDef\Thoughts_Situation_TraitsPerm.xml
+- [ ] DefInjected\ThoughtDef\WakeUp.xml
+- [ ] DefInjected\TraitDef\Example_Traits.xml
+- [ ] DefInjected\TraitDef\Traits_Singular.xml
+- [ ] DefInjected\TraitDef\Traits_Spectrum.xml
+- [ ] DefInjected\WorldObjectDef\WorldObjects.xml

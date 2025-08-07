@@ -4,25 +4,25 @@
   <Mood.label>mood</Mood.label>
   <Mood.description>Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree.</Mood.description>
 
-  <Food.label>food</Food.label>
-  <Food.description>Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die.</Food.description>
+  <Food.label>makanan</Food.label>
+  <Food.description>Makanan adalah jumlah nutrisi yang telah dikonsumsi makhluk baru-baru ini. Jika berada di nol, makhluk akan menjadi semakin kekurangan gizi dan akhirnya mati.</Food.description>
 
-  <Rest.label>rest</Rest.label>
-  <Rest.description>Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot.</Rest.description>
+  <Rest.label>istirahat</Rest.label>
+  <Rest.description>Istirahat adalah seberapa banyak tidur yang telah didapatkan makhluk baru-baru ini. Jika berada di nol, makhluk akan akhirnya tertidur di tempat.</Rest.description>
 
-  <Joy.label>recreation</Joy.label>
-  <Joy.description>Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary.</Joy.description>
+  <Joy.label>rekreasi</Joy.label>
+  <Joy.description>Rekreasi adalah kebutuhan untuk bersenang-senang. Mengulangi jenis aktivitas yang sama membuatnya kurang menyenangkan, jadi variasi diperlukan.</Joy.description>
 
-  <Beauty.label>beauty</Beauty.label>
-  <Beauty.description>Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it.</Beauty.description>
+  <Beauty.label>keindahan</Beauty.label>
+  <Beauty.description>Keindahan mencerminkan seberapa menyenangkan secara visual seseorang menemukan lingkungan mereka baru-baru ini. Hal-hal yang indah seperti seni meningkatkan keindahan saat dilihat, sementara hal-hal yang jelek seperti kotoran dan permukaan batu kasar menguranginya.</Beauty.description>
 
-  <Comfort.label>comfort</Comfort.label>
-  <Comfort.description>Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times.</Comfort.description>
+  <Comfort.label>kenyamanan</Comfort.label>
+  <Comfort.description>Kenyamanan diperoleh dengan duduk atau tidur di furnitur yang nyaman. Ini diperoleh saat berbaring di tempat tidur, duduk di kursi saat bekerja, atau waktu lainnya.</Comfort.description>
 
-  <Outdoors.label>outdoors</Outdoors.label>
-  <Outdoors.description>Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases.</Outdoors.description>
+  <Outdoors.label>luar ruangan</Outdoors.label>
+  <Outdoors.description>Keberadaan di luar ruangan mengekspresikan kebutuhan untuk tidak terkurung di dalam. Ini terganggu oleh periode lama di dalam ruangan, terutama di bawah tanah. Ini meningkat ketika seseorang menghabiskan waktu di bawah langit, terutama di luar ruangan. Ini bukan tentang ukuran ruangan, tetapi kebutuhan untuk berada di luar dari waktu ke waktu. Kurangnya waktu di luar ruangan adalah tantangan signifikan bagi orang-orang yang tinggal di basis bawah tanah.</Outdoors.description>
 
-  <RoomSize.label>room size</RoomSize.label>
-
+  <RoomSize.label>ukuran ruangan</RoomSize.label>
+  <RoomSize.description>Ukuran ruangan mencerminkan seberapa besar ruang yang tersedia untuk makhluk. Ruangan yang lebih besar memberikan kenyamanan dan kebebasan bergerak yang lebih baik, sementara ruangan yang lebih kecil dapat membuat makhluk merasa terkurung.</RoomSize.description>
 
 </LanguageData>
