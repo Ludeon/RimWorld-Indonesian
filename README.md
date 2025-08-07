@@ -1,27 +1,44 @@
-![Image of Rimworld](http://rimworldwiki.com/images/thumb/8/8c/Rimworldlogo.png/600px-Rimworldlogo.png)
+![Image of RimWorld](http://rimworldwiki.com/images/thumb/8/8c/Rimworldlogo.png/600px-Rimworldlogo.png)
 
-===================================================
-* Proyek translasi bahasa Indonesia untuk RimWorld.
-* An Indonesian Language translation project.
+# 🇮🇩 RimWorld Bahasa Indonesia  
+**Proyek resmi translasi Bahasa Indonesia untuk RimWorld**  
+**Official Indonesian Language Translation Project for RimWorld**
 
-## Progress
-[Progress checklist document](PROGRESS.md)
+---
 
-Goals:
-[] Complete translations by 30 August 2025
-[] Test translations in game
-[] Submit translation files
+## 📝 Cara Berkontribusi | How to Contribute  
+1. Fork repositori ini  
+2. Lakukan perubahan terjemahan di repositori Anda  
+3. Kirim *pull request* ke repositori ini  
+4. Untuk menjadi kontributor resmi, kirim permohonan melalui email ke [support@ludeon.com](mailto:support@ludeon.com)
 
-## License
-http://ludeon.com/forums/index.php?topic=2933.0
+> 💡 Karena RimWorld adalah game berbasis cerita, pastikan alur kalimat terasa alami dalam Bahasa Indonesia — tidak harus terjemahan harfiah.
 
-## Guide
-As Rimworld is first and foremost a storytelling game, language fit is more crucial than literal translation. I understand that things can and will get lost in traslation, especially nuances and differences in how languages convey things. Please ensure that the messages flow nicely in game, even if that means changing the grammatical structure.
+---
 
-## Official Translators
-| [<img src="https://avatars.githubusercontent.com/u/34961766?s=96&v=4" width="100px;"/><br /><sub><b>Ariq S. F. Ibrahim</b></sub>](https://github.com/Rixenses)<br /> Rixenses | [<img src="https://avatars0.githubusercontent.com/u/10151729?s=460&v=4" width="100px;"/><br /><sub><b>JulianJason</b></sub>](https://github.com/JulianJason)<br /> Big Boss | [<img src="https://avatars3.githubusercontent.com/u/948279?s=460&v=4" width="100px;"/><br /><sub><b>Equan Pr.</b></sub>](https://github.com/junwatu)<br /> Pra Pangurakan |
-|---|---|---|
+## 📌 Progress
+![Status Terjemahan](https://img.shields.io/badge/terjemahan-60%25-yellow)  
+Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 
-## Contributing
-Please read this [contributing guide](http://ludeon.com/forums/index.php?topic=2933.0) to begin contributing. To be added to the list of translators, simply make a pull request and maintain the translations over two major releases.  
+**Target:**
+- [ ] Selesai: 30 Agustus 2025  
+- [ ] Uji coba di dalam game  
+- [ ] Submit ke Ludeon
 
+---
+
+## 👥 Kontributor Aktif | Active Contributor
+| ![Ariq](https://avatars.githubusercontent.com/u/34961766?s=96&v=4) <br /> **Ariq S. F. Ibrahim** <br /> `@Rixenses` |
+|---|
+
+---
+
+## 🕰️ Kontributor Sebelumnya | Past Contributors  
+| ![Julian](https://avatars.githubusercontent.com/u/10151729?s=96&v=4) <br /> **Julian Jason** <br /> `@JulianJason` | ![Equan](https://avatars.githubusercontent.com/u/948279?s=96&v=4) <br /> **Equan Pr.** <br /> `@junwatu` | ![Faryzal]((https://avatars.githubusercontent.com/u/8612170?v=4)) <br /> **Faryzal** <br /> `@Faryzal2020` | ![Irsyad](https://avatars.githubusercontent.com/u/174414578?v=4)) <br /> **Irsyad Akbar.** <br /> `@irsyad-a` |
+|---|---|---|---|
+
+---
+
+## ⚖️ Lisensi | License  
+Untuk informasi lisensi, kunjungi:  
+👉 [http://ludeon.com/forums/index.php?topic=2933.0](http://ludeon.com/forums/index.php?topic=2933.0)
