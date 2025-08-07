@@ -28,34 +28,42 @@ Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 ---
 
 ## 👥 Kontributor Aktif | Active Contributor
-| ![Ariq](https://avatars.githubusercontent.com/u/34961766?s=96&v=4) <br /> **Ariq S. F. Ibrahim** <br /> `@Rixenses` |
-|---|
-
----
-
-## ⏰ Kontributor Sebelumnya | Past Contributors
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/142970734" height="120"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/34961766?v=4" height="96"/><br/>
+      <b>Ariq S. F. Ibrahim</b><br/>
+      <code>@Rixenses</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🕰️ Kontributor Sebelumnya | Past Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/10151729?v=4" height="96"/><br/>
       <b>Julian Jason</b><br/>
-      <a href="https://github.com/JulianJason">@JulianJason</a>
+      <code>@JulianJason</code>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/111177849" height="120"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/948279?v=4" height="96"/><br/>
       <b>Equan Pr.</b><br/>
-      <a href="https://github.com/junwatu">@junwatu</a>
+      <code>@junwatu</code>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/82011945" height="120"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/8612170?v=4" height="96"/><br/>
       <b>Faryzal</b><br/>
-      <a href="https://github.com/Faryzal2020">@Faryzal2020</a>
+      <code>@Faryzal2020</code>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/67672890" height="120"/><br/>
-      <b>Irsyad Akbar.</b><br/>
-      <a href="https://github.com/irsyad-a">@irsyad-a</a>
+      <img src="https://avatars.githubusercontent.com/u/174414578?v=4" height="96"/><br/>
+      <b>Irsyad Akbar</b><br/>
+      <code>@irsyad-a</code>
     </td>
   </tr>
 </table>
