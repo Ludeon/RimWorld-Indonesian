@@ -1,237 +1,237 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <JumpToLocation>Jump to location</JumpToLocation>
-  <PostponeLetter>Postpone</PostponeLetter>
-  <RejectLetter>Reject</RejectLetter>
+  <JumpToLocation>Lompat ke lokasi</JumpToLocation>
+  <PostponeLetter>Tunda</PostponeLetter>
+  <RejectLetter>Tolak</RejectLetter>
 
-  <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
+  <LetterLabelFirstSummerWarning>Musim Panas</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Musim panas telah dimulai! Tapi musim dingin akan datang.\n\nTanaman makanan Anda tidak akan tumbuh dalam dinginnya musim dingin. Pastikan untuk menyimpan cukup makanan untuk bertahan hidup. Anda bisa membangun lemari es untuk mencegah makanan membusuk.\n\nBeli, curi, atau buat beberapa parka, atau Anda akan membeku saat keluar.</FirstSummerWarning>
 
-  <LetterRelationsChange_Hostile>Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again.</LetterRelationsChange_Hostile>
-  <LetterRelationsChange_NeutralFromHostile>Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you.</LetterRelationsChange_NeutralFromHostile>
-  <LetterRelationsChange_NeutralFromAlly>Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again.</LetterRelationsChange_NeutralFromAlly>
-  <LetterRelationsChange_Ally>Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Hostile>Hubungan dengan {0} telah sepenuhnya rusak. Mereka sekarang bermusuhan dengan Anda.\n\nMereka akan melakukan serangan berkala ke koloni dan karavan Anda, dan menolak untuk berdagang dengan Anda. Jika Anda ingin memperbaiki hubungan, Anda masih bisa menawarkan hadiah kepada mereka menggunakan karavan atau pod transportasi.\n\nIni terjadi karena goodwill ({1}) telah jatuh di bawah {2}. Untuk memulihkan hubungan netral, goodwill harus mencapai {3} lagi.</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_NeutralFromHostile>Hubungan dengan {0} telah menghangat. Mereka sekarang menganggap Anda netral dan tidak akan menyerang Anda lagi.\n\nIni terjadi karena goodwill ({1}) telah naik melewati {2}. Jika goodwill jatuh di bawah {3}, {0} akan menjadi bermusuhan lagi. Jika goodwill naik di atas {4}, mereka akan menjadi sekutu Anda dan berjuang untuk Anda.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromAlly>Hubungan dengan {0} telah mendingin. Mereka sekarang menganggap Anda netral alih-alih sekutu.\n\nMeskipun mereka masih akan berinteraksi dengan damai dengan Anda, mereka tidak akan lagi mengirim pejuang untuk membantu Anda saat Anda dalam ancaman.\n\nIni terjadi karena goodwill ({1}) telah jatuh di bawah {2}. Jika goodwill jatuh di bawah {3}, {0} akan menjadi bermusuhan. Jika goodwill naik di atas {4}, mereka akan menjadi sekutu lagi.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_Ally>Hubungan dengan {0} telah menjadi sangat dekat. Mereka sekarang menganggap Anda sebagai sekutu.\n\nSekutu kadang-kadang akan datang untuk membantu melawan musuh Anda saat Anda diserang. Anda juga dapat memanggil mereka untuk bantuan kapan saja, dengan biaya goodwill.\n\nAnda telah menjadi sekutu karena goodwill Anda ({1}) telah naik melewati {2}. Jika goodwill jatuh di bawah {3}, hubungan akan kembali menjadi netral.</LetterRelationsChange_Ally>
 
   <goodwill>goodwill</goodwill>
-  <Neutral>Neutral</Neutral>
-  <Death>Death</Death>
+  <Neutral>Netral</Neutral>
+  <Death>Kematian</Death>
 
-  <ShortCircuitRain>A {1_label} has short-circuited in the rain and started a fire.</ShortCircuitRain>
+  <ShortCircuitRain>Sebuah {1_label} telah mengalami korsleting di bawah hujan dan memicu kebakaran.</ShortCircuitRain>
 
-  <LetterLabelAreaRevealed>Area revealed</LetterLabelAreaRevealed>
-  <AreaRevealed>A new area has been revealed.</AreaRevealed>
-  <AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
+  <LetterLabelAreaRevealed>Area terungkap</LetterLabelAreaRevealed>
+  <AreaRevealed>Sebuah area baru telah terungkap.</AreaRevealed>
+  <AreaRevealedWithMechanoids>Sebuah area baru telah terungkap. Area ini mengandung mechanoid kuno yang bermusuhan.</AreaRevealedWithMechanoids>
 
-  <RoofCollapsed>A roof has collapsed because it was too far from any support.</RoofCollapsed>
-  <TheseThingsCrushed>These things were crushed:</TheseThingsCrushed>
-  <NothingCrushed>Nothing was crushed.</NothingCrushed>
-  <LetterLabelRoofCollapsed>Roof collapse</LetterLabelRoofCollapsed>
+  <RoofCollapsed>Sebuah atap telah runtuh karena terlalu jauh dari dukungan mana pun.</RoofCollapsed>
+  <TheseThingsCrushed>Hal-hal ini telah hancur:</TheseThingsCrushed>
+  <NothingCrushed>Tidak ada yang hancur.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Runtuhnya atap</LetterLabelRoofCollapsed>
 
-  <RecruitSuccess>{0} successfully recruited {1} ({2} chance).</RecruitSuccess>
-  <RecruitFail>{0} failed to recruit {1} ({2} chance).</RecruitFail>
+  <RecruitSuccess>{0} berhasil merekrut {1} ({2} peluang).</RecruitSuccess>
+  <RecruitFail>{0} gagal merekrut {1} ({2} peluang).</RecruitFail>
 
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} adalah {RELATIVE_labelShort} dari {1}. Jika {PAWN_nameDef} mati, {RELATIVE_labelShort} akan menderita kesedihan yang berkepanjangan. Namun, jika Anda berhasil menyelamatkan {PAWN_nameDef}, {RELATIVE_labelShort} akan sangat bahagia untuk waktu yang lama.</RelatedPawnInvolvedInQuest>
 
-  <LetterLabelBirthday>Birthday</LetterLabelBirthday>
-  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
-  <BirthdayBiologicalAgeInjuries>{0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
+  <LetterLabelBirthday>Ulang Tahun</LetterLabelBirthday>
+  <BirthdayChronological>Hari ini adalah ulang tahun kronologis {0}! Secara biologis, {1} berusia {3} tahun.\n\nSecara kronologis, {1} baru saja berulang tahun yang ke-{2}.\n\nPerlu dicatat bahwa karena orang tidak menua saat dalam tidur kripto, ulang tahun kronologis terpisah dari ulang tahun biologis.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0_nameFull} telah mencapai usia biologis {1}.\n\nSayangnya, {0_nameFull} telah mengalami penyakit berikut akibat penuaan:\n{2}</BirthdayBiologicalAgeInjuries>
 
-  <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
-  <NewDisease>{PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible.</NewDisease>
-  <NewPartDisease>{PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
-  <NewDiseaseAnimal>{PAWN_labelShort} has developed an illness: {1}</NewDiseaseAnimal>
-  <NewPartDiseaseAnimal>{PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1}</NewPartDiseaseAnimal>
+  <LetterLabelNewDisease>Penyakit</LetterLabelNewDisease>
+  <NewDisease>{PAWN} telah jatuh sakit karena {1}.\n\nPastikan Anda memiliki tempat tidur medis dan seorang dokter. Pastikan bahwa {PAWN_definite} mendapatkan perawatan yang tepat dan menghabiskan sebanyak mungkin waktu di tempat tidur.</NewDisease>
+  <NewPartDisease>{PAWN} telah jatuh sakit karena {3}. Infeksi ada di {PAWN_possessive} {1}.\n\nPastikan Anda memiliki tempat tidur medis dan seorang dokter. Pastikan bahwa {PAWN_definite} mendapatkan perawatan yang tepat dan menghabiskan sebanyak mungkin waktu di tempat tidur.</NewPartDisease>
+  <NewDiseaseAnimal>{PAWN_labelShort} telah mengembangkan penyakit: {1}</NewDiseaseAnimal>
+  <NewPartDiseaseAnimal>{PAWN_labelShort} telah mengembangkan penyakit: {3} di {PAWN_possessive} {1}</NewPartDiseaseAnimal>
 
-  <PawnWasFormerlyColonist>{1_labelShort} was formerly part of your faction.</PawnWasFormerlyColonist>
-  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} has these relationships with your colonists:</PawnHasTheseRelationshipsWithColonists>
-  <PrisonerRescueTimeout>The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {PRISONER_labelShort} again.</PrisonerRescueTimeout>
+  <PawnWasFormerlyColonist>{1_labelShort} sebelumnya adalah bagian dari faksi Anda.</PawnWasFormerlyColonist>
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} memiliki hubungan ini dengan kolonis Anda:</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>Kamp akan menghilang setelah {0} hari. Jika Anda melewatkan kesempatan ini, Anda mungkin tidak akan mendengar dari {PRISONER_labelShort} lagi.</PrisonerRescueTimeout>
 
-  <LetterLabelAncientShrineWarning>Ancient danger</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>As {0} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger.</AncientShrineWarning>
+  <LetterLabelAncientShrineWarning>Bahaya kuno</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>Ketika {0} mendekati dinding kuno, perasaan tidak menyenangkan melanda {PAWN_objective}. {PAWN_pronoun} tidak yakin mengapa, tetapi {PAWN_pronoun} merasa bahwa struktur berdebu ini mungkin mengandung bahaya besar.</AncientShrineWarning>
 
-  <StruckMineable>We have struck {0}!</StruckMineable>
+  <StruckMineable>Kita telah menemukan {0}!</StruckMineable>
 
-  <LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>{1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep.</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>{1_indefinite} is attacking due to a botched taming attempt!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Other {1_kindBasePlural} nearby have also become enraged!</AnimalManhunterOthers>
+  <LetterLabelAnimalManhunterRevenge>{0} balas dendam</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>{1_indefinite} sedang menyerang setelah terluka!\n\nIa akan memburu humanoid yang dapat dijangkaunya. Ia akan tenang saat tidur.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{1_indefinite} sedang menyerang karena upaya penjinakan yang gagal!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Hewan {1_kindBasePlural} lainnya di dekatnya juga telah menjadi marah!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{1_labelShort} hit trap</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{1_labelShort} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} terkena jebakan</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{1_labelShort} secara tidak sengaja mengaktifkan jebakan dan mengalami kerusakan akibatnya.</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2}</LetterHealthComplications>
+  <LetterHealthComplications>{PAWN_labelShort} telah mengembangkan kondisi kesehatan:\n\n  {1}\n\nIni disebabkan oleh:\n\n  {2}</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
 
-  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} telah mengembangkan kondisi kesehatan: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
 
-  <LetterLeadersDeathLabel>{1} died: {0}</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}.</LetterLeadersDeath>
+  <LetterLeadersDeathLabel>{1} meninggal: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} dari {1}, telah meninggal.\n\n{3} baru adalah {NEWLEADER_nameFull}.</LetterLeadersDeath>
 
-  <LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
-  <LetterLeaderChanged>{OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}.</LetterLeaderChanged>
+  <LetterLeaderChangedLabel>Ketua baru {1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} tidak lagi {3} dari {1}.\n\n{3} baru adalah {NEWLEADER_nameFull}.</LetterLeaderChanged>
 
-  <FinalStraw>The final straw was: {0}</FinalStraw>
-  <MentalStateReason_Mood>This happened because of poor mood.</MentalStateReason_Mood>
-  <MentalStateReason_Trait>This happened because of the trait: {0}.</MentalStateReason_Trait>
-  <MentalStateReason_Hediff>This happened because of: {0}.</MentalStateReason_Hediff>
-  <MentalStateReason_BondedHumanDeath>This happened because of {0_definite}'s death.</MentalStateReason_BondedHumanDeath>
-  <LastFactionRelationsEvent>The last event was</LastFactionRelationsEvent>
+  <FinalStraw>Hal terakhir adalah: {0}</FinalStraw>
+  <MentalStateReason_Mood>Ini terjadi karena suasana hati yang buruk.</MentalStateReason_Mood>
+  <MentalStateReason_Trait>Ini terjadi karena sifat: {0}.</MentalStateReason_Trait>
+  <MentalStateReason_Hediff>Ini terjadi karena: {0}.</MentalStateReason_Hediff>
+  <MentalStateReason_BondedHumanDeath>Ini terjadi karena kematian {0_definite}.</MentalStateReason_BondedHumanDeath>
+  <LastFactionRelationsEvent>Peristiwa terakhir adalah</LastFactionRelationsEvent>
 
-  <ReadMore>Read more</ReadMore>
-  <LastEventsInLife>The last events in {PAWN_definite}'s life</LastEventsInLife>
+  <ReadMore>Baca lebih lanjut</ReadMore>
+  <LastEventsInLife>Peristiwa terakhir dalam hidup {PAWN_definite}</LastEventsInLife>
 
-  <!-- Related pawns -->
-  <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
-  <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
-  <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}:</LetterRelatedPawnsRaidFriendly>
-  <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your {0} or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
-  <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradingWithSettlement>
-  <LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
-  <LetterRelatedPawnsGroupGeneric>There are people who have relationships with your {0} or prisoners in the group:</LetterRelatedPawnsGroupGeneric>
-  <LetterRelatedPawnsInMapWherePlayerLanded>There are people who have relationships with your {0} or prisoners in the area where your {0} have landed.</LetterRelatedPawnsInMapWherePlayerLanded>
-  <LetterRelatedPawnsSettlement>There are people who have relationships with your {0} or prisoners in this settlement:</LetterRelatedPawnsSettlement>
-  <LetterRelatedPawnsSite>There are people who have relationships with your {0} or prisoners in this area:</LetterRelatedPawnsSite>
+  <!-- Pawns terkait -->
+  <LetterLabelNoticedRelatedPawns>Hubungan</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>Ada orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan dalam kelompok {1} yang datang.\n\nPerlu diingat bahwa meskipun mereka terkait, mereka tetap akan saling menyerang karena hubungan faksi mereka yang buruk.\n\nOrang-orang ini adalah:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>Ada orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan dalam kelompok {1} yang bersahabat:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>Ada orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan dalam kelompok yang datang:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Pedagang orbital menjual orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithSettlement>Pemukiman menjual orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithOtherCaravan>Karavan menjual orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsGroupGeneric>Ada orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan dalam kelompok:</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsInMapWherePlayerLanded>Ada orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan di area tempat {0} Anda mendarat.</LetterRelatedPawnsInMapWherePlayerLanded>
+  <LetterRelatedPawnsSettlement>Ada orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan di pemukiman ini:</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSite>Ada orang-orang yang memiliki hubungan dengan {0} Anda atau tahanan di area ini:</LetterRelatedPawnsSite>
 
-  <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterSuffix>(hubungan)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} memiliki hubungan dengan seorang kolonis. {PAWN_pronoun} adalah {RELATIVE_labelShort} dari {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} memiliki hubungan dengan salah satu tahanan Anda. {PAWN_pronoun} adalah {RELATIVE_labelShort} dari {1}.</RelationshipAppendedLetterTextPrisoner>
 
-  <!-- Attempt romance / propose interaction -->
-  <LetterLabelAffair>Affair</LetterLabelAffair>
-  <LetterAffair>{PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}.</LetterAffair>
-  <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
-  <LetterNewLovers>{PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed.</LetterNewLovers>
-  <LetterNoLongerLovers>{PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship.</LetterNoLongerLovers>
-  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
-  <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
-  <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
-  <LetterRejectedProposal>{INITIATOR_nameFull} is going to be unhappy about this.</LetterRejectedProposal>
+  <!-- Upaya romansa / interaksi lamaran -->
+  <LetterLabelAffair>Perselingkuhan</LetterLabelAffair>
+  <LetterAffair>{PAWN1_labelShort}, yang menikah dengan {SPOUSE_labelShort}, telah memulai perselingkuhan dengan {PAWN2_labelShort}.</LetterAffair>
+  <LetterLabelNewLovers>Pasangan baru</LetterLabelNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort} dan {PAWN2_labelShort} sekarang ingin tidur bersama. Pertimbangkan untuk menugaskan mereka ke tempat tidur ganda.</LetterNewLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort} dan {PAWN2_labelShort} tidak lagi dalam hubungan.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Pisah</LetterLabelBreakup>
+  <LetterLabelAcceptedProposal>Pernikahan dimulai!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Lamaran ditolak</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>Dalam beberapa hari atau kuadrum mendatang, mereka akan mengadakan upacara pernikahan dan mengundang semua kolonis. Pertimbangkan untuk menempatkan tempat pernikahan jika Anda ingin mengontrol di mana upacara berlangsung.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{INITIATOR_nameFull} akan merasa tidak senang tentang ini.</LetterRejectedProposal>
 
-  <!-- Generalized letter labels -->
-  <LetterLabelRelationsChange_Hostile>Hostile: {0}</LetterLabelRelationsChange_Hostile>
-  <LetterLabelRelationsChange_Ally>Allied: {0}</LetterLabelRelationsChange_Ally>
-  <LetterLabelRelationsChange_NeutralFromHostile>Enemy now neutral: {0}</LetterLabelRelationsChange_NeutralFromHostile>
-  <LetterLabelRelationsChange_NeutralFromAlly>Ally now neutral: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <!-- Label surat umum -->
+  <LetterLabelRelationsChange_Hostile>Bermusuhan: {0}</LetterLabelRelationsChange_Hostile>
+  <LetterLabelRelationsChange_Ally>Sekutu: {0}</LetterLabelRelationsChange_Ally>
+  <LetterLabelRelationsChange_NeutralFromHostile>Musuh sekarang netral: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromAlly>Sekutu sekarang netral: {0}</LetterLabelRelationsChange_NeutralFromAlly>
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
-  <LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
+  <LetterLabelMentalBreakdown>Keterpurukan mental</LetterLabelMentalBreakdown>
 
-  <!-- Bonded animals -->
-  <LetterLabelSuffixBondedAnimalDied>bonded animal</LetterLabelSuffixBondedAnimalDied>
-  <LetterPartBondedAnimalDied>{ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood.</LetterPartBondedAnimalDied>
-  <LetterPartBondedAnimalDiedMulti>It will affect mood of the following people:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+  <!-- Hewan terikat -->
+  <LetterLabelSuffixBondedAnimalDied>hewan terikat</LetterLabelSuffixBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} terikat pada {HUMAN_labelShort}. Ini akan mempengaruhi suasana hati {HUMAN_labelShort}.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDiedMulti>Ini akan mempengaruhi suasana hati orang-orang berikut:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
-  <!-- Prison break -->
-  <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.</LetterPrisonBreak>
+  <!-- Pelarian penjara -->
+  <LetterLabelPrisonBreak>Pembobolan penjara</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Tahanan telah melakukan pelarian! Mereka entah bagaimana telah mengalahkan kunci pintu dan sedang dalam perjalanan keluar. Mereka mungkin mencari senjata, bertarung, atau mencoba melarikan diri. Tahanan-tahanan ini terlibat:\n\n{0}\n\nTahanan lebih mungkin untuk mencoba pelarian ketika mereka banyak dan sehat.</LetterPrisonBreak>
 
-  <!-- Party -->
-  <LetterLabelNewParty>Party</LetterLabelNewParty>
-  <LetterNewParty>{1_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost.</LetterNewParty>
+  <!-- Pesta -->
+  <LetterLabelNewParty>Pesta</LetterLabelNewParty>
+  <LetterNewParty>{1_labelShort} sedang mengadakan pesta! Semua yang pergi akan mendapatkan rekreasi dan energi sosial, serta dorongan suasana hati positif yang bertahan lama.</LetterNewParty>
 
-  <!-- Newly addicted -->
-  <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal.</LetterNewlyAddicted>
+  <!-- Ketergantungan baru -->
+  <LetterLabelNewlyAddicted>Ketergantungan {0}</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} telah mengembangkan ketergantungan pada {1}.\n\n{PAWN_pronoun} sekarang memiliki kebutuhan akan {1}, terlihat di tab Kebutuhan {PAWN_possessive}. {PAWN_pronoun} akan secara otomatis mengonsumsi obat untuk memenuhi kebutuhan {PAWN_possessive}. Jika {PAWN_pronoun} tidak dapat mendapatkan {1}, {PAWN_pronoun} akan mengalami gejala putus obat.</LetterNewlyAddicted>
 
-  <!-- Drug binge -->
-  <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
-  <LetterDrugBinge>{2_label} is binging on {1}.</LetterDrugBinge>
+  <!-- Pesta obat -->
+  <LetterLabelDrugBinge>Pesta {0}</LetterLabelDrugBinge>
+  <LetterDrugBinge>{2_label} sedang berpesta dengan {1}.</LetterDrugBinge>
 
-  <!-- Caravan destroyed -->
-  <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
-  <LetterAllCaravanColonistsDied>All members of {0} have died.</LetterAllCaravanColonistsDied>
+  <!-- Karavan hancur -->
+  <LetterLabelAllCaravanColonistsDied>Karavan hancur</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>Semua anggota {0} telah meninggal.</LetterAllCaravanColonistsDied>
 
-  <!-- Caravan entered map -->
-  <LetterLabelCaravanEnteredMap>Caravan arrived at {0_label}</LetterLabelCaravanEnteredMap>
-  <LetterCaravanEnteredMap>{0} has arrived at {1_definite}.</LetterCaravanEnteredMap>
+  <!-- Karavan memasuki peta -->
+  <LetterLabelCaravanEnteredMap>Karavan tiba di {0_label}</LetterLabelCaravanEnteredMap>
+  <LetterCaravanEnteredMap>{0} telah tiba di {1_definite}.</LetterCaravanEnteredMap>
 
-  <!-- Caravan entered enemy base -->
-  <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
-  <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
+  <!-- Karavan memasuki basis musuh -->
+  <LetterLabelCaravanEnteredEnemyBase>Serangan dimulai</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} telah tiba di {1} dan siap untuk memulai serangan.</LetterCaravanEnteredEnemyBase>
 
-  <!-- Transport pods landed in enemy base -->
-  <LetterLabelTransportPodsLandedInEnemyBase>Attack begun</LetterLabelTransportPodsLandedInEnemyBase>
-  <LetterTransportPodsLandedInEnemyBase>Your transport pods have arrived at {0}.</LetterTransportPodsLandedInEnemyBase>
+  <!-- Pod transportasi mendarat di basis musuh -->
+  <LetterLabelTransportPodsLandedInEnemyBase>Serangan dimulai</LetterLabelTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>Pod transportasi Anda telah tiba di {0}.</LetterTransportPodsLandedInEnemyBase>
 
-  <!-- Faction base defeated -->
-  <LetterLabelFactionBaseDefeated>Base destroyed</LetterLabelFactionBaseDefeated>
-  <LetterFactionBaseDefeated>The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option.</LetterFactionBaseDefeated>
-  <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means this faction doesn't exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+  <!-- Basis faksi dikalahkan -->
+  <LetterLabelFactionBaseDefeated>Basis hancur</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>Basis musuh {0} telah dihancurkan.\n\nDi {1}, karavan akan secara otomatis dibentuk kembali. Anda dapat membentuk kembali karavan sekarang di layar Dunia dengan memilih basis yang hancur dan memilih opsi "Bentuk kembali karavan".</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>Ini adalah basis terakhir dari {0}, yang berarti faksi ini tidak ada lagi.</LetterFactionBaseDefeated_FactionDestroyed>
 
-  <!-- Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
-  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+  <!-- Quest selesai -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest selesai</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Anda telah mengalahkan pos musuh!\n\nPembayaran dari {0} telah tiba, dan hubungan faksi telah meningkat sebesar {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
-  <!-- Found lump of precious resources -->
-  <LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
-  <LetterFoundPreciousLump>Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.</LetterFoundPreciousLump>
+  <!-- Ditemukan gumpalan sumber daya berharga -->
+  <LetterLabelFoundPreciousLump>Mineral berharga ditemukan</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>Dengan menggunakan pemindai mineral jarak jauh Anda, {WORKER_labelShort} telah menemukan gumpalan {0} di dekatnya.\n\nSayangnya, itu tidak akan bertahan lama - orang lain akan menambangnya terlebih dahulu dalam {1} hari jika kita tidak melakukannya.\n\n{2}.</LetterFoundPreciousLump>
 
-  <!-- Ambush -->
-  <LetterLabelAmbushInExistingMap>Ambush</LetterLabelAmbushInExistingMap>
-  <LetterAmbushInExistingMap>Your {0} have been ambushed!</LetterAmbushInExistingMap>
+  <!-- Penyergapan -->
+  <LetterLabelAmbushInExistingMap>Penyergapan</LetterLabelAmbushInExistingMap>
+  <LetterAmbushInExistingMap>{0} Anda telah disergap!</LetterAmbushInExistingMap>
 
-  <!-- Peace talks -->
-  <LetterLabelPeaceTalks_Disaster>Peace talks disaster</LetterLabelPeaceTalks_Disaster>
-  <LetterPeaceTalks_Disaster>The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}.</LetterPeaceTalks_Disaster>
-  <LetterLabelPeaceTalks_Backfire>Peace talks backfire</LetterLabelPeaceTalks_Backfire>
-  <LetterPeaceTalks_Backfire>The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}.</LetterPeaceTalks_Backfire>
-  <LetterLabelPeaceTalks_TalksFlounder>Peace talks flounder</LetterLabelPeaceTalks_TalksFlounder>
-  <LetterPeaceTalks_TalksFlounder>The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged.</LetterPeaceTalks_TalksFlounder>
-  <LetterLabelPeaceTalks_Success>Peace talks success</LetterLabelPeaceTalks_Success>
-  <LetterPeaceTalks_Success>The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}.</LetterPeaceTalks_Success>
-  <LetterLabelPeaceTalks_Triumph>Peace talks triumph</LetterLabelPeaceTalks_Triumph>
-  <LetterPeaceTalks_Triumph>The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2}</LetterPeaceTalks_Triumph>
-  <PeaceTalksSocialXPGain>{PAWN_labelShort}, your negotiator, has gained {1} social experience.</PeaceTalksSocialXPGain>
+  <!-- Pembicaraan damai -->
+  <LetterLabelPeaceTalks_Disaster>Disaster pembicaraan damai</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>Pembicaraan tersebut adalah bencana. Para delegasi hampir tidak melewati salam awal mereka sebelum diskusi berubah menjadi penghinaan dan tuduhan.\n\nSetelah karavan Anda berangkat lebih awal, {0} dari {1} mengejar dan menyerang!\n\nHubungan dengan {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>Pembicaraan damai gagal</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>Pembicaraan tersebut telah gagal. Meskipun melakukan beberapa basa-basi, para delegasi tidak membuat kemajuan pada isu-isu substantif, dan beberapa pernyataan diartikan sebagai penghinaan.\n\nHubungan dengan {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>Pembicaraan damai terhenti</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>Pembicaraan terhenti. Para delegasi berhasil berkomunikasi dengan jelas dan dengan rasa hormat dasar, tetapi tidak dapat membuat kemajuan pada isu-isu yang nyata.\n\nHubungan dengan {0} tetap tidak berubah.</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>Pembicaraan damai berhasil</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>Pembicaraan tersebut berhasil. Para delegasi mencapai pemahaman bersama yang baru pada beberapa isu substansial.\n\nHubungan dengan {0} telah meningkat sebesar {1}.</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>Pembicaraan damai sukses besar</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>Pembicaraan tersebut adalah sebuah keberhasilan besar! Para delegasi terhubung dengan cepat pada tingkat pribadi dan benar-benar melihat perspektif satu sama lain pada isu-isu yang paling sulit saat ini.\n\nHubungan dengan {0} telah meningkat sebesar {1}.\n\nSaat karavan Anda berangkat, {0} menawarkan Anda hadiah:\n\n{2}</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, negosiator Anda, telah mendapatkan {1} pengalaman sosial.</PeaceTalksSocialXPGain>
 
-  <!-- Run wild mental break -->
-  <LetterRunWildMentalBreak>{0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {0_objective} to get {0_objective} back.</LetterRunWildMentalBreak>
+  <!-- Keterpurukan mental liar -->
+  <LetterRunWildMentalBreak>{0} sudah muak dengan peradaban.\n\n{0_pronoun} menyadari bahwa makhluk liar selalu bebas. Jadi, {0_pronoun} telah memutuskan untuk meninggalkan faksi Anda dan hidup dengan hewan.</LetterRunWildMentalBreak>
 
-  <!-- Catatonic mental break -->
-  <LetterCatatonicMentalBreak>{0} has suffered a total mental breakdown and entered a catatonic state. {0_pronoun} will recover in several days.</LetterCatatonicMentalBreak>
+  <!-- Keterpurukan mental katatonik -->
+  <LetterCatatonicMentalBreak>{0} telah mengalami keterpurukan mental total dan memasuki keadaan katatonik. {0_pronoun} akan pulih dalam beberapa hari.</LetterCatatonicMentalBreak>
 
-  <LetterLabelAICoreOffer>AI Core Offer</LetterLabelAICoreOffer>
-  <LetterAICoreOffer>{PAWN_definite} of {1} contacts you with an offer of information: the location of an AI persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested.</LetterAICoreOffer>
+  <LetterLabelAICoreOffer>Penawaran Inti AI</LetterLabelAICoreOffer>
+  <LetterAICoreOffer>{PAWN_definite} dari {1} menghubungi Anda dengan tawaran informasi: lokasi inti persona AI, yang Anda perlukan untuk membangun pesawat luar angkasa. Mereka memberi tahu Anda bahwa barang ini cukup langka dan biasanya pemiliknya menjaganya dengan ketat.\n\nHubungi mereka dengan konsol komunikasi Anda jika Anda tertarik.</LetterAICoreOffer>
 
-  <LetterCraftedLegendaryLabel>Legendary Work</LetterCraftedLegendaryLabel>
-  <LetterCraftedLegendaryMessage>{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world.</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryLabel>Karya Legendaris</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} telah menciptakan sebuah {CRAFTED_labelShort}.\n\nBerita tentang artefak berharga ini akan menyebar ke seluruh dunia.</LetterCraftedLegendaryMessage>
 
-  <!-- Pawns lost because map closed -->
-  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Caravan lost</LetterLabelPawnsLostBecauseMapClosed_Caravan>
-  <LetterPawnsLostBecauseMapClosed_Caravan>Your caravan has been lost. The following people and animals have been lost with it</LetterPawnsLostBecauseMapClosed_Caravan>
-  <LetterLabelPawnsLostBecauseMapClosed_Home>Inhabitants abandoned</LetterLabelPawnsLostBecauseMapClosed_Home>
-  <LetterPawnsLostBecauseMapClosed_Home>The following people and animals have been abandoned</LetterPawnsLostBecauseMapClosed_Home>
+  <!-- Pawns hilang karena peta ditutup -->
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Karavan hilang</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterPawnsLostBecauseMapClosed_Caravan>Karavan Anda telah hilang. Orang dan hewan berikut telah hilang bersamanya</LetterPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Home>Penduduk ditinggalkan</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <LetterPawnsLostBecauseMapClosed_Home>Orang dan hewan berikut telah ditinggalkan</LetterPawnsLostBecauseMapClosed_Home>
 
-  <!-- Hibernate complete -->
-  <LetterLabelHibernateComplete>Reactor ready</LetterLabelHibernateComplete>
-  <LetterHibernateComplete>Charlon Whitestone has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff.</LetterHibernateComplete>
-  <LetterHibernateCompleteStandalone>The reactor's power up sequence is complete. It is now ready to power a liftoff.</LetterHibernateCompleteStandalone>
+  <!-- Hibernate selesai -->
+  <LetterLabelHibernateComplete>Reaktor siap</LetterLabelHibernateComplete>
+  <LetterHibernateComplete>Charlon Whitestone telah menyelesaikan urutan pemulihan hibernasi reaktor. Reaktor sekarang siap untuk menggerakkan peluncuran.</LetterHibernateComplete>
+  <LetterHibernateCompleteStandalone>Urutan pengaktifan reaktor telah selesai. Sekarang siap untuk menggerakkan peluncuran.</LetterHibernateCompleteStandalone>
 
-  <!-- Visitors gave gift -->
-  <LetterLabelVisitorsGaveGift>Gift from {0}</LetterLabelVisitorsGaveGift>
-  <LetterVisitorsGaveGift>{0} from {PAWN_factionName} have left a gift:\n\n{1}</LetterVisitorsGaveGift>
+  <!-- Pengunjung memberikan hadiah -->
+  <LetterLabelVisitorsGaveGift>Hadiah dari {0}</LetterLabelVisitorsGaveGift>
+  <LetterVisitorsGaveGift>{0} dari {PAWN_factionName} telah meninggalkan hadiah:\n\n{1}</LetterVisitorsGaveGift>
 
-  <!-- Faction base proximity -->
-  <LetterLabelFactionBaseProximity>Faction base proximity</LetterLabelFactionBaseProximity>
-  <LetterFactionBaseProximity>Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by:</LetterFactionBaseProximity>
+  <!-- Kedekatan basis faksi -->
+  <LetterLabelFactionBaseProximity>Kedekatan basis faksi</LetterLabelFactionBaseProximity>
+  <LetterFactionBaseProximity>Karena Anda sangat dekat dengan faksi lain, mereka merasa Anda sedang menginvasi wilayah mereka.\n\nSelama kuadrum terakhir, hubungan faksi telah berkurang sebesar:</LetterFactionBaseProximity>
 
-  <!-- Caravans battlefield victory -->
-  <LetterLabelCaravansBattlefieldVictory>Caravan battle won</LetterLabelCaravansBattlefieldVictory>
-  <LetterCaravansBattlefieldVictory>Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically.</LetterCaravansBattlefieldVictory>
+  <!-- Kemenangan medan perang karavan -->
+  <LetterLabelCaravansBattlefieldVictory>Kemenangan pertempuran karavan</LetterLabelCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>Karavan Anda telah memenangkan pertempuran.\n\nAnda dapat membentuk kembali karavan sekarang di layar Dunia dengan memilih medan perang dan memilih opsi "Bentuk kembali karavan".\n\nTidak perlu mengumpulkan barang secara manual, alat bentuk kembali karavan dapat melakukannya secara instan.\n\nDi {0}, karavan akan dibentuk kembali secara otomatis.</LetterCaravansBattlefieldVictory>
 
-  <!-- Rescue quest -->
-  <LetterLabelRescueQuestFinished>Rescuee joins</LetterLabelRescueQuestFinished>
-  <LetterRescueQuestFinished>You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option.</LetterRescueQuestFinished>
+  <!-- Quest penyelamatan -->
+  <LetterLabelRescueQuestFinished>Penyelamat bergabung</LetterLabelRescueQuestFinished>
+  <LetterRescueQuestFinished>Anda telah menyelamatkan {PAWN_nameDef} dan {PAWN_pronoun} telah bergabung dengan kelompok Anda.\n\nAnda dapat membawa {PAWN_objective} bersama Anda dengan membentuk kembali karavan di layar Dunia dengan memilih area ini dan memilih opsi "Bentuk kembali karavan".</LetterRescueQuestFinished>
 
-  <!-- Predator hunting colonist -->
-  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} hunting {PREY_definite}</LetterLabelPredatorHuntingColonist>
-  <LetterPredatorHuntingColonist>{PREDATOR} is hunting {PREY_definite} for food!</LetterPredatorHuntingColonist>
+  <!-- Predator memburu kolonis -->
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} memburu {PREY_definite}</LetterLabelPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR} sedang memburu {PREY_definite} untuk makanan!</LetterPredatorHuntingColonist>
 
-  <!-- Disease -->
-  <LetterDisease_Blocked>{0} blocked {1} on: {2}.</LetterDisease_Blocked>
-  <LetterLabelTraitDisease>Disease ({0})</LetterLabelTraitDisease>
-  <LetterTraitDisease>{PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible.</LetterTraitDisease>
+  <!-- Penyakit -->
+  <LetterDisease_Blocked>{0} memblokir {1} pada: {2}.</LetterDisease_Blocked>
+  <LetterLabelTraitDisease>Penyakit ({0})</LetterLabelTraitDisease>
+  <LetterTraitDisease>{PAWN_label} telah jatuh sakit karena {1}.\n\nPastikan Anda memiliki tempat tidur medis dan seorang dokter. Pastikan bahwa {PAWN_pronoun} mendapatkan perawatan yang tepat dan menghabiskan sebanyak mungkin waktu di tempat tidur.</LetterTraitDisease>
 
 </LanguageData>

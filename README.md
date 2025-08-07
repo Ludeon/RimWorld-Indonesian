@@ -82,4 +82,8 @@ Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 
 ## ⚖️ Lisensi | License  
 Untuk informasi lisensi, kunjungi:  
+<<<<<<< HEAD
 👉 [http://ludeon.com/forums/index.php?topic=2933.0](http://ludeon.com/forums/index.php?topic=2933.0)
+=======
+👉 [http://ludeon.com/forums/index.php?topic=2933.0](http://ludeon.com/forums/index.php?topic=2933.0)
+>>>>>>> 2780820 (Convert all XML to UTF-8 without BOM)

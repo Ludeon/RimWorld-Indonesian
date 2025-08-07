@@ -1,80 +1,80 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Autosaving>Autosaving</Autosaving>
-  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
-  <Colony>Colony</Colony>
-  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
-  <AndLower>and</AndLower>
-  <DisabledLower>disabled</DisabledLower>
+  <Autosaving>Menyimpan otomatis</Autosaving>
+  <GameStartDialog>Ketiganya terbangun di sarkofagus tidur kripto karena suara sirene dan logam yang robek. Kalian nyaris masuk ke kapsul pelarian sebelum kapal hancur.\n\nBeberapa saat kemudian, kalian mendarat di rimworld yang tidak dikenal ini.\n\nSaat potongan kapal jatuh di sekitar, kalian mulai merencanakan cara bertahan hidup.</GameStartDialog>
+  <Colony>Koloni</Colony>
+  <ChangeLanguageFromMainMenu>Anda hanya dapat mengubah bahasa dari layar opsi di menu utama.</ChangeLanguageFromMainMenu>
+  <AndLower>dan</AndLower>
+  <DisabledLower>dinonaktifkan</DisabledLower>
 
-  <VersionIndicator>Version {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
-  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+  <VersionIndicator>Versi {0}</VersionIndicator>
+  <DevelopmentBuildLower>build pengembangan</DevelopmentBuildLower>
+  <CompiledOn>Dikompilasi {0}</CompiledOn>
+  <LoggedIntoSteamAs>Masuk ke Steam sebagai {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
-  <Yes>Yes</Yes>
-  <No>No</No>
+  <Yes>Ya</Yes>
+  <No>Tidak</No>
   <min>min</min>
-  <max>max</max>
-  <chance>chance</chance>
-  <context>context</context>
-  <multiplier>multiplier</multiplier>
-  <damage>damage</damage>
+  <max>maks</max>
+  <chance>peluang</chance>
+  <context>konteks</context>
+  <multiplier>pengganda</multiplier>
+  <damage>kerusakan</damage>
   <radius>radius</radius>
-  <durationDays>duration (days)</durationDays>
-  <intervalDays>interval (days)</intervalDays>
-  <repeat>repeat</repeat>
-  <default>default</default>
-  <distance>distance</distance>
-  <YesUppercase>YES</YesUppercase>
-  <NoUppercase>NO</NoUppercase>
+  <durationDays>durasi (hari)</durationDays>
+  <intervalDays>interval (hari)</intervalDays>
+  <repeat>ulang</repeat>
+  <default>bawaan</default>
+  <distance>jarak</distance>
+  <YesUppercase>YA</YesUppercase>
+  <NoUppercase>TIDAK</NoUppercase>
   <kg>kg</kg>
-  <Day>Day</Day>
-  <day>day</day>
-  <Default>Default</Default>
-  <Average>Average</Average>
+  <Day>Hari</Day>
+  <day>hari</day>
+  <Default>Bawaan</Default>
+  <Average>Rata-rata</Average>
 
   <!-- Content generation-->
 
-  <MeatLabel>{0} meat</MeatLabel>
-  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
-  <MeatInsectDesc>Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing.</MeatInsectDesc>
-  <MeatHumanDesc>Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea.</MeatHumanDesc>
+  <MeatLabel>daging {0}</MeatLabel>
+  <MeatDesc>Daging mentah hasil sembelihan. Bisa dimasak menjadi makanan, atau dimakan mentah.</MeatDesc>
+  <MeatInsectDesc>Daging mentah hasil sembelihan. Jika perlu, bisa dimasak atau bahkan dimakan mentah. Sangat tidak menggugah selera.</MeatInsectDesc>
+  <MeatHumanDesc>Daging mentah hasil sembelihan. Bisa dimasak atau dimakan mentah, meski kebanyakan manusia tidak suka.</MeatHumanDesc>
 
-  <CorpseLabel>{0} corpse</CorpseLabel>
-  <CorpseDesc>Dead body of a {0}.</CorpseDesc>
-  <DeadLabel>{1_label} (dead)</DeadLabel>
+  <CorpseLabel>mayat {0}</CorpseLabel>
+  <CorpseDesc>Tubuh mati dari {0}.</CorpseDesc>
+  <DeadLabel>{1_label} (mati)</DeadLabel>
 
-  <RoughStoneTerrainLabel>rough {0}</RoughStoneTerrainLabel>
-  <RoughStoneTerrainDesc>Rough, natural {0} ground.</RoughStoneTerrainDesc>
-  <RoughHewnStoneTerrainLabel>rough-hewn {0}</RoughHewnStoneTerrainLabel>
-  <RoughHewnStoneTerrainDesc>Roughly cut natural {0} floor.</RoughHewnStoneTerrainDesc>
-  <SmoothStoneTerrainLabel>smooth {0}</SmoothStoneTerrainLabel>
-  <SmoothStoneTerrainDesc>Smoothed natural {0} floor.</SmoothStoneTerrainDesc>
+  <RoughStoneTerrainLabel>{0} kasar</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Tanah {0} alami yang kasar.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>{0} kasar-terpahat</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Lantai {0} alami yang dipahat kasar.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>{0} halus</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Lantai {0} alami yang dihaluskan.</SmoothStoneTerrainDesc>
 
-  <BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+  <BlueprintLabelExtra> (cetak biru)</BlueprintLabelExtra>
+  <FrameLabelExtra> (bangunan)</FrameLabelExtra>
 
-  <FactionUnaffiliated>Unaffiliated</FactionUnaffiliated>
+  <FactionUnaffiliated>Tidak berafiliasi</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{PAWN_labelShort}'s {1}</SomeonesRoom>
-  <CouplesRoom>{PAWN1_labelShort} and {PAWN2_labelShort}'s {2}</CouplesRoom>
+  <SomeonesRoom>Kamar {1} milik {PAWN_labelShort}</SomeonesRoom>
+  <CouplesRoom>Kamar {2} milik {PAWN1_labelShort} dan {PAWN2_labelShort}</CouplesRoom>
 
-  <VariousLabel>(various)</VariousLabel>
+  <VariousLabel>(beragam)</VariousLabel>
 
   <!-- History events -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>Kolonis meninggal</ColonistDied>
 
   <!-- Rotation -->
-  <North>North</North>
-  <South>South</South>
-  <West>West</West>
-  <East>East</East>
+  <North>Utara</North>
+  <South>Selatan</South>
+  <West>Barat</West>
+  <East>Timur</East>
 
 </LanguageData>

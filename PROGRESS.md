@@ -446,17 +446,17 @@
 - [ ] Enums.xml
 - [ ] FloatMenu.xml
 - [ ] GameplayCommands.xml
-- [ ] Grammar.xml
-- [ ] Incidents.xml
-- [ ] ITabs.xml
-- [ ] Letters.xml
-- [ ] MainTabs.xml
-- [ ] Menus_Main.xml
-- [ ] Menu_KeyBindings.xml
-- [ ] Menu_Options.xml
-- [ ] Messages.xml
-- [ ] Misc.xml
-- [ ] Misc_Gameplay.xml
+- [x] Grammar.xml
+- [x] Incidents.xml
+- [x] ITabs.xml
+- [x] Letters.xml
+- [x] MainTabs.xml
+- [x] Menus_Main.xml
+- [x] Menu_KeyBindings.xml
+- [x] Menu_Options.xml
+- [x] Messages.xml
+- [x] Misc.xml
+- [x] Misc_Gameplay.xml
 - [x] PlayInterface.xml
 - [x] ScenParts.xml
 - [x] Skills.xml

@@ -1,39 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
   <friendlyNameNative>Bahasa Indonesia</friendlyNameNative>
   <friendlyNameEnglish>Indonesian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <credits>
+    <!-- Aktif -->
     <li Class="CreditRecord_Text">
-      <text>Active:</text>
+      <text>Aktif:</text>
     </li>
     <li Class="CreditRecord_Space">
       <height>10</height>
     </li>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Ariq 'Rixenses' Ibrahim</creditee>
+      <creditee>Ariq S. F.'Rixenses' Ibrahim</creditee>
     </li>
+
     <li Class="CreditRecord_Space">
       <height>30</height>
     </li>
+
+    <!-- Tidak Aktif -->
     <li Class="CreditRecord_Text">
-      <text>Inactive:</text>
+      <text>Tidak Aktif:</text>
     </li>
     <li Class="CreditRecord_Space">
       <height>10</height>
     </li>
-    <li Class="CreditRecord_Role">
-      <roleKey>Credit_Translator</roleKey>
-      <creditee>Irsyad 'irsyad-a' Akbar</creditee>
-    </li>
-    <li Class="CreditRecord_Role">
+      <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
       <creditee>Jason 'JulianJason' Julian</creditee>
     </li>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Fakhrizal 'Faryzal2020' Andyko</creditee>
+      <creditee>Equan 'Junwatu' P.</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Faryzal 'Faryzal2020' Andyko</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Irsyad 'irsyad-a' Akbar</creditee>
     </li>
   </credits>
 </LanguageInfo>

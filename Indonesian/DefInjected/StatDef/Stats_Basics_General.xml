@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MaxHitPoints.label>hit point maksimum</MaxHitPoints.label>
-  <MaxHitPoints.description>hit point maksimum suatu benda. Ini menunjukan berapa banyak damage yang dapat diterima sebelum menjadi hancur.</MaxHitPoints.description>
+  <MaxHitPoints.label>poin kesehatan maksimum</MaxHitPoints.label>
+  <MaxHitPoints.description>poin kesehatan maksimum suatu benda. Ini menunjukan berapa banyak damage yang dapat diterima sebelum menjadi hancur.</MaxHitPoints.description>
 
   <Mass.label>berat</Mass.label>
   <Mass.description>Berat fisik suatu benda.</Mass.description>

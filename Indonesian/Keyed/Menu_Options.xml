@@ -2,54 +2,54 @@
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Audiovisuals</Audiovisuals>
-  <GameVolume>Game volume</GameVolume>
-  <MusicVolume>Music volume</MusicVolume>
-  <AmbientVolume>Ambient volume</AmbientVolume>
+  <Audiovisuals>Audio visual</Audiovisuals>
+  <GameVolume>Volume permainan</GameVolume>
+  <MusicVolume>Volume musik</MusicVolume>
+  <AmbientVolume>Volume ambient</AmbientVolume>
   <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
-  <PauseOnLoad>Pause on load</PauseOnLoad>
-  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
-  <CustomCursor>Custom cursor</CustomCursor>
-  <HatsShownOnlyOnMap>Hats shown only on game map</HatsShownOnlyOnMap>
-  <UIScale>UI scale</UIScale>
-  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
-  <ChooseLanguage>Choose language</ChooseLanguage>
-  <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Tutor is reset. You will be now be re-taught all lessons from scratch.</AdaptiveTutorIsReset>
-  <RunInBackground>Run in background</RunInBackground>
-  <DevelopmentMode>Development mode</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
-  <LogVerbose>Verbose logging</LogVerbose>
-  <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
-  <ShowSaveGameDataLocation>Show save data location</ShowSaveGameDataLocation>
-  <NamesYouWantToSee>Preferred player-created characters. These characters will be more likely to randomly appear during play:</NamesYouWantToSee>
-  <AddName>Add name</AddName>
-  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
-  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
-  <ChangeStoryteller>Storyteller settings</ChangeStoryteller>
-  <AutosaveInterval>Autosave interval</AutosaveInterval>
-  <TemperatureMode>Temperature mode</TemperatureMode>
-  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
-  <MaxNumberOfPlayerSettlements>Maximum number of colonies: {0}</MaxNumberOfPlayerSettlements>
-  <PlantWindSway>Plant wind sway</PlantWindSway>
-  <EnableTestMapSizes>Enable test map sizes</EnableTestMapSizes>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
-  <ModSettings>Mod Settings</ModSettings>
-  <PermanentlyDisableDevMode>Permanently disable development mode</PermanentlyDisableDevMode>
+  <EdgeScreenScroll>Gulir mouse di tepi layar</EdgeScreenScroll>
+  <PauseOnLoad>Jeda saat memuat</PauseOnLoad>
+  <PauseOnUrgentLetter>Jeda saat surat penting</PauseOnUrgentLetter>
+  <CustomCursor>Kursor khusus</CustomCursor>
+  <HatsShownOnlyOnMap>Topi hanya ditampilkan di peta permainan</HatsShownOnlyOnMap>
+  <UIScale>Skala UI</UIScale>
+  <KeyboardConfig>Konfigurasi keyboard</KeyboardConfig>
+  <ChooseLanguage>Pilih bahasa</ChooseLanguage>
+  <ResetAdaptiveTutor>Reset pembantu belajar</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Pembantu belajar direset. Anda akan diajari ulang semua pelajaran dari awal.</AdaptiveTutorIsReset>
+  <RunInBackground>Jalankan di latar belakang</RunInBackground>
+  <DevelopmentMode>Mode pengembangan</DevelopmentMode>
+  <ResetModsConfigOnCrash>Reset otomatis konfigurasi mod saat crash</ResetModsConfigOnCrash>
+  <LogVerbose>Logging detail</LogVerbose>
+  <OpenSaveGameDataFolder>Buka folder data simpanan</OpenSaveGameDataFolder>
+  <ShowSaveGameDataLocation>Tampilkan lokasi data simpanan</ShowSaveGameDataLocation>
+  <NamesYouWantToSee>Karakter buatan pemain yang diutamakan. Karakter ini lebih mungkin muncul secara acak saat bermain:</NamesYouWantToSee>
+  <AddName>Tambah nama</AddName>
+  <TypeFirstNickOrLastName>Ketik nama depan, nama panggilan, atau nama belakang.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Nama ini sudah ada di daftar prioritas.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Pengaturan storyteller</ChangeStoryteller>
+  <AutosaveInterval>Interval simpan otomatis</AutosaveInterval>
+  <TemperatureMode>Mode suhu</TemperatureMode>
+  <ShowRealtimeClock>Tampilkan jam waktu nyata</ShowRealtimeClock>
+  <MaxNumberOfPlayerSettlements>Jumlah maksimum koloni: {0}</MaxNumberOfPlayerSettlements>
+  <PlantWindSway>Gerakan angin pada tanaman</PlantWindSway>
+  <EnableTestMapSizes>Aktifkan ukuran peta uji</EnableTestMapSizes>
+  <MaxPermadeathAutosaveIntervalInfo>Interval simpan otomatis maksimum di mode permadeath adalah {0} hari.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Pengaturan Mod</ModSettings>
+  <PermanentlyDisableDevMode>Nonaktifkan mode pengembangan secara permanen</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
-  <Resolution>Resolution</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
+  <Resolution>Resolusi</Resolution>
+  <Fullscreen>Layar penuh</Fullscreen>
 
   <!-- Mods -->
-  <SelectMod>Select mod...</SelectMod>
-  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+  <SelectMod>Pilih mod...</SelectMod>
+  <NoConfigurableMods>Tidak ada mod yang bisa dikonfigurasi dimuat.</NoConfigurableMods>
 
   <!-- Options reset -->
-  <RestoreToDefaultSettings>Restore to default settings</RestoreToDefaultSettings>
-  <ResetAndRestart>Your options have been reset. The game will now restart automatically.</ResetAndRestart>
+  <RestoreToDefaultSettings>Kembalikan ke pengaturan awal</RestoreToDefaultSettings>
+  <ResetAndRestart>Opsi Anda telah direset. Permainan akan dimulai ulang secara otomatis.</ResetAndRestart>
 
 </LanguageData>

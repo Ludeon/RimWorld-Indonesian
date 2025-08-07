@@ -1,212 +1,212 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Main menu -->
   <Tutorial>Tutorial</Tutorial>
-  <NewColony>New colony</NewColony>
-  <BackToGame>Back to game</BackToGame>
-  <ReviewScenario>Review scenario</ReviewScenario>
-  <Save>Save</Save>
-  <LoadGame>Load game</LoadGame>
-  <Options>Options</Options>
-  <Mods>Mods</Mods>
-  <SaveTranslationReport>Save translation report</SaveTranslationReport>
-  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
-  <CleanupTranslationFiles>Cleanup translation files</CleanupTranslationFiles>
-  <CleaningTranslationFiles>Cleaning translation files</CleaningTranslationFiles>
-  <Credits>Credits</Credits>
-  <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
-  <QuitToOS>Quit to OS</QuitToOS>
-  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
-  <OfficialWiki>Official wiki</OfficialWiki>
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's design book</TynansDesignBook>
-  <HelpTranslate>Help translate RimWorld</HelpTranslate>
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
-  <CreateWorld>Create world</CreateWorld>
+  <NewColony>Koloni baru</NewColony>
+  <BackToGame>Kembali ke permainan</BackToGame>
+  <ReviewScenario>Tinjau skenario</ReviewScenario>
+  <Save>Simpan</Save>
+  <LoadGame>Muat permainan</LoadGame>
+  <Options>Opsi</Options>
+  <Mods>Mod</Mods>
+  <SaveTranslationReport>Simpan laporan terjemahan</SaveTranslationReport>
+  <GeneratingTranslationReport>Menghasilkan laporan terjemahan</GeneratingTranslationReport>
+  <CleanupTranslationFiles>Bersihkan file terjemahan</CleanupTranslationFiles>
+  <CleaningTranslationFiles>Membersihkan file terjemahan</CleaningTranslationFiles>
+  <Credits>Kredit</Credits>
+  <QuitToMainMenu>Keluar ke menu utama</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Simpan dan keluar ke menu</SaveAndQuitToMainMenu>
+  <QuitToOS>Keluar ke OS</QuitToOS>
+  <SaveAndQuitToOS>Simpan dan keluar ke OS</SaveAndQuitToOS>
+  <FictionPrimer>Pengantar fiksi</FictionPrimer>
+  <LudeonBlog>Blog Ludeon</LudeonBlog>
+  <Forums>Forum</Forums>
+  <OfficialWiki>Wiki resmi</OfficialWiki>
+  <TynansTwitter>Twitter Tynan</TynansTwitter>
+  <TynansDesignBook>Buku desain Tynan</TynansDesignBook>
+  <HelpTranslate>Bantu terjemahkan RimWorld</HelpTranslate>
+  <BuySoundtrack>Beli soundtrack</BuySoundtrack>
+  <CreateWorld>Buat dunia</CreateWorld>
 
   <!-- Main menu translations info window -->
-  <TranslationThanks>All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0}</TranslationThanks>
-  <TranslationHowToContribute>You can contribute too. Click below to learn more (opens web browser).</TranslationHowToContribute>
-  <LearnMore>Learn more</LearnMore>
+  <TranslationThanks>Semua terjemahan RimWorld dibuat oleh penggemar. Terjemahan ini dibuat oleh para relawan berikut:\n\n{0}</TranslationThanks>
+  <TranslationHowToContribute>Anda juga bisa berkontribusi. Klik di bawah untuk info lebih lanjut (akan membuka browser).</TranslationHowToContribute>
+  <LearnMore>Pelajari lebih lanjut</LearnMore>
 
   <!-- Main menu dev build -->
-  <DevBuildWarning>Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version.</DevBuildWarning>
+  <DevBuildWarning>Peringatan: Ini adalah versi pengembangan yang tidak stabil. Artinya kami sedang melakukan eksperimen desain dan pengembangan teknis.\n\nBeberapa hal akan sengaja tidak seimbang untuk sementara. Ini adalah metode desain klasik di mana kami sengaja membuat perubahan keseimbangan terlalu jauh untuk memahami batas keseimbangan. Kami kemudian menggunakan informasi itu untuk menentukan titik keseimbangan akhir.\n\nAkan ada bug, termasuk yang merusak permainan. Kompatibilitas simpanan bisa rusak kapan saja.\n\nJika Anda setuju dengan semua ini, terima kasih telah menguji! Jika tidak ingin jadi bahan eksperimen, silakan mainkan versi stabil terbaru.</DevBuildWarning>
 
   <!-- Create/review world -->
-  <ReviewWorld>Review world</ReviewWorld>
-  <WorldGenerate>Generate</WorldGenerate>
-  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
+  <ReviewWorld>Tinjau dunia</ReviewWorld>
+  <WorldGenerate>Hasilkan</WorldGenerate>
+  <WorldSaveAndFinish>Simpan dan selesai</WorldSaveAndFinish>
   <Reset>Reset</Reset>
-  <PlanetCoverage>Globe coverage</PlanetCoverage>
-  <PlanetRainfall>Overall rainfall</PlanetRainfall>
-  <PlanetTemperature>Overall temperature</PlanetTemperature>
-  <PlanetRainfall_Low>Low</PlanetRainfall_Low>
+  <PlanetCoverage>Cakupan dunia</PlanetCoverage>
+  <PlanetRainfall>Curah hujan keseluruhan</PlanetRainfall>
+  <PlanetTemperature>Suhu keseluruhan</PlanetTemperature>
+  <PlanetRainfall_Low>Rendah</PlanetRainfall_Low>
   <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
-  <PlanetRainfall_High>High</PlanetRainfall_High>
-  <PlanetTemperature_Low>Low</PlanetTemperature_Low>
+  <PlanetRainfall_High>Tinggi</PlanetRainfall_High>
+  <PlanetTemperature_Low>Rendah</PlanetTemperature_Low>
   <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
-  <PlanetTemperature_High>High</PlanetTemperature_High>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Randomize seed</RandomizeSeed>
-  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
-  <WorldFactionsTab>Factions</WorldFactionsTab>
+  <PlanetTemperature_High>Tinggi</PlanetTemperature_High>
+  <WorldSeed>Benih</WorldSeed>
+  <RandomizeSeed>Acak benih</RandomizeSeed>
+  <PlanetCoverageTip>Diameter planet selalu sama, tapi karena jauh lebih besar dari yang dibutuhkan untuk bermain, kami tidak menghasilkan seluruh permukaan karena bisa sangat lama. Ini adalah persentase permukaan yang ingin Anda hasilkan.</PlanetCoverageTip>
+  <WorldFactionsTab>Faksi</WorldFactionsTab>
 
   <!-- Select world -->
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <SelectWorld>Pilih dunia</SelectWorld>
+  <WorldChooseButton>Pilih</WorldChooseButton>
+  <NoWorldsFilesFound>Tidak ditemukan file dunia. Buat dunia terlebih dahulu.</NoWorldsFilesFound>
 
   <!-- Version info -->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-  <BuildUpToDate>This is the latest version.</BuildUpToDate>
-  <ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-  <LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>Versi {0} sekarang tersedia. Cek ludeon.com untuk info lebih lanjut.</BuildNowAvailable>
+  <BuildUpToDate>Ini adalah versi terbaru.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Kesalahan mendapatkan info versi: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Mengambil info versi...</LoadingVersionInfo>
 
   <!-- World generator -->
-  <GenerateWorld>Generate world</GenerateWorld>
+  <GenerateWorld>Hasilkan dunia</GenerateWorld>
 
   <!-- Mods config -->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
-  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
-  <ShowModsDataLocation>Show mods data location</ShowModsDataLocation>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-  <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
-  <Author>Author</Author>
-  <WorkshopPage>Workshop page</WorkshopPage>
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <Downloading>Downloading</Downloading>
-  <Source>Source</Source>
-  <ModTargetVersion>For version: {0}</ModTargetVersion>
-  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-  <ModNotMadeForThisVersion_Newer>This mod was made for a newer version of RimWorld than this, and will probably not work correctly.</ModNotMadeForThisVersion_Newer>
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-  <DragToReorder>Drag to reorder</DragToReorder>
+  <OpenSteamWorkshop>Buka Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Dapatkan mod dari forum</GetModsFromForum>
+  <OpenModsDataFolder>Buka folder data mod</OpenModsDataFolder>
+  <ShowModsDataLocation>Tampilkan lokasi data mod</ShowModsDataLocation>
+  <ConfirmDisableCoreMod>Anda yakin ingin menonaktifkan mod inti? Permainan tidak akan berjalan sama sekali kecuali Anda punya mod lain yang menggantikan semua fungsi inti.\n\nIngat, mod lain bisa menimpa definisi di mod inti dengan menggunakan defName yang sama.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Anda yakin ingin menghapus semua konten untuk {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Berhenti langganan</Unsubscribe>
+  <ConfirmUnsubscribe>Anda yakin ingin berhenti langganan dari {0}?</ConfirmUnsubscribe>
+  <Author>Penulis</Author>
+  <WorkshopPage>Halaman Workshop</WorkshopPage>
+  <UploadToSteamWorkshop>Unggah ke Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Perbarui di Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Unggahan sedang berlangsung.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Pengiriman ke Workshop gagal.\n\nAlasan: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Berhasil mengunggah {0}.</WorkshopUploadSucceeded>
+  <Downloading>Mengunduh</Downloading>
+  <Source>Sumber</Source>
+  <ModTargetVersion>Untuk versi: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Mod ini tidak dibuat untuk versi RimWorld ini, dan mungkin tidak berfungsi dengan benar.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion_Newer>Mod ini dibuat untuk versi RimWorld yang lebih baru dari ini, dan mungkin tidak berfungsi dengan benar.</ModNotMadeForThisVersion_Newer>
+  <MessageModNeedsWellFormattedTargetVersion>Mod membutuhkan targetVersion yang diformat dengan baik di About.xml. Seperti ini: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Seret untuk mengurutkan</DragToReorder>
 
   <!-- Select scenario -->
-  <ChooseScenario>Choose scenario</ChooseScenario>
-  <ScenariosCustom>Custom</ScenariosCustom>
+  <ChooseScenario>Pilih skenario</ChooseScenario>
+  <ScenariosCustom>Kustom</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-  <ScenarioEditor>Scenario editor</ScenarioEditor>
-  <Delete>Delete</Delete>
+  <ScenarioEditor>Editor skenario</ScenarioEditor>
+  <Delete>Hapus</Delete>
 
   <!-- Scenario editor -->
-  <Seed>seed</Seed>
-  <Load>Load</Load>
-  <EditMode>edit mode</EditMode>
-  <Summary>Summary</Summary>
-  <AddPart>Add part</AddPart>
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-  <Incompatible>Incompatible</Incompatible>
-  <TooMany>Too many (max {0}): </TooMany>
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <Seed>benih</Seed>
+  <Load>Muat</Load>
+  <EditMode>mode edit</EditMode>
+  <Summary>Ringkasan</Summary>
+  <AddPart>Tambah bagian</AddPart>
+  <TextFieldsMustBeFilled>Semua kolom teks harus diisi.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Anda yakin ingin mengunggah ini ke Steam Workshop?\n\nAnda harus menyetujui syarat layanan Steam Workshop. Temukan syarat lengkap di sini:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Jelas Anda hanya boleh mengunggah konten yang Anda buat sendiri.\n\nApakah Anda membuat konten ini sendiri?</ConfirmContentAuthor>
+  <Incompatible>Tidak kompatibel</Incompatible>
+  <TooMany>Terlalu banyak (maks {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Bisa diperbarui di Workshop, karena Anda adalah penulisnya.</CanBeUpdatedOnWorkshop>
 
   <!-- Select storyteller -->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
-  <Difficulty>Difficulty</Difficulty>
-  <CommitmentMode>Commitment mode</CommitmentMode>
-  <ReloadAnytimeMode>Reload anytime mode</ReloadAnytimeMode>
-  <MustChoosePermadeath>Please choose commitment mode or reload anytime mode.</MustChoosePermadeath>
-  <ReloadAnytimeModeInfo>You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode.</ReloadAnytimeModeInfo>
-  <PermadeathModeInfo>You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic.</PermadeathModeInfo>
-  <CanChangeStorytellerSettingsDuringPlay>Storyteller and difficulty can be changed any time.</CanChangeStorytellerSettingsDuringPlay>
-  <UnlockExtremeDifficulty>Merciless mode</UnlockExtremeDifficulty>
-  <ConfirmUnlockExtremeDifficulty>Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts.</ConfirmUnlockExtremeDifficulty>
+  <ChooseAIStoryteller>Pilih AI Storyteller</ChooseAIStoryteller>
+  <HowStorytellersWork>AI Storyteller membuat peristiwa seperti serangan bajak laut, jatuhnya sumber daya, atau serangan hewan. Pilihan mereka akan memengaruhi cerita koloni Anda. Anda bisa mengubah pengaturan ini kapan saja.</HowStorytellersWork>
+  <MustChooseDifficulty>Silakan pilih tingkat kesulitan.</MustChooseDifficulty>
+  <Difficulty>Kesulitan</Difficulty>
+  <CommitmentMode>Mode komitmen</CommitmentMode>
+  <ReloadAnytimeMode>Mode muat ulang kapan saja</ReloadAnytimeMode>
+  <MustChoosePermadeath>Silakan pilih mode komitmen atau mode muat ulang kapan saja.</MustChoosePermadeath>
+  <ReloadAnytimeModeInfo>Anda bisa menyimpan dan memuat permainan kapan saja.\n\nIni pilihan bagus jika Anda masih belajar, sesuai gaya bermain Anda, menggunakan mod yang mungkin merusak permainan, atau ingin menerapkan mode komitmen sendiri.</ReloadAnytimeModeInfo>
+  <PermadeathModeInfo>Anda hanya bisa menyimpan saat keluar dari permainan.\n\nKarena RimWorld adalah pembuat cerita, bahkan kehilangan semua kecuali satu orang bukan akhir permainan - itu bagian dari cerita. Permainan dirancang agar bisa pulih setelah kehilangan.\n\nMenghadapi situasi buruk ini membuat cerita penuh tragedi dan kemenangan. Inilah cara RimWorld dirancang untuk dimainkan.\n\nAda alasan Luke Skywalker tidak keluar dan memuat ulang saat keluarganya terbunuh - kehilangan dan pemulihan itu dramatis.</PermadeathModeInfo>
+  <CanChangeStorytellerSettingsDuringPlay>Storyteller dan kesulitan bisa diubah kapan saja.</CanChangeStorytellerSettingsDuringPlay>
+  <UnlockExtremeDifficulty>Mode tanpa ampun</UnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>Mode tanpa ampun adalah mode khusus di mana semua tantangan dinaikkan ke tingkat ekstrem.\n\nMode ini terbuka otomatis saat Anda mencapai pencapaian tertentu. Namun, Anda bisa membukanya sekarang.\n\nOpsi ini hanya disarankan jika Anda sudah pernah bermain di tingkat kesulitan tinggi dan ingin benar-benar menantang diri Anda.</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
-  <SelectStartingSite>Select starting site</SelectStartingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectStartingSite>Please select a site.</MustSelectStartingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-  <YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
-  <TileOccupied>This tile is occupied.</TileOccupied>
-  <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
-  <Biome>Biome</Biome>
-  <Terrain>Terrain</Terrain>
-  <Road>Road</Road>
-  <River>River</River>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Average temperature</AvgTemp>
-  <Rainfall>Rainfall</Rainfall>
-  <SpecialFeatures>Special features</SpecialFeatures>
-  <HasCoast0>northern coast</HasCoast0>
-  <HasCoast1>eastern coast</HasCoast1>
-  <HasCoast2>southern coast</HasCoast2>
-  <HasCoast3>western coast</HasCoast3>
-  <HasCaves>caves</HasCaves>
-  <FactionBase>Faction base</FactionBase>
-  <StoneTypesHere>Stone types</StoneTypesHere>
-  <TimeZone>Time zone</TimeZone>
-  <MovementDifficulty>Movement difficulty</MovementDifficulty>
-  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
-  <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
-  <PerYear>per year</PerYear>
-  <Forageability>Forageability</Forageability>
-  <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <SelectStartingSite>Pilih lokasi awal</SelectStartingSite>
+  <SelectRandomSite>Pilih lokasi acak</SelectRandomSite>
+  <SelectSite>Pilih lokasi</SelectSite>
+  <MustSelectStartingSite>Silakan pilih lokasi.</MustSelectStartingSite>
+  <CannotLandBiome>Anda tidak bisa mendarat di bioma ini: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Bioma belum tersedia</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Anda tidak bisa mendarat di pegunungan yang tidak bisa dilewati.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>{0} sudah punya markas di sana.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Anda sudah punya markas di sana.</YourBaseAlreadyThere>
+  <TileOccupied>Petak ini sudah ditempati.</TileOccupied>
+  <FactionBaseAdjacent>Pemukiman tidak bisa berdekatan langsung satu sama lain.</FactionBaseAdjacent>
+  <Biome>Bioma</Biome>
+  <Terrain>Medan</Terrain>
+  <Road>Jalan</Road>
+  <River>Sungai</River>
+  <Elevation>Ketinggian</Elevation>
+  <Fertility>Kesuburan</Fertility>
+  <AvgTemp>Suhu rata-rata</AvgTemp>
+  <Rainfall>Curah hujan</Rainfall>
+  <SpecialFeatures>Fitur khusus</SpecialFeatures>
+  <HasCoast0>Pantai utara</HasCoast0>
+  <HasCoast1>Pantai timur</HasCoast1>
+  <HasCoast2>Pantai selatan</HasCoast2>
+  <HasCoast3>Pantai barat</HasCoast3>
+  <HasCaves>Gua</HasCaves>
+  <FactionBase>Markas faksi</FactionBase>
+  <StoneTypesHere>Jenis batu</StoneTypesHere>
+  <TimeZone>Zona waktu</TimeZone>
+  <MovementDifficulty>Kesulitan bergerak</MovementDifficulty>
+  <AnimalsCanGrazeNow>Hewan bisa merumput sekarang</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Frekuensi penyakit rata-rata</AverageDiseaseFrequency>
+  <PerYear>per tahun</PerYear>
+  <Forageability>Kemampuan mencari makan</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Tidak ada orang yang dipilih bisa melakukan pekerjaan berikut:\n\n{0}\n\nIni bisa membuat permainan lebih sulit dari biasanya. Anda yakin ingin melanjutkan?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Current>Current</Current>
-  <Male>male</Male>
-  <Female>female</Female>
-  <MaleAnimal>male</MaleAnimal>
-  <FemaleAnimal>female</FemaleAnimal>
-  <Pain>Pain</Pain>
-  <Health>Health</Health>
-  <Relations>Relations</Relations>
-  <TeamSkills>Team skills</TeamSkills>
-  <StartingPawnsSelected>Selected</StartingPawnsSelected>
-  <StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
+  <CreateCharacters>Buat karakter</CreateCharacters>
+  <FirstNameDesc>Nama depan karakter.\n\nHanya ditampilkan di menu tertentu.</FirstNameDesc>
+  <ShortIdentifierDesc>Identitas pendek karakter.\n\nSelalu ditampilkan. Bisa nama depan, nama belakang, atau nama panggilan terpisah.</ShortIdentifierDesc>
+  <LastNameDesc>Nama belakang karakter.\n\nHanya ditampilkan di menu tertentu.</LastNameDesc>
+  <Randomize>Acak</Randomize>
+  <AgeIndicator>umur {0}</AgeIndicator>
+  <Backstory>Latar belakang</Backstory>
+  <IncapableOf>Tidak mampu</IncapableOf>
+  <Traits>Kepribadian</Traits>
+  <PermanentMoodEffect>Efek suasana hati permanen</PermanentMoodEffect>
+  <Skills>Keterampilan</Skills>
+  <NoneLower>tidak ada</NoneLower>
+  <Adulthood>Dewasa</Adulthood>
+  <Childhood>Masa kecil</Childhood>
+  <Current>Saat ini</Current>
+  <Male>laki-laki</Male>
+  <Female>perempuan</Female>
+  <MaleAnimal>jantan</MaleAnimal>
+  <FemaleAnimal>betina</FemaleAnimal>
+  <Pain>Rasa sakit</Pain>
+  <Health>Kesehatan</Health>
+  <Relations>Relasi</Relations>
+  <TeamSkills>Keterampilan tim</TeamSkills>
+  <StartingPawnsSelected>Dipilih</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Tertinggal</StartingPawnsLeftBehind>
 
   <!-- Misc -->
-  <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
-  <Gameplay>Gameplay</Gameplay>
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
-  <RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
-  <Quit>Quit</Quit>
-  <Ignore>Ignore</Ignore>
+  <Start>Mulai</Start>
+  <Advanced>Lanjutan</Advanced>
+  <Next>Berikutnya</Next>
+  <Back>Kembali</Back>
+  <Gameplay>Permainan</Gameplay>
+  <ConfirmQuit>Yakin keluar? Kemajuan yang belum disimpan akan hilang.</ConfirmQuit>
+  <EveryoneNeedsValidName>Setiap orang membutuhkan nama yang valid.</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>Tidak ada orang yang dipilih bisa melakukan pekerjaan berikut</RequiredWorkTypeDisabledForEveryone>
+  <Quit>Keluar</Quit>
+  <Ignore>Abaikan</Ignore>
 
   <!-- Progress bar -->
-  <GeneratingWorld>Generating world</GeneratingWorld>
-  <GeneratingPlanet>Generating planet</GeneratingPlanet>
-  <GeneratingMap>Generating map</GeneratingMap>
-  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+  <GeneratingWorld>Menghasilkan dunia</GeneratingWorld>
+  <GeneratingPlanet>Menghasilkan planet</GeneratingPlanet>
+  <GeneratingMap>Menghasilkan peta</GeneratingMap>
+  <GeneratingMapForNewEncounter>Menghasilkan peta untuk pertemuan baru</GeneratingMapForNewEncounter>
 
 </LanguageData>
