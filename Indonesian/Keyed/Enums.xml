@@ -2,126 +2,126 @@
 <LanguageData>
 
   <!-- Glow -->
-  <Dark>Dark</Dark>
-  <Lit>Lit</Lit>
-  <LitBrightly>Brightly lit</LitBrightly>
+  <Dark>Gelap</Dark>
+  <Lit>Terang</Lit>
+  <LitBrightly>Terang benderang</LitBrightly>
 
   <!-- Price types -->
-  <PriceTypeVeryCheap>very cheap</PriceTypeVeryCheap>
-  <PriceTypeCheap>cheap</PriceTypeCheap>
+  <PriceTypeVeryCheap>sangat murah</PriceTypeVeryCheap>
+  <PriceTypeCheap>murah</PriceTypeCheap>
   <PriceTypeNormal>normal</PriceTypeNormal>
-  <PriceTypeExpensive>expensive</PriceTypeExpensive>
-  <PriceTypeExorbitant>exorbitant</PriceTypeExorbitant>
+  <PriceTypeExpensive>mahal</PriceTypeExpensive>
+  <PriceTypeExorbitant>berlebihan</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
-  <StoragePriorityUnstored>unstored</StoragePriorityUnstored>
-  <StoragePriorityLow>low</StoragePriorityLow>
+  <StoragePriorityUnstored>tidak disimpan</StoragePriorityUnstored>
+  <StoragePriorityLow>rendah</StoragePriorityLow>
   <StoragePriorityNormal>normal</StoragePriorityNormal>
-  <StoragePriorityPreferred>preferred</StoragePriorityPreferred>
-  <StoragePriorityImportant>important</StoragePriorityImportant>
-  <StoragePriorityCritical>critical</StoragePriorityCritical>
+  <StoragePriorityPreferred>diutamakan</StoragePriorityPreferred>
+  <StoragePriorityImportant>penting</StoragePriorityImportant>
+  <StoragePriorityCritical>kritis</StoragePriorityCritical>
 
   <!-- Food type flags -->
-  <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
-  <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
-  <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
-  <FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
-  <FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
-  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
-  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
-  <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
-  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
-  <FoodTypeFlags_Liquor>liquor</FoodTypeFlags_Liquor>
-  <FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_VegetableOrFruit>sayuran</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>daging mentah</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>mayat</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seed>benih</FoodTypeFlags_Seed>
+  <FoodTypeFlags_AnimalProduct>produk hewan</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>tanaman hidup</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>pohon hidup</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>makanan</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>makanan olahan</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>minuman keras</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>makanan hewan</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
-  <QualityCategory_Awful>awful</QualityCategory_Awful>
-  <QualityCategory_Poor>poor</QualityCategory_Poor>
+  <QualityCategory_Awful>buruk sekali</QualityCategory_Awful>
+  <QualityCategory_Poor>buruk</QualityCategory_Poor>
   <QualityCategory_Normal>normal</QualityCategory_Normal>
-  <QualityCategory_Good>good</QualityCategory_Good>
-  <QualityCategory_Excellent>excellent</QualityCategory_Excellent>
-  <QualityCategory_Masterwork>masterwork</QualityCategory_Masterwork>
-  <QualityCategory_Legendary>legendary</QualityCategory_Legendary>
-  <QualityCategoryShort_Awful>awfl</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Poor>poor</QualityCategoryShort_Poor>
+  <QualityCategory_Good>baik</QualityCategory_Good>
+  <QualityCategory_Excellent>sangat baik</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>karya agung</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendaris</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>burk</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Poor>burk</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
-  <QualityCategoryShort_Good>good</QualityCategoryShort_Good>
-  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
-  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Good>baik</QualityCategoryShort_Good>
+  <QualityCategoryShort_Excellent>sbk</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>kag</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
 
   <!-- Hunger -->
-  <HungerLevel_Starving>Starving</HungerLevel_Starving>
-  <HungerLevel_UrgentlyHungry>Urgently hungry</HungerLevel_UrgentlyHungry>
-  <HungerLevel_Hungry>Hungry</HungerLevel_Hungry>
-  <HungerLevel_Fed>Fed</HungerLevel_Fed>
+  <HungerLevel_Starving>Kelaparan</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Kelaparan mendesak</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Kelaparan</HungerLevel_Hungry>
+  <HungerLevel_Fed>Terpenuhi</HungerLevel_Fed>
 
-  <!-- -Fatigue -->
-  <HungerLevel_Exhausted>Exhausted</HungerLevel_Exhausted>
-  <HungerLevel_VeryTired>Very tired</HungerLevel_VeryTired>
-  <HungerLevel_Tired>Tired</HungerLevel_Tired>
-  <HungerLevel_Rested>Rested</HungerLevel_Rested>
+  <!-- Fatigue -->
+  <HungerLevel_Exhausted>Keletihan</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Sangat lelah</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Lelah</HungerLevel_Tired>
+  <HungerLevel_Rested>Istirahat</HungerLevel_Rested>
 
   <!-- Hilliness -->
-  <Hilliness_Flat>flat</Hilliness_Flat>
-  <Hilliness_SmallHills>small hills</Hilliness_SmallHills>
-  <Hilliness_LargeHills>large hills</Hilliness_LargeHills>
-  <Hilliness_Mountainous>mountainous</Hilliness_Mountainous>
-  <Hilliness_Impassable>impassable</Hilliness_Impassable>
+  <Hilliness_Flat>datar</Hilliness_Flat>
+  <Hilliness_SmallHills>bukit kecil</Hilliness_SmallHills>
+  <Hilliness_LargeHills>bukit besar</Hilliness_LargeHills>
+  <Hilliness_Mountainous>pegunungan</Hilliness_Mountainous>
+  <Hilliness_Impassable>tidak dapat dilalui</Hilliness_Impassable>
 
   <!-- Steam workshop interaction -->
-  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
-  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
+  <WorkshopInteractStage_CreatingItem>Membuat</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Mengirim</WorkshopInteractStage_SubmittingItem>
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Mempersiapkan data konfigurasi</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Mempersiapkan file konten</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Mengunggah konten</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Mengunggah file pratinjau</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Menyimpan perubahan</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
+  <ContentSource_LocalFolder>folder lokal</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
 
   <!-- Medical care category -->
-  <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>Herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Industrial-tech medicine or worse</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Best quality medicine</MedicalCareCategory_Best>
+  <MedicalCareCategory_NoCare>Tidak ada perawatan medis</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Perawatan dokter, tetapi tidak ada obat</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Obat herbal atau lebih buruk</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Obat teknologi industri atau lebih buruk</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Obat berkualitas terbaik</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
-  <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
-  <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
-  <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Ignore>Diamkan</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Serang</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Melarikan diri</HostilityResponseMode_Flee>
 
   <!-- HediffGrowthMode -->
-  <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
-  <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
-  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Growing>tumbuh</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>remisi</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
-  <TechLevel_Animal>animal</TechLevel_Animal>
-  <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
-  <TechLevel_Medieval>medieval</TechLevel_Medieval>
-  <TechLevel_Industrial>industrial</TechLevel_Industrial>
-  <TechLevel_Spacer>spacer</TechLevel_Spacer>
+  <TechLevel_Animal>hewan</TechLevel_Animal>
+  <TechLevel_Neolithic>neolitik</TechLevel_Neolithic>
+  <TechLevel_Medieval>abad pertengahan</TechLevel_Medieval>
+  <TechLevel_Industrial>industri</TechLevel_Industrial>
+  <TechLevel_Spacer>spasi</TechLevel_Spacer>
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
   <TechLevel_Archotech>archotech</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
-  <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
-  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_Standing>Berdiri</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Pod jatuh</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
-  <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
-  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
-  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_All>semua karakter</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>karakter awal pemain</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>karakter non-pemain</PawnGenerationContext_NonPlayer>
 
   <!-- Animal name display mode -->
-  <ShowAnimalNames>Show animal names</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+  <ShowAnimalNames>Tampilkan nama hewan</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Jinak (hanya yang bernama)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Jinak (semua)</AnimalNameDisplayMode_TameAll>
 
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
@@ -129,22 +129,22 @@
   <Kelvin>Kelvin</Kelvin>
 
   <!-- Direction8Way -->
-  <Direction8Way_North_Short>N</Direction8Way_North_Short>
-  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
-  <Direction8Way_East_Short>E</Direction8Way_East_Short>
-  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
+  <Direction8Way_North_Short>U</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>UT</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>T</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>ST</Direction8Way_SouthEast_Short>
   <Direction8Way_South_Short>S</Direction8Way_South_Short>
-  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
-  <Direction8Way_West_Short>W</Direction8Way_West_Short>
-  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+  <Direction8Way_SouthWest_Short>SB</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>B</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>UB</Direction8Way_NorthWest_Short>
 
   <!-- Diet category -->
-  <DietCategory_NeverEats>Never eats</DietCategory_NeverEats>
-  <DietCategory_Herbivorous>Herbivorous</DietCategory_Herbivorous>
-  <DietCategory_Dendrovorous>Dendrovorous</DietCategory_Dendrovorous>
-  <DietCategory_Ovivorous>Ovivorous</DietCategory_Ovivorous>
-  <DietCategory_Omnivorous>Omnivorous</DietCategory_Omnivorous>
-  <DietCategory_Carnivorous>Carnivorous</DietCategory_Carnivorous>
+  <DietCategory_NeverEats>Tidak pernah makan</DietCategory_NeverEats>
+  <DietCategory_Herbivorous>Herbivora</DietCategory_Herbivorous>
+  <DietCategory_Dendrovorous>Dendrovora</DietCategory_Dendrovorous>
+  <DietCategory_Ovivorous>Ovivora</DietCategory_Ovivorous>
+  <DietCategory_Omnivorous>Omnivora</DietCategory_Omnivorous>
+  <DietCategory_Carnivorous>Karnivora</DietCategory_Carnivorous>
   <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
   <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
   <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
@@ -153,17 +153,17 @@
   <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
-  <FoodPoisonCause_IncompetentCook>incompetent cook</FoodPoisonCause_IncompetentCook>
-  <FoodPoisonCause_FilthyKitchen>dirty cooking area</FoodPoisonCause_FilthyKitchen>
-  <FoodPoisonCause_Rotten>rotten food</FoodPoisonCause_Rotten>
-  <FoodPoisonCause_DangerousFoodType>dangerous food type</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_IncompetentCook>juru masak yang tidak kompeten</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_FilthyKitchen>area memasak yang kotor</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_Rotten>makanan busuk</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_DangerousFoodType>jenis makanan berbahaya</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
-  <PsychicDroneLevel_None>none</PsychicDroneLevel_None>
-  <PsychicDroneLevel_GoodMedium>medium</PsychicDroneLevel_GoodMedium>
-  <PsychicDroneLevel_BadLow>low</PsychicDroneLevel_BadLow>
-  <PsychicDroneLevel_BadMedium>medium</PsychicDroneLevel_BadMedium>
-  <PsychicDroneLevel_BadHigh>high</PsychicDroneLevel_BadHigh>
-  <PsychicDroneLevel_BadExtreme>extreme</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_None>tidak ada</PsychicDroneLevel_None>
+  <PsychicDroneLevel_GoodMedium>sedang</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_BadLow>rendah</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadMedium>sedang</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadHigh>tinggi</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadExtreme>ekstrem</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>

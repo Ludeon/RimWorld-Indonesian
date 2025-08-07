@@ -1,218 +1,218 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CallOnRadio>Call {0}</CallOnRadio>
-  <CannotUseReason>Cannot use ({0})</CannotUseReason>
-  <CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
-  <CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
-  <CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
-  <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
-  <CannotUseFull>Cannot use (full)</CannotUseFull>
-  <LeaderUnavailable>leader {1_labelShort} is unavailable</LeaderUnavailable>
-  <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+  <CallOnRadio>Hubungi {0}</CallOnRadio>
+  <CannotUseReason>Tidak dapat digunakan ({0})</CannotUseReason>
+  <CannotUseSolarFlare>Tidak dapat digunakan (flare matahari)</CannotUseSolarFlare>
+  <CannotUseNoPower>Tidak dapat digunakan (tidak ada daya)</CannotUseNoPower>
+  <CannotUseNoPath>Tidak dapat digunakan (tidak ada jalur)</CannotUseNoPath>
+  <CannotUseReserved>Tidak dapat digunakan (dipesan)</CannotUseReserved>
+  <CannotUseFull>Tidak dapat digunakan (penuh)</CannotUseFull>
+  <LeaderUnavailable>pemimpin {1_labelShort} tidak tersedia</LeaderUnavailable>
+  <LeaderUnavailableNoLeader>pemimpin tidak tersedia</LeaderUnavailableNoLeader>
 
-  <FireAt>Fire at {1_label}</FireAt>
+  <FireAt>Serang {1_label}</FireAt>
 
-  <OutOfRange>out of range</OutOfRange>
-  <TooClose>too close</TooClose>
-  <CannotHitTarget>cannot hit target</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{1_labelShort} is incapable of violence</IsIncapableOfViolenceLower>
-  <IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
-  <IsNotDraftedLower>{1_labelShort} is not drafted</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>cannot order characters you do not control</CannotOrderNonControlledLower>
-  <CannotAttackSelf>cannot attack self</CannotAttackSelf>
+  <OutOfRange>di luar jangkauan</OutOfRange>
+  <TooClose>terlalu dekat</TooClose>
+  <CannotHitTarget>tidak dapat mengenai target</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{1_labelShort} tidak mampu melakukan kekerasan</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>tidak mampu melakukan kekerasan</IncapableOfViolenceLower>
+  <IsNotDraftedLower>{1_labelShort} tidak sedang didraf</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>tidak dapat memerintahkan karakter yang tidak Anda kendalikan</CannotOrderNonControlledLower>
+  <CannotAttackSelf>tidak dapat menyerang diri sendiri</CannotAttackSelf>
 
-  <OrderManThing>Man {1_labelShort}</OrderManThing>
+  <OrderManThing>Orang {1_labelShort}</OrderManThing>
 
-  <MeleeAttack>Melee attack {1_label}</MeleeAttack>
-  <MeleeAttackToDeath>Melee attack {1_label} to death</MeleeAttackToDeath>
-  <NoPath>no path</NoPath>
+  <MeleeAttack>Serangan jarak dekat {1_label}</MeleeAttack>
+  <MeleeAttackToDeath>Serangan jarak dekat {1_label} hingga mati</MeleeAttackToDeath>
+  <NoPath>tidak ada jalur</NoPath>
 
-  <ForbiddenLower>forbidden</ForbiddenLower>
-  <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
-  <NotInHomeArea>not in home area</NotInHomeArea>
-  <BurningLower>burning</BurningLower>
-  <NoEmptyPlaceLower>no empty, accessible spot configured to store it</NoEmptyPlaceLower>
-  <NoMergeTarget>no stack available to merge into</NoMergeTarget>
-  <AlreadyFilledLower>already filled enough</AlreadyFilledLower>
-  <MissingMaterials>need material</MissingMaterials>
-  <UnderRequiredSkill>under required skill {0}</UnderRequiredSkill>
-  <UnderAllowedSkill>under allowed skill {0}</UnderAllowedSkill>
-  <AboveAllowedSkill>above allowed skill {0}</AboveAllowedSkill>
-  <MissingRequiredSkillLevel>missing required skill level</MissingRequiredSkillLevel>
-  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-  <NoUsableFood>no usable food</NoUsableFood>
-  <NoFood>no food</NoFood>
-  <AnimalsSkillTooLow>animals skill too low - need {0}</AnimalsSkillTooLow>
-  <CantInteractAnimalDowned>animal downed</CantInteractAnimalDowned>
-  <CantInteractAnimalAsleep>animal sleeping</CantInteractAnimalAsleep>
-  <CantInteractAnimalBusy>animal busy</CantInteractAnimalBusy>
-  <ConstructionSkillTooLow>construction skill too low</ConstructionSkillTooLow>
-  <NoComponentsToRepair>need components</NoComponentsToRepair>
-  <NoFuelToRefuel>need {0}</NoFuelToRefuel>
-  <NoWort>need wort</NoWort>
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
-  <NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
-  <SelfTendDisabled>self-tend disabled</SelfTendDisabled>
-  <ReservedForPrisoners>reserved for prisoners</ReservedForPrisoners>
-  <CannotReach>cannot reach</CannotReach>
-  <NotSurgeryReady>not ready for surgery</NotSurgeryReady>
-  <SkillDisabled>skill incapable</SkillDisabled>
-  <CantSowCavePlantBecauseOfLight>too bright</CantSowCavePlantBecauseOfLight>
-  <CantSowCavePlantBecauseUnroofed>unroofed</CantSowCavePlantBecauseUnroofed>
-  <IncapableOfDeconstruction>incapable of deconstruction</IncapableOfDeconstruction>
-  <IncapableOfMining>incapable of mining</IncapableOfMining>
-  <AngersFaction>angers faction</AngersFaction>
+  <ForbiddenLower>terlarang</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>di luar area yang diizinkan</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>tidak di area rumah</NotInHomeArea>
+  <BurningLower>terbakar</BurningLower>
+  <NoEmptyPlaceLower>tidak ada tempat kosong yang dapat diakses untuk menyimpannya</NoEmptyPlaceLower>
+  <NoMergeTarget>tidak ada tumpukan yang tersedia untuk digabungkan</NoMergeTarget>
+  <AlreadyFilledLower>sudah cukup terisi</AlreadyFilledLower>
+  <MissingMaterials>perlu bahan</MissingMaterials>
+  <UnderRequiredSkill>di bawah keterampilan yang diperlukan {0}</UnderRequiredSkill>
+  <UnderAllowedSkill>di bawah keterampilan yang diizinkan {0}</UnderAllowedSkill>
+  <AboveAllowedSkill>di atas keterampilan yang diizinkan {0}</AboveAllowedSkill>
+  <MissingRequiredSkillLevel>kekurangan tingkat keterampilan yang diperlukan</MissingRequiredSkillLevel>
+  <AnimalInteractedTooRecently>hewan baru saja berinteraksi</AnimalInteractedTooRecently>
+  <NoUsableFood>tidak ada makanan yang dapat digunakan</NoUsableFood>
+  <NoFood>tidak ada makanan</NoFood>
+  <AnimalsSkillTooLow>keterampilan hewan terlalu rendah - perlu {0}</AnimalsSkillTooLow>
+  <CantInteractAnimalDowned>hewan terjatuh</CantInteractAnimalDowned>
+  <CantInteractAnimalAsleep>hewan tidur</CantInteractAnimalAsleep>
+  <CantInteractAnimalBusy>hewan sibuk</CantInteractAnimalBusy>
+  <ConstructionSkillTooLow>keterampilan konstruksi terlalu rendah</ConstructionSkillTooLow>
+  <NoComponentsToRepair>perlu komponen</NoComponentsToRepair>
+  <NoFuelToRefuel>perlu {0}</NoFuelToRefuel>
+  <NoWort>perlu wort</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>makanan yang tersedia ada di penyimpanan dengan prioritas lebih tinggi</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>tidak ada makanan yang sesuai</NoFoodToFillHopper>
+  <SelfTendDisabled>perawatan diri dinonaktifkan</SelfTendDisabled>
+  <ReservedForPrisoners>dipesan untuk tahanan</ReservedForPrisoners>
+  <CannotReach>tidak dapat dijangkau</CannotReach>
+  <NotSurgeryReady>tidak siap untuk operasi</NotSurgeryReady>
+  <SkillDisabled>keterampilan tidak mampu</SkillDisabled>
+  <CantSowCavePlantBecauseOfLight>terlalu terang</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>tanpa atap</CantSowCavePlantBecauseUnroofed>
+  <IncapableOfDeconstruction>tidak mampu melakukan pembongkaran</IncapableOfDeconstruction>
+  <IncapableOfMining>tidak mampu melakukan penambangan</IncapableOfMining>
+  <AngersFaction>memicu kemarahan faksi</AngersFaction>
 
-  <ConsumeThing>Consume {1_labelShort}</ConsumeThing>
+  <ConsumeThing>Konsumsi {1_labelShort}</ConsumeThing>
 
-  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
-  <GoHere>Go here</GoHere>
+  <CannotGoNoPath>Tidak dapat pergi ke sini (tidak ada jalur)</CannotGoNoPath>
+  <GoHere>Pergi ke sini</GoHere>
 
-  <Arrest>Arrest {0}</Arrest>
-  <TryToArrest>Try to arrest {1_label}</TryToArrest>
-  <CannotArrest>Cannot arrest</CannotArrest>
+  <Arrest>Tangkap {0}</Arrest>
+  <TryToArrest>Cobalah untuk menangkap {1_label}</TryToArrest>
+  <CannotArrest>Tidak dapat menangkap</CannotArrest>
 
-  <Capture>Capture {1_label}</Capture>
-  <CannotCapture>Cannot capture</CannotCapture>
+  <Capture>Tangkap {1_label}</Capture>
+  <CannotCapture>Tidak dapat menangkap</CannotCapture>
 
-  <Rescue>Rescue {1_label}</Rescue>
-  <CannotRescue>Cannot rescue</CannotRescue>
+  <Rescue>Selamatkan {1_label}</Rescue>
+  <CannotRescue>Tidak dapat menyelamatkan</CannotRescue>
 
-  <CarryToCryptosleepCasket>Carry {1_label} to cryptosleep casket</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Bawa {1_label} ke peti cryptosleep</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Tidak dapat membawa ke peti cryptosleep</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
-  <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature.</NoPrisonerBed>
-  <NoNonPrisonerBed>No reachable, un-reserved non-prisoner bed in safe temperature.</NoNonPrisonerBed>
-  <NoAnimalBed>No reachable, un-reserved animal bed in safe temperature.</NoAnimalBed>
-  <Reserved>Reserved by someone else.</Reserved>
-  <ReservedBy>Reserved by {1_labelShort}</ReservedBy>
-  <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
-  <TooHeavy>Too heavy</TooHeavy>
+  <NoCryptosleepCasket>Tidak ada peti cryptosleep yang tersedia.</NoCryptosleepCasket>
+  <NoPrisonerBed>Tidak ada tempat tidur tahanan yang dapat dijangkau, tidak dipesan, dan tertutup dalam suhu yang aman.</NoPrisonerBed>
+  <NoNonPrisonerBed>Tidak ada tempat tidur non-tahanan yang dapat dijangkau, tidak dipesan, dan dalam suhu yang aman.</NoNonPrisonerBed>
+  <NoAnimalBed>Tidak ada tempat tidur hewan yang dapat dijangkau, tidak dipesan, dan dalam suhu yang aman.</NoAnimalBed>
+  <Reserved>Dipesan oleh orang lain.</Reserved>
+  <ReservedBy>Dipesan oleh {1_labelShort}</ReservedBy>
+  <IsReservedBy>{0} dipesan oleh {1}.</IsReservedBy>
+  <TooHeavy>Terlalu berat</TooHeavy>
 
-  <Incapable>incapable</Incapable>
-  <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+  <Incapable>tidak mampu</Incapable>
+  <IncapableOfCapacity>tidak mampu {0}</IncapableOfCapacity>
 
-  <MinSkill>min skill</MinSkill>
+  <MinSkill>keterampilan minimum</MinSkill>
 
-  <Equip>Equip {0}</Equip>
-  <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
-  <CannotEquip>Cannot equip {0}</CannotEquip>
-  <CannotManThing>Cannot man {1_labelShort}</CannotManThing>
+  <Equip>Pasang {0}</Equip>
+  <EquipWarningBrawler>(petarung akan tidak senang)</EquipWarningBrawler>
+  <CannotEquip>Tidak dapat memasang {0}</CannotEquip>
+  <CannotManThing>Tidak dapat mengoperasikan {1_labelShort}</CannotManThing>
 
-  <ForceWear>Force wear {1_labelShort}</ForceWear>
-  <CannotWear>Cannot wear {1_label}</CannotWear>
-  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  <ForceWear>Paksa pakai {1_labelShort}</ForceWear>
+  <CannotWear>Tidak dapat memakai {1_label}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>kekurangan bagian tubuh</CannotWearBecauseOfMissingBodyParts>
 
-  <CannotPickUp>Cannot pick up {1_label}</CannotPickUp>
-  <CannotPickUpAll>Cannot pick up {1_label} (all)</CannotPickUpAll>
-  <PickUp>Pick up {1_label}</PickUp>
-  <PickUpAll>Pick up {1_label} (all)</PickUpAll>
-  <PickUpSome>Pick up {1_labelShort}...</PickUpSome>
-  <PickUpCount>Pick up {1_labelShort} x{{0}}</PickUpCount>
+  <CannotPickUp>Tidak dapat mengambil {1_label}</CannotPickUp>
+  <CannotPickUpAll>Tidak dapat mengambil {1_label} (semua)</CannotPickUpAll>
+  <PickUp>Ambil {1_label}</PickUp>
+  <PickUpAll>Ambil {1_label} (semua)</PickUpAll>
+  <PickUpSome>Ambil {1_labelShort}...</PickUpSome>
+  <PickUpCount>Ambil {1_labelShort} x{{0}}</PickUpCount>
 
-  <CannotGiveToPackAnimal>Cannot give {1_label} to pack animal</CannotGiveToPackAnimal>
-  <CannotGiveToPackAnimalAll>Cannot give {1_label} (all) to pack animal</CannotGiveToPackAnimalAll>
-  <GiveToPackAnimal>Give {1_label} to pack animal</GiveToPackAnimal>
-  <GiveToPackAnimalAll>Give {1_label} (all) to pack animal</GiveToPackAnimalAll>
-  <GiveToPackAnimalSome>Give {1_labelShort} to pack animal...</GiveToPackAnimalSome>
-  <GiveToPackAnimalCount>Take {1_labelShort} x{{0}}</GiveToPackAnimalCount>
+  <CannotGiveToPackAnimal>Tidak dapat memberikan {1_label} kepada hewan pembawa</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Tidak dapat memberikan {1_label} (semua) kepada hewan pembawa</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Berikan {1_label} kepada hewan pembawa</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Berikan {1_label} (semua) kepada hewan pembawa</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Berikan {1_labelShort} kepada hewan pembawa...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>Ambil {1_labelShort} x{{0}}</GiveToPackAnimalCount>
 
-  <CannotLoadIntoCaravan>Cannot load {1_label} into caravan</CannotLoadIntoCaravan>
-  <CannotLoadIntoCaravanAll>Cannot load {1_label} (all) into caravan</CannotLoadIntoCaravanAll>
-  <LoadIntoCaravan>Load {1_label} into caravan</LoadIntoCaravan>
-  <LoadIntoCaravanAll>Load {1_label} (all) into caravan</LoadIntoCaravanAll>
-  <LoadIntoCaravanSome>Load {1_labelShort} into caravan...</LoadIntoCaravanSome>
-  <LoadIntoCaravanCount>Load {1_labelShort} x{{0}}</LoadIntoCaravanCount>
-  <OverweightLower>overweight</OverweightLower>
+  <CannotLoadIntoCaravan>Tidak dapat memuat {1_label} ke dalam karavan</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravanAll>Tidak dapat memuat {1_label} (semua) ke dalam karavan</CannotLoadIntoCaravanAll>
+  <LoadIntoCaravan>Muatan {1_label} ke dalam karavan</LoadIntoCaravan>
+  <LoadIntoCaravanAll>Muatan {1_label} (semua) ke dalam karavan</LoadIntoCaravanAll>
+  <LoadIntoCaravanSome>Muatan {1_labelShort} ke dalam karavan...</LoadIntoCaravanSome>
+  <LoadIntoCaravanCount>Muatan {1_labelShort} x{{0}}</LoadIntoCaravanCount>
+  <OverweightLower>kelebihan berat</OverweightLower>
 
-  <CannotCarryToExit>Cannot carry {1_label} and leave the area</CannotCarryToExit>
-  <CarryToExit>Carry {1_label} and leave the area</CarryToExit>
-  <CarryToExitAndCapture>Capture {1_label} and leave the area</CarryToExitAndCapture>
+  <CannotCarryToExit>Tidak dapat membawa {1_label} dan meninggalkan area</CannotCarryToExit>
+  <CarryToExit>Bawa {1_label} dan tinggalkan area</CarryToExit>
+  <CarryToExitAndCapture>Tangkap {1_label} dan tinggalkan area</CarryToExitAndCapture>
 
-  <Strip>Strip {1_label}</Strip>
-  <CannotStrip>Cannot strip {1_label}</CannotStrip>
+  <Strip>Telanjangi {1_label}</Strip>
+  <CannotStrip>Tidak dapat menelanjangi {1_label}</CannotStrip>
 
-  <SelfDestructHere>Self-destruct here</SelfDestructHere>
+  <SelfDestructHere>Hancurkan diri di sini</SelfDestructHere>
 
-  <Drop>Drop {1_label}</Drop>
+  <Drop>Jatuhkan {1_label}</Drop>
 
-  <UseMedicalBed>Rest until healed</UseMedicalBed>
-  <NotInjured>not injured</NotInjured>
-  <SomeoneElseSleeping>occupied by {0}</SomeoneElseSleeping>
+  <UseMedicalBed>Istirahat hingga sembuh</UseMedicalBed>
+  <NotInjured>tidak terluka</NotInjured>
+  <SomeoneElseSleeping>terisi oleh {0}</SomeoneElseSleeping>
 
-  <TradeWith>Trade with {0}</TradeWith>
-  <CannotTrade>Cannot trade</CannotTrade>
+  <TradeWith>Perdagangan dengan {0}</TradeWith>
+  <CannotTrade>Tidak dapat berdagang</CannotTrade>
 
-  <Open>Open {0_label}</Open>
-  <CannotOpen>Cannot open {0_label}</CannotOpen>
+  <Open>Buka {0_label}</Open>
+  <CannotOpen>Tidak dapat membuka {0_label}</CannotOpen>
 
-  <EnterMap>Enter {0}</EnterMap>
-  <VisitSettlement>Visit {0}</VisitSettlement>
-  <VisitPeaceTalks>Visit {0}</VisitPeaceTalks>
-  <VisitEscapeShip>Visit {0}</VisitEscapeShip>
-  <AttackSettlement>Attack {0}</AttackSettlement>
-  <ApproachSite>Approach {0}</ApproachSite>
-  <ApproachingSite>Approaching {0}</ApproachingSite>
-  <OfferGifts>Offer gifts</OfferGifts>
+  <EnterMap>Masuk ke {0}</EnterMap>
+  <VisitSettlement>Kunjungi {0}</VisitSettlement>
+  <VisitPeaceTalks>Kunjungi {0}</VisitPeaceTalks>
+  <VisitEscapeShip>Kunjungi {0}</VisitEscapeShip>
+  <AttackSettlement>Serang {0}</AttackSettlement>
+  <ApproachSite>Dekati {0}</ApproachSite>
+  <ApproachingSite>Mendekati {0}</ApproachingSite>
+  <OfferGifts>Tawarkan hadiah</OfferGifts>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
+  <EnterCryptosleepCasket>Masuk ke peti cryptosleep</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Buka peti cryptosleep</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <CannotGenericWork>Cannot {0} {2_labelShort}</CannotGenericWork>
-  <CannotGenericWorkCustom>Cannot {0}</CannotGenericWorkCustom>
+  <CannotGenericWork>Tidak dapat {0} {2_labelShort}</CannotGenericWork>
+  <CannotGenericWorkCustom>Tidak dapat {0}</CannotGenericWorkCustom>
 
-  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Tidak dapat memprioritaskan (tidak mampu {0})</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
-  <CannotGenericAlreadyAm>Already {0} {2_labelShort}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Sudah {0} {2_labelShort}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Tidak dapat memprioritaskan (tidak akan pernah melakukan {0})</CannotPrioritizeWorkTypeDisabled>
 
-  <CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
-  <WillNever>will never {0}</WillNever>
+  <CannotPrioritizeWorkGiverDisabled>Tidak dapat memprioritaskan (tidak akan pernah {0})</CannotPrioritizeWorkGiverDisabled>
+  <WillNever>tidak akan pernah {0}</WillNever>
 
-  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
-  <NotAssigned>not assigned</NotAssigned>
+  <CannotPrioritizeNotAssignedToWorkType>Tidak dapat memprioritaskan (tidak ditugaskan untuk {0})</CannotPrioritizeNotAssignedToWorkType>
+  <NotAssigned>tidak ditugaskan</NotAssigned>
 
-  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Tidak dapat memprioritaskan (penelitian adalah tugas jangka panjang)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Cannot prioritize ({1_label} is forbidden)</CannotPrioritizeForbidden>
-  <CannotPrioritizeCellForbidden>Cannot prioritize (forbidden)</CannotPrioritizeCellForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Outside allowed area</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbidden>Tidak dapat memprioritaskan ({1_label} terlarang)</CannotPrioritizeForbidden>
+  <CannotPrioritizeCellForbidden>Tidak dapat memprioritaskan (terlarang)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Di luar area yang diizinkan</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
-  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric>Prioritaskan {0} {1}</PrioritizeGeneric>
 
-  <DropAtEdge>Drop at edge</DropAtEdge>
-  <DropInCenter>Drop in center</DropInCenter>
-  <AttackAndDropAtEdge>Attack {0}: Drop at edge</AttackAndDropAtEdge>
-  <AttackAndDropInCenter>Attack {0}: Drop in center</AttackAndDropInCenter>
+  <DropAtEdge>Jatuhkan di tepi</DropAtEdge>
+  <DropInCenter>Jatuhkan di tengah</DropInCenter>
+  <AttackAndDropAtEdge>Serang {0}: Jatuhkan di tepi</AttackAndDropAtEdge>
+  <AttackAndDropInCenter>Serang {0}: Jatuhkan di tengah</AttackAndDropInCenter>
 
-  <VomitingLower>vomiting</VomitingLower>
-  <NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+  <VomitingLower>muntah</VomitingLower>
+  <NotInterruptibleLower>tidak dapat dihentikan</NotInterruptibleLower>
 
-  <AddWaypoint>Add a new waypoint here</AddWaypoint>
-  <RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
+  <AddWaypoint>Tambahkan titik waypoint baru di sini</AddWaypoint>
+  <RemoveWaypoint>Hapus titik waypoint ini</RemoveWaypoint>
 
-  <RemoveAllDesignations>Cancel all designations</RemoveAllDesignations>
-  <DesignateAll>Designate all</DesignateAll>
-  <CountToDesignate>{0} affected</CountToDesignate>
-  <ForbidAllItems>Forbid all items</ForbidAllItems>
-  <UnforbidAllItems>Unforbid all items</UnforbidAllItems>
+  <RemoveAllDesignations>Batal semua penunjukan</RemoveAllDesignations>
+  <DesignateAll>Tunjuk semua</DesignateAll>
+  <CountToDesignate>{0} terpengaruh</CountToDesignate>
+  <ForbidAllItems>Larangan semua barang</ForbidAllItems>
+  <UnforbidAllItems>Izinkan semua barang</UnforbidAllItems>
 
   <!-- Transport pods -->
-  <LandInExistingMap>Zoom in and choose a landing spot in {0}</LandInExistingMap>
-  <TransportPodsContentsWillBeLost>The contents will be lost</TransportPodsContentsWillBeLost>
-  <FormCaravanHere>Form caravan here</FormCaravanHere>
-  <GiveToCaravan>Give to {0}</GiveToCaravan>
-  <GiveGiftViaTransportPods>Give as a gift to {0} ({1})</GiveGiftViaTransportPods>
+  <LandInExistingMap>Perbesar dan pilih tempat pendaratan di {0}</LandInExistingMap>
+  <TransportPodsContentsWillBeLost>Isi akan hilang</TransportPodsContentsWillBeLost>
+  <FormCaravanHere>Bentuk karavan di sini</FormCaravanHere>
+  <GiveToCaravan>Berikan kepada {0}</GiveToCaravan>
+  <GiveGiftViaTransportPods>Berikan sebagai hadiah kepada {0} ({1})</GiveGiftViaTransportPods>
 
   <!-- Rescue quest -->
-  <FreePrisoner>Free prisoner</FreePrisoner>
-  <OfferHelp>Offer help</OfferHelp>
+  <FreePrisoner>Bebaskan tahanan</FreePrisoner>
+  <OfferHelp>Tawarkan bantuan</OfferHelp>
 
 </LanguageData>

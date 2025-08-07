@@ -1,476 +1,476 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
+  <Confirm>Konfirmasi</Confirm>
+  <GoBack>Kembali</GoBack>
   <OK>OK</OK>
-  <Close>Close</Close>
+  <Close>Tutup</Close>
 
   <!-- Game updated to new version -->
-  <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
-  <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
-  <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
-  <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
-  <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionInitial>RimWorld telah diperbarui dari versi {0} ke versi {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>Ini mungkin menyebabkan permainan yang disimpan dan mod dari versi lama berhenti berfungsi.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Penyimpanan dari versi lama seharusnya kompatibel, namun beberapa mod mungkin berhenti berfungsi.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionNonSteam>Karena ini adalah salinan tanpa DRM, Anda dapat menginstal permainan dua kali di dua folder berbeda, untuk dapat memainkan versi lama dan baru.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>Jika Anda ingin melanjutkan dengan versi lama, Anda dapat memilih menggunakan fitur "Betas" di Steam.\n\n  1. Di perpustakaan Steam, klik kanan RimWorld.\n  2. Klik Properti.\n  3. Klik tab Betas.\n  4. Pilih versi yang Anda inginkan dari menu drop-down.\n\nVersi lama kemungkinan akan dihapus dari daftar ini pada akhirnya - kami hanya tidak ingin memutuskan permainan yang sedang berlangsung.\n\nPerhatikan bahwa jika penulis mod memperbarui mod mereka untuk versi permainan baru, mereka mungkin berhenti berfungsi di versi lama. Anda mungkin ingin mematikan pembaruan otomatis untuk mencegah ini.</GameUpdatedToNewVersionSteam>
 
   <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsDialogTitle>Pulih dari kesalahan mod yang tidak kompatibel atau rusak</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Sepertinya beberapa mod aktif menyebabkan kesalahan.\n\nMereka tidak kompatibel satu sama lain, dirancang untuk versi RimWorld yang berbeda, atau rusak.\n\nSemua mod telah dinonaktifkan dan dapat diaktifkan kembali di dialog mod.</RecoveredFromErrorsText>
 
   <!-- Errors during loading -->
-  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
-  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
-  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingAssetsTitle>Kesalahan saat memuat aset</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Terjadi kesalahan saat memuat aset permainan. Lihat log kesalahan untuk informasi lebih lanjut.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Permainan saat ini berjalan dengan mod kustom - mereka mungkin atau mungkin tidak menyebabkan masalah ini.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Kesalahan saat menghasilkan peta</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Terjadi kesalahan saat menghasilkan peta baru. Lihat log kesalahan untuk informasi lebih lanjut.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Kesalahan saat memuat peta</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Terjadi kesalahan saat memuat peta. Lihat log kesalahan untuk informasi lebih lanjut.</ErrorWhileLoadingMap>
 
   <!-- Unloaded mod with an assembly -->
-  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
-  <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
-  <Restarting>Restarting</Restarting>
+  <ModsChanged>Daftar mod telah berubah. Permainan sekarang akan dimulai ulang secara otomatis.</ModsChanged>
+  <FailedToRestart>Terjadi kesalahan saat memulai ulang permainan. Permainan tidak dapat sepenuhnya memuat ulang kode yang dimodifikasi dari mod yang dinonaktifkan, jadi kode dari mod yang dinonaktifkan mungkin masih aktif.\n\nDisarankan agar Anda keluar dan memulai ulang permainan sekarang untuk memuat semua mod dengan bersih.</FailedToRestart>
+  <Restarting>Memulai ulang</Restarting>
 
   <!-- Missing Steam -->
-  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>Tidak dapat menginisialisasi API Steam. Penyebab yang mungkin:\n\n-Steam tidak berjalan.\n-Diluncurkan dari luar Steam tanpa steam_appid.txt di tempatnya.\n-Berlaku dengan hak istimewa yang berbeda dari klien Steam (misalnya "sebagai administrator").\n\nDalam banyak kasus, me-reboot komputer Anda akan memperbaiki masalah ini.\n\nAnda tetap dapat bermain, tetapi tidak ada statistik Steam yang akan dicatat dan fitur Steam tidak akan tersedia.</SteamClientMissing>
 
   <!-- Long events -->
-  <InitializingInterface>Initializing interface</InitializingInterface>
-  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
-  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
-  <LoadingDefs>Loading defs</LoadingDefs>
-  <LoadingAssets>Loading assets</LoadingAssets>
-  <Initializing>Initializing</Initializing>
-  <LoadingWorld>Loading world</LoadingWorld>
-  <LoadingMap>Loading map</LoadingMap>
-  <InitializingGame>Initializing game</InitializingGame>
-  <SpawningAllThings>Spawning things</SpawningAllThings>
-  <SpawningColonists>Spawning colonists</SpawningColonists>
+  <InitializingInterface>Menginisialisasi antarmuka</InitializingInterface>
+  <UnloadingUnusedAssets>Membuang aset yang tidak terpakai</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Memuat semua mod aktif</LoadingAllActiveMods>
+  <LoadingDefs>Memuat definisi</LoadingDefs>
+  <LoadingAssets>Memuat aset</LoadingAssets>
+  <Initializing>Menginisialisasi</Initializing>
+  <LoadingWorld>Memuat dunia</LoadingWorld>
+  <LoadingMap>Memuat peta</LoadingMap>
+  <InitializingGame>Menginisialisasi permainan</InitializingGame>
+  <SpawningAllThings>Menghasilkan semua objek</SpawningAllThings>
+  <SpawningColonists>Menghasilkan kolonis</SpawningColonists>
 
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading</LoadingLongEvent>
-  <SavingLongEvent>Saving</SavingLongEvent>
+  <SaveGameButton>Simpan</SaveGameButton>
+  <LoadGameButton>Muatan</LoadGameButton>
+  <OverwriteButton>Timpa</OverwriteButton>
+  <ConfirmDelete>Benarkah ingin menghapus {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Hapus penyimpanan ini.</DeleteThisSavegame>
+  <SavedAs>Disimpan sebagai {0}.</SavedAs>
+  <NeedAName>Silakan masukkan nama.</NeedAName>
+  <LoadingLongEvent>Memuat</LoadingLongEvent>
+  <SavingLongEvent>Menyimpan</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
-  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
-  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
-  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
-  <LoadAnyway>Load anyway</LoadAnyway>
-  <ChangeLoadedMods>Load mod list from save</ChangeLoadedMods>
-  <MissingMods>Some mods are unavailable, and need to be installed</MissingMods>
+  <SaveIsFromDifferentGameVersion>Kami menjalankan versi {0} tetapi data penyimpanan berasal dari {1}, yang merupakan versi yang berbeda sepenuhnya.\n\nMencoba memuat data ini kemungkinan tidak akan berhasil.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Kami menjalankan versi {0} tetapi data penyimpanan berasal dari {1}, yang merupakan build yang berbeda.\n\nMencoba memuat data ini seharusnya masih berhasil.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Data penyimpanan disimpan dengan versi permainan kami dan seharusnya berfungsi tanpa masalah.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Data penyimpanan dalam format yang tidak dikenal dan hampir pasti tidak akan dimuat dengan benar.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Terjadi masalah saat menyimpan file {0}:\n\n{1}\n\nLihat log kesalahan untuk informasi lebih lanjut.</ProblemSavingFile>
+  <LoadAnyway>Muatan saja</LoadAnyway>
+  <ChangeLoadedMods>Muatan daftar mod dari penyimpanan</ChangeLoadedMods>
+  <MissingMods>Beberapa mod tidak tersedia, dan perlu diinstal</MissingMods>
 
   <!-- Player faction naming -->
-  <NamePlayerFactionMessage>Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
-  <PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
-  <PlayerFactionNameIsInvalid>That name isn't valid.</PlayerFactionNameIsInvalid>
+  <NamePlayerFactionMessage>Karena sepertinya Anda akan berada di sini untuk sementara waktu, {0} berpikir bahwa Anda harus memberi nama faksi Anda. Apa nama faksi Anda?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>Faksi Anda sekarang dikenal sebagai {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>Nama itu tidak valid.</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>{0} thinks that you should give this settlement a name. What should the local settlement be called?</NamePlayerFactionBaseMessage>
-  <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
-  <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
+  <NamePlayerFactionBaseMessage>{0} berpikir bahwa Anda harus memberi nama pemukiman ini. Apa nama pemukiman lokal ini?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>Komunitas ini sekarang dikenal sebagai {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>Nama itu tidak valid.</PlayerFactionBaseNameIsInvalid>
 
   <!-- Player faction and faction base naming -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} also thinks that you should give this settlement a name. What should this local settlement be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
-  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} juga berpikir bahwa Anda harus memberi nama pemukiman ini. Apa nama pemukiman lokal ini?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>Faksi Anda sekarang dikenal sebagai {0}, dan komunitas ini sekarang dikenal sebagai {1}.</PlayerFactionAndBaseGainsName>
 
   <!-- Renaming -->
-  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
-  <NameIsInUse>Name is already in use.</NameIsInUse>
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
+  <NameIsInvalid>Silakan masukkan nama yang valid.</NameIsInvalid>
+  <NameIsInUse>Nama sudah digunakan.</NameIsInUse>
+  <ZoneGainsName>Zona sekarang disebut {0}.</ZoneGainsName>
 
   <!-- Pawn naming -->
-  <PawnGainsName>This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}.</PawnGainsName>
-  <AnimalGainsName>The animal's name is now {0}.</AnimalGainsName>
+  <PawnGainsName>Nama panggilan orang ini sekarang {0}. Gelar {PAWN_possessive} adalah {PAWN_title}.</PawnGainsName>
+  <AnimalGainsName>Nama hewan sekarang {0}.</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
-  <VersionMismatch>Version mismatch</VersionMismatch>
-  <SaveGameIncompatibleWarningText>This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
-  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
-  <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1}</ModsMismatchWarningText>
+  <VersionMismatch>Ketidakcocokan versi</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Permainan ini disimpan dengan versi permainan {0}\nKami menjalankan versi permainan {1}\n\nMemuat penyimpanan ini mungkin menyebabkan bug dan kerusakan.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>File dunia dihasilkan dengan versi permainan {0}\nKami menjalankan versi permainan {1}\n\nMemuat dunia ini mungkin menyebabkan bug dan kerusakan. Anda sebaiknya menghasilkan dunia baru dari awal.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>File ini disimpan dengan versi permainan {0}\nKami menjalankan versi permainan {1}\n\nMemuat file ini mungkin menyebabkan bug dan kerusakan.</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>Ketidakcocokan mod</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>File ini disimpan dengan set mod yang berbeda aktif daripada yang saat ini kami jalankan. Ini mungkin atau mungkin tidak menyebabkan masalah, tergantung pada apa yang dilakukan mod ini.\n\nFile disimpan dengan (dalam urutan ini):\n\n{0}\n\nKami menjalankan dengan (dalam urutan ini):\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Keep</ResolutionKeep>
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ConfirmResolutionChange>Anda telah mengubah pengaturan layar Anda. Apakah pengaturan baru berfungsi dengan baik?\n\nMengembalikan secara otomatis dalam {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Jaga</ResolutionKeep>
+  <ResolutionRevert>Kembalikan</ResolutionRevert>
 
   <!-- Confirm permanently disable dev mode -->
-  <ConfirmPermanentlyDisableDevMode>Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>Apakah Anda benar-benar ingin menonaktifkan mode pengembangan secara permanen di komputer ini?\n\nOpsi ini ditujukan bagi orang-orang yang menginginkan pengalaman bermain yang murni tanpa godaan untuk menggunakan alat pengembangan untuk mendapatkan keuntungan dalam permainan normal.\n\nMode pengembangan dapat diaktifkan kembali, tetapi melakukannya memerlukan pengeditan manual file konfigurasi. Anda perlu mencari di Internet untuk mengetahui caranya.</ConfirmPermanentlyDisableDevMode>
 
   <!-- Research -->
-  <Research>Research</Research>
-  <Researched>Researched</Researched>
-  <Unresearched>Unresearched</Unresearched>
-  <Finished>Finished</Finished>
-  <InProgress>In Progress</InProgress>
-  <Locked>Locked</Locked>
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
-  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
-  <RequiredResearchBench>Required research bench</RequiredResearchBench>
-  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
+  <Research>Penelitian</Research>
+  <Researched>Telah diteliti</Researched>
+  <Unresearched>Belum diteliti</Unresearched>
+  <Finished>Selesai</Finished>
+  <InProgress>Dalam Proses</InProgress>
+  <Locked>Terkunci</Locked>
+  <ResearchMenuWithoutBench>Sampai Anda membangun MEJA PENELITIAN, kolonis Anda tidak akan dapat melakukan penelitian.\n\nNamun, Anda masih dapat melihat proyek penelitian sekarang.</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Prasyarat penelitian</ResearchPrerequisites>
+  <RequiredResearchBench>Meja penelitian yang diperlukan</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Fasilitas meja penelitian yang diperlukan</RequiredResearchBenchFacilities>
 
   <!-- Advanced game start options -->
-  <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
-  <MapSize>Map size</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
-  <MapSizeSmall>Small</MapSizeSmall>
-  <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
-  <MapSizeExtreme>Extreme (test)</MapSizeExtreme>
-  <MapStartSeason>Starting season</MapStartSeason>
-  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
-  <Notice>Notice</Notice>
+  <MapTemperatureDangerWarning>Peringatan: Anda akan mendarat di lingkungan beku. Mungkin sulit atau hampir tidak mungkin untuk bertahan hidup. Jika Anda tidak berniat menghadapi tantangan ekstrem, pilih lokasi atau musim yang berbeda.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Permainan dirancang untuk dimainkan di ukuran peta sedang. Ukuran ini memberikan banyak ruang!\n\nUkuran peta besar tidak hanya menurunkan kinerja - mereka sebenarnya merusak desain permainan. AI akan membuat keputusan bodoh, dan keseimbangan permainan akan sangat terpengaruh dengan berbagai cara. Ukuran ini disertakan hanya untuk alasan tradisi dan pengujian, harap jangan gunakan tanpa alasan tertentu.</MapSizePerformanceWarning>
+  <MapSize>Ukuran peta</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} sel)</MapSizeDesc>
+  <MapSizeSmall>Kecil</MapSizeSmall>
+  <MapSizeMedium>Sedang</MapSizeMedium>
+  <MapSizeLarge>Besar</MapSizeLarge>
+  <MapSizeExtreme>Ekstrem (uji)</MapSizeExtreme>
+  <MapStartSeason>Musim mulai</MapStartSeason>
+  <MapStartSeasonDefault>Otomatis</MapStartSeasonDefault>
+  <Notice>Pemberitahuan</Notice>
 
   <!-- Bill config -->
-  <Suspended>Suspended</Suspended>
-  <NotSuspended>Not suspended</NotSuspended>
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
-  <RepeatCount>Repeat:</RepeatCount>
-  <Forever>Forever</Forever>
-  <Details>Details</Details>
-  <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
-  <CurrentlyHave>Currently have</CurrentlyHave>
-  <CountingProducts>Counting</CountingProducts>
-  <Infinite>Infinite</Infinite>
-  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
-  <IncompatibleLower>incompatible</IncompatibleLower>
-  <AnyWorker>Any worker</AnyWorker>
-  <Unlimited>Unlimited</Unlimited>
+  <Suspended>Ditangguhkan</Suspended>
+  <NotSuspended>Tidak ditangguhkan</NotSuspended>
+  <SuspendedAllCaps>DITANGGUHKAN</SuspendedAllCaps>
+  <RepeatCount>Ulangi:</RepeatCount>
+  <Forever>Selamanya</Forever>
+  <Details>Rincian</Details>
+  <IngredientSearchRadius>Radius bahan</IngredientSearchRadius>
+  <CurrentlyHave>Saat ini memiliki</CurrentlyHave>
+  <CountingProducts>Menghitung</CountingProducts>
+  <Infinite>Tak terbatas</Infinite>
+  <AllowedSkillRange>Keterampilan {0} yang diizinkan:</AllowedSkillRange>
+  <IncompatibleLower>tidak kompatibel</IncompatibleLower>
+  <AnyWorker>Setiap pekerja</AnyWorker>
+  <Unlimited>Tanpa batas</Unlimited>
 
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
-  <WorkAmount>Work amount</WorkAmount>
-  <MinimumSkills>Minimum skills:</MinimumSkills>
-  <BillRequires>Requires {0} {1}</BillRequires>
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
-  <BillRequiresMayVary>Note: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
-  <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual.</ThisIsSmallVolume>
-  <UsableIngredients>ingredients</UsableIngredients>
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <RecipeCannotHaveTargetCount>(Resep ini tidak dapat memiliki target count karena memiliki beberapa atau produk yang tidak dapat diprediksi.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Jumlah kerja</WorkAmount>
+  <MinimumSkills>Keterampilan minimum:</MinimumSkills>
+  <BillRequires>Memerlukan {0} {1}</BillRequires>
+  <BillRequiresNutrition>Memerlukan {0} nutrisi</BillRequiresNutrition>
+  <BillRequiresMayVary>Catatan: Bahan dengan volume kecil seperti emas memerlukan {0}x lebih banyak.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Ini adalah bahan dengan volume kecil. Ini berarti bahwa setiap 'unit' hanya 1/{0} dari bahan dengan volume normal. Jadi, untuk memenuhi persyaratan bahan yang sama, Anda perlu {0}x lebih banyak dari biasanya.</ThisIsSmallVolume>
+  <UsableIngredients>bahan</UsableIngredients>
+  <BillRepeatTargetCountShort>Ke {0}</BillRepeatTargetCountShort>
 
-  <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
-  <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
-  <Paused>Paused</Paused>
-  <Unpause>Unpause</Unpause>
+  <PauseWhenSatisfied>Jeda saat puas</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>Aktifkan kembali pada</UnpauseWhenYouHave>
+  <Paused>Ditangguhkan</Paused>
+  <Unpause>Aktifkan kembali</Unpause>
 
-  <IncludeEquipped>Count equipped</IncludeEquipped>
-  <IncludeTainted>Count tainted</IncludeTainted>
-  <LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
-  <IncludeFromAll>Look everywhere</IncludeFromAll>
-  <IncludeSpecific>Look in {0}</IncludeSpecific>
+  <IncludeEquipped>Hitung yang dipasang</IncludeEquipped>
+  <IncludeTainted>Hitung yang terkontaminasi</IncludeTainted>
+  <LimitToAllowedStuff>Hanya bahan yang diizinkan</LimitToAllowedStuff>
+  <IncludeFromAll>Cari di mana saja</IncludeFromAll>
+  <IncludeSpecific>Cari di {0}</IncludeSpecific>
 
   <!-- Info card -->
-  <Damage>Damage</Damage>
-  <ArmorPenetration>Armor penetration</ArmorPenetration>
-  <ArmorPenetrationExplanation>Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
-  <Accuracy>Accuracy</Accuracy>
-  <BurstShotCount>Burst shot count</BurstShotCount>
-  <WarmupTime>Warmup</WarmupTime>
-  <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
-  <CooldownTime>Cooldown</CooldownTime>
-  <BurstShotFireRate>Fire rate</BurstShotFireRate>
-  <Range>Range</Range>
-  <StoppingPower>Stopping power</StoppingPower>
-  <StoppingPowerExplanation>Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected.</StoppingPowerExplanation>
-  <DirectHitChance>Direct hit chance</DirectHitChance>
-  <MissRadius>Miss radius</MissRadius>
-  <GrowsWild>Grows wild</GrowsWild>
-  <Harvestable>Harvestable</Harvestable>
-  <LimitedLifespan>Limited lifespan</LimitedLifespan>
-  <GrowingTime>Growing time</GrowingTime>
-  <HarvestYield>Harvest yield</HarvestYield>
-  <MinGrowthTemperature>Min growth temperature</MinGrowthTemperature>
-  <MaxGrowthTemperature>Max growth temperature</MaxGrowthTemperature>
-  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
-  <Days>days</Days>
-  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
-  <FertilityRequirement>Fertility requirement</FertilityRequirement>
-  <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
-  <LightRequirement>Light requirement</LightRequirement>
-  <Attributes>Attributes</Attributes>
-  <LifeSpan>Lifespan</LifeSpan>
-  <Nutrition>Nutrition</Nutrition>
-  <Joy>Recreation</Joy>
-  <FoodQuality>Food quality</FoodQuality>
-  <WalkSpeedProperty>Walk speed</WalkSpeedProperty>
-  <MinFoodQuality>Min. food quality</MinFoodQuality>
+  <Damage>Kerusakan</Damage>
+  <ArmorPenetration>Pentrasi armor</ArmorPenetration>
+  <ArmorPenetrationExplanation>Pentrasi armor adalah jumlah armor yang akan diabaikan senjata ini setiap kali mengenai target.\n\nJika pentrasi armor lebih besar dari armor target, seolah-olah target tidak memiliki armor. Jika tidak, pentrasi armor dikurangi dari armor target.</ArmorPenetrationExplanation>
+  <Accuracy>Akurasi</Accuracy>
+  <BurstShotCount>Jumlah tembakan burst</BurstShotCount>
+  <WarmupTime>Waktu pemanasan</WarmupTime>
+  <MeleeWarmupTime>Waktu pemanasan jarak dekat</MeleeWarmupTime>
+  <CooldownTime>Waktu cooldown</CooldownTime>
+  <BurstShotFireRate>Kecepatan tembakan</BurstShotFireRate>
+  <Range>Jangkauan</Range>
+  <StoppingPower>Daya henti</StoppingPower>
+  <StoppingPowerExplanation>Tembakan dari senjata ini akan membuat target terhenti, memperlambat gerakan mereka selama beberapa detik. Target dengan ukuran tubuh lebih besar dari daya henti tidak akan terpengaruh.</StoppingPowerExplanation>
+  <DirectHitChance>Peluang tembakan langsung</DirectHitChance>
+  <MissRadius>Radius meleset</MissRadius>
+  <GrowsWild>Menjadi liar</GrowsWild>
+  <Harvestable>Dapat dipanen</Harvestable>
+  <LimitedLifespan>Umur terbatas</LimitedLifespan>
+  <GrowingTime>Waktu tumbuh</GrowingTime>
+  <HarvestYield>Hasil panen</HarvestYield>
+  <MinGrowthTemperature>Suhu pertumbuhan minimum</MinGrowthTemperature>
+  <MaxGrowthTemperature>Suhu pertumbuhan maksimum</MaxGrowthTemperature>
+  <GrowingTimeDesc>Tanaman hanya tumbuh selama sebagian hari, dan hanya saat diterangi. Statistik ini mengukur waktu yang dibutuhkan tanaman untuk tumbuh hingga mencapai ukuran penuh. Waktu tumbuh yang sebenarnya umumnya akan sekitar dua kali lebih lama. Suhu rendah juga memperlambat pertumbuhan tanaman.</GrowingTimeDesc>
+  <Days>hari</Days>
+  <MinGrowingSkillToSow>Keterampilan bertani minimum untuk menanam</MinGrowingSkillToSow>
+  <FertilityRequirement>Persyaratan kesuburan</FertilityRequirement>
+  <FertilitySensitivity>Sensitivitas kesuburan</FertilitySensitivity>
+  <LightRequirement>Persyaratan cahaya</LightRequirement>
+  <Attributes>Atribut</Attributes>
+  <LifeSpan>Umur</LifeSpan>
+  <Nutrition>Nutrisi</Nutrition>
+  <Joy>Rekreasi</Joy>
+  <FoodQuality>Kualitas makanan</FoodQuality>
+  <WalkSpeedProperty>Kecepatan berjalan</WalkSpeedProperty>
+  <MinFoodQuality>Kualitas makanan minimum</MinFoodQuality>
   <Diet>Diet</Diet>
-  <LeatherType>Leather type</LeatherType>
-  <BodySize>Body size</BodySize>
-  <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
-  <MarketValue>Base price</MarketValue>
-  <Covers>Covers</Covers>
-  <Layer>Layer</Layer>
-  <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
-  <CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight. Higher percentages will block more shots.</CoverEffectivenessExplanation>
-  <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
-  <MoodChange>Mood change</MoodChange>
-  <Wildness>Wildness</Wildness>
-  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
-  <TrainingDecayInterval>Training decay interval</TrainingDecayInterval>
-  <TamenessWillNotDecay>Tameness will never decay.</TamenessWillNotDecay>
-  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
-  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
-  <TimeRecordsCategory>Time</TimeRecordsCategory>
+  <LeatherType>Jenis kulit</LeatherType>
+  <BodySize>Ukuran tubuh</BodySize>
+  <RecruitDifficulty>Kesulitan merekrut</RecruitDifficulty>
+  <MarketValue>Harga dasar</MarketValue>
+  <Covers>Menutupi</Covers>
+  <Layer>Lapisan</Layer>
+  <CoverEffectiveness>Efektivitas penutup</CoverEffectiveness>
+  <CoverEffectivenessExplanation>Seberapa efektif ini ketika digunakan sebagai penutup dalam baku tembak. Persentase yang lebih tinggi akan memblokir lebih banyak tembakan.</CoverEffectivenessExplanation>
+  <MedicineXpGainFactor>Faktor pengalaman perawatan</MedicineXpGainFactor>
+  <MoodChange>Perubahan suasana hati</MoodChange>
+  <Wildness>Kehidupan liar</Wildness>
+  <WildnessExplanation>Makhluk yang lebih liar secara alami lebih sulit untuk dijinakkan, dilatih, dan ditangani.</WildnessExplanation>
+  <TrainingDecayInterval>Interval penurunan pelatihan</TrainingDecayInterval>
+  <TamenessWillNotDecay>Kepatuhan tidak akan pernah menurun.</TamenessWillNotDecay>
+  <AnimalFilthRate>Tarif kotoran hewan</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Hewan menghasilkan kotoran saat bergerak di atas lantai yang dibangun. Ini adalah jumlah rata-rata kotoran yang dihasilkan per {0} sel yang dilalui oleh makhluk ini.\n\nHewan yang lebih besar atau kurang mirip hewan peliharaan menghasilkan lebih banyak kotoran.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Waktu</TimeRecordsCategory>
   <MiscRecordsCategory>Misc</MiscRecordsCategory>
-  <Addictiveness>Addictiveness</Addictiveness>
-  <PackAnimal>Pack animal</PackAnimal>
-  <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
-  <Skill>Skill</Skill>
-  <SurgerySuccessChanceFactor>Success rate multiplier</SurgerySuccessChanceFactor>
-  <WorkSpeedStat>Work speed governed by</WorkSpeedStat>
-  <EfficiencyStat>Output quantity governed by</EfficiencyStat>
-  <ConstructionSkillRequired>Construction skill required</ConstructionSkillRequired>
-  <ConstructionSkillRequiredExplanation>Requires this level of Construction in order to build.</ConstructionSkillRequiredExplanation>
-  <NuzzleInterval>Nuzzle interval</NuzzleInterval>
-  <NuzzleIntervalExplanation>How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time.</NuzzleIntervalExplanation>
-  <HarmedRevengeChance>Revenge chance on harm</HarmedRevengeChance>
-  <HarmedRevengeChanceExplanation>The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon.</HarmedRevengeChanceExplanation>
-  <TameFailedRevengeChance>Revenge chance on tame fail</TameFailedRevengeChance>
-  <TerrainRequirement>Terrain requirement</TerrainRequirement>
-  <Supports>Supports</Supports>
-  <TrapArmorPenetration>Trap armor penetration</TrapArmorPenetration>
-  <RearmCost>Rearm cost</RearmCost>
-  <RearmCostExplanation>Resources needed to rearm this turret (affected by difficulty).</RearmCostExplanation>
-  <ShotsBeforeRearm>Shots before rearm</ShotsBeforeRearm>
-  <ShotsBeforeRearmExplanation>How many shots this turret can fire before it has to be rearmed.</ShotsBeforeRearmExplanation>
-  <PowerConsumption>Power consumption</PowerConsumption>
+  <Addictiveness>Kecanduan</Addictiveness>
+  <PackAnimal>Hewan pembawa</PackAnimal>
+  <PackAnimalExplanation>Apakah hewan ini cocok digunakan untuk membawa barang dalam karavan jarak jauh.</PackAnimalExplanation>
+  <Skill>Keterampilan</Skill>
+  <SurgerySuccessChanceFactor>Faktor tingkat keberhasilan operasi</SurgerySuccessChanceFactor>
+  <WorkSpeedStat>Kecepatan kerja yang diatur oleh</WorkSpeedStat>
+  <EfficiencyStat>Kuantitas output yang diatur oleh</EfficiencyStat>
+  <ConstructionSkillRequired>Keterampilan konstruksi yang diperlukan</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>Memerlukan tingkat Konstruksi ini untuk dibangun.</ConstructionSkillRequiredExplanation>
+  <NuzzleInterval>Interval nuzzle</NuzzleInterval>
+  <NuzzleIntervalExplanation>Seberapa sering hewan akan nuzzle kolonis yang bersahabat, rata-rata.\n\nNuzzle adalah perilaku yang dibagikan oleh banyak spesies hewan, di mana hewan menekan hidung atau moncongnya terhadap teman sebagai tanda kasih sayang. Kebanyakan manusia menganggap ini lucu dan akan membuat mereka merasa senang untuk beberapa waktu.</NuzzleIntervalExplanation>
+  <HarmedRevengeChance>Peluang balas dendam saat terluka</HarmedRevengeChance>
+  <HarmedRevengeChanceExplanation>Peluang makhluk ini mencari balas dendam setelah terluka oleh penyerang pada jarak senapan.\n\nPeluang ini meningkat jika penyerang lebih dekat. Jika diserang pada jarak yang sangat dekat, peluangnya tiga kali lebih besar.\n\nPeluang ini diterapkan setiap kali kerusakan diterima, jadi senjata yang lebih lambat menembak dengan kerusakan lebih tinggi kurang mungkin memicu ini.\n\nUntuk meminimalkan peluang makhluk mencari balas dendam, serang dari jarak senapan dengan senjata yang lambat menembak.</HarmedRevengeChanceExplanation>
+  <TameFailedRevengeChance>Peluang balas dendam saat gagal menjinakkan</TameFailedRevengeChance>
+  <TerrainRequirement>Persyaratan medan</TerrainRequirement>
+  <Supports>Mendukung</Supports>
+  <TrapArmorPenetration>Pentrasi armor jebakan</TrapArmorPenetration>
+  <RearmCost>Biaya pemasangan kembali</RearmCost>
+  <RearmCostExplanation>Sumber daya yang diperlukan untuk memasang kembali turret ini (dipengaruhi oleh kesulitan).</RearmCostExplanation>
+  <ShotsBeforeRearm>Tembakan sebelum pemasangan kembali</ShotsBeforeRearm>
+  <ShotsBeforeRearmExplanation>Berapa banyak tembakan yang dapat ditembakkan turret ini sebelum harus dipasang kembali.</ShotsBeforeRearmExplanation>
+  <PowerConsumption>Konsumsi daya</PowerConsumption>
 
   <!-- Trade -->
-  <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
-  <BuyPriceDesc>Price you pay to buy this.</BuyPriceDesc>
-  <SellPriceDesc>Price you receive for selling this.</SellPriceDesc>
-  <PriceTypeDesc>For this item, this price is {0}.</PriceTypeDesc>
-  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon.</ColonyCount>
-  <TraderCount>How many of this item the trader has to trade.</TraderCount>
-  <AcceptButton>Accept</AcceptButton>
+  <PositiveBuysNegativeSells>Angka positif membeli.\nAngka negatif menjual.</PositiveBuysNegativeSells>
+  <BuyPriceDesc>Harga yang Anda bayar untuk membeli ini.</BuyPriceDesc>
+  <SellPriceDesc>Harga yang Anda terima untuk menjual ini.</SellPriceDesc>
+  <PriceTypeDesc>Untuk item ini, harga ini adalah {0}.</PriceTypeDesc>
+  <ColonyCount>Berapa banyak item ini yang dimiliki koloni untuk diperdagangkan.\n\nAnda hanya dapat menjual item kepada pedagang orbital jika mereka dekat dengan beacon perdagangan orbital.</ColonyCount>
+  <TraderCount>Berapa banyak item ini yang dimiliki pedagang untuk diperdagangkan.</TraderCount>
+  <AcceptButton>Terima</AcceptButton>
   <ResetButton>Reset</ResetButton>
-  <CancelButton>Cancel</CancelButton>
-  <CloseButton>Close</CloseButton>
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
-  <YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
-  <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
-  <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
-  <TraderWillNotTrade>Trader is not willing to buy this.</TraderWillNotTrade>
-  <Negotiator>Negotiator</Negotiator>
-  <NegotiatorTalkingImpaired>Your negotiator {1_labelShort} cannot talk properly because of poor health.</NegotiatorTalkingImpaired>
-  <NegotiatorHearingImpaired>Your negotiator {1_labelShort} cannot hear properly because of poor health.</NegotiatorHearingImpaired>
-  <NegotiatorCapacityImpaired>This will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorCapacityImpaired>
-  <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
-  <SortBy>Sort by</SortBy>
-  <TraderTypePrice>trader type</TraderTypePrice>
-  <Selling>selling</Selling>
-  <Buying>buying</Buying>
-  <ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
-  <DifficultyLevel>difficulty level</DifficultyLevel>
-  <PostCurve>global post-process curve</PostCurve>
-  <YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
-  <TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
+  <CancelButton>Batal</CancelButton>
+  <CloseButton>Tutup</CloseButton>
+  <YourTradeableSilver>Perak yang dapat Anda perdagangkan: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>Anda hanya dapat berdagang dengan perak yang berada dekat dengan beacon perdagangan orbital dan tidak di bawah atap.</YourTradeableSilverTip>
+  <TraderHasNoMore>Pedagang tidak memiliki lagi.</TraderHasNoMore>
+  <ColonyHasNoMore>Tidak ada lagi untuk dijual.</ColonyHasNoMore>
+  <TraderWillNotTrade>Pedagang tidak bersedia membeli ini.</TraderWillNotTrade>
+  <Negotiator>Negosiator</Negotiator>
+  <NegotiatorTalkingImpaired>Negosiator Anda {1_labelShort} tidak dapat berbicara dengan baik karena kesehatan yang buruk.</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>Negosiator Anda {1_labelShort} tidak dapat mendengar dengan baik karena kesehatan yang buruk.</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>Ini akan mempengaruhi harga perdagangan.\n\nPertimbangkan untuk menggunakan negosiator yang lebih sehat.</NegotiatorCapacityImpaired>
+  <ConfirmTraderShortFunds>Pedagang tidak memiliki cukup perak untuk sepenuhnya menutupi transaksi ini. Lanjutkan juga?</ConfirmTraderShortFunds>
+  <SortBy>Urutkan berdasarkan</SortBy>
+  <TraderTypePrice>tipe pedagang</TraderTypePrice>
+  <Selling>menjual</Selling>
+  <Buying>membeli</Buying>
+  <ItemSellPriceFactor>pengganda harga jual item</ItemSellPriceFactor>
+  <DifficultyLevel>tingkat kesulitan</DifficultyLevel>
+  <PostCurve>kurva pemrosesan global</PostCurve>
+  <YourNegotiatorBonus>Bonus negosiator Anda</YourNegotiatorBonus>
+  <TradeWithFactionBaseBonus>Bonus perdagangan dengan basis faksi</TradeWithFactionBaseBonus>
   <minimum>minimum</minimum>
-  <FinalPrice>Final price</FinalPrice>
-  <GiftModeTip>Gift mode - offer gifts to {0}.</GiftModeTip>
-  <TradeModeTip>Return to trade mode.</TradeModeTip>
+  <FinalPrice>Harga akhir</FinalPrice>
+  <GiftModeTip>Mode hadiah - tawarkan hadiah kepada {0}.</GiftModeTip>
+  <TradeModeTip>Kembali ke mode perdagangan.</TradeModeTip>
 
   <!-- Sellable items -->
-  <SellableItemsTitle>Things this trader will buy</SellableItemsTitle>
-  <PawnsTabShort>Creatures</PawnsTabShort>
+  <SellableItemsTitle>Barang yang akan dibeli pedagang ini</SellableItemsTitle>
+  <PawnsTabShort>Makhluk</PawnsTabShort>
 
   <!-- Form caravan -->
-  <FormCaravan>Form caravan</FormCaravan>
-  <FormCaravanColonyThingCountTip>Number available to send with the caravan.</FormCaravanColonyThingCountTip>
-  <PawnsTab>People and animals</PawnsTab>
-  <ItemsTab>Items</ItemsTab>
-  <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
-  <CaravanCouldNotFindExitSpot>The chosen exit location ({0}) is inaccessible.</CaravanCouldNotFindExitSpot>
-  <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
-  <CaravanCouldNotFindReachableExitSpot>Warning: Some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
-  <CaravanPawnIsUnreachable>{1_labelShort} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
-  <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
-  <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
-  <TooBigCaravanMassUsage>The caravan can't carry that much.</TooBigCaravanMassUsage>
-  <CaravanMassUsageTooltip>Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus.</CaravanMassUsageTooltip>
-  <CaravanVisibilityTip>Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan.</CaravanVisibilityTip>
-  <DaysWorthOfFood>Days of food</DaysWorthOfFood>
-  <DaysWorthOfFoodInfoRot>rot in {0}</DaysWorthOfFoodInfoRot>
-  <InfiniteDaysWorthOfFoodInfo>Unlimited</InfiniteDaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip>The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(only the first waypoint is taken into account)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
-  <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry quickly.</DaysWorthOfFoodWarningDialog>
-  <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.</DaysWorthOfFoodWarningDialog_NoFood>
-  <ForagedFoodPerDayTip>The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates.</ForagedFoodPerDayTip>
-  <ForagedFoodPerDay>Forage per day</ForagedFoodPerDay>
-  <CaravanFoodWillRotSoonWarningDialog>A large part of the caravan's food will rot soon.</CaravanFoodWillRotSoonWarningDialog>
-  <CaravanIncapableOfSocial>You have no caravan members capable of diplomacy or trading.</CaravanIncapableOfSocial>
-  <CaravanAreYouSure>Are you sure you want to form this caravan?</CaravanAreYouSure>
-  <MessageMustChooseRouteFirst>You must choose a route for the caravan first.</MessageMustChooseRouteFirst>
-  <MessageNoValidExitTile>Your caravan is unable to leave the area. Make sure that at least one side is reachable.</MessageNoValidExitTile>
-  <ItemWeightTip>Weight of this item.</ItemWeightTip>
-  <MarketValueTip>Market value</MarketValueTip>
-  <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
-  <ItemNutritionTip>How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day.</ItemNutritionTip>
-  <AnimalCanGrazeTip>This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges.</AnimalCanGrazeTip>
-  <NutritionForagedPerDayTip>Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0}</NutritionForagedPerDayTip>
-  <NutritionEatenPerDayTip>Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}.</NutritionEatenPerDayTip>
-  <MassCarriedSimple>Mass carried</MassCarriedSimple>
-  <MassCapacity>Mass capacity</MassCapacity>
-  <Mass>Mass</Mass>
-  <CaravanMass>Caravan mass</CaravanMass>
-  <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
-  <InventoryMass>Inventory mass</InventoryMass>
-  <CaravanFormationProcessStarted>Your colonists will now gather the items and leave the area.</CaravanFormationProcessStarted>
-  <ReformCaravan>Reform caravan</ReformCaravan>
-  <ColonistsSection>Colonists</ColonistsSection>
-  <PrisonersSection>Prisoners</PrisonersSection>
-  <CaptureSection>Capture</CaptureSection>
-  <AnimalsSection>Animals</AnimalsSection>
-  <ChooseRouteButton>Choose route</ChooseRouteButton>
-  <AbandonButton>Abandon</AbandonButton>
-  <CaravanMovementSpeed>Movement speed</CaravanMovementSpeed>
-  <TilesPerDay>tiles/day</TilesPerDay>
-  <CaravanMovementSpeedTip>Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty.</CaravanMovementSpeedTip>
-  <AnimalsWillBeAbleToGraze>Animals will be able to graze</AnimalsWillBeAbleToGraze>
-  <AnimalsCanGraze>Animals can graze</AnimalsCanGraze>
-  <PossibleToGrazeFor>(for {0} more days)</PossibleToGrazeFor>
-  <PossibleToGrazeForever>(forever)</PossibleToGrazeForever>
+  <FormCaravan>Bentuk karavan</FormCaravan>
+  <FormCaravanColonyThingCountTip>Jumlah yang tersedia untuk dikirim dengan karavan.</FormCaravanColonyThingCountTip>
+  <PawnsTab>Orang dan hewan</PawnsTab>
+  <ItemsTab>Barang</ItemsTab>
+  <CaravanMustHaveAtLeastOneColonist>Anda harus menetapkan setidaknya satu kolonis yang tidak terjatuh.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>Lokasi keluar yang dipilih ({0}) tidak dapat diakses.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>Tidak dapat menemukan tempat pengepakan yang valid. Pastikan bahwa lokasi keluar yang dipilih ({0}) dapat diakses.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindReachableExitSpot>Peringatan: Beberapa kolonis yang ditugaskan tidak dapat menjangkau lokasi keluar ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <CaravanPawnIsUnreachable>{1_labelShort} tidak dapat dijangkau oleh kolonis yang ditugaskan.</CaravanPawnIsUnreachable>
+  <CaravanItemIsUnreachableSingle>Tidak ada jalur antara pod transportasi dan {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>Tidak ada jalur antara pod transportasi dan {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>Karavan tidak dapat membawa sebanyak itu.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>Mencakup barang yang dibawa dan barang yang dipasang. Membawa kurang dari maksimum memberikan bonus kecepatan.</CaravanMassUsageTooltip>
+  <CaravanVisibilityTip>Visibilitas adalah seberapa mudah karavan Anda untuk diperhatikan.\n\nIni mengalikan peluang bahwa karavan Anda akan disergap oleh musuh.\n\nVisibilitas tidak mempengaruhi kemampuan Anda untuk menemukan barang yang Anda inginkan.\n\nVisibilitas didasarkan pada total ukuran tubuh semua orang dan hewan dalam karavan.</CaravanVisibilityTip>
+  <DaysWorthOfFood>Hari makanan</DaysWorthOfFood>
+  <DaysWorthOfFoodInfoRot>busuk dalam {0}</DaysWorthOfFoodInfoRot>
+  <InfiniteDaysWorthOfFoodInfo>Tak terbatas</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>Perkiraan jumlah hari sebelum setidaknya satu orang atau hewan kehabisan makanan. Spesies yang berbeda memiliki diet yang berbeda, jadi satu mungkin kehabisan makanan sebelum yang lain. Nilai ini dihitung lebih akurat setelah rute dipilih.\n\nDipengaruhi oleh:\n  - Jenis dan jumlah makanan yang dibawa\n  - Anggota karavan dan diet mereka\n  - Tingkat mencari makanan\n  - Apakah hewan dapat merumput\n  - Waktu hingga makanan busuk\n  - Cuaca panas mempercepat pembusukan makanan</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(hanya titik waypoint pertama yang diperhitungkan)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodWarningDialog>Karavan Anda hanya memiliki {0} hari makanan dan akan cepat lapar.</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>Karavan Anda tidak memiliki makanan dan akan sangat cepat lapar.</DaysWorthOfFoodWarningDialog_NoFood>
+  <ForagedFoodPerDayTip>Jumlah rata-rata makanan per hari yang akan dicari oleh orang-orang Anda. Nilai ini akan berubah saat Anda bepergian melintasi bioma dengan tingkat hasil yang berbeda.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDay>Forage per hari</ForagedFoodPerDay>
+  <CaravanFoodWillRotSoonWarningDialog>Sebagian besar makanan karavan akan segera busuk.</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanIncapableOfSocial>Anda tidak memiliki anggota karavan yang mampu melakukan diplomasi atau perdagangan.</CaravanIncapableOfSocial>
+  <CaravanAreYouSure>Apakah Anda yakin ingin membentuk karavan ini?</CaravanAreYouSure>
+  <MessageMustChooseRouteFirst>Anda harus memilih rute untuk karavan terlebih dahulu.</MessageMustChooseRouteFirst>
+  <MessageNoValidExitTile>Karavan Anda tidak dapat meninggalkan area. Pastikan bahwa setidaknya satu sisi dapat dijangkau.</MessageNoValidExitTile>
+  <ItemWeightTip>Berat item ini.</ItemWeightTip>
+  <MarketValueTip>Nilai pasar</MarketValueTip>
+  <DaysUntilRotTip>Jumlah hari hingga item ini mulai busuk berdasarkan suhu rata-rata di area ini.</DaysUntilRotTip>
+  <ItemNutritionTip>Seberapa banyak nutrisi yang diberikan makanan ini.\n\nSebagai referensi: orang dewasa membutuhkan {0} nutrisi per hari.</ItemNutritionTip>
+  <AnimalCanGrazeTip>Hewan ini dapat merumput makanan dari lingkungan alih-alih memakan makanan yang dibawa. Merumput hanya mungkin di beberapa bioma dan rentang suhu.</AnimalCanGrazeTip>
+  <NutritionForagedPerDayTip>Nutrisi yang dicari per hari. Jumlah yang sebenarnya dicari juga dipengaruhi oleh kemampuan mencari di bioma.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionEatenPerDayTip>Nutrisi yang dimakan per hari. Sebagai referensi, makanan sederhana memiliki {0} nutrisi.\n\nDapat dimakan: {2}\n\nLegenda:\n{1}.</NutritionEatenPerDayTip>
+  <MassCarriedSimple>Berat yang dibawa</MassCarriedSimple>
+  <MassCapacity>Kapasitas berat</MassCapacity>
+  <Mass>Berat</Mass>
+  <CaravanMass>Berat karavan</CaravanMass>
+  <EquipmentAndApparelMass>Berat peralatan dan pakaian</EquipmentAndApparelMass>
+  <InventoryMass>Berat inventaris</InventoryMass>
+  <CaravanFormationProcessStarted>Kolonis Anda sekarang akan mengumpulkan barang dan meninggalkan area.</CaravanFormationProcessStarted>
+  <ReformCaravan>Reformasi karavan</ReformCaravan>
+  <ColonistsSection>Kolonis</ColonistsSection>
+  <PrisonersSection>Tahanan</PrisonersSection>
+  <CaptureSection>Tangkap</CaptureSection>
+  <AnimalsSection>Hewan</AnimalsSection>
+  <ChooseRouteButton>Pilih rute</ChooseRouteButton>
+  <AbandonButton>Menyerah</AbandonButton>
+  <CaravanMovementSpeed>Kecepatan bergerak</CaravanMovementSpeed>
+  <TilesPerDay>sel/hari</TilesPerDay>
+  <CaravanMovementSpeedTip>Kecepatan bergerak tergantung pada kecepatan rata-rata semua orang dan hewan, berat yang dibawa, dan kesulitan gerakan medan.</CaravanMovementSpeedTip>
+  <AnimalsWillBeAbleToGraze>Hewan akan dapat merumput</AnimalsWillBeAbleToGraze>
+  <AnimalsCanGraze>Hewan dapat merumput</AnimalsCanGraze>
+  <PossibleToGrazeFor>(selama {0} hari lagi)</PossibleToGrazeFor>
+  <PossibleToGrazeForever>(selamanya)</PossibleToGrazeForever>
   <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
-  <CantGrazeBecauseOfTemp>(too cold for {0} more days)</CantGrazeBecauseOfTemp>
-  <TotalNutrition>Total nutrition</TotalNutrition>
-  <CaravanNotMoving>Not moving</CaravanNotMoving>
-  <ForagedNutritionPerDay>Foraged nutrition per day</ForagedNutritionPerDay>
-  <FactionType>Faction type</FactionType>
-  <TotalBodySize>Total body size</TotalBodySize>
+  <CantGrazeBecauseOfTemp>(terlalu dingin selama {0} hari lagi)</CantGrazeBecauseOfTemp>
+  <TotalNutrition>Total nutrisi</TotalNutrition>
+  <CaravanNotMoving>Tidak bergerak</CaravanNotMoving>
+  <ForagedNutritionPerDay>Foraged nutrisi per hari</ForagedNutritionPerDay>
+  <FactionType>Jenis faksi</FactionType>
+  <TotalBodySize>Total ukuran tubuh</TotalBodySize>
 
   <!-- Split caravan -->
-  <SplitCaravan>Split caravan</SplitCaravan>
-  <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
-  <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
+  <SplitCaravan>Pisahkan karavan</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>Anda harus meninggalkan setidaknya satu kolonis yang tidak terjatuh.</SourceCaravanMustHaveAtLeastOneColonist>
+  <SplitCaravanThingCountTip>Berapa banyak item ini yang dimiliki karavan untuk diberikan kepada karavan baru.</SplitCaravanThingCountTip>
 
   <!-- Load transporters -->
-  <LoadTransporters>Load {0}</LoadTransporters>
-  <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
-  <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
-  <PawnCantReachTransporters>{1_labelShort} can't reach the transport pods.</PawnCantReachTransporters>
-  <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
-  <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <LoadTransporters>Muatan {0}</LoadTransporters>
+  <TooBigTransportersMassUsage>Orang dan barang yang ditugaskan terlalu berat untuk pod transportasi.</TooBigTransportersMassUsage>
+  <CantSendEmptyTransportPods>Anda tidak dapat mengirim pod transportasi kosong.</CantSendEmptyTransportPods>
+  <PawnCantReachTransporters>{1_labelShort} tidak dapat menjangkau pod transportasi.</PawnCantReachTransporters>
+  <TransporterItemIsUnreachableSingle>Tidak ada jalur antara pod transportasi dan {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>Tidak ada jalur antara pod transportasi dan {0}x {1}.</TransporterItemIsUnreachableMulti>
 
   <!-- Comms -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
+  <SocialSkillIs>Keterampilan sosial: {0}</SocialSkillIs>
 
   <!--Research-->
-  <ResearchFinished>Research finished: {0}</ResearchFinished>
-  <ResearchScreen>Research Screen</ResearchScreen>
+  <ResearchFinished>Penelitian selesai: {0}</ResearchFinished>
+  <ResearchScreen>Layar Penelitian</ResearchScreen>
 
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>Allow uploading gameplay data</HistoryUploadYes>
-  <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
-  <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
+  <HistoryUploadMessage>Apakah Anda ingin mengunggah catatan data permainan Anda ke server RimWorld untuk membantu pengembang menyeimbangkan permainan? Jika Anda setuju, data Anda akan diunggah setiap {0} hari (dan dalam beberapa kasus langka lainnya seperti akhir permainan). Preferensi privasi dapat diubah nanti di menu opsi.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Meski sejarah dikirim secara anonim, Anda dapat melampirkan nama Anda.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Izinkan mengunggah data permainan</HistoryUploadYes>
+  <HistoryUploadNo>Jangan izinkan mengunggah data permainan</HistoryUploadNo>
+  <HistoryUploadYesOnce>Unggah hanya kali ini</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Jangan unggah kali ini, tanyakan saya nanti</HistoryUploadNoOnce>
 
   <!-- Outfit management -->
-  <Outfit>Outfit</Outfit>
-  <SelectOutfit>Select outfit...</SelectOutfit>
-  <NewOutfit>New outfit</NewOutfit>
-  <DeleteOutfit>Delete outfit...</DeleteOutfit>
-  <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
-  <NoOutfitSelected>No outfit selected</NoOutfitSelected>
+  <Outfit>Pakaian</Outfit>
+  <SelectOutfit>Pilih pakaian...</SelectOutfit>
+  <NewOutfit>Pakaian baru</NewOutfit>
+  <DeleteOutfit>Hapus pakaian...</DeleteOutfit>
+  <OutfitInUse>Pakaian sedang digunakan oleh {0}.</OutfitInUse>
+  <NoOutfitSelected>Tidak ada pakaian yang dipilih</NoOutfitSelected>
 
   <!-- Drug policy management -->
-  <DrugPolicy>Drug policy</DrugPolicy>
-  <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
-  <NewDrugPolicy>New policy</NewDrugPolicy>
-  <DeleteDrugPolicy>Delete policy...</DeleteDrugPolicy>
-  <DrugPolicyInUse>Drugs policy is in use by {0}.</DrugPolicyInUse>
-  <FoodRestrictionInUse>Food restriction is in use by {0}.</FoodRestrictionInUse>
-  <SocialDrugs>Social drugs</SocialDrugs>
-  <NoDrugs>No drugs</NoDrugs>
-  <OneDrinkPerDay>One drink per day</OneDrinkPerDay>
-  <Unrestricted>Unrestricted</Unrestricted>
-  <NoDrugPolicySelected>No drug policy selected</NoDrugPolicySelected>
-  <AddDrug>Add drug...</AddDrug>
-  <DrugColumnLabel>Drug</DrugColumnLabel>
-  <DrugUsageColumnLabel>Usage</DrugUsageColumnLabel>
-  <FrequencyColumnLabel>Frequency</FrequencyColumnLabel>
-  <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
-  <JoyThresholdColumnLabel>Only if recreation below</JoyThresholdColumnLabel>
-  <TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
-  <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
-  <EveryDay>Every day</EveryDay>
-  <TimesPerDay>{0} times per day</TimesPerDay>
-  <EveryDays>Every {0} days</EveryDays>
-  <NoDrugUseRequirement>Any</NoDrugUseRequirement>
-  <DeleteDrugTooltip>Delete this drug.</DeleteDrugTooltip>
-  <DrugNameColumnDesc>The name of a drug.</DrugNameColumnDesc>
-  <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
-  <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
-  <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
-  <JoyThresholdColumnDesc>The colonists will take this drug only if their recreation level is below this threshold.</JoyThresholdColumnDesc>
-  <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
-  <DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
-  <DrugUsageTipForJoy>For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
-  <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
+  <DrugPolicy>Kebijakan obat</DrugPolicy>
+  <SelectDrugPolicy>Pilih kebijakan...</SelectDrugPolicy>
+  <NewDrugPolicy>Kebijakan baru</NewDrugPolicy>
+  <DeleteDrugPolicy>Hapus kebijakan...</DeleteDrugPolicy>
+  <DrugPolicyInUse>Kebijakan obat sedang digunakan oleh {0}.</DrugPolicyInUse>
+  <FoodRestrictionInUse>Restriksi makanan sedang digunakan oleh {0}.</FoodRestrictionInUse>
+  <SocialDrugs>Obat sosial</SocialDrugs>
+  <NoDrugs>Tidak ada obat</NoDrugs>
+  <OneDrinkPerDay>Satu minuman per hari</OneDrinkPerDay>
+  <Unrestricted>Tidak terbatas</Unrestricted>
+  <NoDrugPolicySelected>Tidak ada kebijakan obat yang dipilih</NoDrugPolicySelected>
+  <AddDrug>Tambahkan obat...</AddDrug>
+  <DrugColumnLabel>Obat</DrugColumnLabel>
+  <DrugUsageColumnLabel>Penggunaan</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>Frekuensi</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>Hanya jika suasana hati di bawah</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Hanya jika rekreasi di bawah</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>Ambil ke inventaris</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(tidak ada obat)</NoDrugsBrackets>
+  <EveryDay>Setiap hari</EveryDay>
+  <TimesPerDay>{0} kali per hari</TimesPerDay>
+  <EveryDays>Setiap {0} hari</EveryDays>
+  <NoDrugUseRequirement>Siapa saja</NoDrugUseRequirement>
+  <DeleteDrugTooltip>Hapus obat ini.</DeleteDrugTooltip>
+  <DrugNameColumnDesc>Nama obat.</DrugNameColumnDesc>
+  <DrugUsageColumnDesc>Bagaimana obat ini diizinkan untuk digunakan.</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>Seberapa sering kolonis harus mencoba mengambil obat ini.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>Kolonis akan mengambil obat ini hanya jika tingkat suasana hati mereka di bawah ambang ini.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Kolonis akan mengambil obat ini hanya jika tingkat rekreasi mereka di bawah ambang ini.</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>Jumlah obat untuk diambil ekstra saat mengumpulkannya untuk konsumsi, untuk menghindari harus mengunjungi gudang obat setiap kali.</TakeToInventoryColumnDesc>
+  <DrugUsageTipForAddiction>Untuk kecanduan\n\nGunakan obat ini untuk memenuhi kebutuhan kecanduan yang sudah ada.\n\nBahkan jika dinonaktifkan, beberapa karakter dengan sifat tertentu, atau dalam keadaan mental yang buruk, mungkin tetap menggunakan obat ini.</DrugUsageTipForAddiction>
+  <DrugUsageTipForJoy>Untuk rekreasi\n\nGunakan obat ini untuk tujuan rekreasi dan sosial.\n\nBahkan jika dinonaktifkan, beberapa karakter dengan sifat tertentu, atau dalam keadaan mental yang buruk, mungkin tetap menggunakan obat ini.</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>Jadwal\n\nGunakan obat ini pada jadwal yang ditentukan, ketika kondisi tertentu terpenuhi.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
-  <FoodRestriction>Food restriction</FoodRestriction>
-  <FoodRestrictionLavish>Lavish</FoodRestrictionLavish>
-  <FoodRestrictionFine>Fine</FoodRestrictionFine>
-  <FoodRestrictionSimple>Simple</FoodRestrictionSimple>
-  <FoodRestrictionPaste>Paste</FoodRestrictionPaste>
-  <FoodRestrictionRaw>Raw</FoodRestrictionRaw>
-  <FoodRestrictionNothing>Nothing</FoodRestrictionNothing>
-  <SelectFoodRestriction>Select food restriction</SelectFoodRestriction>
-  <NewFoodRestriction>New food restriction</NewFoodRestriction>
-  <DeleteFoodRestriction>Delete food restriction</DeleteFoodRestriction>
-  <NoFoodRestrictionSelected>No food restriction selected</NoFoodRestrictionSelected>
+  <FoodRestriction>Restriksi makanan</FoodRestriction>
+  <FoodRestrictionLavish>Mewah</FoodRestrictionLavish>
+  <FoodRestrictionFine>Baik</FoodRestrictionFine>
+  <FoodRestrictionSimple>Sederhana</FoodRestrictionSimple>
+  <FoodRestrictionPaste>Pasta</FoodRestrictionPaste>
+  <FoodRestrictionRaw>Mentah</FoodRestrictionRaw>
+  <FoodRestrictionNothing>Tidak ada</FoodRestrictionNothing>
+  <SelectFoodRestriction>Pilih restriksi makanan</SelectFoodRestriction>
+  <NewFoodRestriction>Restriksi makanan baru</NewFoodRestriction>
+  <DeleteFoodRestriction>Hapus restriksi makanan</DeleteFoodRestriction>
+  <NoFoodRestrictionSelected>Tidak ada restriksi makanan yang dipilih</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <MedGroupDefaults>Defaults</MedGroupDefaults>
-  <MedGroupColonist>Colonist</MedGroupColonist>
-  <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
-  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+  <MedGroupColonist>Kolonis</MedGroupColonist>
+  <MedGroupImprisonedColonist>Kolonis yang dipenjara</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>Hewan koloni</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>Hewan netral</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Faksi netral</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>Faksi musuh</MedGroupHostileFaction>
 
   <!-- Growing -->
-  <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0} memerlukan keterampilan {1} dalam Bertani untuk menanam.\n\nTidak ada petani yang tidak terjatuh yang memiliki keterampilan ini, jadi tanaman ini tidak akan ditanam.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
-  <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
-  <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeWithColonyPawns>Beberapa kolonis atau hewan Anda berada di area ini. Apakah Anda yakin ingin meninggalkannya?\n\nOrang dan hewan berikut akan ditinggalkan:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>Meninggalkan {0} akan menyebabkan orang-orang berikut mendapatkan pikiran negatif:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Semua orang:</ConfirmAbandonHomeNegativeThoughts_Everyone>
 
   <!-- Move caravan and leave prisoners and animals behind -->
-  <ConfirmMoveAutoJoinableCaravan>Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan?</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>Beberapa hewan atau tahanan berusaha bergabung dengan karavan ini. Jika Anda memindahkannya, mereka tidak akan dapat lagi.\n\nHewan, tahanan, dan kolonis yang terjatuh yang ditinggalkan di peta tanpa kolonis yang tidak terjatuh dianggap ditinggalkan dan dapat ditangkap oleh musuh.\n\nApakah Anda yakin ingin memindahkan karavan Anda?</ConfirmMoveAutoJoinableCaravan>
 
   <!-- Abandon pawn -->
-  <ConfirmBanishPawnDialog>Do you really want to banish {1_label}?</ConfirmBanishPawnDialog>
-  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} will most likely die.</ConfirmBanishPawnDialog_LeftToDie>
-  <ConfirmBanishPawnDialog_Items>{1_labelShort} will take the following items with {1_objective}:</ConfirmBanishPawnDialog_Items>
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmBanishPawnDialog_AllColonistsThoughts>
-  <ConfirmBanishPawnDialog_IndividualThoughts>Banishing {1_labelShort} will cause the following people to get the following thoughts:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog>Apakah Anda benar-benar ingin mengusir {1_label}?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} kemungkinan besar akan mati.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} akan membawa barang-barang berikut:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Semua kolonis akan mendapatkan pikiran berikut:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>Mengusir {1_labelShort} akan menyebabkan orang-orang berikut mendapatkan pikiran berikut:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
-  <ConfirmSendNotCompletelyLoadedPods>Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>Kelompok pod tidak sepenuhnya dimuat. {1_labelShort} hilang. Lanjutkan juga?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
-  <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Karena lokasi ini berada dalam {0} ubin dari basis faksi lain, mereka akan merasa Anda sedang menginvasi tanah mereka dan hubungan dengan faksi-faksi tersebut akan memburuk setiap {1} hari.\n\nTetap menetap di sini?</ConfirmSettleNearFactionBase>
 
   <!-- Cleanup translation files -->
-  <ConfirmCleanupTranslationFiles>Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool.</ConfirmCleanupTranslationFiles>
-  <ConfirmCleanupTranslationFiles_Confirm>Yes, I have a backup</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles>Apakah Anda yakin ingin membersihkan semua file terjemahan untuk bahasa {0}?\n\nIni akan:\n  - Menambahkan placeholder untuk terjemahan kunci yang hilang, terjemahan yang disuntikkan def, dan latar belakang\n  - Menambahkan atau memperbarui komentar yang berisi teks asli yang tidak diterjemahkan\n  - Memindahkan semua terjemahan kunci dan terjemahan yang disuntikkan def ke file XML yang sesuai\n  - Menerapkan format otomatis ke semua file XML\n  - Memperbarui nama def yang kompatibel dengan versi lama\n  - Menghapus semua komentar XML yang ada (kecuali dalam suntikan daftar penuh)\n\nFile non-XML tidak akan dihapus atau dimodifikasi.\n\nIngat untuk memulai ulang permainan setelah memodifikasi file bahasa sebelum menjalankan alat ini untuk memuat ulang semua data.\n\nPastikan untuk mencadangkan semua file terjemahan sebelum menggunakan alat ini.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles_Confirm>Ya, saya memiliki cadangan</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <TransportersCaravanWillBeImmobile>The caravan will be immobile if you send the pods to an empty tile. Continue anyway?</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>Karavan akan tidak bergerak jika Anda mengirim pod ke ubin kosong. Lanjutkan juga?</TransportersCaravanWillBeImmobile>
 
 </LanguageData>

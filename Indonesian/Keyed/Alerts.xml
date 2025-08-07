@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Klik untuk melompat ke masalah</ClickToJumpToProblem>
 
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
-  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+  <BreakRiskMinor>Risiko gangguan kecil</BreakRiskMinor>
+  <BreakRiskMajor>Risiko gangguan besar</BreakRiskMajor>
+  <BreakRiskExtreme>Risiko gangguan ekstrem</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Kolonis ini berada dalam suasana hati yang buruk dan mungkin mengalami gangguan mental kecil kapan saja:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Kolonis ini berada dalam suasana hati yang sangat buruk dan mungkin mengalami gangguan mental besar kapan saja:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Kolonis ini mengalami stres kritis dan mungkin mengalami gangguan mental ekstrem (dan mungkin kekerasan) kapan saja:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Periksa tab Kebutuhan kolonis ini untuk melihat apa yang mengganggu mereka.\n\nUntuk membuat kolonis merasa lebih baik, Anda dapat melakukan hal-hal seperti membuatkan mereka makanan mewah, memberi mereka lebih banyak jam rekreasi per hari dan objek rekreasi yang lebih baik, menempatkan mereka di lingkungan yang indah, membiarkan mereka minum dan merokok, dan banyak lagi.</BreakRiskDescEnding>
 
-  <ColonistNeedsRescue>Colonist needs rescue</ColonistNeedsRescue>
-  <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
+  <ColonistNeedsRescue>Kolonis membutuhkan penyelamatan</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Kolonis membutuhkan penyelamatan</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Kolonis ini terkapar di tanah:\n\n{0}\nKirim kolonis lain untuk menyelamatkan mereka dan membawanya kembali ke tempat tidur.\n\n(Untuk menyelamatkan, pilih kolonis lain, lalu klik kanan pada korban dan pilih Selamatkan.)</ColonistsNeedRescueDesc>
 
-  <NeedDefenses>Need defenses</NeedDefenses>
-  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
+  <NeedDefenses>Perlu pertahanan</NeedDefenses>
+  <NeedDefensesDesc>Anda telah berada di sini beberapa waktu dan mungkin telah terlihat. Serangan bajak laut akan segera dimulai.\n\nAnda harus mempersiapkan pertahanan, seperti karung pasir atau perangkap.</NeedDefensesDesc>
 
-  <NeedDoctor>Need doctor</NeedDoctor>
-  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+  <NeedDoctor>Perlu dokter</NeedDoctor>
+  <NeedDoctorDesc>Kolonis ini membutuhkan perawatan medis, tetapi Anda tidak memiliki kolonis sehat yang ditugaskan sebagai dokter.\n\n{0}\nTugaskan kolonis sehat ke jenis pekerjaan Dokter. Jika tidak diobati, luka mungkin tidak akan sembuh dengan baik dan dapat menjadi permanen.</NeedDoctorDesc>
 
-  <NeedMiner>Need miner</NeedMiner>
-  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+  <NeedMiner>Perlu penambang</NeedMiner>
+  <NeedMinerDesc>Anda telah menetapkan beberapa batu untuk ditambang, tetapi tidak ada kolonis yang memiliki jenis pekerjaan Penambangan.\n\nTugaskan kolonis ke jenis pekerjaan Penambangan.</NeedMinerDesc>
 
-  <NeedWarden>Need warden</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWarden>Perlu pengawas</NeedWarden>
+  <NeedWardenDesc>Anda memiliki seorang tahanan, tetapi tidak ada kolonis yang memiliki jenis pekerjaan Pengawas.\n\nTugaskan kolonis ke jenis pekerjaan Pengawas.</NeedWardenDesc>
 
-  <LowFood>Low food</LowFood>
-  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFood>Stok makanan rendah</LowFood>
+  <LowFoodDesc>Anda sangat kekurangan makanan.\n\n    Stok makanan dalam penyimpanan: {0}\n    Kolonis dan tahanan yang mendapatkan makanan: {1}\n    Hari makanan dalam penyimpanan: {2}\n\nTanam, beli, temukan, atau bunuh beberapa makanan.</LowFoodDesc>
 
-  <LowMedicine>Low medicine</LowMedicine>
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  <LowMedicine>Stok obat rendah</LowMedicine>
+  <LowMedicineDesc>Anda hanya memiliki {0} obat yang tersisa dalam penyimpanan.\n\nBeli lebih banyak obat dari pedagang.</LowMedicineDesc>
+  <NoMedicineDesc>Anda tidak memiliki obat yang tersisa dalam penyimpanan.\n\nBeli lebih banyak obat dari pedagang.</NoMedicineDesc>
 
-  <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Perlu tempat tidur kolonis</NeedColonistBeds>
+  <NeedColonistBedsDesc>Anda memiliki lebih banyak kolonis daripada tempat tidur kolonis. Seseorang akan kekurangan tempat untuk tidur.\n\nBuat lebih banyak tempat tidur, atau ubah tempat tidur tahanan menjadi tempat tidur kolonis.\n\nJika Anda tidak memiliki sumber daya, tempat tidur tidur gratis dan dapat ditempatkan secara instan.</NeedColonistBedsDesc>
 
-  <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
+  <HunterLacksWeapon>Pemburu kekurangan senjata jarak jauh</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Seorang kolonis ditugaskan sebagai pemburu tetapi tidak memiliki senjata jarak jauh.\n\nMereka tidak akan berburu sampai mereka membawa senjata jarak jauh.</HunterLacksWeaponDesc>
 
-  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparel>Pakaian robek</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Kolonis ini mengenakan pakaian robek, yang membuat mereka sedih:\n\n{0}\nDapatkan mereka pakaian yang tidak begitu rusak.\n\nAnda dapat menjahit pakaian di meja jahit, atau membelinya dari pedagang.</AlertTatteredApparelDesc>
 
-  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
-  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudity>Ketidakpuasan telanjang</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Kolonis ini telanjang dan tidak senang tentang hal itu:\n\n{0}\nDapatkan mereka beberapa pakaian.\n\nAnda dapat menjahit pakaian di meja jahit, atau membelinya dari pedagang.</AlertUnhappyNudityDesc>
 
-  <Starvation>Starvation</Starvation>
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
+  <Starvation>Kekurangan makanan</Starvation>
+  <StarvationDesc>Kolonis ini kelaparan:\n\n{0}\nDapatkan mereka makanan.</StarvationDesc>
 
-  <StarvationAnimals>Animal starvation</StarvationAnimals>
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimals>Kekurangan makanan hewan</StarvationAnimals>
+  <StarvationAnimalsDesc>Hewan koloni ini kelaparan:\n\n{0}\nDapatkan mereka makanan.</StarvationAnimalsDesc>
 
-  <Exhaustion>Exhaustion</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <Exhaustion>Kelelahan</Exhaustion>
+  <ExhaustionDesc>Kolonis ini kelelahan dan perlu istirahat:\n\n{0}\nDapatkan mereka istirahat. Mereka akan membutuhkan tempat tidur yang ditandai untuk penggunaan kolonis. Juga, pastikan mereka tidak sedang dalam keadaan dikerahkan.</ExhaustionDesc>
 
-  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Perlu hopper makanan</NeedFoodHopper>
+  <NeedFoodHopperDesc>Anda memiliki dispenser nutrisi tanpa hopper di sampingnya.\n\nUntuk berfungsi, dispenser harus menarik dari hopper yang berdekatan yang diisi dengan makanan mentah.\n\nBangun hopper yang berdekatan dengan dispenser.</NeedFoodHopperDesc>
 
-  <NeedMealSource>Need meal source</NeedMealSource>
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSource>Perlu sumber makanan</NeedMealSource>
+  <NeedMealSourceDesc>Anda tidak memiliki cara untuk menyiapkan makanan yang layak dari makanan mentah.\n\nBangun kompor, api unggun, atau dispenser nutrisi.\n\n(Itu tidak dapat berada di sel penjara, jika tidak kolonis tidak dapat menggunakannya.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Need recreation variety</NeedJoySource>
-  <NeedJoySourceDesc>There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
-  <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
-  <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
-  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
-  <bored>bored</bored>
+  <NeedJoySource>Perlu variasi rekreasi</NeedJoySource>
+  <NeedJoySourceDesc>Hanya ada {0} jenis rekreasi yang berbeda tersedia di {1}, tetapi pada tingkat harapan saat ini ({2}), kolonis membutuhkan {3} jenis rekreasi yang berbeda untuk tetap puas. Sediakan variasi rekreasi dengan menyediakan jenis rekreasi baru yang berbeda.\n\n{4}\n\n{5}\n\nCatatan: Anda dapat memeriksa jenis rekreasi dari item mana pun di halaman statistiknya, yang dapat diakses dengan tombol 'i'.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Jenis rekreasi yang tersedia</AvailableRecreationTypes>
+  <MissingRecreationTypes>Jenis rekreasi yang hilang</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>Pada harapan saat ini ({0}), setiap toleransi turun sebesar {1} per hari terjaga. Memiliki {2} jenis rekreasi disarankan.</CurrentExpectationsAndRecreation>
+  <bored>bosan</bored>
 
-  <Boredom>Boredom</Boredom>
-  <BoredomDesc>These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2}</BoredomDesc>
+  <Boredom>Kebosanan</Boredom>
+  <BoredomDesc>Orang-orang ini membutuhkan rekreasi atau ditugaskan untuk rekreasi, tetapi bosan dengan setiap sumber rekreasi yang tersedia:\n\n{0}\n\nDapatkan mereka lebih banyak variasi rekreasi.\n\nJenis rekreasi yang saat ini tersedia untuk {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
-  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
+  <NeedBatteries>Perlu baterai</NeedBatteries>
+  <NeedBatteriesDesc>Anda memiliki generator solar atau angin, tetapi tidak ada baterai. Ini berarti Anda akan kehilangan daya setiap kali matahari terbenam atau angin berhenti.\n\nBangun satu atau dua baterai untuk menjamin daya yang berkelanjutan.</NeedBatteriesDesc>
 
-  <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeapon>Pemburu memiliki senjata jarak jauh</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Seorang kolonis Anda memiliki sifat kepribadian Pemburu, tetapi sedang membawa senjata jarak jauh. Ini akan membuat mereka sangat tidak senang.</BrawlerHasRangedWeaponDesc>
 
-  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUser HasRangedWeapon>Pengguna perisai memiliki senjata jarak jauh</ShieldUser HasRangedWeapon>
+  <ShieldUser HasRangedWeaponDesc>Seorang kolonis Anda memiliki sabuk perisai dan sedang membawa senjata jarak jauh. Mereka tidak akan dapat menembakkan senjata mereka melalui perisai (kecuali pada target yang sudah menyentuh mereka).</ShieldUser HasRangedWeaponDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <NeedResearchProject>Perlu proyek penelitian</NeedResearchProject>
+  <NeedResearchProjectDesc>Anda memiliki peralatan untuk melakukan penelitian tetapi belum memilih proyek.\n\nBuka menu penelitian dan pilih proyek.</NeedResearchProjectDesc>
 
-  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} kolonis menganggur</ColonistsIdle>
+  <ColonistsIdleDesc>Kolonis ini sedang berjalan-jalan tanpa tujuan:\n\n{0}\nAnda sebaiknya menemukan sesuatu yang produktif untuk mereka lakukan.</ColonistsIdleDesc>
 
-  <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatment>Kolonis membutuhkan perawatan</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Kolonis ini membutuhkan perawatan medis. Tanpa itu, mereka mungkin mati karena luka mereka, atau luka mereka mungkin menjadi permanen.\n\n{0}\nRawat mereka dengan mengirim mereka ke tempat tidur medis.\n\n(Pertama, tetapkan tempat tidur medis dengan memilihnya dan mengubahnya menjadi tempat tidur medis. Kemudian, pilih kolonis yang terluka dan klik kanan pada tempat tidur medis untuk menjadikannya pasien.)</ColonistNeedsTreatmentDesc>
 
-  <AlertHypothermia>Hypothermia</AlertHypothermia>
-  <AlertHypothermiaDesc>These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+  <AlertHypothermia>Hipotermia</AlertHypothermia>
+  <AlertHypothermiaDesc>Kolonis ini menderita hipotermia.\n\n{0}\nPastikan pakaian mereka sesuai untuk musim dan bahwa ruang dalam dipanaskan dengan baik.</AlertHypothermiaDesc>
 
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} pasien menunggu operasi medis</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Pasien ini menunggu operasi medis:\n\n{0}\nPastikan Anda memiliki semua alat medis yang diperlukan dan dokter yang tersedia.</PatientsAwaitingMedicalOperationDesc>
 
-  <FireInHomeArea>Fire!</FireInHomeArea>
-  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
+  <FireInHomeArea>Api!</FireInHomeArea>
+  <FireInHomeAreaDesc>Ada api di area rumah.</FireInHomeAreaDesc>
 
-  <PawnsWithLifeThreateningDisease>Medical emergency</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDisease>Darurat medis</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Orang-orang berada dalam risiko kematian karena penyakit parah:\n\n{0}\nPastikan mereka mendapatkan perawatan medis terbaik yang mungkin.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Orang-orang berada dalam risiko kematian karena penyakit parah:\n\n{0}\nJika memungkinkan, pertimbangkan untuk mengamputasi atau mengganti anggota tubuh yang terinfeksi untuk menjaga kolonis tetap hidup.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>Billiards needs space</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Billiard membutuhkan ruang</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Salah satu meja billiard Anda berdekatan dengan penghalang yang akan mencegah kolonis menggunakannya.\n\nMeja billiard membutuhkan ruang yang jelas di sekelilingnya di semua sisi agar dapat digunakan.</BilliardsNeedsSpaceDesc>
 
-  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>Pemburu memiliki perisai dan senjata jarak jauh</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Seorang pemburu Anda menggunakan senjata jarak jauh dan mengenakan sabuk perisai yang mencegah penembakan jarak jauh.\n\nMereka tidak akan dapat berburu kecuali perisai dilepas.</HunterHasShieldAndRangedWeaponDesc>
 
-  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+  <NeedWarmClothes>Perlu pakaian hangat</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Setidaknya {0} kolonis Anda akan kekurangan pakaian hangat ketika musim dingin tiba.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Semua kolonis Anda akan kekurangan pakaian hangat ketika musim dingin tiba.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Suhu luar akan mencapai {0}.\n\nAnda dapat menjahit pakaian hangat di meja jahit, atau membelinya dari pedagang.</NeedWarmClothesDesc2>
 
-  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
-  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+  <ImmobileCaravan>Karavan tidak bergerak</ImmobileCaravan>
+  <ImmobileCaravanDesc>Karavan Anda tidak bergerak karena membawa terlalu banyak.\n\nAnda dapat membuat karavan bergerak lagi dengan meninggalkan beberapa barang di tab BARANG.</ImmobileCaravanDesc>
 
 </LanguageData>
