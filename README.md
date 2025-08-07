@@ -33,9 +33,32 @@ Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 
 ---
 
-## 🕰️ Kontributor Sebelumnya | Past Contributors  
-| ![Julian](https://avatars.githubusercontent.com/u/10151729?s=96&v=4) <br /> **Julian Jason** <br /> `@JulianJason` | ![Equan](https://avatars.githubusercontent.com/u/948279?s=96&v=4) <br /> **Equan Pr.** <br /> `@junwatu` | ![Faryzal](https://avatars.githubusercontent.com/u/8612170?v=4) <br /> **Faryzal** <br /> `@Faryzal2020` | ![Irsyad](https://avatars.githubusercontent.com/u/174414578?v=4) <br /> **Irsyad Akbar.** <br /> `@irsyad-a` |
-|---|---|---|---|
+## ⏰ Kontributor Sebelumnya | Past Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/142970734" height="120"/><br/>
+      <b>Julian Jason</b><br/>
+      <a href="https://github.com/JulianJason">@JulianJason</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/111177849" height="120"/><br/>
+      <b>Equan Pr.</b><br/>
+      <a href="https://github.com/junwatu">@junwatu</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/82011945" height="120"/><br/>
+      <b>Faryzal</b><br/>
+      <a href="https://github.com/Faryzal2020">@Faryzal2020</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/67672890" height="120"/><br/>
+      <b>Irsyad Akbar.</b><br/>
+      <a href="https://github.com/irsyad-a">@irsyad-a</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
