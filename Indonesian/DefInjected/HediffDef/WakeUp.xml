@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WakeUpHigh.label>high on wake-up</WakeUpHigh.label>
-  <WakeUpHigh.labelNoun>a wake-up high</WakeUpHigh.labelNoun>
+  <WakeUpHigh.label>efek wake-up</WakeUpHigh.label>
+  <WakeUpHigh.labelNoun>sebuah wake-up</WakeUpHigh.labelNoun>
 
 
   <!-- WakeUp addiction -->
 
-  <WakeUpTolerance.label>wake-up tolerance</WakeUpTolerance.label>
-  <WakeUpTolerance.stages.0.label>small</WakeUpTolerance.stages.0.label>
-  <WakeUpTolerance.stages.1.label>small</WakeUpTolerance.stages.1.label>
-  <WakeUpTolerance.stages.2.label>large</WakeUpTolerance.stages.2.label>
-  <WakeUpTolerance.stages.3.label>massive</WakeUpTolerance.stages.3.label>
+  <WakeUpTolerance.label>toleransi wake-up</WakeUpTolerance.label>
+  <WakeUpTolerance.stages.0.label>awal</WakeUpTolerance.stages.0.label>
+  <WakeUpTolerance.stages.1.label>meningkat</WakeUpTolerance.stages.1.label>
+  <WakeUpTolerance.stages.2.label>tinggi</WakeUpTolerance.stages.2.label>
+  <WakeUpTolerance.stages.3.label>ekstrem</WakeUpTolerance.stages.3.label>
 
-  <WakeUpAddiction.label>wake-up addiction</WakeUpAddiction.label>
-  <WakeUpAddiction.stages.1.label>withdrawal</WakeUpAddiction.stages.1.label>
+  <WakeUpAddiction.label>kecanduan wake-up</WakeUpAddiction.label>
+  <WakeUpAddiction.stages.1.label>sakau wake-up</WakeUpAddiction.stages.1.label>
 
 
 </LanguageData>

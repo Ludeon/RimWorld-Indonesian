@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AlcoholHigh.label>alcohol</AlcoholHigh.label>
-  <AlcoholHigh.stages.0.label>warm</AlcoholHigh.stages.0.label>
-  <AlcoholHigh.stages.1.label>tipsy</AlcoholHigh.stages.1.label>
-  <AlcoholHigh.stages.2.label>drunk</AlcoholHigh.stages.2.label>
-  <AlcoholHigh.stages.3.label>hammered</AlcoholHigh.stages.3.label>
-  <AlcoholHigh.stages.4.label>blackout</AlcoholHigh.stages.4.label>
-  <AlcoholHigh.labelNoun>drunkenness</AlcoholHigh.labelNoun>
+  <AlcoholHigh.label>efek alkohol</AlcoholHigh.label>
+  <AlcoholHigh.stages.0.label>hangat</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>agak mabuk</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>mabuk</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>teler</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.4.label>pingsan</AlcoholHigh.stages.4.label>
+  <AlcoholHigh.labelNoun>tingkat kemabukan</AlcoholHigh.labelNoun>
 
-  <Hangover.label>hangover</Hangover.label>
-  <Hangover.stages.0.label>slight</Hangover.stages.0.label>
-  <Hangover.stages.1.label>strong</Hangover.stages.1.label>
-  <Hangover.stages.2.label>pounding</Hangover.stages.2.label>
-  <Hangover.labelNoun>a hangover</Hangover.labelNoun>
+  <Hangover.label>Sakit kepala (basian)</Hangover.label>
+  <Hangover.stages.0.label>ringan</Hangover.stages.0.label>
+  <Hangover.stages.1.label>berat</Hangover.stages.1.label>
+  <Hangover.stages.2.label>sangat berat</Hangover.stages.2.label>
+  <Hangover.labelNoun>efek basian</Hangover.labelNoun>
 
 
   <!-- Alcohol addiction -->
 
   <AlcoholTolerance.label>toleransi alkohol</AlcoholTolerance.label>
-  <AlcoholTolerance.stages.0.label>sedikit</AlcoholTolerance.stages.0.label>
-  <AlcoholTolerance.stages.1.label>sedikit</AlcoholTolerance.stages.1.label>
-  <AlcoholTolerance.stages.2.label>tinggi</AlcoholTolerance.stages.2.label>
-  <AlcoholTolerance.stages.3.label>sangat tinggi</AlcoholTolerance.stages.3.label>
+  <AlcoholTolerance.stages.0.label>tidak tahan alkohol</AlcoholTolerance.stages.0.label>
+  <AlcoholTolerance.stages.1.label>rendah</AlcoholTolerance.stages.1.label>
+  <AlcoholTolerance.stages.2.label>sedang</AlcoholTolerance.stages.2.label>
+  <AlcoholTolerance.stages.3.label>tinggi</AlcoholTolerance.stages.3.label>
 
   <AlcoholAddiction.label>kecanduan alkohol</AlcoholAddiction.label>
-  <AlcoholAddiction.stages.1.label>gejala putus alkohol</AlcoholAddiction.stages.1.label>
+  <AlcoholAddiction.stages.1.label>sakau alkohol</AlcoholAddiction.stages.1.label>
 
 
 </LanguageData>

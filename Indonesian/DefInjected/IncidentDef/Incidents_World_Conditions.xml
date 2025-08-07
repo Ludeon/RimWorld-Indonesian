@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Eclipse.label>eclipse</Eclipse.label>
-  <Eclipse.letterText>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</Eclipse.letterText>
-  <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
+  <Eclipse.label>gerhana</Eclipse.label>
+  <Eclipse.letterText>Salah satu bulan dari planet ini telah mengorbit di depan matahari. Sebuah gerhana telah dimulai.</Eclipse.letterText>
+  <Eclipse.letterLabel>Gerhana</Eclipse.letterLabel>
 
-  <SolarFlare.label>solar flare</SolarFlare.label>
-  <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
-  <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
+  <SolarFlare.label>letusan matahari</SolarFlare.label>
+  <SolarFlare.letterText>Letusan matahari telah dimulai.\n\nRadiasi yang intens akan mematikan semua perangkat listrik.\n\nIni seharusnya berlalu dalam waktu sekitar satu hari.</SolarFlare.letterText>
+  <SolarFlare.letterLabel>Letusan matahari</SolarFlare.letterLabel>
 
   <Aurora.label>aurora</Aurora.label>
-  <Aurora.letterText>A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter.</Aurora.letterText>
+  <Aurora.letterText>Sebuah aurora yang indah menerangi langit.\n\nWarna-warna yang bergetar akan meningkatkan suasana hati siapa pun yang melihatnya di luar, dan membuat malam lebih cerah.</Aurora.letterText>
   <Aurora.letterLabel>Aurora</Aurora.letterLabel>
 
 

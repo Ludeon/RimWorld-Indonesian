@@ -4,9 +4,36 @@
   <friendlyNameEnglish>Indonesian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <credits>
+    <li Class="CreditRecord_Text">
+      <text>Active:</text>
+    </li>
+    <li Class="CreditRecord_Space">
+      <height>10</height>
+    </li>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
-      <creditee> Jason 'JulianJason' Julian </creditee>
+      <creditee>Ariq 'Rixenses' Ibrahim</creditee>
+    </li>
+    <li Class="CreditRecord_Space">
+      <height>30</height>
+    </li>
+    <li Class="CreditRecord_Text">
+      <text>Inactive:</text>
+    </li>
+    <li Class="CreditRecord_Space">
+      <height>10</height>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Irsyad 'irsyad-a' Akbar</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Jason 'JulianJason' Julian</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Fakhrizal 'Faryzal2020' Andyko</creditee>
     </li>
   </credits>
 </LanguageInfo>

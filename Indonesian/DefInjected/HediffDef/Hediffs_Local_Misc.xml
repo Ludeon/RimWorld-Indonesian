@@ -4,18 +4,18 @@
   <TraumaSavant.label>trauma savant</TraumaSavant.label>
   <TraumaSavant.labelNoun>trauma</TraumaSavant.labelNoun>
 
-  <ChemicalDamageModerate.label>chemical damage</ChemicalDamageModerate.label>
-  <ChemicalDamageSevere.label>chemical damage</ChemicalDamageSevere.label>
-  <Cirrhosis.label>cirrhosis</Cirrhosis.label>
+  <ChemicalDamageModerate.label>kerusakan kimia sedang</ChemicalDamageModerate.label>
+  <ChemicalDamageSevere.label>kerusakan kimia berat</ChemicalDamageSevere.label>
+  <Cirrhosis.label>sirosis</Cirrhosis.label>
 
-  <ResurrectionPsychosis.label>resurrection psychosis</ResurrectionPsychosis.label>
-  <ResurrectionPsychosis.stages.0.label>early</ResurrectionPsychosis.stages.0.label>
-  <ResurrectionPsychosis.stages.1.label>early</ResurrectionPsychosis.stages.1.label>
-  <ResurrectionPsychosis.stages.2.label>moderate</ResurrectionPsychosis.stages.2.label>
-  <ResurrectionPsychosis.stages.3.label>advanced</ResurrectionPsychosis.stages.3.label>
-  <ResurrectionPsychosis.stages.4.label>severe</ResurrectionPsychosis.stages.4.label>
+  <ResurrectionPsychosis.label>kebangkitan psikosis</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.stages.0.label>awal</ResurrectionPsychosis.stages.0.label>
+  <ResurrectionPsychosis.stages.1.label>awal</ResurrectionPsychosis.stages.1.label>
+  <ResurrectionPsychosis.stages.2.label>sedang</ResurrectionPsychosis.stages.2.label>
+  <ResurrectionPsychosis.stages.3.label>lanjutan</ResurrectionPsychosis.stages.3.label>
+  <ResurrectionPsychosis.stages.4.label>berat</ResurrectionPsychosis.stages.4.label>
   <ResurrectionPsychosis.stages.5.label>total</ResurrectionPsychosis.stages.5.label>
-  <ResurrectionPsychosis.stages.6.label>catatonic</ResurrectionPsychosis.stages.6.label>
+  <ResurrectionPsychosis.stages.6.label>katatonik</ResurrectionPsychosis.stages.6.label>
 
 
 </LanguageData>

@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AmbrosiaHigh.label>ambrosia warmth</AmbrosiaHigh.label>
+  <AmbrosiaHigh.label>efek ambrosia</AmbrosiaHigh.label>
 
 
   <!-- Ambrosia addiction -->
 
-  <AmbrosiaTolerance.label>ambrosia tolerance</AmbrosiaTolerance.label>
-  <AmbrosiaTolerance.stages.0.label>small</AmbrosiaTolerance.stages.0.label>
-  <AmbrosiaTolerance.stages.1.label>small</AmbrosiaTolerance.stages.1.label>
-  <AmbrosiaTolerance.stages.2.label>large</AmbrosiaTolerance.stages.2.label>
-  <AmbrosiaTolerance.stages.3.label>massive</AmbrosiaTolerance.stages.3.label>
+  <AmbrosiaTolerance.label>toleransi ambrosia</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.stages.0.label>awal</AmbrosiaTolerance.stages.0.label>
+  <AmbrosiaTolerance.stages.1.label>meningkat</AmbrosiaTolerance.stages.1.label>
+  <AmbrosiaTolerance.stages.2.label>tinggi</AmbrosiaTolerance.stages.2.label>
+  <AmbrosiaTolerance.stages.3.label>ekstrem</AmbrosiaTolerance.stages.3.label>
 
-  <AmbrosiaAddiction.label>ambrosia addiction</AmbrosiaAddiction.label>
-  <AmbrosiaAddiction.stages.1.label>withdrawal</AmbrosiaAddiction.stages.1.label>
+  <AmbrosiaAddiction.label>kecanduan ambrosia</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.stages.1.label>sakau ambrosia</AmbrosiaAddiction.stages.1.label>
 
 
 </LanguageData>

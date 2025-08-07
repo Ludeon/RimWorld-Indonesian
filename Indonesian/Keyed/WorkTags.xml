@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkTagNone>none</WorkTagNone>
-  <WorkTagIntellectual>intellectual</WorkTagIntellectual>
-  <WorkTagManualDumb>dumb labor</WorkTagManualDumb>
-  <WorkTagManualSkilled>skilled labor</WorkTagManualSkilled>
-  <WorkTagViolent>violent</WorkTagViolent>
-  <WorkTagCaring>caring</WorkTagCaring>
-  <WorkTagSocial>social</WorkTagSocial>
-  <WorkTagAnimals>animals</WorkTagAnimals>
-  <WorkTagArtistic>artistic</WorkTagArtistic>
-  <WorkTagCrafting>crafting</WorkTagCrafting>
-  <WorkTagCooking>cooking</WorkTagCooking>
-  <WorkTagFirefighting>firefighting</WorkTagFirefighting>
-  <WorkTagCleaning>cleaning</WorkTagCleaning>
-  <WorkTagHauling>hauling</WorkTagHauling>
-  <WorkTagPlantWork>plant work</WorkTagPlantWork>
-  <WorkTagMining>mining</WorkTagMining>
+  <WorkTagNone>tidak ada</WorkTagNone>
+  <WorkTagIntellectual>intelektual</WorkTagIntellectual>
+  <WorkTagManualDumb>pekerjaan kasar</WorkTagManualDumb>
+  <WorkTagManualSkilled>pekerjaan terampil</WorkTagManualSkilled>
+  <WorkTagViolent>kekerasan</WorkTagViolent>
+  <WorkTagCaring>merawat</WorkTagCaring>
+  <WorkTagSocial>sosial</WorkTagSocial>
+  <WorkTagAnimals>hewan</WorkTagAnimals>
+  <WorkTagArtistic>artistik</WorkTagArtistic>
+  <WorkTagCrafting>kerajinan</WorkTagCrafting>
+  <WorkTagCooking>memasak</WorkTagCooking>
+  <WorkTagFirefighting>pemadam kebakaran</WorkTagFirefighting>
+  <WorkTagCleaning>bersih-bersih</WorkTagCleaning>
+  <WorkTagHauling>mengangkut</WorkTagHauling>
+  <WorkTagPlantWork>pekerjaan tanaman</WorkTagPlantWork>
+  <WorkTagMining>menambang</WorkTagMining>
 
 </LanguageData>

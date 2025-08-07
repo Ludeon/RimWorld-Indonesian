@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Orders.label>perintah</Orders.label>
-  <Zone.label>zona</Zone.label>
-  <Structure.label>struktur</Structure.label>
-  <Production.label>produksi</Production.label>
-  <Furniture.label>furnitur</Furniture.label>
-  <Power.label>daya</Power.label>
-  <Security.label>keamanan</Security.label>
-  <Misc.label>lain-lain</Misc.label>
-  <Floors.label>lantai</Floors.label>
-  <Joy.label>rekreasi</Joy.label>
-  <Ship.label>kapal</Ship.label>
-  <Temperature.label>temperatur</Temperature.label>
+  <Orders.label>Perintah</Orders.label>
+  <Zone.label>Zona</Zone.label>
+  <Structure.label>Struktur</Structure.label>
+  <Production.label>Produksi</Production.label>
+  <Furniture.label>Furnitur</Furniture.label>
+  <Power.label>Daya</Power.label>
+  <Security.label>Keamanan</Security.label>
+  <Misc.label>Lain-lain</Misc.label>
+  <Floors.label>Lantai</Floors.label>
+  <Joy.label>Rekreasi</Joy.label>
+  <Ship.label>Kapal</Ship.label>
+  <Temperature.label>Temperatur</Temperature.label>
 
 
 </LanguageData>

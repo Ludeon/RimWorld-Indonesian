@@ -1,46 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- WITab titles -->
-  <TabTerrain>Terrain</TabTerrain>
+  <!-- Judul WITab -->
+  <TabTerrain>Medan</TabTerrain>
   <TabPlanet>Planet</TabPlanet>
-  <TabCaravanSocial>Social</TabCaravanSocial>
-  <TabCaravanHealth>Health</TabCaravanHealth>
-  <TabCaravanNeeds>Needs</TabCaravanNeeds>
-  <TabCaravanGear>Gear</TabCaravanGear>
-  <TabCaravanItems>Items</TabCaravanItems>
+  <TabCaravanSocial>Sosial</TabCaravanSocial>
+  <TabCaravanHealth>Kesehatan</TabCaravanHealth>
+  <TabCaravanNeeds>Kebutuhan</TabCaravanNeeds>
+  <TabCaravanGear>Perlengkapan</TabCaravanGear>
+  <TabCaravanItems>Barang</TabCaravanItems>
 
-  <!-- Misc -->
-  <AbandonSliderText>Abandon {{0}}x {1_labelShort}</AbandonSliderText>
-  <ConfirmAbandonItemDialog>Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
-  <AbandonTip>Abandon</AbandonTip>
-  <BanishTip>Banish</BanishTip>
-  <AbandonSpecificCountTip>Abandon specific count</AbandonSpecificCountTip>
-  <AbandonAllTip>Abandon (all)</AbandonAllTip>
-  <AbandonItemTipExtraText>Abandoned items vanish and can never be recovered.</AbandonItemTipExtraText>
-  <BanishTipWillDie>{1_labelShort} will most likely die.</BanishTipWillDie>
+  <!-- Lain-lain -->
+  <AbandonSliderText>Tinggalkan {{0}}x {1_labelShort}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Apakah kamu yakin ingin meninggalkan {1_label}?\n\nBarang yang ditinggalkan akan hilang dan tidak bisa diambil kembali.</ConfirmAbandonItemDialog>
+  <AbandonTip>Tinggalkan</AbandonTip>
+  <BanishTip>Usir</BanishTip>
+  <AbandonSpecificCountTip>Tinggalkan jumlah tertentu</AbandonSpecificCountTip>
+  <AbandonAllTip>Tinggalkan (semua)</AbandonAllTip>
+  <AbandonItemTipExtraText>Barang yang ditinggalkan akan hilang dan tidak bisa diambil kembali.</AbandonItemTipExtraText>
+  <BanishTipWillDie>{1_labelShort} kemungkinan besar akan mati.</BanishTipWillDie>
 
-  <!-- Caravan inspect -->
-  <CaravanColonists>Colonists</CaravanColonists>
-  <CaravanPrisonersAndAnimals>Prisoners and animals</CaravanPrisonersAndAnimals>
-  <CaravanItems>Inventory</CaravanItems>
-  <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
-  <CaravanPrisoners>Prisoners</CaravanPrisoners>
-  <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
-  <NoneCapable>None capable</NoneCapable>
-  <GainingJoyBecauseCaravanNotMoving>Caravan not moving</GainingJoyBecauseCaravanNotMoving>
+  <!-- Inspeksi karavan -->
+  <CaravanColonists>Kolonis</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Tahanan dan hewan</CaravanPrisonersAndAnimals>
+  <CaravanItems>Inventaris</CaravanItems>
+  <OpenSpecificTabButtonTip>Klik untuk membuka tab dengan detail lebih lanjut.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Tahanan</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>Inventaris</CaravanWeaponsAndApparel>
+  <NoneCapable>Tidak ada yang mampu</NoneCapable>
+  <GainingJoyBecauseCaravanNotMoving>Karavan tidak bergerak</GainingJoyBecauseCaravanNotMoving>
 
-  <!-- Caravan gear -->
-  <DragToRearrange>Drag to rearrange.</DragToRearrange>
+  <!-- Perlengkapan karavan -->
+  <DragToRearrange>Seret untuk mengatur ulang.</DragToRearrange>
 
-  <!-- Caravan items -->
-  <AssignDrugPolicies>Assign drug policies</AssignDrugPolicies>
+  <!-- Barang karavan -->
+  <AssignDrugPolicies>Tetapkan kebijakan obat</AssignDrugPolicies>
 
-  <!-- Caravan health -->
-  <BeCarriedIfSickTip>Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down.</BeCarriedIfSickTip>
+  <!-- Kesehatan karavan -->
+  <BeCarriedIfSickTip>Apakah orang atau hewan ini harus dibawa oleh anggota karavan lain saat sakit.\n\nAnggota karavan yang dibawa dapat beristirahat meskipun karavan sedang bergerak, tetapi akan memperlambat perjalanan.</BeCarriedIfSickTip>
 
   <!-- Planet -->
   <PlanetSeed>Seed</PlanetSeed>
-  <PlanetCoverageShort>Coverage</PlanetCoverageShort>
+  <PlanetCoverageShort>Cakupan</PlanetCoverageShort>
 
 </LanguageData>

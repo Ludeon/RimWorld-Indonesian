@@ -3,63 +3,63 @@
 
   <!-- Added body parts -->
 
-  <PegLeg.label>peg leg</PegLeg.label>
-  <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
+  <PegLeg.label>kaki kayu</PegLeg.label>
+  <PegLeg.labelNoun>sebuah kaki kayu</PegLeg.labelNoun>
 
-  <WoodenFoot.label>wooden foot</WoodenFoot.label>
-  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
+  <WoodenFoot.label>telapak kaki kayu</WoodenFoot.label>
+  <WoodenFoot.labelNoun>sebuah kaki kayu</WoodenFoot.labelNoun>
 
-  <Denture.label>denture</Denture.label>
-  <Denture.labelNoun>a denture</Denture.labelNoun>
+  <Denture.label>gigi palsu</Denture.label>
+  <Denture.labelNoun>sebuah gigi palsu</Denture.labelNoun>
 
-  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.label>kaki prostetik</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>sebuah kaki prostetik</SimpleProstheticLeg.labelNoun>
 
-  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
-  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
-  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.label>lengan prostetik</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>tangan</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>sebuah lengan prostetik</SimpleProstheticArm.labelNoun>
 
-  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+  <SimpleProstheticHeart.label>jantung prostetik</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>sebuah jantung prostetik</SimpleProstheticHeart.labelNoun>
 
-  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
-  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+  <CochlearImplant.label>implan koklea</CochlearImplant.label>
+  <CochlearImplant.labelNoun>sebuah implan koklea</CochlearImplant.labelNoun>
 
-  <BionicEye.label>bionic eye</BionicEye.label>
-  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
+  <BionicEye.label>mata bionik</BionicEye.label>
+  <BionicEye.labelNoun>sebuah mata bionik</BionicEye.labelNoun>
 
-  <BionicArm.label>bionic arm</BionicArm.label>
-  <BionicArm.comps.0.tools.0.label>fist</BionicArm.comps.0.tools.0.label>
-  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
+  <BionicArm.label>tangan bionik</BionicArm.label>
+  <BionicArm.comps.0.tools.0.label>tangan</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>sebuah tangan bionik</BionicArm.labelNoun>
 
-  <BionicLeg.label>bionic leg</BionicLeg.label>
-  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
+  <BionicLeg.label>kaki bionik</BionicLeg.label>
+  <BionicLeg.labelNoun>sebuah kaki bionik</BionicLeg.labelNoun>
 
-  <BionicSpine.label>bionic spine</BionicSpine.label>
-  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+  <BionicSpine.label>tulang belakang bionik</BionicSpine.label>
+  <BionicSpine.labelNoun>sebuah tulang belakang</BionicSpine.labelNoun>
 
-  <BionicHeart.label>bionic heart</BionicHeart.label>
-  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
+  <BionicHeart.label>jantung bionik</BionicHeart.label>
+  <BionicHeart.labelNoun>sebuah jantung bionik</BionicHeart.labelNoun>
 
-  <BionicStomach.label>bionic stomach</BionicStomach.label>
-  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
+  <BionicStomach.label>lambung bionik</BionicStomach.label>
+  <BionicStomach.labelNoun>sebuah lambung bionik</BionicStomach.labelNoun>
 
-  <BionicEar.label>bionic ear</BionicEar.label>
-  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+  <BionicEar.label>kuping bionik</BionicEar.label>
+  <BionicEar.labelNoun>sebuah kuping bionik</BionicEar.labelNoun>
 
-  <PowerClaw.label>power claw</PowerClaw.label>
-  <PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
-  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
+  <PowerClaw.label>cakar mekanik</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>cakar</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>sebuah cakar mekanik</PowerClaw.labelNoun>
 
-  <ArchotechEye.label>archotech eye</ArchotechEye.label>
-  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
+  <ArchotechEye.label>mata archotech</ArchotechEye.label>
+  <ArchotechEye.labelNoun>sebuah mata archotech</ArchotechEye.labelNoun>
 
-  <ArchotechArm.label>archotech arm</ArchotechArm.label>
-  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
-  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
+  <ArchotechArm.label>lengan archotech</ArchotechArm.label>
+  <ArchotechArm.comps.0.tools.0.label>tangan</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechArm.labelNoun>sebuah lengan archotech</ArchotechArm.labelNoun>
 
-  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
-  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
+  <ArchotechLeg.label>kaki archotech</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>sebuah kaki archotech</ArchotechLeg.labelNoun>
 
 
 </LanguageData>

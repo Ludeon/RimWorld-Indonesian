@@ -1,84 +1,84 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AnimalChat.label>animal chat</AnimalChat.label>
+  <AnimalChat.label>obrolan dengan hewan</AnimalChat.label>
   <AnimalChat.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</AnimalChat.logRulesInitiator.rulesStrings.0>
-  <AnimalChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.1>
-  <AnimalChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.2>
-  <AnimalChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.3>
-  <AnimalChat.logRulesInitiator.rulesStrings.4>tamed->made calming noises towards</AnimalChat.logRulesInitiator.rulesStrings.4>
-  <AnimalChat.logRulesInitiator.rulesStrings.5>tamed->offered slow, friendly gestures to</AnimalChat.logRulesInitiator.rulesStrings.5>
-  <AnimalChat.logRulesInitiator.rulesStrings.6>tamed->made shushing noises at</AnimalChat.logRulesInitiator.rulesStrings.6>
-  <AnimalChat.logRulesInitiator.rulesStrings.7>tamed->made happy clicking noises at</AnimalChat.logRulesInitiator.rulesStrings.7>
-  <AnimalChat.logRulesInitiator.rulesStrings.8>tamed->gestured gently and approached</AnimalChat.logRulesInitiator.rulesStrings.8>
-  <AnimalChat.logRulesInitiator.rulesStrings.9>tamed->slowly approached</AnimalChat.logRulesInitiator.rulesStrings.9>
-  <AnimalChat.logRulesInitiator.rulesStrings.10>tamed->gently touched</AnimalChat.logRulesInitiator.rulesStrings.10>
-  <AnimalChat.logRulesInitiator.rulesStrings.11>tamed->calmed and encouraged</AnimalChat.logRulesInitiator.rulesStrings.11>
-  <AnimalChat.logRulesInitiator.rulesStrings.12>tamed->matched breathing with</AnimalChat.logRulesInitiator.rulesStrings.12>
-  <AnimalChat.logRulesInitiator.rulesStrings.13>tamed->took a low stance while approaching</AnimalChat.logRulesInitiator.rulesStrings.13>
-  <AnimalChat.logRulesInitiator.rulesStrings.14>tamed->showed no fear or anger to</AnimalChat.logRulesInitiator.rulesStrings.14>
-  <AnimalChat.logRulesInitiator.rulesStrings.15>tamed->feigned inattention towards</AnimalChat.logRulesInitiator.rulesStrings.15>
-  <AnimalChat.logRulesInitiator.rulesStrings.16>tamed->gently hummed a song at</AnimalChat.logRulesInitiator.rulesStrings.16>
-  <AnimalChat.logRulesInitiator.rulesStrings.17>tamed->sang an old lullaby at</AnimalChat.logRulesInitiator.rulesStrings.17>
-  <AnimalChat.logRulesInitiator.rulesStrings.18>tamed->firmly yet softly touched</AnimalChat.logRulesInitiator.rulesStrings.18>
-  <AnimalChat.logRulesInitiator.rulesStrings.19>tamed->showed a relaxed attitude towards</AnimalChat.logRulesInitiator.rulesStrings.19>
-  <AnimalChat.logRulesInitiator.rulesStrings.20>tamed->sat patiently near</AnimalChat.logRulesInitiator.rulesStrings.20>
-  <AnimalChat.logRulesInitiator.rulesStrings.21>tamed->whispered a story about [TalkTopicAny] to</AnimalChat.logRulesInitiator.rulesStrings.21>
+  <AnimalChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] duduk di dekat [RECIPIENT_nameDef] dan berbicara pada diri [INITIATOR_objective] sendiri tentang [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.1>
+  <AnimalChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] mendekati [RECIPIENT_nameDef] sambil berbisik pada diri [INITIATOR_objective] sendiri tentang [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.2>
+  <AnimalChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] datang mendekat ke [RECIPIENT_nameDef] sambil berbicara pada diri [INITIATOR_objective] sendiri tentang [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.3>
+  <AnimalChat.logRulesInitiator.rulesStrings.4>tamed->mengeluarkan suara menenangkan kepada</AnimalChat.logRulesInitiator.rulesStrings.4>
+  <AnimalChat.logRulesInitiator.rulesStrings.5>tamed->memberikan gerakan lambat dan ramah kepada</AnimalChat.logRulesInitiator.rulesStrings.5>
+  <AnimalChat.logRulesInitiator.rulesStrings.6>tamed->mengeluarkan suara "ssst" kepada</AnimalChat.logRulesInitiator.rulesStrings.6>
+  <AnimalChat.logRulesInitiator.rulesStrings.7>tamed->mengeluarkan suara klik bahagia kepada</AnimalChat.logRulesInitiator.rulesStrings.7>
+  <AnimalChat.logRulesInitiator.rulesStrings.8>tamed->memberi isyarat lembut dan mendekati</AnimalChat.logRulesInitiator.rulesStrings.8>
+  <AnimalChat.logRulesInitiator.rulesStrings.9>tamed->mendekati perlahan</AnimalChat.logRulesInitiator.rulesStrings.9>
+  <AnimalChat.logRulesInitiator.rulesStrings.10>tamed->menyentuh dengan lembut</AnimalChat.logRulesInitiator.rulesStrings.10>
+  <AnimalChat.logRulesInitiator.rulesStrings.11>tamed->menenangkan dan menyemangati</AnimalChat.logRulesInitiator.rulesStrings.11>
+  <AnimalChat.logRulesInitiator.rulesStrings.12>tamed->menyamakan napas dengan</AnimalChat.logRulesInitiator.rulesStrings.12>
+  <AnimalChat.logRulesInitiator.rulesStrings.13>tamed->mengambil posisi rendah saat mendekati</AnimalChat.logRulesInitiator.rulesStrings.13>
+  <AnimalChat.logRulesInitiator.rulesStrings.14>tamed->menunjukkan tidak ada rasa takut atau marah kepada</AnimalChat.logRulesInitiator.rulesStrings.14>
+  <AnimalChat.logRulesInitiator.rulesStrings.15>tamed->berpura-pura tidak memperhatikan</AnimalChat.logRulesInitiator.rulesStrings.15>
+  <AnimalChat.logRulesInitiator.rulesStrings.16>tamed->bersenandung lembut pada</AnimalChat.logRulesInitiator.rulesStrings.16>
+  <AnimalChat.logRulesInitiator.rulesStrings.17>tamed->menyanyikan lagu nina bobo lama pada</AnimalChat.logRulesInitiator.rulesStrings.17>
+  <AnimalChat.logRulesInitiator.rulesStrings.18>tamed->menyentuh dengan tegas namun lembut</AnimalChat.logRulesInitiator.rulesStrings.18>
+  <AnimalChat.logRulesInitiator.rulesStrings.19>tamed->menunjukkan sikap santai kepada</AnimalChat.logRulesInitiator.rulesStrings.19>
+  <AnimalChat.logRulesInitiator.rulesStrings.20>tamed->duduk sabar di dekat</AnimalChat.logRulesInitiator.rulesStrings.20>
+  <AnimalChat.logRulesInitiator.rulesStrings.21>tamed->berbisik cerita tentang [TalkTopicAny] kepada</AnimalChat.logRulesInitiator.rulesStrings.21>
 
-  <TameAttempt.label>tame attempt</TameAttempt.label>
-  <TameAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.0>
-  <TameAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</TameAttempt.logRulesInitiator.rulesStrings.1>
-  <TameAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.2>
-  <TameAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.3>
-  <TameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</TameAttempt.logRulesInitiator.rulesStrings.4>
-  <TameAttempt.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</TameAttempt.logRulesInitiator.rulesStrings.5>
-  <TameAttempt.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command.</TameAttempt.logRulesInitiator.rulesStrings.6>
-  <TameAttempt.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</TameAttempt.logRulesInitiator.rulesStrings.7>
-  <TameAttempt.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.8>
-  <TameAttempt.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</TameAttempt.logRulesInitiator.rulesStrings.9>
-  <TameAttempt.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] directed [RECIPIENT_nameDef] back towards the community.</TameAttempt.logRulesInitiator.rulesStrings.10>
-  <TameAttempt.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community.</TameAttempt.logRulesInitiator.rulesStrings.11>
-  <TameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</TameAttempt.logRulesInitiator.rulesStrings.12>
-  <TameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</TameAttempt.logRulesInitiator.rulesStrings.13>
-  <TameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</TameAttempt.logRulesInitiator.rulesStrings.14>
+  <TameAttempt.label>percobaan menjinakkan</TameAttempt.label>
+  <TameAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] mencoba menjinakkan [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.0>
+  <TameAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] mencoba mengendalikan [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.1>
+  <TameAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] mencoba memasang kalung pada [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.2>
+  <TameAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] menuntut kepatuhan dari [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.3>
+  <TameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] memanggil [RECIPIENT_nameDef] untuk mendekat ke [INITIATOR_objective].</TameAttempt.logRulesInitiator.rulesStrings.4>
+  <TameAttempt.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] mencoba membuat [RECIPIENT_nameDef] duduk diam.</TameAttempt.logRulesInitiator.rulesStrings.5>
+  <TameAttempt.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] mencengkeram [RECIPIENT_nameDef] dengan tegas dan memberi perintah.</TameAttempt.logRulesInitiator.rulesStrings.6>
+  <TameAttempt.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] mencoba menahan [RECIPIENT_nameDef] tetap diam.</TameAttempt.logRulesInitiator.rulesStrings.7>
+  <TameAttempt.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] meneriakkan perintah kepada [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.8>
+  <TameAttempt.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] menampar [RECIPIENT_nameDef] sebagai tanda dominasi.</TameAttempt.logRulesInitiator.rulesStrings.9>
+  <TameAttempt.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] mengarahkan [RECIPIENT_nameDef] kembali ke komunitas.</TameAttempt.logRulesInitiator.rulesStrings.10>
+  <TameAttempt.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] memanggil [RECIPIENT_nameDef] untuk kembali ke komunitas.</TameAttempt.logRulesInitiator.rulesStrings.11>
+  <TameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef] menyentuh bagian tubuh rentan dari [RECIPIENT_nameDef], menuntut kepatuhan.</TameAttempt.logRulesInitiator.rulesStrings.12>
+  <TameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef] menunjuk ke tanah, menuntut [RECIPIENT_nameDef] untuk datang.</TameAttempt.logRulesInitiator.rulesStrings.13>
+  <TameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef] memberikan perintah pertama kepada [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.14>
 
-  <TrainAttempt.label>train attempt</TrainAttempt.label>
+  <TrainAttempt.label>percobaan melatih</TrainAttempt.label>
   <TrainAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</TrainAttempt.logRulesInitiator.rulesStrings.0>
-  <TrainAttempt.logRulesInitiator.rulesStrings.1>trained(p=2)->[tried] to train</TrainAttempt.logRulesInitiator.rulesStrings.1>
-  <TrainAttempt.logRulesInitiator.rulesStrings.2>trained->[tried] to show a new trick to</TrainAttempt.logRulesInitiator.rulesStrings.2>
-  <TrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried] to discipline</TrainAttempt.logRulesInitiator.rulesStrings.3>
-  <TrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried] to instruct</TrainAttempt.logRulesInitiator.rulesStrings.4>
-  <TrainAttempt.logRulesInitiator.rulesStrings.5>trained->[tried] to encourage a new skill in</TrainAttempt.logRulesInitiator.rulesStrings.5>
-  <TrainAttempt.logRulesInitiator.rulesStrings.6>trained->demonstrated a skill to</TrainAttempt.logRulesInitiator.rulesStrings.6>
-  <TrainAttempt.logRulesInitiator.rulesStrings.7>trained->encouraged a new response from</TrainAttempt.logRulesInitiator.rulesStrings.7>
-  <TrainAttempt.logRulesInitiator.rulesStrings.8>tried->tried</TrainAttempt.logRulesInitiator.rulesStrings.8>
-  <TrainAttempt.logRulesInitiator.rulesStrings.9>tried->attempted</TrainAttempt.logRulesInitiator.rulesStrings.9>
+  <TrainAttempt.logRulesInitiator.rulesStrings.1>trained(p=2)->[tried] untuk melatih</TrainAttempt.logRulesInitiator.rulesStrings.1>
+  <TrainAttempt.logRulesInitiator.rulesStrings.2>trained->[tried] menunjukkan trik baru kepada</TrainAttempt.logRulesInitiator.rulesStrings.2>
+  <TrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried] mendisiplinkan</TrainAttempt.logRulesInitiator.rulesStrings.3>
+  <TrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried] mengajarkan</TrainAttempt.logRulesInitiator.rulesStrings.4>
+  <TrainAttempt.logRulesInitiator.rulesStrings.5>trained->[tried] mendorong keterampilan baru pada</TrainAttempt.logRulesInitiator.rulesStrings.5>
+  <TrainAttempt.logRulesInitiator.rulesStrings.6>trained->memperagakan keterampilan kepada</TrainAttempt.logRulesInitiator.rulesStrings.6>
+  <TrainAttempt.logRulesInitiator.rulesStrings.7>trained->mendorong respons baru dari</TrainAttempt.logRulesInitiator.rulesStrings.7>
+  <TrainAttempt.logRulesInitiator.rulesStrings.8>tried->mencoba</TrainAttempt.logRulesInitiator.rulesStrings.8>
+  <TrainAttempt.logRulesInitiator.rulesStrings.9>tried->berusaha</TrainAttempt.logRulesInitiator.rulesStrings.9>
 
-  <Nuzzle.label>nuzzle</Nuzzle.label>
+  <Nuzzle.label>menggesekkan diri</Nuzzle.label>
   <Nuzzle.logRulesInitiator.rulesStrings.0>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</Nuzzle.logRulesInitiator.rulesStrings.0>
-  <Nuzzle.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</Nuzzle.logRulesInitiator.rulesStrings.1>
-  <Nuzzle.logRulesInitiator.rulesStrings.2>nuzzled(p=2)->nuzzled</Nuzzle.logRulesInitiator.rulesStrings.2>
-  <Nuzzle.logRulesInitiator.rulesStrings.3>nuzzled->snuggled up to</Nuzzle.logRulesInitiator.rulesStrings.3>
+  <Nuzzle.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] menggesekkan hidung [INITIATOR_possessive] ke [rubbedpart] milik [RECIPIENT_nameDef].</Nuzzle.logRulesInitiator.rulesStrings.1>
+  <Nuzzle.logRulesInitiator.rulesStrings.2>nuzzled(p=2)->menggesekkan diri</Nuzzle.logRulesInitiator.rulesStrings.2>
+  <Nuzzle.logRulesInitiator.rulesStrings.3>nuzzled->merapat manja ke</Nuzzle.logRulesInitiator.rulesStrings.3>
   <Nuzzle.logRulesInitiator.rulesStrings.4>nuzzleadverb(p=4)-></Nuzzle.logRulesInitiator.rulesStrings.4>
-  <Nuzzle.logRulesInitiator.rulesStrings.5>nuzzleadverb->gently</Nuzzle.logRulesInitiator.rulesStrings.5>
-  <Nuzzle.logRulesInitiator.rulesStrings.6>nuzzleadverb->encouragingly</Nuzzle.logRulesInitiator.rulesStrings.6>
-  <Nuzzle.logRulesInitiator.rulesStrings.7>nuzzleadverb->happily</Nuzzle.logRulesInitiator.rulesStrings.7>
-  <Nuzzle.logRulesInitiator.rulesStrings.8>nuzzleadverb->softly</Nuzzle.logRulesInitiator.rulesStrings.8>
-  <Nuzzle.logRulesInitiator.rulesStrings.9>nuzzleadverb->supportively</Nuzzle.logRulesInitiator.rulesStrings.9>
-  <Nuzzle.logRulesInitiator.rulesStrings.10>nuzzleadverb->lightly</Nuzzle.logRulesInitiator.rulesStrings.10>
-  <Nuzzle.logRulesInitiator.rulesStrings.11>nuzzleadverb->warmly</Nuzzle.logRulesInitiator.rulesStrings.11>
-  <Nuzzle.logRulesInitiator.rulesStrings.12>nuzzleadverb->plaintively</Nuzzle.logRulesInitiator.rulesStrings.12>
-  <Nuzzle.logRulesInitiator.rulesStrings.13>nuzzleadverb->lovingly</Nuzzle.logRulesInitiator.rulesStrings.13>
-  <Nuzzle.logRulesInitiator.rulesStrings.14>nuzzleadverb->affectionately</Nuzzle.logRulesInitiator.rulesStrings.14>
-  <Nuzzle.logRulesInitiator.rulesStrings.15>rubbedpart->leg</Nuzzle.logRulesInitiator.rulesStrings.15>
-  <Nuzzle.logRulesInitiator.rulesStrings.16>rubbedpart->knee</Nuzzle.logRulesInitiator.rulesStrings.16>
-  <Nuzzle.logRulesInitiator.rulesStrings.17>rubbedpart->foot</Nuzzle.logRulesInitiator.rulesStrings.17>
-  <Nuzzle.logRulesInitiator.rulesStrings.18>rubbedpart->elbow</Nuzzle.logRulesInitiator.rulesStrings.18>
-  <Nuzzle.logRulesInitiator.rulesStrings.19>rubbedpart->hip</Nuzzle.logRulesInitiator.rulesStrings.19>
-  <Nuzzle.logRulesInitiator.rulesStrings.20>rubbedpart->shoulder</Nuzzle.logRulesInitiator.rulesStrings.20>
-  <Nuzzle.logRulesInitiator.rulesStrings.21>rubbedpart->hand</Nuzzle.logRulesInitiator.rulesStrings.21>
-  <Nuzzle.logRulesInitiator.rulesStrings.22>rubbedpart->side</Nuzzle.logRulesInitiator.rulesStrings.22>
-  <Nuzzle.logRulesInitiator.rulesStrings.23>rubbedpart->arm</Nuzzle.logRulesInitiator.rulesStrings.23>
+  <Nuzzle.logRulesInitiator.rulesStrings.5>nuzzleadverb->dengan lembut</Nuzzle.logRulesInitiator.rulesStrings.5>
+  <Nuzzle.logRulesInitiator.rulesStrings.6>nuzzleadverb->dengan menyemangati</Nuzzle.logRulesInitiator.rulesStrings.6>
+  <Nuzzle.logRulesInitiator.rulesStrings.7>nuzzleadverb->dengan bahagia</Nuzzle.logRulesInitiator.rulesStrings.7>
+  <Nuzzle.logRulesInitiator.rulesStrings.8>nuzzleadverb->dengan pelan</Nuzzle.logRulesInitiator.rulesStrings.8>
+  <Nuzzle.logRulesInitiator.rulesStrings.9>nuzzleadverb->dengan mendukung</Nuzzle.logRulesInitiator.rulesStrings.9>
+  <Nuzzle.logRulesInitiator.rulesStrings.10>nuzzleadverb->dengan ringan</Nuzzle.logRulesInitiator.rulesStrings.10>
+  <Nuzzle.logRulesInitiator.rulesStrings.11>nuzzleadverb->dengan hangat</Nuzzle.logRulesInitiator.rulesStrings.11>
+  <Nuzzle.logRulesInitiator.rulesStrings.12>nuzzleadverb->dengan sendu</Nuzzle.logRulesInitiator.rulesStrings.12>
+  <Nuzzle.logRulesInitiator.rulesStrings.13>nuzzleadverb->dengan penuh kasih</Nuzzle.logRulesInitiator.rulesStrings.13>
+  <Nuzzle.logRulesInitiator.rulesStrings.14>nuzzleadverb->dengan penuh sayang</Nuzzle.logRulesInitiator.rulesStrings.14>
+  <Nuzzle.logRulesInitiator.rulesStrings.15>rubbedpart->kaki</Nuzzle.logRulesInitiator.rulesStrings.15>
+  <Nuzzle.logRulesInitiator.rulesStrings.16>rubbedpart->lutut</Nuzzle.logRulesInitiator.rulesStrings.16>
+  <Nuzzle.logRulesInitiator.rulesStrings.17>rubbedpart->kaki bagian bawah</Nuzzle.logRulesInitiator.rulesStrings.17>
+  <Nuzzle.logRulesInitiator.rulesStrings.18>rubbedpart->siku</Nuzzle.logRulesInitiator.rulesStrings.18>
+  <Nuzzle.logRulesInitiator.rulesStrings.19>rubbedpart->pinggul</Nuzzle.logRulesInitiator.rulesStrings.19>
+  <Nuzzle.logRulesInitiator.rulesStrings.20>rubbedpart->bahu</Nuzzle.logRulesInitiator.rulesStrings.20>
+  <Nuzzle.logRulesInitiator.rulesStrings.21>rubbedpart->tangan</Nuzzle.logRulesInitiator.rulesStrings.21>
+  <Nuzzle.logRulesInitiator.rulesStrings.22>rubbedpart->sisi tubuh</Nuzzle.logRulesInitiator.rulesStrings.22>
+  <Nuzzle.logRulesInitiator.rulesStrings.23>rubbedpart->lengan</Nuzzle.logRulesInitiator.rulesStrings.23>
 
 
 </LanguageData>

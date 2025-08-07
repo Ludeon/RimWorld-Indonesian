@@ -3,36 +3,36 @@
 
   <!-- ShipChunkDrop -->
 
-  <ShipChunkDrop.label>ship chunk drop</ShipChunkDrop.label>
+  <ShipChunkDrop.label>puing kapal jatuh</ShipChunkDrop.label>
 
 
   <!-- OrbitalVisitor -->
 
-  <OrbitalTraderArrival.label>orbital trader arrival</OrbitalTraderArrival.label>
+  <OrbitalTraderArrival.label>kedatangan pedagang orbital</OrbitalTraderArrival.label>
 
 
   <!-- FactionArrival -->
 
-  <TraderCaravanArrival.label>trader caravan arrival</TraderCaravanArrival.label>
-  <VisitorGroup.label>visitor group</VisitorGroup.label>
-  <TravelerGroup.label>traveler group</TravelerGroup.label>
+  <TraderCaravanArrival.label>kedatangan karavan pedagang</TraderCaravanArrival.label>
+  <VisitorGroup.label>grup pengunjung</VisitorGroup.label>
+  <TravelerGroup.label>grup pelancong</TravelerGroup.label>
 
 
   <!-- AllyAssistance -->
 
-  <RaidFriendly.label>friendly raid</RaidFriendly.label>
+  <RaidFriendly.label>serangan bantuan</RaidFriendly.label>
 
 
   <!-- Raid-beacon-attracted events -->
 
-  <RaidEnemyBeacon.label>enemy raid (special locations)</RaidEnemyBeacon.label>
+  <RaidEnemyBeacon.label>serangan musuh (lokasi khusus)</RaidEnemyBeacon.label>
 
 
   <!-- Good - special -->
 
-  <StrangerInBlackJoin.label>man in black</StrangerInBlackJoin.label>
-  <StrangerInBlackJoin.letterText>Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts?</StrangerInBlackJoin.letterText>
-  <StrangerInBlackJoin.letterLabel>Man in black</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.label>pria berbaju hitam</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterText>Merasa ada masalah, seorang {PAWN_kind} misterius telah datang.\n\nAkankah {PAWN_pronoun} mampu memperbaiki keadaan di sini?</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterLabel>Pria berbaju hitam</StrangerInBlackJoin.letterLabel>
 
 
 </LanguageData>

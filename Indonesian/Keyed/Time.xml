@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LetterDay>d</LetterDay>
-  <LetterHour>h</LetterHour>
+  <LetterDay>h</LetterDay>
+  <LetterHour>j</LetterHour>
   <LetterMinute>m</LetterMinute>
-  <LetterSecond>s</LetterSecond>
+  <LetterSecond>d</LetterSecond>
 
-  <DaysLower>days</DaysLower>
-  <SecondsLower>seconds</SecondsLower>
+  <DaysLower>hari</DaysLower>
+  <SecondsLower>detik</SecondsLower>
 
-  <SeasonSpring>spring</SeasonSpring>
-  <SeasonSummer>summer</SeasonSummer>
-  <SeasonFall>fall</SeasonFall>
-  <SeasonWinter>winter</SeasonWinter>
-  <SeasonPermanentSummer>permanent summer</SeasonPermanentSummer>
-  <SeasonPermanentWinter>permanent winter</SeasonPermanentWinter>
+  <SeasonSpring>musim semi</SeasonSpring>
+  <SeasonSummer>musim panas</SeasonSummer>
+  <SeasonFall>musim gugur</SeasonFall>
+  <SeasonWinter>musim dingin</SeasonWinter>
+  <SeasonPermanentSummer>musim panas permanen</SeasonPermanentSummer>
+  <SeasonPermanentWinter>musim dingin permanen</SeasonPermanentWinter>
 
   <QuadrumAprimay>Aprimay</QuadrumAprimay>
   <QuadrumJugust>Jugust</QuadrumJugust>
   <QuadrumSeptober>Septober</QuadrumSeptober>
   <QuadrumDecembary>Decembary</QuadrumDecembary>
 
-  <Born>Born: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} quadrums, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} quadrums, {2} days</AgeBiological>
+  <Born>Lahir: {0}</Born>
+  <AgeChronological>Usia kronologis: {0} tahun, {1} kuadrum, {2} hari</AgeChronological>
+  <AgeBiological>Usia biologis: {0} tahun, {1} kuadrum, {2} hari</AgeBiological>
 
   <!-- Date periods -->
-  <Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
-  <Period1Quadrum>1 quadrum</Period1Quadrum>
-  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
-  <Period1Second>1 second</Period1Second>
-  <PeriodSeconds>{0} seconds</PeriodSeconds>
+  <Period1Year>1 tahun</Period1Year>
+  <PeriodYears>{0} tahun</PeriodYears>
+  <Period1Quadrum>1 kuadrum</Period1Quadrum>
+  <PeriodQuadrums>{0} kuadrum</PeriodQuadrums>
+  <Period1Day>1 hari</Period1Day>
+  <PeriodDays>{0} hari</PeriodDays>
+  <Period1Hour>1 jam</Period1Hour>
+  <PeriodHours>{0} jam</PeriodHours>
+  <Period1Second>1 detik</Period1Second>
+  <PeriodSeconds>{0} detik</PeriodSeconds>
 
   <!-- Misc -->
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  <Started>Dimulai</Started>
+  <Lasted>Bertahan</Lasted>
+  <OccurredTimeAgo>terjadi {0} yang lalu</OccurredTimeAgo>
 
 </LanguageData>

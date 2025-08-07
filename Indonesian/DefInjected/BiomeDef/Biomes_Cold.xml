@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BorealForest.label>hutan boreal</BorealForest.label>
-  <BorealForest.description>hutan penuh dengan pohon konifer. meskipun dengan musim dingin yang tajam, hutan boreal menopang beragam jenis fauna baik kecil dan besar, dan musim panas yang hangat.</BorealForest.description>
+  <BorealForest.label>Hutan boreal</BorealForest.label>
+  <BorealForest.description>Hutan konifer boreal mendukung berbagai hewan yang bervariasi meskipun dengan musim dingin yang keras, dan bisa menjadi cukup hangat di musim panas.</BorealForest.description>
 
-  <Tundra.label>tundra</Tundra.label>
-  <Tundra.description>dataran yang hampir seluruhnya beku ini pohon dan sedikit jenis flora. Tundra dihuni sedikit jenis fauna kecil yang diselingi dengan rombongan besar ternak migrasi berikut predatornya.</Tundra.description>
+  <Tundra.label>Tundra</Tundra.label>
+  <Tundra.description>Meski dataran yang sebagian besar beku ini hampir tidak memiliki pohon dan hanya sedikit vegetasi, ada beberapa hewan kecil dan kawanan besar hewan pemakan rumput yang bermigrasi serta pemangsa mereka.</Tundra.description>
 
-  <ColdBog.label>rawa-rawa dingin</ColdBog.label>
-  <ColdBog.description>lahan basah yang penuh sesak dengan pohon dan tanaman merambat. Tanah rawa-rawa tidaklah kuat untuk menahan struktur yang beart, Bergerak membutuhkan waktu karena tanaman menghambat. Penyakit sangatlah endemis di ekosistem yang basah dan lebat ini.</ColdBog.description>
+  <ColdBog.label>Rawa-rawa dingin</ColdBog.label>
+  <ColdBog.description>Sebuah lahan basah yang dipenuhi dengan pohon dan liana. Sebagian besar tanah rawa di sini terlalu lembek untuk menopang struktur berat, dan pergerakan sangat lambat karena vegetasi yang sangat rapat. Penyakit menjadi masalah umum di ekosistem basah dan padat ini.</ColdBog.description>
 
-  <IceSheet.label>Lembaran es</IceSheet.label>
-  <IceSheet.description>lembaran es yang bisa setebal satu kilometer. Tidak mempunyai tanah liat untuk menumbuhkan flora. Fauna-fauna pun hanya datang dalam migrasi mereka ke tempat tujuan - atau sedang sungguh tersesat.</IceSheet.description>
+  <IceSheet.label>Lapisan es</IceSheet.label>
+  <IceSheet.description>Lapisan es yang bisa mencapai ketebalan kilometer. Tidak ada tanah untuk tanaman tumbuh. Satu-satunya hewan di sini adalah yang bermigrasi ke tempat lain - atau tersesat dengan buruk.</IceSheet.description>
 
-  <SeaIce.label>lembaran es lautan </SeaIce.label>
-  <SeaIce.description>lembaran es lautan yang mengapung di laut secara permanent.Tidak mempunyai tanah liat untuk menumbuhkan flora, tidak mempunyai mineral untuk menambang, dan hampir tidak ada jenis fauna.</SeaIce.description>
+  <SeaIce.label>Lapisan es lautan </SeaIce.label>
+  <SeaIce.description>Lapisan es lautan yang mengapung di laut secara permanent. Tidak memiliki tanah untuk menumbuhkan flora, tidak mempunyai mineral untuk menambang, dan hampir tidak ada jenis fauna.</SeaIce.description>
 
 
 </LanguageData>

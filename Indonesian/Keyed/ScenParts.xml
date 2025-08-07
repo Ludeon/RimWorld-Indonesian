@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- ======================== Non-grouped ========================-->
+  <!-- ======================== Tidak berkelompok ========================-->
 
-  <ScenPart_PlayerFaction>Your faction will be a {0}.</ScenPart_PlayerFaction>
+  <ScenPart_PlayerFaction>Faksimu akan menjadi {0}.</ScenPart_PlayerFaction>
 
-  <ScenPart_StartWithPawns>Start with {0} people, chosen from {1}.</ScenPart_StartWithPawns>
-  <ScenPart_StartWithPawns_OutOf>chosen from</ScenPart_StartWithPawns_OutOf>
-  <RandomPet>random pet</RandomPet>
+  <ScenPart_StartWithPawns>Mulai dengan {0} orang, dipilih dari {1}.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>dipilih dari</ScenPart_StartWithPawns_OutOf>
+  <RandomPet>hewan peliharaan acak</RandomPet>
 
-  <ScenPart_StartingResearchFinished>Start with research: {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Mulai dengan riset: {0}</ScenPart_StartingResearchFinished>
 
-  <ScenPart_ArriveInDropPods>Arrive in drop pods.</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Tiba dengan drop pod.</ScenPart_ArriveInDropPods>
 
-  <ScenPart_StatFactor>The stat "{0}" will be universally multiplied by {1}.</ScenPart_StatFactor>
+  <ScenPart_StatFactor>Statistik "{0}" akan dikalikan secara universal dengan {1}.</ScenPart_StatFactor>
 
-  <!-- Pawn modifiers -->
-  <ScenPart_PawnsHaveHediff>{0} have a {1} chance to start with {2}.</ScenPart_PawnsHaveHediff>
-  <ConfigurableSeverity>severity: {0}</ConfigurableSeverity>
+  <!-- Modifikasi pawn -->
+  <ScenPart_PawnsHaveHediff>{0} memiliki peluang {1} untuk memulai dengan {2}.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>tingkat keparahan: {0}</ConfigurableSeverity>
 
-  <ScenPart_SetNeed>{0} have a {1} chance to have their {2} set between {3} and {4}.</ScenPart_SetNeed>
+  <ScenPart_SetNeed>{0} memiliki peluang {1} untuk kebutuhan {2} diatur antara {3} dan {4}.</ScenPart_SetNeed>
   <ConfigurableLevel>level: {0}</ConfigurableLevel>
 
-  <ScenPart_PawnsHaveTrait>{0} have a {1} chance to start with trait: {2}</ScenPart_PawnsHaveTrait>
-  <ScenPart_OnPawnDeathExplode>Characters and creatures explode on death ({0}, radius {1}).</ScenPart_OnPawnDeathExplode>
-  <ScenPart_PawnsAreNaked>{0} start naked.</ScenPart_PawnsAreNaked>
+  <ScenPart_PawnsHaveTrait>{0} memiliki peluang {1} untuk memulai dengan sifat: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>Karakter dan makhluk meledak saat mati ({0}, radius {1}).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_PawnsAreNaked>{0} memulai tanpa pakaian.</ScenPart_PawnsAreNaked>
 
-  <!-- Pawn filters -->
-  <ScenPart_StartingPawnAgeMin>Your people will be at least {0} years old.</ScenPart_StartingPawnAgeMin>
-  <ScenPart_StartingPawnAgeMax>Your people will be at most {0} years old.</ScenPart_StartingPawnAgeMax>
-  <ScenPart_StartingPawnAgeRange>Your people will be between {0} and {1} years old.</ScenPart_StartingPawnAgeRange>
+  <!-- Filter pawn -->
+  <ScenPart_StartingPawnAgeMin>Orang-orangmu akan berusia minimal {0} tahun.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Orang-orangmu akan berusia maksimal {0} tahun.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>Orang-orangmu akan berusia antara {0} dan {1} tahun.</ScenPart_StartingPawnAgeRange>
 
-  <!-- ======================== Grouped ========================-->
+  <!-- ======================== Berkelompok ========================-->
 
-  <ScenPart_StartWith>Start with</ScenPart_StartWith>
-  <ScenPart_MapScatteredWith>Map is scattered with</ScenPart_MapScatteredWith>
-  <ScenPart_PermaGameCondition>Permanent game condition(s)</ScenPart_PermaGameCondition>
-  <ScenPart_DisableIncident>Incident(s) disabled</ScenPart_DisableIncident>
-  <ScenPart_CreateIncident>Incident created</ScenPart_CreateIncident>
-  <ScenPart_DisallowBuilding>Can never build</ScenPart_DisallowBuilding>
+  <ScenPart_StartWith>Mulai dengan</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Peta tersebar dengan</ScenPart_MapScatteredWith>
+  <ScenPart_PermaGameCondition>Kondisi permainan permanen</ScenPart_PermaGameCondition>
+  <ScenPart_DisableIncident>Insiden dinonaktifkan</ScenPart_DisableIncident>
+  <ScenPart_CreateIncident>Insiden dibuat</ScenPart_CreateIncident>
+  <ScenPart_DisallowBuilding>Tidak pernah bisa membangun</ScenPart_DisallowBuilding>
 
 </LanguageData>

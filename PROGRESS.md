@@ -9,10 +9,10 @@
   - [x] BillRepeatModeDefs.xml
 - [x] BillStoreModeDef/
   - [x] BillStoreModeDefs.xml
-- [ ] BiomeDef/
+- [x] BiomeDef/
   - [x] Biomes_Cold.xml
   - [x] Biomes_Temperate.xml
-  - [ ] Biomes_Warm.xml
+  - [x] Biomes_Warm.xml
   - [x] Biomes_WarmArid.xml
   - [x] Biomes_Water.xml
 - [x] BodyDef/
@@ -30,14 +30,14 @@
   - [x] BodyParts_Organs.xml
 - [x] BodyPartGroupDef/
   - [x] BodyPartGroups.xml
-- [ ] ChemicalDef/
-  - [ ] Alcohol_Beer.xml
-  - [ ] Ambrosia.xml
-  - [ ] GoJuice.xml
-  - [ ] Luciferium.xml
-  - [ ] Psychite_Yayo.xml
-  - [ ] Smokeleaf.xml
-  - [ ] WakeUp.xml
+- [x] ChemicalDef/
+  - [x] Alcohol_Beer.xml
+  - [x] Ambrosia.xml
+  - [x] GoJuice.xml
+  - [x] Luciferium.xml
+  - [x] Psychite_Yayo.xml
+  - [x] Smokeleaf.xml
+  - [x] WakeUp.xml
 - [x] ConceptDef/
   - [x] Concepts_Entry.xml
   - [x] Concepts_NotedOpportunistic.xml
@@ -51,63 +51,63 @@
   - [x] Damages_Misc.xml
   - [x] Damages_RangedWeapon.xml
   - [x] Damages_Stun.xml
-- [ ] DesignationCategoryDef/
-  - [ ] DesignationCategories.xml
-- [ ] DifficultyDef/
-  - [ ] Difficulties.xml
-- [ ] ExpectationDef/
-  - [ ] Expectations.xml
+- [x] DesignationCategoryDef/
+  - [x] DesignationCategories.xml
+- [x] DifficultyDef/
+  - [x] Difficulties.xml
+- [x] ExpectationDef/
+  - [x] Expectations.xml
 - [x] FactionDef/
   - [x] Factions_Hidden.xml
   - [x] Factions_Misc.xml
   - [x] Factions_Player.xml
 - [x] GameConditionDef/
   - [x] GameConditions_Misc.xml
-- [ ] HairDef/
-  - [ ] HairsGeneral.xml
+- [x] HairDef/
+  - [x] HairsGeneral.xml
 - [ ] HediffDef/
-  - [ ] Alcohol_Beer.xml
-  - [ ] Ambrosia.xml
-  - [ ] GoJuice.xml
-  - [ ] Hediffs_Global_Misc.xml
-  - [ ] Hediffs_Global_Needs.xml
-  - [ ] Hediffs_Global_Temperature.xml
-  - [ ] Hediffs_Local_AddedParts.xml
-  - [ ] Hediffs_Local_Chronic.xml
-  - [ ] Hediffs_Local_Implants.xml
-  - [ ] Hediffs_Local_Infections.xml
-  - [ ] Hediffs_Local_Injuries.xml
-  - [ ] Hediffs_Local_Misc.xml
-  - [ ] Hediffs_Local_TerrainAttacks.xml
-  - [ ] Luciferium.xml
-  - [ ] Penoxycyline.xml
-  - [ ] Psychite_Flake.xml
-  - [ ] Psychite_Tea.xml
-  - [ ] Psychite_Yayo.xml
-  - [ ] Smokeleaf.xml
-  - [ ] WakeUp.xml
-- [ ] HediffGiverSetDef/
-  - [ ] HediffGiverSets.xml
-- [ ] HistoryAutoRecorderDef/
-  - [ ] HistoryAutoRecorders.xml
-- [ ] HistoryAutoRecorderGroupDef/
-  - [ ] HistoryAutoRecorderGroups.xml
-- [ ] IncidentDef/
-  - [ ] Incidents_Caravan_All.xml
-  - [ ] Incidents_Map_Disease.xml
-  - [ ] Incidents_Map_Misc.xml
-  - [ ] Incidents_Map_Special.xml
-  - [ ] Incidents_Map_Threats.xml
-  - [ ] Incidents_World_Conditions.xml
-  - [ ] Incidents_World_Quests.xml
+  - [x] Alcohol_Beer.xml
+  - [x] Ambrosia.xml
+  - [x] GoJuice.xml
+  - [x] Hediffs_Global_Misc.xml
+  - [x] Hediffs_Global_Needs.xml
+  - [x] Hediffs_Global_Temperature.xml
+  - [x] Hediffs_Local_AddedParts.xml
+  - [x] Hediffs_Local_Chronic.xml
+  - [x] Hediffs_Local_Implants.xml
+  - [x] Hediffs_Local_Infections.xml
+  - [x] Hediffs_Local_Injuries.xml
+  - [x] Hediffs_Local_Misc.xml
+  - [x] Hediffs_Local_TerrainAttacks.xml
+  - [x] Luciferium.xml
+  - [x] Penoxycyline.xml
+  - [x] Psychite_Flake.xml
+  - [x] Psychite_Tea.xml
+  - [x] Psychite_Yayo.xml
+  - [x] Smokeleaf.xml
+  - [x] WakeUp.xml
+- [x] HediffGiverSetDef/
+  - [x] HediffGiverSets.xml
+- [x] HistoryAutoRecorderDef/
+  - [x] HistoryAutoRecorders.xml
+- [x] HistoryAutoRecorderGroupDef/
+  - [x] HistoryAutoRecorderGroups.xml
+- [x] IncidentDef/
+  - [x] Incidents_Caravan_All.xml
+  - [x] Incidents_Map_Disease.xml
+  - [x] Incidents_Map_Misc.xml
+  - [x] Incidents_Map_Special.xml
+  - [x] Incidents_Map_Threats.xml
+  - [x] Incidents_World_Conditions.xml
+  - [x] Incidents_World_Quests.xml
 - [x] InspirationDef/
   - [x] Inspirations.xml
 - [x] InstructionDef/
   - [x] Instructions.xml
 - [ ] InteractionDef/
-  - [ ] Interactions_Animal.xml
-  - [ ] Interactions_Prisoner.xml
-  - [ ] Interactions_Romance.xml
+  - [x] Interactions_Animal.xml
+  - [x] Interactions_Prisoner.xml
+  - [x] Interactions_Romance.xml
   - [ ] Interactions_Social.xml
 - [x] JobDef/
   - [x] Jobs_Animal.xml
@@ -121,14 +121,14 @@
 - [x] KeyBindingCategoryDef/
   - [x] KeyBindingCategories.xml
   - [x] KeyBindingCategories_Add_Architect.xml
-- [ ] LifeStageDef/
-  - [ ] LifeStages.xml
-- [ ] MainButtonDef/
-  - [ ] MainButtons.xml
-- [ ] MentalBreakDef/
-  - [ ] MentalStates_Mood.xml
-- [ ] MentalStateDef/
-  - [ ] MentalStates_Mood.xml
+- [x] LifeStageDef/
+  - [x] LifeStages.xml
+- [x] MainButtonDef/
+  - [x] MainButtons.xml
+- [x] MentalBreakDef/
+  - [x] MentalStates_Mood.xml
+- [x] MentalStateDef/
+  - [x] MentalStates_Mood.xml
   - [ ] MentalStates_Special.xml
 - [ ] NeedDef/
   - [ ] Alcohol_Beer.xml
@@ -457,12 +457,12 @@
 - [ ] Messages.xml
 - [ ] Misc.xml
 - [ ] Misc_Gameplay.xml
-- [ ] PlayInterface.xml
-- [ ] ScenParts.xml
-- [ ] Skills.xml
-- [ ] Time.xml
-- [ ] WITabs.xml
-- [ ] WorkTags.xml
+- [x] PlayInterface.xml
+- [x] ScenParts.xml
+- [x] Skills.xml
+- [x] Time.xml
+- [x] WITabs.xml
+- [x] WorkTags.xml
 - [ ] Strings/
 - [ ] Names/
   - [ ] Animal_Female.txt

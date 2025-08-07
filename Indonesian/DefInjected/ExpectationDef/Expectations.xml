@@ -32,12 +32,12 @@
     Tolerances fall at different rates depending on the expectation level.
     Low expectations retains the old behavior, others are easier and harder. -->
 
-  <ExtremelyLow.label>sangat sangat low</ExtremelyLow.label>
-  <VeryLow.label>sangat rendah</VeryLow.label>
-  <Low.label>rendah</Low.label>
-  <Moderate.label>sedang</Moderate.label>
-  <High.label>tinggi</High.label>
-  <SkyHigh.label>sangat tinggi</SkyHigh.label>
+  <ExtremelyLow.label>Harapan nol</ExtremelyLow.label>
+  <VeryLow.label>Nyaris tidak ada</VeryLow.label>
+  <Low.label>Pasrah</Low.label>
+  <Moderate.label>Biasa saja</Moderate.label>
+  <High.label>Menuntut</High.label>
+  <SkyHigh.label>Tidak tahu diri</SkyHigh.label>
 
 
 </LanguageData>

@@ -1,46 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BadBack.label>bad back</BadBack.label>
-  <BadBack.labelNoun>a bad back</BadBack.labelNoun>
+  <BadBack.label>punggung lemah</BadBack.label>
+  <BadBack.labelNoun>sebuah punggung lemah</BadBack.labelNoun>
 
-  <Frail.label>frail</Frail.label>
-  <Frail.labelNoun>frailty</Frail.labelNoun>
+  <Frail.label>rentan</Frail.label>
+  <Frail.labelNoun>kerentanan</Frail.labelNoun>
 
-  <Cataract.label>cataract</Cataract.label>
-  <Cataract.labelNoun>a cataract</Cataract.labelNoun>
+  <Cataract.label>katarak</Cataract.label>
+  <Cataract.labelNoun>sebuah katarak</Cataract.labelNoun>
 
-  <Blindness.label>blindness</Blindness.label>
-  <HearingLoss.label>hearing loss</HearingLoss.label>
-  <Dementia.label>dementia</Dementia.label>
+  <Blindness.label>kebutaan</Blindness.label>
+  <HearingLoss.label>kehilangan pendengaran</HearingLoss.label>
+  <Dementia.label>demensia</Dementia.label>
 
-  <Alzheimers.label>alzheimer's</Alzheimers.label>
-  <Alzheimers.stages.0.label>minor</Alzheimers.stages.0.label>
-  <Alzheimers.stages.1.label>minor</Alzheimers.stages.1.label>
-  <Alzheimers.stages.2.label>major</Alzheimers.stages.2.label>
-  <Alzheimers.stages.3.label>major</Alzheimers.stages.3.label>
+  <Alzheimers.label>alzheimer</Alzheimers.label>
+  <Alzheimers.stages.0.label>tahap awal</Alzheimers.stages.0.label>
+  <Alzheimers.stages.1.label>tahap ringan</Alzheimers.stages.1.label>
+  <Alzheimers.stages.2.label>tahap sedang</Alzheimers.stages.2.label>
+  <Alzheimers.stages.3.label>tahap berat</Alzheimers.stages.3.label>
 
-  <Asthma.label>asthma</Asthma.label>
-  <Asthma.stages.0.label>minor</Asthma.stages.0.label>
-  <Asthma.stages.1.label>major</Asthma.stages.1.label>
-  <Asthma.stages.2.label>major</Asthma.stages.2.label>
+  <Asthma.label>asma</Asthma.label>
+  <Asthma.stages.0.label>tahap ringan</Asthma.stages.0.label>
+  <Asthma.stages.1.label>tahap sedang</Asthma.stages.1.label>
+  <Asthma.stages.2.label>tahap berat</Asthma.stages.2.label>
 
-  <HeartArteryBlockage.label>artery blockage</HeartArteryBlockage.label>
-  <HeartArteryBlockage.stages.0.label>minor</HeartArteryBlockage.stages.0.label>
-  <HeartArteryBlockage.stages.1.label>minor</HeartArteryBlockage.stages.1.label>
-  <HeartArteryBlockage.stages.2.label>major</HeartArteryBlockage.stages.2.label>
-  <HeartArteryBlockage.stages.3.label>major</HeartArteryBlockage.stages.3.label>
-  <HeartArteryBlockage.stages.4.label>extreme</HeartArteryBlockage.stages.4.label>
-  <HeartArteryBlockage.labelNoun>an artery blockage</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.label>sumbatan arteri</HeartArteryBlockage.label>
+  <HeartArteryBlockage.stages.0.label>penyumbatan awal</HeartArteryBlockage.stages.0.label>
+  <HeartArteryBlockage.stages.1.label>penyumbatan ringan</HeartArteryBlockage.stages.1.label>
+  <HeartArteryBlockage.stages.2.label>penyumbatan sedang</HeartArteryBlockage.stages.2.label>
+  <HeartArteryBlockage.stages.3.label>penyumbatan berat</HeartArteryBlockage.stages.3.label>
+  <HeartArteryBlockage.stages.4.label>penyumbatan parah</HeartArteryBlockage.stages.4.label>
+  <HeartArteryBlockage.labelNoun>sebuah sumbatan arteri</HeartArteryBlockage.labelNoun>
 
-  <Carcinoma.label>carcinoma</Carcinoma.label>
-  <Carcinoma.stages.0.label>minor</Carcinoma.stages.0.label>
-  <Carcinoma.stages.1.label>minor</Carcinoma.stages.1.label>
-  <Carcinoma.stages.2.label>major</Carcinoma.stages.2.label>
-  <Carcinoma.stages.3.label>major</Carcinoma.stages.3.label>
-  <Carcinoma.stages.4.label>extreme</Carcinoma.stages.4.label>
-  <Carcinoma.stages.5.label>extreme</Carcinoma.stages.5.label>
-  <Carcinoma.labelNoun>a carcinoma</Carcinoma.labelNoun>
+  <Carcinoma.label>karsinoma</Carcinoma.label>
+  <Carcinoma.stages.0.label>sel kanker awal</Carcinoma.stages.0.label>
+  <Carcinoma.stages.1.label>perkembangan ringan</Carcinoma.stages.1.label>
+  <Carcinoma.stages.2.label>tumor</Carcinoma.stages.2.label>
+  <Carcinoma.stages.3.label>komplikasi</Carcinoma.stages.3.label>
+  <Carcinoma.stages.4.label>kanker parah</Carcinoma.stages.4.label>
+  <Carcinoma.stages.5.label>kanker stadium akhir</Carcinoma.stages.5.label>
+  <Carcinoma.labelNoun>sebuah karsinoma</Carcinoma.labelNoun>
 
 
 </LanguageData>

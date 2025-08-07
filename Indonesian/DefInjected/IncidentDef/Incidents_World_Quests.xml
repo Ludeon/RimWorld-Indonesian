@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Quest_TradeRequest.label>trade request</Quest_TradeRequest.label>
+  <Quest_TradeRequest.label>permintaan dagang</Quest_TradeRequest.label>
 
-  <Quest_BanditCamp.label>bandit camp quest</Quest_BanditCamp.label>
-  <Quest_BanditCamp.letterText>{0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\n{0} says that {5}.\n\nIf we succeed, their relations will improve, and they'll send us this reward worth {6}:\n\n{3}\n\nIf we don't destroy the camp in {4} days, they will do it themselves.</Quest_BanditCamp.letterText>
-  <Quest_BanditCamp.letterLabel>Bandit camp quest</Quest_BanditCamp.letterLabel>
+  <Quest_BanditCamp.label>misi kamp bandit</Quest_BanditCamp.label>
+  <Quest_BanditCamp.letterText>{0}, {1} dari {2}, telah mengirim pesan kepada kita.\n\nTampaknya para bandit yang bermarkas di kamp terdekat telah menyerang karavan mereka. Mereka meminta kita untuk menghancurkannya, artinya mengeliminasi semua musuh dan menara.\n\n{0} mengatakan bahwa {5}.\n\nJika kita berhasil, hubungan mereka akan membaik, dan mereka akan mengirim hadiah senilai {6} berikut ini:\n\n{3}\n\nJika kita tidak menghancurkan kamp dalam {4} hari, mereka akan melakukannya sendiri.</Quest_BanditCamp.letterText>
+  <Quest_BanditCamp.letterLabel>Misi kamp bandit</Quest_BanditCamp.letterLabel>
 
-  <Quest_ItemStash.label>item stash quest</Quest_ItemStash.label>
-  <Quest_ItemStash.letterText>{0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}.</Quest_ItemStash.letterText>
-  <Quest_ItemStash.letterLabel>Item stash quest</Quest_ItemStash.letterLabel>
-
-
-  <!-- Used as a utility incident def for the core-requesting faction option -->
-
-  <Quest_ItemStashAICore.label>item stash quest (AI core)</Quest_ItemStashAICore.label>
-  <Quest_ItemStashAICore.letterText>{0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}.</Quest_ItemStashAICore.letterText>
-  <Quest_ItemStashAICore.letterLabel>Item stash quest</Quest_ItemStashAICore.letterLabel>
-
-  <Quest_DownedRefugee.label>incapacitated refugee quest</Quest_DownedRefugee.label>
-  <Quest_DownedRefugee.letterText>{PAWN_nameDef} contacts you and requests help. {PAWN_pronoun} is wounded and unable to move. Without your help, {PAWN_pronoun} will die in {0} days.\n\n{PAWN_nameDef} is a {1}-year-old {2}. {PAWN_pronoun} promises to join you if you rescue {PAWN_objective}.\n\n{PAWN_nameDef} says that {3}.</Quest_DownedRefugee.letterText>
-  <Quest_DownedRefugee.letterLabel>Incapacitated refugee quest</Quest_DownedRefugee.letterLabel>
-
-  <Quest_PrisonerRescue.label>prisoner rescue quest</Quest_PrisonerRescue.label>
-  <Quest_PrisonerRescue.letterText>A prisoner being held by {0} has managed to steal a radio and call you!\n\n{PAWN_nameDef} is being held at a camp nearby under armed guard. Rescue {PAWN_objective}, and {PAWN_pronoun} will join your colony. {PAWN_pronoun} is a {1}-year-old {2}. {PAWN_pronoun} says that {3}.</Quest_PrisonerRescue.letterText>
-  <Quest_PrisonerRescue.letterLabel>Prisoner rescue quest</Quest_PrisonerRescue.letterLabel>
-
-  <Quest_PeaceTalks.label>peace talks quest</Quest_PeaceTalks.label>
-  <Quest_PeaceTalks.letterText>{PAWN_nameDef}, {0} of {1}, has sent us a message. {PAWN_pronoun} wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.\n\nThe offer will expire after {2} days.</Quest_PeaceTalks.letterText>
-  <Quest_PeaceTalks.letterLabel>Peace talks quest</Quest_PeaceTalks.letterLabel>
+  <Quest_ItemStash.label>misi simpanan barang</Quest_ItemStash.label>
+  <Quest_ItemStash.letterText>{0}, {1} dari {2}, telah memberi tahu kita tentang kumpulan barang berharga senilai {6} tidak jauh dari sini. Koleksi tersebut terdiri dari:\n\n{3}\n\nSayangnya, ini tidak akan bertahan lama - orang lain akan mengambil barang-barang itu dalam {4} hari jika kita tidak segera bertindak.\n\nHati-hati - barang berharga cenderung menarik bahaya. {0} mengatakan bahwa {5}.</Quest_ItemStash.letterText>
+  <Quest_ItemStash.letterLabel>Misi simpanan barang</Quest_ItemStash.letterLabel>
 
 
-  <!-- Main quests -->
+  <!-- Digunakan sebagai incident utilitas untuk opsi permintaan core faksi -->
 
-  <Quest_JourneyOffer.label>escape ship quest</Quest_JourneyOffer.label>
+  <Quest_ItemStashAICore.label>misi simpanan barang (AI core)</Quest_ItemStashAICore.label>
+  <Quest_ItemStashAICore.letterText>{0}, {1} dari {2}, telah memberi tahu kita tentang kumpulan barang berharga senilai {6} tidak jauh dari sini. Koleksi tersebut terdiri dari:\n\n{3}\n\nSayangnya, ini tidak akan bertahan lama - orang lain akan mengambil barang-barang itu dalam {4} hari jika kita tidak segera bertindak.\n\nHati-hati - barang berharga cenderung menarik bahaya. {0} mengatakan bahwa {5}.</Quest_ItemStashAICore.letterText>
+  <Quest_ItemStashAICore.letterLabel>Misi simpanan barang</Quest_ItemStashAICore.letterLabel>
+
+  <Quest_DownedRefugee.label>misi pengungsi tak berdaya</Quest_DownedRefugee.label>
+  <Quest_DownedRefugee.letterText>{PAWN_nameDef} menghubungimu dan meminta bantuan. {PAWN_pronoun} terluka dan tidak bisa bergerak. Tanpa bantuanmu, {PAWN_pronoun} akan meninggal dalam {0} hari.\n\n{PAWN_nameDef} adalah seorang {2} berusia {1} tahun. {PAWN_pronoun} berjanji akan bergabung jika kamu menyelamatkan {PAWN_objective}.\n\n{PAWN_nameDef} mengatakan bahwa {3}.</Quest_DownedRefugee.letterText>
+  <Quest_DownedRefugee.letterLabel>Misi pengungsi tak berdaya</Quest_DownedRefugee.letterLabel>
+
+  <Quest_PrisonerRescue.label>misi penyelamatan tahanan</Quest_PrisonerRescue.label>
+  <Quest_PrisonerRescue.letterText>Seorang tahanan yang ditahan oleh {0} berhasil mencuri radio dan menghubungimu!\n\n{PAWN_nameDef} ditahan di sebuah kamp terdekat dengan penjagaan bersenjata. Selamatkan {PAWN_objective}, dan {PAWN_pronoun} akan bergabung dengan kolonimu. {PAWN_pronoun} adalah seorang {2} berusia {1} tahun. {PAWN_pronoun} mengatakan bahwa {3}.</Quest_PrisonerRescue.letterText>
+  <Quest_PrisonerRescue.letterLabel>Misi penyelamatan tahanan</Quest_PrisonerRescue.letterLabel>
+
+  <Quest_PeaceTalks.label>misi perundingan damai</Quest_PeaceTalks.label>
+  <Quest_PeaceTalks.letterText>{PAWN_nameDef}, {0} dari {1}, telah mengirim pesan kepada kita. {PAWN_pronoun} ingin berbicara dengan kita di lokasi terdekat.\n\nIni bisa menjadi kesempatan besar untuk memperbaiki hubungan dengan faksi mereka dan menerima hadiah, tapi hati-hati - negosiator yang buruk bisa memperburuk keadaan dan bahkan membuat mereka marah.\n\nTawaran ini akan berakhir dalam {2} hari.</Quest_PeaceTalks.letterText>
+  <Quest_PeaceTalks.letterLabel>Misi perundingan damai</Quest_PeaceTalks.letterLabel>
 
 
+  <!-- Misi utama -->
+
+  <Quest_JourneyOffer.label>misi kapal pelarian</Quest_JourneyOffer.label>
+
+  <Quest_JourneyOffer.letterText>Setelah bertahun-tahun berjuang untuk bertahan hidup, kamu akhirnya memiliki kesempatan untuk melarikan diri dari planet ini.\n\n{0} telah menghubungimu dan menawarkanmu tempat di kapal pelarian mereka. Mereka akan menunggu selama {1} hari sebelum meninggalkan planet ini.\n\nJika kamu menerima tawaran ini, kamu akan meninggalkan planet ini selamanya.</Quest_JourneyOffer.letterText>
 </LanguageData>

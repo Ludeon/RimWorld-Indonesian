@@ -2,36 +2,36 @@
 <LanguageData>
 
   <Level>Level</Level>
-  <ProgressToNextLevel>Progress to next level</ProgressToNextLevel>
-  <Experience>Experience</Experience>
-  <Passion>Passion</Passion>
-  <PassionNone>None\n   -Learns {0}</PassionNone>
-  <PassionMinor>Interested\n   -Learns {0}</PassionMinor>
-  <PassionMajor>Burning\n   -Learns {0}</PassionMajor>
-  <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
-  <EffectsAtLevel>Effects at level {0}</EffectsAtLevel>
-  <SkillMax>MAX</SkillMax>
+  <ProgressToNextLevel>Progres ke level berikutnya</ProgressToNextLevel>
+  <Experience>Pengalaman</Experience>
+  <Passion>Gairah</Passion>
+  <PassionNone>Tidak ada\n   -Belajar {0}</PassionNone>
+  <PassionMinor>Tertarik\n   -Belajar {0}</PassionMinor>
+  <PassionMajor>Sangat tertarik\n   -Belajar {0}</PassionMajor>
+  <LearnedMaxToday>Maksimum belajar hari ini ({0}/{1}, pembelajaran selanjutnya dikali {2})</LearnedMaxToday>
+  <EffectsAtLevel>Dampak pada level {0}</EffectsAtLevel>
+  <SkillMax>MAKS</SkillMax>
 
-  <Skill0>Barely heard of it</Skill0>
-  <Skill1>Utter beginner</Skill1>
-  <Skill2>Beginner</Skill2>
-  <Skill3>Basic familiarity</Skill3>
-  <Skill4>Some familiarity</Skill4>
-  <Skill5>Significant familiarity</Skill5>
-  <Skill6>Capable amateur</Skill6>
-  <Skill7>Weak professional</Skill7>
-  <Skill8>Employable professional</Skill8>
-  <Skill9>Solid professional</Skill9>
-  <Skill10>Skilled professional</Skill10>
-  <Skill11>Very skilled professional</Skill11>
-  <Skill12>Expert</Skill12>
-  <Skill13>Strong expert</Skill13>
+  <Skill0>Baru pernah dengar</Skill0>
+  <Skill1>Benar-benar pemula</Skill1>
+  <Skill2>Pemula</Skill2>
+  <Skill3>Dasar-dasar</Skill3>
+  <Skill4>Agak paham</Skill4>
+  <Skill5>Cukup paham</Skill5>
+  <Skill6>Amatir mampu</Skill6>
+  <Skill7>Profesional lemah</Skill7>
+  <Skill8>Profesional layak kerja</Skill8>
+  <Skill9>Profesional solid</Skill9>
+  <Skill10>Profesional terampil</Skill10>
+  <Skill11>Profesional sangat terampil</Skill11>
+  <Skill12>Ahli</Skill12>
+  <Skill13>Ahli kuat</Skill13>
   <Skill14>Master</Skill14>
-  <Skill15>Strong master</Skill15>
-  <Skill16>Region-known master</Skill16>
-  <Skill17>Region-leading master</Skill17>
-  <Skill18>Planet-known master</Skill18>
-  <Skill19>Planet-leading master</Skill19>
-  <Skill20>Legendary master</Skill20>
+  <Skill15>Master kuat</Skill15>
+  <Skill16>Master terkenal di wilayah</Skill16>
+  <Skill17>Master terkemuka di wilayah</Skill17>
+  <Skill18>Master terkenal di planet</Skill18>
+  <Skill19>Master terkemuka di planet</Skill19>
+  <Skill20>Master legendaris</Skill20>
 
 </LanguageData>

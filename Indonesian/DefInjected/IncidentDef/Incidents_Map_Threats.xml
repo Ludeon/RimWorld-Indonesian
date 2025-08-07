@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Big threats -->
+  <!-- Ancaman besar -->
 
-  <RaidEnemy.label>enemy raid</RaidEnemy.label>
+  <RaidEnemy.label>serangan musuh</RaidEnemy.label>
 
-  <Infestation.label>infestation</Infestation.label>
-  <Infestation.letterText>Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home.</Infestation.letterText>
-  <Infestation.letterLabel>Infestation</Infestation.letterLabel>
+  <Infestation.label>infestasi</Infestation.label>
+  <Infestation.letterText>Serangga raksasa sedang menggali ke arahmu! Mereka akan menembus permukaan dalam beberapa detik dan menanam sarang.\n\nSarang-sarang itu akan memunculkan lebih banyak serangga dan sarang baru.\n\nJika kamu tidak ingin serangga menguasai seluruh area, hancurkan sarangnya. Tapi hati-hati - serangga akan mempertahankan rumah mereka.</Infestation.letterText>
+  <Infestation.letterLabel>Infestasi</Infestation.letterLabel>
 
-  <DeepDrillInfestation.label>deep drill infestation</DeepDrillInfestation.label>
-  <DeepDrillInfestation.letterText>Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base.</DeepDrillInfestation.letterText>
-  <DeepDrillInfestation.letterLabel>Too deep: Infestation</DeepDrillInfestation.letterLabel>
+  <DeepDrillInfestation.label>infestasi bor dalam</DeepDrillInfestation.label>
+  <DeepDrillInfestation.letterText>Getaran dari bor dalam milikmu telah membuat marah beberapa serangga bawah tanah. Sekarang mereka sedang menggali ke atas untuk membalas dendam!\n\nHati-hati - serangga telah marah dan akan mencoba menghancurkan basismu.</DeepDrillInfestation.letterText>
+  <DeepDrillInfestation.letterLabel>Terlalu dalam: Infestasi</DeepDrillInfestation.letterLabel>
 
-  <ManhunterPack.label>manhunter pack</ManhunterPack.label>
+  <ManhunterPack.label>kawanan pemburu manusia</ManhunterPack.label>
 
-  <PsychicEmanatorShipPartCrash.label>ship part crash (psychic)</PsychicEmanatorShipPartCrash.label>
-  <PsychicEmanatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard AI persona with psychic projection ability. And this AI is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</PsychicEmanatorShipPartCrash.letterText>
-  <PsychicEmanatorShipPartCrash.letterLabel>Psychic ship</PsychicEmanatorShipPartCrash.letterLabel>
+  <PsychicEmanatorShipPartCrash.label>puing kapal jatuh (psikis)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.letterText>Sebuah bagian besar dari kapal kuno telah jatuh di dekat sini.\n\nKolonismu dapat merasakan sesuatu di benak mereka, mendorong tindakan-tindakan tak terbayangkan. Pasti ada AI dengan kemampuan proyeksi psikis di dalamnya. Dan AI ini tidak bersahabat.\n\nHancurkan secepatnya. Tapi hati-hati - kemungkinan besar ia akan mempertahankan diri.</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterLabel>Kapal psikis</PsychicEmanatorShipPartCrash.letterLabel>
 
-  <PoisonShipPartCrash.label>ship part crash (poison)</PoisonShipPartCrash.label>
-  <PoisonShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</PoisonShipPartCrash.letterText>
-  <PoisonShipPartCrash.letterLabel>Poison ship</PoisonShipPartCrash.letterLabel>
+  <PoisonShipPartCrash.label>puing kapal jatuh (racun)</PoisonShipPartCrash.label>
+  <PoisonShipPartCrash.letterText>Sebuah bagian besar dari kapal kuno telah jatuh di dekat sini.\n\nPengaruh misteriusnya akan membunuh semua tanaman dalam lingkaran yang terus meluas di sekitarnya.\n\nHancurkan secepatnya. Tapi hati-hati - kemungkinan besar ia akan mempertahankan diri.</PoisonShipPartCrash.letterText>
+  <PoisonShipPartCrash.letterLabel>Kapal racun</PoisonShipPartCrash.letterLabel>
 
-  <AnimalInsanityMass.label>mass animal insanity</AnimalInsanityMass.label>
+  <AnimalInsanityMass.label>kegilaan hewan massal</AnimalInsanityMass.label>
 
 
-  <!-- Small threats -->
+  <!-- Ancaman kecil -->
 
-  <AnimalInsanitySingle.label>single animal insanity</AnimalInsanitySingle.label>
+  <AnimalInsanitySingle.label>kegilaan hewan tunggal</AnimalInsanitySingle.label>
 
 
 </LanguageData>

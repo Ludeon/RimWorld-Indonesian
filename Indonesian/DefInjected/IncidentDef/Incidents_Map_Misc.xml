@@ -3,71 +3,70 @@
 
   <!-- Good -->
 
-  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
-  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
-  <SelfTame.label>self-tame</SelfTame.label>
+  <ResourcePodCrash.label>kapsul sumberdaya jatuh</ResourcePodCrash.label>
+  <PsychicSoothe.label>ketenangan psikis</PsychicSoothe.label>
+  <SelfTame.label>jinak sendiri</SelfTame.label>
 
-  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
-  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
-  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.label>tunas ambrosia</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterText>Serumpun semak ambrosia misterius telah tumbuh di dekat sini! Jika kamu menunggu tanaman ini tumbuh, kamu bisa memanen buahnya yang lezat, menyenangkan, dan sedikit adiktif.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterLabel>Tunas ambrosia</AmbrosiaSprout.letterLabel>
 
-  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>hewan ternak masuk</FarmAnimalsWanderIn.label>
 
-  <WandererJoin.label>wanderer join</WandererJoin.label>
-  <WandererJoin.letterText>A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing.</WandererJoin.letterText>
-  <WandererJoin.letterLabel>Wanderer joins</WandererJoin.letterLabel>
+  <WandererJoin.label>pengembara bergabung</WandererJoin.label>
+  <WandererJoin.letterText>Seorang {PAWN_kind} bernama {PAWN_nameDef} telah tiba dan bergabung dengan koloni. {PAWN_pronoun} adalah seorang {PAWN_title}.\n\n{PAWN_pronoun} bersedia membantu, tetapi tidak akan pergi secara sukarela. Jika kamu tidak menginginkan {PAWN_nameDef}, kamu bisa mengusir {PAWN_objective}, menjual {PAWN_objective} sebagai budak, atau bahkan membunuh {PAWN_objective}. Namun, kolonimu yang lain mungkin akan terganggu oleh hal ini.</WandererJoin.letterText>
+  <WandererJoin.letterLabel>Pengembara bergabung</WandererJoin.letterLabel>
 
-  <RefugeePodCrash.label>transport pod crash</RefugeePodCrash.label>
+  <RefugeePodCrash.label>kapsul sumberdaya jatuh</RefugeePodCrash.label>
 
 
   <!-- Neutral -->
 
-  <RefugeeChased.label>chased refugee</RefugeeChased.label>
-  <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
+  <RefugeeChased.label>pengungsi yang dikejar</RefugeeChased.label>
+  <ThrumboPasses.label>thrumbos lewat</ThrumboPasses.label>
 
-  <RansomDemand.label>ransom demand</RansomDemand.label>
-  <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
+  <RansomDemand.label>permintaan tebusan</RansomDemand.label>
+  <RansomDemand.letterLabel>Permintaan tebusan</RansomDemand.letterLabel>
 
-  <MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
-  <MeteoriteImpact.letterText>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MeteoriteImpact.letterText>
-  <MeteoriteImpact.letterLabel>Meteorite</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.label>meteor jatuh</MeteoriteImpact.label>
+  <MeteoriteImpact.letterText>Sebuah meteor besar telah jatuh di daerah ini. Meteor itu meninggalkan bongkahan {0}.</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterLabel>Meteor jatuh</MeteoriteImpact.letterLabel>
 
-  <HerdMigration.label>herd migration</HerdMigration.label>
-  <HerdMigration.letterText>A group of {0} is passing through the area.\n\nThey won't attack unless provoked.</HerdMigration.letterText>
-  <HerdMigration.letterLabel>Animal migration: {0}</HerdMigration.letterLabel>
+  <HerdMigration.label>migrasi kawanan</HerdMigration.label>
+  <HerdMigration.letterText>Sekelompok {0} sedang melintas di daerah ini.\n\nMereka tidak akan menyerang kecuali diprovokasi.</HerdMigration.letterText>
+  <HerdMigration.letterLabel>Migrasi hewan: {0}</HerdMigration.letterLabel>
 
-  <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
-  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}.</WildManWandersIn.letterText>
-  <WildManWandersIn.letterLabel>{PAWN_kind} wanders in</WildManWandersIn.letterLabel>
+  <WildManWandersIn.label>manusia liar berkeliaran</WildManWandersIn.label>
+  <WildManWandersIn.letterText>Seekor kelompok {0} sedang melintasi wilayah ini.\n\nMereka tidak akan menyerang kecuali diprovokasi.</WildManWandersIn.letterText>
+  <WildManWandersIn.letterLabel>{PAWN_kind} berkeliaran</WildManWandersIn.letterLabel>
 
 
   <!-- Bad -->
 
-  <PsychicDrone.label>psychic drone</PsychicDrone.label>
+  <PsychicDrone.label>drone psikis</PsychicDrone.label>
 
-  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
-  <ToxicFallout.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season.</ToxicFallout.letterText>
-  <ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
+  <ToxicFallout.label>hujan racun</ToxicFallout.label>
+  <ToxicFallout.letterText>Kebakaran kimia di kejauhan telah melepaskan awan racun ke seluruh wilayah ini.\n\nSiapa pun atau makhluk apa pun yang tidak berada di bawah atap akan perlahan-lahan sakit karena debu beracun yang mengendap dari atmosfer.\n\nKejadian ini bisa berlangsung antara beberapa hari hingga lebih dari satu musim.</ToxicFallout.letterText>
+  <ToxicFallout.letterLabel>Hujan racun</ToxicFallout.letterLabel>
 
-  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
-  <VolcanicWinter.letterText>A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums.</VolcanicWinter.letterText>
-  <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
+  <VolcanicWinter.label>musim dingin vulkanik</VolcanicWinter.label>
+  <VolcanicWinter.letterText>Sebuah supervulkan yang jauh telah meletus dan mulai memuntahkan jutaan kilometer kubik abu ke atmosfer.\n\nAbu di atmosfer akan menghalangi sinar matahari. Suhu akan turun dan tanaman akan menderita karena kurangnya sinar matahari. Ini bisa berlalu dalam beberapa minggu, atau mungkin bertahan selama beberapa kuadrum.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterLabel>Musim dingin vulkanik</VolcanicWinter.letterLabel>
 
-  <HeatWave.label>heat wave</HeatWave.label>
-  <HeatWave.letterText>An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain.</HeatWave.letterText>
-  <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
+  <HeatWave.label>gelombang panas</HeatWave.label>
+  <HeatWave.letterText>Gelombang panas yang tidak biasa telah dimulai.\n\nGelombang panas dapat membunuh dengan cepat jika orang mulai terkena heatstroke. Tetaplah sejuk dengan membangun pendingin atau berlindung jauh di bawah gunung.</HeatWave.letterText>
+  <HeatWave.letterLabel>Gelombang panas</HeatWave.letterLabel>
 
-  <ColdSnap.label>cold snap</ColdSnap.label>
-  <ColdSnap.letterText>An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.</ColdSnap.letterText>
-  <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
+  <ColdSnap.label>cuaca dingin ekstrem</ColdSnap.label>
+  <ColdSnap.letterText>Cuaca dingin ekstrem yang tidak biasa telah datang.\n\nCuaca dingin seperti ini dapat membunuh dengan cepat melalui hipotermia. Pastikan kamu membangun ruangan yang hangat untuk bertahan hidup, memakai pakaian yang sesuai, dan panen tanaman sebelum membeku dan mati.</ColdSnap.letterText>
+  <ColdSnap.letterLabel>Cuaca dingin ekstrem</ColdSnap.letterLabel>
 
-  <Flashstorm.label>flashstorm</Flashstorm.label>
-  <Flashstorm.letterText>A freak localized flashstorm is striking a small area with lightning. This can cause massive fires.</Flashstorm.letterText>
-  <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
+  <Flashstorm.label>badai petir mendadak</Flashstorm.label>
+  <Flashstorm.letterText>Badai petir lokal yang aneh sedang melanda area kecil dengan sambaran petir. Ini dapat menyebabkan kebakaran besar.</Flashstorm.letterText>
+  <Flashstorm.letterLabel>Badai petir mendadak</Flashstorm.letterLabel>
 
-  <ShortCircuit.label>short circuit</ShortCircuit.label>
-  <CropBlight.label>crop blight</CropBlight.label>
-  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
-
+  <ShortCircuit.label>korsleting</ShortCircuit.label>
+  <CropBlight.label>gagal panen</CropBlight.label>
+  <Alphabeavers.label>alphabeaver</Alphabeavers.label>
 
 </LanguageData>

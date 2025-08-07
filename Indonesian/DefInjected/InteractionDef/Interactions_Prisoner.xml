@@ -1,57 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildRapport.label>try to get to know</BuildRapport.label>
-  <BuildRapport.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.0>
-  <BuildRapport.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</BuildRapport.logRulesInitiator.rulesStrings.1>
-  <BuildRapport.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.2>
-  <BuildRapport.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.3>
-  <BuildRapport.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.4>
-  <BuildRapport.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</BuildRapport.logRulesInitiator.rulesStrings.5>
-  <BuildRapport.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</BuildRapport.logRulesInitiator.rulesStrings.6>
-  <BuildRapport.logRulesInitiator.rulesStrings.7>toldastoryabout(p=2)->told a story about</BuildRapport.logRulesInitiator.rulesStrings.7>
-  <BuildRapport.logRulesInitiator.rulesStrings.8>toldastoryabout->told a funny story about</BuildRapport.logRulesInitiator.rulesStrings.8>
-  <BuildRapport.logRulesInitiator.rulesStrings.9>toldastoryabout->told a heartfelt story about</BuildRapport.logRulesInitiator.rulesStrings.9>
-  <BuildRapport.logRulesInitiator.rulesStrings.10>toldastoryabout->told an old story about</BuildRapport.logRulesInitiator.rulesStrings.10>
-  <BuildRapport.logRulesInitiator.rulesStrings.11>toldastoryabout->told a family story about</BuildRapport.logRulesInitiator.rulesStrings.11>
-  <BuildRapport.logRulesInitiator.rulesStrings.12>toldastoryabout->told a childhood story about</BuildRapport.logRulesInitiator.rulesStrings.12>
-  <BuildRapport.logRulesInitiator.rulesStrings.13>toldastoryabout->mentioned an anecdote about</BuildRapport.logRulesInitiator.rulesStrings.13>
-  <BuildRapport.logRulesInitiator.rulesStrings.14>talkabout->talk about</BuildRapport.logRulesInitiator.rulesStrings.14>
-  <BuildRapport.logRulesInitiator.rulesStrings.15>talkabout->discuss</BuildRapport.logRulesInitiator.rulesStrings.15>
-  <BuildRapport.logRulesInitiator.rulesStrings.16>talkabout->have a discussion about</BuildRapport.logRulesInitiator.rulesStrings.16>
-  <BuildRapport.logRulesInitiator.rulesStrings.17>talkabout->ask about</BuildRapport.logRulesInitiator.rulesStrings.17>
-  <BuildRapport.logRulesInitiator.rulesStrings.18>talkabout->think about</BuildRapport.logRulesInitiator.rulesStrings.18>
-  <BuildRapport.logRulesInitiator.rulesStrings.19>talkabout->find common ground around</BuildRapport.logRulesInitiator.rulesStrings.19>
-  <BuildRapport.logRulesInitiator.rulesStrings.20>subject->the colony</BuildRapport.logRulesInitiator.rulesStrings.20>
-  <BuildRapport.logRulesInitiator.rulesStrings.21>subject->the community</BuildRapport.logRulesInitiator.rulesStrings.21>
-  <BuildRapport.logRulesInitiator.rulesStrings.22>subject->joining the colony</BuildRapport.logRulesInitiator.rulesStrings.22>
-  <BuildRapport.logRulesInitiator.rulesStrings.23>subject->changing teams</BuildRapport.logRulesInitiator.rulesStrings.23>
-  <BuildRapport.logRulesInitiator.rulesStrings.24>subject->finding friends</BuildRapport.logRulesInitiator.rulesStrings.24>
-  <BuildRapport.logRulesInitiator.rulesStrings.25>subject->meeting new people</BuildRapport.logRulesInitiator.rulesStrings.25>
-  <BuildRapport.logRulesInitiator.rulesStrings.26>subject->reconsidering [RECIPIENT_possessive] ideas</BuildRapport.logRulesInitiator.rulesStrings.26>
-  <BuildRapport.logRulesInitiator.rulesStrings.27>subject->rethinking [RECIPIENT_possessive] loyalties</BuildRapport.logRulesInitiator.rulesStrings.27>
-  <BuildRapport.logRulesInitiator.rulesStrings.28>subject->health</BuildRapport.logRulesInitiator.rulesStrings.28>
-  <BuildRapport.logRulesInitiator.rulesStrings.29>subject->the future</BuildRapport.logRulesInitiator.rulesStrings.29>
-  <BuildRapport.logRulesInitiator.rulesStrings.30>subject->letting go</BuildRapport.logRulesInitiator.rulesStrings.30>
+  <BuildRapport.label>mencoba mengenal</BuildRapport.label>
+  <BuildRapport.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] kepada [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.0>
+  <BuildRapport.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] menceritakan tentang [subject] kepada [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.1>
+  <BuildRapport.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] menggambarkan [subject] kepada [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.2>
+  <BuildRapport.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] mendorong [RECIPIENT_nameDef] untuk [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.3>
+  <BuildRapport.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] menawarkan kesempatan kepada [RECIPIENT_nameDef] untuk [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.4>
+  <BuildRapport.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] menunjukkan ketertarikan pada [PersonalCharacteristic] milik [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.5>
+  <BuildRapport.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] bertanya kepada [RECIPIENT_nameDef] tentang [PersonalCharacteristic] milik [RECIPIENT_possessive].</BuildRapport.logRulesInitiator.rulesStrings.6>
+  <BuildRapport.logRulesInitiator.rulesStrings.7>toldastoryabout(p=2)->menceritakan kisah tentang</BuildRapport.logRulesInitiator.rulesStrings.7>
+  <BuildRapport.logRulesInitiator.rulesStrings.8>toldastoryabout->menceritakan kisah lucu tentang</BuildRapport.logRulesInitiator.rulesStrings.8>
+  <BuildRapport.logRulesInitiator.rulesStrings.9>toldastoryabout->menceritakan kisah menyentuh tentang</BuildRapport.logRulesInitiator.rulesStrings.9>
+  <BuildRapport.logRulesInitiator.rulesStrings.10>toldastoryabout->menceritakan kisah lama tentang</BuildRapport.logRulesInitiator.rulesStrings.10>
+  <BuildRapport.logRulesInitiator.rulesStrings.11>toldastoryabout->menceritakan kisah keluarga tentang</BuildRapport.logRulesInitiator.rulesStrings.11>
+  <BuildRapport.logRulesInitiator.rulesStrings.12>toldastoryabout->menceritakan kisah masa kecil tentang</BuildRapport.logRulesInitiator.rulesStrings.12>
+  <BuildRapport.logRulesInitiator.rulesStrings.13>toldastoryabout->menyebutkan anekdot tentang</BuildRapport.logRulesInitiator.rulesStrings.13>
+  <BuildRapport.logRulesInitiator.rulesStrings.14>talkabout->membicarakan</BuildRapport.logRulesInitiator.rulesStrings.14>
+  <BuildRapport.logRulesInitiator.rulesStrings.15>talkabout->mendiskusikan</BuildRapport.logRulesInitiator.rulesStrings.15>
+  <BuildRapport.logRulesInitiator.rulesStrings.16>talkabout->berdiskusi tentang</BuildRapport.logRulesInitiator.rulesStrings.16>
+  <BuildRapport.logRulesInitiator.rulesStrings.17>talkabout->bertanya tentang</BuildRapport.logRulesInitiator.rulesStrings.17>
+  <BuildRapport.logRulesInitiator.rulesStrings.18>talkabout->memikirkan tentang</BuildRapport.logRulesInitiator.rulesStrings.18>
+  <BuildRapport.logRulesInitiator.rulesStrings.19>talkabout->mencari kesamaan tentang</BuildRapport.logRulesInitiator.rulesStrings.19>
+  <BuildRapport.logRulesInitiator.rulesStrings.20>subject->koloni</BuildRapport.logRulesInitiator.rulesStrings.20>
+  <BuildRapport.logRulesInitiator.rulesStrings.21>subject->komunitas</BuildRapport.logRulesInitiator.rulesStrings.21>
+  <BuildRapport.logRulesInitiator.rulesStrings.22>subject->bergabung dengan koloni</BuildRapport.logRulesInitiator.rulesStrings.22>
+  <BuildRapport.logRulesInitiator.rulesStrings.23>subject->berpindah pihak</BuildRapport.logRulesInitiator.rulesStrings.23>
+  <BuildRapport.logRulesInitiator.rulesStrings.24>subject->mencari teman</BuildRapport.logRulesInitiator.rulesStrings.24>
+  <BuildRapport.logRulesInitiator.rulesStrings.25>subject->bertemu orang baru</BuildRapport.logRulesInitiator.rulesStrings.25>
+  <BuildRapport.logRulesInitiator.rulesStrings.26>subject->mempertimbangkan kembali ide-ide [RECIPIENT_possessive]</BuildRapport.logRulesInitiator.rulesStrings.26>
+  <BuildRapport.logRulesInitiator.rulesStrings.27>subject->memikirkan ulang loyalitas [RECIPIENT_possessive]</BuildRapport.logRulesInitiator.rulesStrings.27>
+  <BuildRapport.logRulesInitiator.rulesStrings.28>subject->kesehatan</BuildRapport.logRulesInitiator.rulesStrings.28>
+  <BuildRapport.logRulesInitiator.rulesStrings.29>subject->masa depan</BuildRapport.logRulesInitiator.rulesStrings.29>
+  <BuildRapport.logRulesInitiator.rulesStrings.30>subject->melepaskan</BuildRapport.logRulesInitiator.rulesStrings.30>
   <BuildRapport.logRulesInitiator.rulesStrings.31>subject(p=4)->[ConceptPositive]</BuildRapport.logRulesInitiator.rulesStrings.31>
   <BuildRapport.logRulesInitiator.rulesStrings.32>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</BuildRapport.logRulesInitiator.rulesStrings.32>
   <BuildRapport.logRulesInitiator.rulesStrings.33>subject(p=8)->[TalkTopicLight]</BuildRapport.logRulesInitiator.rulesStrings.33>
 
-  <RecruitAttempt.label>recruit attempt</RecruitAttempt.label>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</RecruitAttempt.logRulesInitiator.rulesStrings.1>
+  <RecruitAttempt.label>percobaan merekrut</RecruitAttempt.label>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] meminta [RECIPIENT_nameDef] untuk bergabung.</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] menjanjikan [goodthing] kepada [RECIPIENT_nameDef], dan meminta [RECIPIENT_objective] untuk bergabung.</RecruitAttempt.logRulesInitiator.rulesStrings.1>
   <RecruitAttempt.logRulesInitiator.rulesStrings.2>goodthing(p=15)->[ConceptPositive]</RecruitAttempt.logRulesInitiator.rulesStrings.2>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.3>goodthing->free, fresh [Vegetable]s</RecruitAttempt.logRulesInitiator.rulesStrings.3>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.3>goodthing->[Vegetable] segar dan gratis</RecruitAttempt.logRulesInitiator.rulesStrings.3>
 
-  <SparkJailbreak.label>spark jailbreak</SparkJailbreak.label>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</SparkJailbreak.logRulesInitiator.rulesStrings.1>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom].</SparkJailbreak.logRulesInitiator.rulesStrings.2>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is lax, and encouraged escape.</SparkJailbreak.logRulesInitiator.rulesStrings.3>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.4>freedom->freedom</SparkJailbreak.logRulesInitiator.rulesStrings.4>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.5>freedom->opportunity</SparkJailbreak.logRulesInitiator.rulesStrings.5>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.6>freedom->home</SparkJailbreak.logRulesInitiator.rulesStrings.6>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.7>freedom->self-determination</SparkJailbreak.logRulesInitiator.rulesStrings.7>
+  <SparkJailbreak.label>memicu pelarian</SparkJailbreak.label>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] berbicara tentang kebahagiaan [freedom], dan menawarkan cara untuk melarikan diri.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] membicarakan betapa indahnya [TerrainFeature], dan menawarkan kebebasan.</SparkJailbreak.logRulesInitiator.rulesStrings.1>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] menunjukkan cara melarikan diri kepada [RECIPIENT_nameDef], dan menjanjikan [freedom].</SparkJailbreak.logRulesInitiator.rulesStrings.2>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] memberi tahu [RECIPIENT_nameDef] bahwa penjagaan longgar, dan mendorong untuk melarikan diri.</SparkJailbreak.logRulesInitiator.rulesStrings.3>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.4>freedom->kebebasan</SparkJailbreak.logRulesInitiator.rulesStrings.4>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.5>freedom->kesempatan</SparkJailbreak.logRulesInitiator.rulesStrings.5>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.6>freedom->rumah</SparkJailbreak.logRulesInitiator.rulesStrings.6>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.7>freedom->penentuan nasib sendiri</SparkJailbreak.logRulesInitiator.rulesStrings.7>
 
 
 </LanguageData>

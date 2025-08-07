@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AridShrubland.label>semak belukar gersang</AridShrubland.label>
-  <AridShrubland.description>A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find.</AridShrubland.description>
+  <AridShrubland.label>Padang semak gersang</AridShrubland.label>
+  <AridShrubland.description>Padang rumput mirip gurun dengan rumput dan semak, diselingi dengan kelompok pohon yang tersebar. Tanaman di sini tahan banting, tetapi populasi hewan cenderung moderat dan tanah subur sulit ditemukan.</AridShrubland.description>
 
-  <Desert.label>gurun</Desert.label>
-  <Desert.description>A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold.</Desert.description>
+  <Desert.label>Padang pasir</Desert.label>
+  <Desert.description>Daerah yang sangat kering dengan sedikit kehidupan. Hanya ada sedikit tanah subur, dan kehidupan hewan sangat jarang. Gurun bisa sangat panas, atau sangat dingin.</Desert.description>
 
-  <ExtremeDesert.label>padang gurun</ExtremeDesert.label>
-  <ExtremeDesert.description>An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here.</ExtremeDesert.description>
+  <ExtremeDesert.label>Padang pasir ekstrem</ExtremeDesert.label>
+  <ExtremeDesert.description>Daerah yang sangat panas dan kering, hampir tidak ada kehidupan. Panas yang membakar dan kurangnya tanah subur membuatnya sangat sulit untuk bertahan hidup di sini.</ExtremeDesert.description>
 
 
 </LanguageData>
