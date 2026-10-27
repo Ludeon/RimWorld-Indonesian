@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Villager.label>villager</Villager.label>
-  <Villager.labelPlural>villagers</Villager.labelPlural>
+  <Villager.label>penduduk desa</Villager.label>
+  <Villager.labelPlural>penduduk desa</Villager.labelPlural>
 
-  <Town_Guard.label>town guard</Town_Guard.label>
-  <Town_Guard.labelPlural>town guards</Town_Guard.labelPlural>
+  <Town_Guard.label>penjaga kota</Town_Guard.label>
+  <Town_Guard.labelPlural>penjaga kota</Town_Guard.labelPlural>
 
-  <Town_Trader.label>town trader</Town_Trader.label>
-  <Town_Trader.labelPlural>town traders</Town_Trader.labelPlural>
+  <Town_Trader.label>pedangang kota</Town_Trader.label>
+  <Town_Trader.labelPlural>pedangang kota</Town_Trader.labelPlural>
 
-  <Town_Councilman.label>town councilman</Town_Councilman.label>
-  <Town_Councilman.labelPlural>town councilmen</Town_Councilman.labelPlural>
+  <Town_Councilman.label>anggota dewan kota</Town_Councilman.label>
+  <Town_Councilman.labelPlural>anggota dewan kota</Town_Councilman.labelPlural>
 
 
 </LanguageData>

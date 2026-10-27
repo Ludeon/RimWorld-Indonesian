@@ -3,14 +3,14 @@
 
   <!-- spouse / lover -->
 
-  <Spouse.label>husband</Spouse.label>
-  <Spouse.labelFemale>wife</Spouse.labelFemale>
+  <Spouse.label>suami</Spouse.label>
+  <Spouse.labelFemale>istri</Spouse.labelFemale>
 
-  <Fiance.label>fiance</Fiance.label>
-  <Fiance.labelFemale>fiancée</Fiance.labelFemale>
+  <Fiance.label>tunangan</Fiance.label>
+  <Fiance.labelFemale>tunangan</Fiance.labelFemale>
 
-  <Lover.label>lover</Lover.label>
-  <Lover.labelFemale>lover</Lover.labelFemale>
+  <Lover.label>kekasih</Lover.label>
+  <Lover.labelFemale>kekasih</Lover.labelFemale>
 
 
   <!-- step family -->

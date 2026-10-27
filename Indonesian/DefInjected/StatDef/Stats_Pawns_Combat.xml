@@ -3,7 +3,7 @@
 
   <!-- Melee -->
 
-  <MeleeDPS.label>melee DPS</MeleeDPS.label>
+  <MeleeDPS.label>DPS serangan dekat</MeleeDPS.label>
   <MeleeDPS.description>Average damage per second in melee combat. This stat ignores target defenses like dodging and armor.</MeleeDPS.description>
 
   <MeleeArmorPenetration.label>melee armor penetration</MeleeArmorPenetration.label>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bow_Short.label>short bow</Bow_Short.label>
+  <Bow_Short.label>panah pendek</Bow_Short.label>
   <Bow_Short.description>A simple short selfbow made from a single piece of wood.</Bow_Short.description>
   <Bow_Short.tools.0.label>limb</Bow_Short.tools.0.label>
 

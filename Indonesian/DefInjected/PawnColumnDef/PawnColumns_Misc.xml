@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Master.label>master</Master.label>
-  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
-  <AllowedArea.label>allowed area</AllowedArea.label>
-  <AllowedAreaWide.label>allowed area</AllowedAreaWide.label>
-  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
-  <Outfit.label>current outfit</Outfit.label>
-  <DrugPolicy.label>drug policy</DrugPolicy.label>
-  <FoodRestriction.label>food restriction</FoodRestriction.label>
+  <Master.label>pemilik</Master.label>
+  <MedicalCare.headerTip>Perawatan medis</MedicalCare.headerTip>
+  <AllowedArea.label>area dibolehkan</AllowedArea.label>
+  <AllowedAreaWide.label>area dibolehkan</AllowedAreaWide.label>
+  <HostilityResponse.headerTip>Respon kejahatan</HostilityResponse.headerTip>
+  <Outfit.label>pakaian saat ini</Outfit.label>
+  <DrugPolicy.label>kebijakan obat</DrugPolicy.label>
+  <FoodRestriction.label>batasan makanan</FoodRestriction.label>
 
 
 </LanguageData>

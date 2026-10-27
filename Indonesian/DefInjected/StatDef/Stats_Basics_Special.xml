@@ -7,7 +7,7 @@
   <MedicalQualityMax.label>kualitas maksimum pertolongan medis</MedicalQualityMax.label>
   <MedicalQualityMax.description>Kualitas maksimum untuk pertolongan medis yang dapat dicapai ketika menggunakan barang ini. Kualitas lebih tinggi memampukan dokter pandai untuk mengobati luka dengan lebih baik, dan juga dengan lebih handal dan konsisten.</MedicalQualityMax.description>
 
-  <ConstructionSpeedFactor.label>kesempatan konstruksi</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.label>peluang konstruksi</ConstructionSpeedFactor.label>
   <ConstructionSpeedFactor.description>Kecepatan untuk gedung yang dibuat oleh benda ini dibangun digandakan oleh nilai ini. Beberapa materi, sepertu batu, sulit untuk dipakai membangun. Sedangkan yang lain, seperti kayu, lebih cepat.</ConstructionSpeedFactor.description>
 
 

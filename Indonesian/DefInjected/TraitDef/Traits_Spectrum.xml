@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SpeedOffset.degreeDatas.0.label>slowpoke</SpeedOffset.degreeDatas.0.label>
+  <SpeedOffset.degreeDatas.0.label>pelambat</SpeedOffset.degreeDatas.0.label>
   <SpeedOffset.degreeDatas.0.description>[PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere.</SpeedOffset.degreeDatas.0.description>
-  <SpeedOffset.degreeDatas.1.label>fast walker</SpeedOffset.degreeDatas.1.label>
+  <SpeedOffset.degreeDatas.1.label>pejalan cepat</SpeedOffset.degreeDatas.1.label>
   <SpeedOffset.degreeDatas.1.description>[PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people.</SpeedOffset.degreeDatas.1.description>
   <SpeedOffset.degreeDatas.2.label>jogger</SpeedOffset.degreeDatas.2.label>
   <SpeedOffset.degreeDatas.2.description>[PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up.</SpeedOffset.degreeDatas.2.description>
@@ -17,7 +17,7 @@
 
   <NaturalMood.degreeDatas.0.label>sanguine</NaturalMood.degreeDatas.0.label>
   <NaturalMood.degreeDatas.0.description>[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.</NaturalMood.degreeDatas.0.description>
-  <NaturalMood.degreeDatas.1.label>optimist</NaturalMood.degreeDatas.1.label>
+  <NaturalMood.degreeDatas.1.label>optimis</NaturalMood.degreeDatas.1.label>
   <NaturalMood.degreeDatas.1.description>[PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down.</NaturalMood.degreeDatas.1.description>
   <NaturalMood.degreeDatas.2.label>pessimist</NaturalMood.degreeDatas.2.label>
   <NaturalMood.degreeDatas.2.description>[PAWN_nameDef] tends to look on the bad side of life.</NaturalMood.degreeDatas.2.description>
@@ -61,7 +61,7 @@
   <ShootingAccuracy.degreeDatas.1.label>trigger-happy</ShootingAccuracy.degreeDatas.1.label>
   <ShootingAccuracy.degreeDatas.1.description>Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately.</ShootingAccuracy.degreeDatas.1.description>
 
-  <Beauty.degreeDatas.0.label>beautiful</Beauty.degreeDatas.0.label>
+  <Beauty.degreeDatas.0.label>cantik</Beauty.degreeDatas.0.label>
   <Beauty.degreeDatas.0.description>[PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth.</Beauty.degreeDatas.0.description>
   <Beauty.degreeDatas.1.label>pretty</Beauty.degreeDatas.1.label>
   <Beauty.degreeDatas.1.description>[PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective].</Beauty.degreeDatas.1.description>

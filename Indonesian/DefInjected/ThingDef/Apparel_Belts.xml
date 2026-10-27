@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_ShieldBelt.label>shield belt</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.label>sabuk perisai</Apparel_ShieldBelt.label>
   <Apparel_ShieldBelt.description>A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP.</Apparel_ShieldBelt.description>
 
   <Apparel_SmokepopBelt.label>smokepop belt</Apparel_SmokepopBelt.label>

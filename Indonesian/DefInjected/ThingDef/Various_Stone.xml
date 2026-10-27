@@ -9,7 +9,7 @@
 
   <!-- Sandstone -->
 
-  <Sandstone.label>sandstone</Sandstone.label>
+  <Sandstone.label>batu pasir</Sandstone.label>
   <Sandstone.description>A sedimentary rock composed of sand particles compressed together.</Sandstone.description>
 
   <SmoothedSandstone.label>smoothed sandstone</SmoothedSandstone.label>

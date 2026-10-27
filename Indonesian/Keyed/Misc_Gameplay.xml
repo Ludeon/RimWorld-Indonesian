@@ -50,7 +50,7 @@
   <JoyTolerances>Toleransi jenis rekreasi</JoyTolerances>
   <MilkFullness>Kepenuhan susu</MilkFullness>
   <WoolGrowth>Perkembangan wol</WoolGrowth>
-  <EggProgress>Progres telur</EggProgress>
+  <EggProgress>Kemajuan telur</EggProgress>
   <Fertilized>Terfertilisasi</Fertilized>
   <ProgressStoppedUntilFertilized>Progres terhenti sampai terfertilisasi</ProgressStoppedUntilFertilized>
   <SkillTooLow>butuh {0} level {2}, punya {1}</SkillTooLow>

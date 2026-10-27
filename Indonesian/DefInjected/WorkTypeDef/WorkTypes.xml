@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Firefighter.label>Firefight</Firefighter.label>
+  <Firefighter.label>Padamkan</Firefighter.label>
   <Firefighter.description>Extinguish fires in the colony.</Firefighter.description>
   <Firefighter.labelShort>Firefight</Firefighter.labelShort>
   <Firefighter.pawnLabel>Firefighter</Firefighter.pawnLabel>
   <Firefighter.gerundLabel>firefighting</Firefighter.gerundLabel>
-  <Firefighter.verb>Extinguish</Firefighter.verb>
+  <Firefighter.verb>Memadamkan</Firefighter.verb>
 
-  <Patient.label>Patient</Patient.label>
+  <Patient.label>Pasien</Patient.label>
   <Patient.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</Patient.description>
   <Patient.labelShort>Patient</Patient.labelShort>
   <Patient.pawnLabel>Patient</Patient.pawnLabel>
   <Patient.gerundLabel>patienting</Patient.gerundLabel>
   <Patient.verb>Become patient</Patient.verb>
 
-  <Doctor.label>Doctor</Doctor.label>
+  <Doctor.label>Dokter</Doctor.label>
   <Doctor.description>Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners.</Doctor.description>
   <Doctor.labelShort>Doctor</Doctor.labelShort>
   <Doctor.pawnLabel>Doctor</Doctor.pawnLabel>
   <Doctor.gerundLabel>doctoring</Doctor.gerundLabel>
   <Doctor.verb>Care for</Doctor.verb>
 
-  <PatientBedRest.label>Bed rest</PatientBedRest.label>
+  <PatientBedRest.label>Istirahat pemulihan</PatientBedRest.label>
   <PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
   <PatientBedRest.labelShort>Bed rest</PatientBedRest.labelShort>
   <PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
   <PatientBedRest.gerundLabel>resting in bed</PatientBedRest.gerundLabel>
-  <PatientBedRest.verb>Become patient</PatientBedRest.verb>
+  <PatientBedRest.verb>Menjadi pasien</PatientBedRest.verb>
 
-  <BasicWorker.label>Basic</BasicWorker.label>
+  <BasicWorker.label>Dasar</BasicWorker.label>
   <BasicWorker.description>Unskilled and easy tasks. Release prisoners and flick switches on machines.</BasicWorker.description>
   <BasicWorker.labelShort>Basic</BasicWorker.labelShort>
   <BasicWorker.pawnLabel>Worker</BasicWorker.pawnLabel>
   <BasicWorker.gerundLabel>dealing with</BasicWorker.gerundLabel>
   <BasicWorker.verb>Deal with</BasicWorker.verb>
 
-  <Warden.label>Warden</Warden.label>
+  <Warden.label>Penjaga</Warden.label>
   <Warden.description>Manage, feed, chat with, and recruit prisoners.</Warden.description>
   <Warden.labelShort>Warden</Warden.labelShort>
   <Warden.pawnLabel>Warden</Warden.pawnLabel>
@@ -50,26 +50,26 @@
   <Handling.gerundLabel>handling</Handling.gerundLabel>
   <Handling.verb>Handle</Handling.verb>
 
-  <Cooking.label>Cook</Cooking.label>
+  <Cooking.label>Masak</Cooking.label>
   <Cooking.description>Prepare meals and butcher meat.</Cooking.description>
   <Cooking.labelShort>Cook</Cooking.labelShort>
   <Cooking.pawnLabel>Cook</Cooking.pawnLabel>
   <Cooking.gerundLabel>cooking</Cooking.gerundLabel>
-  <Cooking.verb>Cook</Cooking.verb>
+  <Cooking.verb>Memasak</Cooking.verb>
 
-  <Hunting.label>Hunt</Hunting.label>
+  <Hunting.label>Buru</Hunting.label>
   <Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
   <Hunting.labelShort>Hunt</Hunting.labelShort>
   <Hunting.pawnLabel>Hunter</Hunting.pawnLabel>
   <Hunting.gerundLabel>hunting</Hunting.gerundLabel>
-  <Hunting.verb>Hunt</Hunting.verb>
+  <Hunting.verb>Memburu</Hunting.verb>
 
-  <Construction.label>Construct</Construction.label>
+  <Construction.label>Bangun</Construction.label>
   <Construction.description>Build things that you've designated, and fix damaged or broken-down buildings.</Construction.description>
   <Construction.labelShort>Construct</Construction.labelShort>
   <Construction.pawnLabel>Constructor</Construction.pawnLabel>
   <Construction.gerundLabel>constructing</Construction.gerundLabel>
-  <Construction.verb>Construct</Construction.verb>
+  <Construction.verb>Membangun</Construction.verb>
 
   <Growing.label>Grow</Growing.label>
   <Growing.description>Plant seeds, harvest crops, and forage for wild plants.</Growing.description>

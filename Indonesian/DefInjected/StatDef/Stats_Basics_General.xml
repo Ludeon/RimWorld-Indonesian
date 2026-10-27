@@ -16,14 +16,14 @@
   <SellPriceFactor.description>Faktor pengandaan di harga-harga barang yang kamu jual.</SellPriceFactor.description>
 
   <Flammability.label>Faktor mudah terbakar</Flammability.label>
-  <Flammability.description>How easily an object catches fire and how quickly a fire will grow as it burns.</Flammability.description>
+  <Flammability.description>Bagaimana sebuah objek dapat dengan mudah terbakar saat api membesar.</Flammability.description>
 
   <WorkToMake.label>jumlah kerja untuk dibuat</WorkToMake.label>
   <WorkToMake.description>jumlah kerja yang harus dilakukan untuk membuat sebuah barang, ketika semua materi dikumpulkan.</WorkToMake.description>
 
-  <DeteriorationRate.label>tingkat pemburukan</DeteriorationRate.label>
-  <DeteriorationRate.description>tingkat kecepatan untuk pemburukan sebuah benda ketika ditinggalkan di tempat terbuka, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water.</DeteriorationRate.description>
-  <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
+  <DeteriorationRate.label>tingkat korosi</DeteriorationRate.label>
+  <DeteriorationRate.description>tingkat kecepatan untuk pemburukan sebuah benda ketika ditinggalkan di tempat terbuka, in average hit points of damage per day. Tingkat korosi juga dipengaruhi oleh cuaca, atap, dampak zat beracun, atau terdampar di perairan dangkal.</DeteriorationRate.description>
+  <DeteriorationRate.formatString>{0} / hari</DeteriorationRate.formatString>
 
   <Beauty.label>keindahan</Beauty.label>
   <Beauty.description>Seberapa menyenangkan sebuah benda untuk dilihat. Barang indah memenuhi kebutuhan karakter akan keindahan.</Beauty.description>

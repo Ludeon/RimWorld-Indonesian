@@ -7,7 +7,7 @@
   <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct.</GroundPenetratingScanner.description>
 
-  <DeepDrilling.label>deep drilling</DeepDrilling.label>
+  <DeepDrilling.label>pengeboran dalam</DeepDrilling.label>
   <DeepDrilling.description>Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
 
   <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>

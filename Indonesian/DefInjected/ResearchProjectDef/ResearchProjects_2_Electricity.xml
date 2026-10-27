@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Electricity.label>electricity</Electricity.label>
+  <Electricity.label>kelistrikan</Electricity.label>
   <Electricity.description>Harness the power of electricity for a hundred different tasks.</Electricity.description>
 
-  <Batteries.label>battery</Batteries.label>
-  <Batteries.description>Build batteries for storing electricity.</Batteries.description>
+  <Batteries.label>baterai</Batteries.label>
+  <Batteries.description>Buat baterai untuk menyimpan kelistrikan.</Batteries.description>
 
   <BiofuelRefining.label>biofuel refining</BiofuelRefining.label>
   <BiofuelRefining.description>Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs.</BiofuelRefining.description>
@@ -16,22 +16,22 @@
   <NutrientPaste.label>nutrient paste</NutrientPaste.label>
   <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all.</NutrientPaste.description>
 
-  <SolarPanels.label>solar panel</SolarPanels.label>
+  <SolarPanels.label>panel surya</SolarPanels.label>
   <SolarPanels.description>Build solar panels for electricity generation.</SolarPanels.description>
 
   <AirConditioning.label>air conditioning</AirConditioning.label>
   <AirConditioning.description>Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods.</AirConditioning.description>
 
-  <Autodoors.label>autodoor</Autodoors.label>
+  <Autodoors.label>pintu otomatis</Autodoors.label>
   <Autodoors.description>Build autodoors which automatically open when someone approaches, without slowing anyone down.</Autodoors.description>
 
-  <Hydroponics.label>hydroponics</Hydroponics.label>
+  <Hydroponics.label>hidroponik</Hydroponics.label>
   <Hydroponics.description>Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside.</Hydroponics.description>
 
-  <TubeTelevision.label>tube television</TubeTelevision.label>
+  <TubeTelevision.label>televisi tabung</TubeTelevision.label>
   <TubeTelevision.description>Produce tube televisions for recreational watching.</TubeTelevision.description>
 
-  <PackagedSurvivalMeal.label>packaged survival meal</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.label>paket makanan bertahan hidup</PackagedSurvivalMeal.label>
   <PackagedSurvivalMeal.description>Produce packaged survival meals which never go bad. Great for traveling.</PackagedSurvivalMeal.description>
 
   <Firefoam.label>firefoam</Firefoam.label>
@@ -40,7 +40,7 @@
   <IEDs.label>IEDs</IEDs.label>
   <IEDs.description>Build improvised traps from any kind of mortar shell.</IEDs.description>
 
-  <GeothermalPower.label>geothermal power</GeothermalPower.label>
+  <GeothermalPower.label>kekuatan geotermal</GeothermalPower.label>
   <GeothermalPower.description>Build geothermal power plants on top of steam geysers, for uninterrupted power.</GeothermalPower.description>
 
   <SterileMaterials.label>sterile materials</SterileMaterials.label>
@@ -64,7 +64,7 @@
   <FlakArmor.label>flak armor</FlakArmor.label>
   <FlakArmor.description>Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly.</FlakArmor.description>
 
-  <Mortars.label>mortars</Mortars.label>
+  <Mortars.label>mortar</Mortars.label>
   <Mortars.description>Build mortars which can lob shells long distances - even over walls.</Mortars.description>
 
   <BlowbackOperation.label>blowback operation</BlowbackOperation.label>

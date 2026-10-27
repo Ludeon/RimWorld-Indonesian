@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RawPotatoes.label>potatoes</RawPotatoes.label>
+  <RawPotatoes.label>kentang</RawPotatoes.label>
   <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
 
   <RawFungus.label>raw fungus</RawFungus.label>
   <RawFungus.description>Raw fungus.</RawFungus.description>
 
-  <RawRice.label>rice</RawRice.label>
-  <RawRice.description>Raw rice.</RawRice.description>
+  <RawRice.label>nasi</RawRice.label>
+  <RawRice.description>Nasi mentah.</RawRice.description>
 
   <RawAgave.label>agave fruit</RawAgave.label>
   <RawAgave.description>Raw agave fruit.</RawAgave.description>
 
-  <RawCorn.label>corn</RawCorn.label>
+  <RawCorn.label>jagung</RawCorn.label>
   <RawCorn.description>Raw corn.</RawCorn.description>
 
-  <RawBerries.label>berries</RawBerries.label>
+  <RawBerries.label>beri</RawBerries.label>
   <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
 
 
   <!-- Plant matter (inedible by people) -->
 
-  <Hay.label>hay</Hay.label>
+  <Hay.label>jerami</Hay.label>
   <Hay.description>Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.</Hay.description>
 
   <RawHops.label>hops</RawHops.label>

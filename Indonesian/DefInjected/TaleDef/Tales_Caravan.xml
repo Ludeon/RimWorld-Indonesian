@@ -6,7 +6,7 @@
   <CaravanFormed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] membentuk sebuah karavan</CaravanFormed.rulePack.rulesStrings.1>
   <CaravanFormed.rulePack.rulesStrings.2>image->[PAWN_nameFull] Berjalan dengan tujuan [circumstance_group]</CaravanFormed.rulePack.rulesStrings.2>
   <CaravanFormed.rulePack.rulesStrings.3>image->[PAWN_nameFull] menatap kepada horizon [circumstance_group]</CaravanFormed.rulePack.rulesStrings.3>
-  <CaravanFormed.rulePack.rulesStrings.4>image->[PAWN_nameFull] mengepak persediaan untuk perjalanan [circumstance_group]</CaravanFormed.rulePack.rulesStrings.4>
+  <CaravanFormed.rulePack.rulesStrings.4>image->[PAWN_nameFull] membungkus persediaan untuk perjalanan [circumstance_group]</CaravanFormed.rulePack.rulesStrings.4>
   <CaravanFormed.rulePack.rulesStrings.5>image->[PAWN_nameFull] merencanakan rute perjalanan [circumstance_group]</CaravanFormed.rulePack.rulesStrings.5>
   <CaravanFormed.rulePack.rulesStrings.6>circumstance_phrase->dan siap untuk pertarungan</CaravanFormed.rulePack.rulesStrings.6>
   <CaravanFormed.rulePack.rulesStrings.7>circumstance_phrase->dan siap untuk bertahan hidup</CaravanFormed.rulePack.rulesStrings.7>

@@ -10,13 +10,13 @@
 
   <!-- Patient -->
 
-  <PatientGoToBedEmergencyTreatment.label>go to bed for emergency treatment</PatientGoToBedEmergencyTreatment.label>
-  <PatientGoToBedEmergencyTreatment.verb>receive treatment in</PatientGoToBedEmergencyTreatment.verb>
-  <PatientGoToBedEmergencyTreatment.gerund>receiving treatment in</PatientGoToBedEmergencyTreatment.gerund>
+  <PatientGoToBedEmergencyTreatment.label>pergi ke kasur untuk penanganan darurat</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.verb>menerima penanganan dalam</PatientGoToBedEmergencyTreatment.verb>
+  <PatientGoToBedEmergencyTreatment.gerund>menerima penanganan dalam</PatientGoToBedEmergencyTreatment.gerund>
 
-  <PatientGoToBedTreatment.label>go to bed for treatment</PatientGoToBedTreatment.label>
-  <PatientGoToBedTreatment.verb>receive treatment in</PatientGoToBedTreatment.verb>
-  <PatientGoToBedTreatment.gerund>receiving treatment in</PatientGoToBedTreatment.gerund>
+  <PatientGoToBedTreatment.label>pergi ke kasur untuk penanganan medis</PatientGoToBedTreatment.label>
+  <PatientGoToBedTreatment.verb>menerima penanganan dalam</PatientGoToBedTreatment.verb>
+  <PatientGoToBedTreatment.gerund>menerima penanganan dalam</PatientGoToBedTreatment.gerund>
 
 
   <!-- Doctor -->

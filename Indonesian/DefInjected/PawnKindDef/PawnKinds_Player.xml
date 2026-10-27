@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Colonist.label>colonist</Colonist.label>
-  <Colonist.labelPlural>colonists</Colonist.labelPlural>
+  <Colonist.label>koloni</Colonist.label>
+  <Colonist.labelPlural>kolonis</Colonist.labelPlural>
 
-  <Tribesperson.label>member</Tribesperson.label>
-  <Tribesperson.labelPlural>members</Tribesperson.labelPlural>
+  <Tribesperson.label>anggota</Tribesperson.label>
+  <Tribesperson.labelPlural>anggota</Tribesperson.labelPlural>
 
 
 </LanguageData>

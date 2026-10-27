@@ -26,17 +26,17 @@
 
   <!-- Sand -->
 
-  <Sand.label>sand</Sand.label>
-  <Sand.tools.0.label>sand</Sand.tools.0.label>
+  <Sand.label>pasir</Sand.label>
+  <Sand.tools.0.label>pasir</Sand.tools.0.label>
 
-  <SoftSand.label>soft sand</SoftSand.label>
-  <SoftSand.tools.0.label>sand</SoftSand.tools.0.label>
+  <SoftSand.label>pasir halus</SoftSand.label>
+  <SoftSand.tools.0.label>pasir</SoftSand.tools.0.label>
 
 
   <!-- Infertile ground -->
 
-  <Mud.label>mud</Mud.label>
-  <Mud.tools.0.label>mud</Mud.tools.0.label>
+  <Mud.label>lumpur</Mud.label>
+  <Mud.tools.0.label>lumpur</Mud.tools.0.label>
 
 
   <!-- Ice -->

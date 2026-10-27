@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkToBuild.label>work to build</WorkToBuild.label>
+  <WorkToBuild.label>pekerjaan untuk membangun</WorkToBuild.label>
   <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials are gathered.</WorkToBuild.description>
 
   <DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
   <DoorOpenSpeed.description>The speed at which the door opens. Slow doors will slow down everyone who uses them.</DoorOpenSpeed.description>
 
-  <BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
+  <BedRestEffectiveness.label>efektivits istirahat</BedRestEffectiveness.label>
   <BedRestEffectiveness.description>How fast people sleeping on this gain rest.</BedRestEffectiveness.description>
 
   <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>

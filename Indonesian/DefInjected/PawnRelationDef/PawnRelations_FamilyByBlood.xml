@@ -3,20 +3,20 @@
 
   <!-- close family -->
 
-  <Parent.label>father</Parent.label>
-  <Parent.labelFemale>mother</Parent.labelFemale>
+  <Parent.label>ayah</Parent.label>
+  <Parent.labelFemale>ibu</Parent.labelFemale>
 
-  <Child.label>son</Child.label>
-  <Child.labelFemale>daughter</Child.labelFemale>
+  <Child.label>anak laki-laki</Child.label>
+  <Child.labelFemale>anak perempuan</Child.labelFemale>
 
-  <Sibling.label>brother</Sibling.label>
-  <Sibling.labelFemale>sister</Sibling.labelFemale>
+  <Sibling.label>saudara laki-laki</Sibling.label>
+  <Sibling.labelFemale>saudara perempuan</Sibling.labelFemale>
 
-  <HalfSibling.label>brother</HalfSibling.label>
-  <HalfSibling.labelFemale>sister</HalfSibling.labelFemale>
+  <HalfSibling.label>saudara laki-laki</HalfSibling.label>
+  <HalfSibling.labelFemale>saudara perempuan</HalfSibling.labelFemale>
 
-  <Grandparent.label>grandfather</Grandparent.label>
-  <Grandparent.labelFemale>grandmother</Grandparent.labelFemale>
+  <Grandparent.label>kakek</Grandparent.label>
+  <Grandparent.labelFemale>nenek</Grandparent.labelFemale>
 
   <Grandchild.label>grandson</Grandchild.label>
   <Grandchild.labelFemale>granddaughter</Grandchild.labelFemale>
@@ -24,11 +24,11 @@
   <NephewOrNiece.label>nephew</NephewOrNiece.label>
   <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
 
-  <UncleOrAunt.label>uncle</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
+  <UncleOrAunt.label>paman</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>tante</UncleOrAunt.labelFemale>
 
-  <Cousin.label>cousin</Cousin.label>
-  <Cousin.labelFemale>cousin</Cousin.labelFemale>
+  <Cousin.label>sepupu</Cousin.label>
+  <Cousin.labelFemale>sepupu</Cousin.labelFemale>
 
 
   <!-- distant family -->

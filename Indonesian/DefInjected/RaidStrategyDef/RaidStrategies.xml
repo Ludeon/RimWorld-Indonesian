@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ImmediateAttack.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttack.arrivalTextFriendly>
-  <ImmediateAttack.arrivalTextEnemy>They are attacking immediately.</ImmediateAttack.arrivalTextEnemy>
-  <ImmediateAttack.letterLabelEnemy>Raid</ImmediateAttack.letterLabelEnemy>
-  <ImmediateAttack.letterLabelFriendly>Friendlies</ImmediateAttack.letterLabelFriendly>
+  <ImmediateAttack.arrivalTextFriendly>Mereka langsung datang membantumu.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.arrivalTextEnemy>Mereka langsung menyerang.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.letterLabelEnemy>Serbuan</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelFriendly>Kawan</ImmediateAttack.letterLabelFriendly>
 
-  <StageThenAttack.arrivalTextFriendly>They will prepare for a while before moving in to help you.</StageThenAttack.arrivalTextFriendly>
-  <StageThenAttack.arrivalTextEnemy>They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively.</StageThenAttack.arrivalTextEnemy>
-  <StageThenAttack.letterLabelEnemy>Raid</StageThenAttack.letterLabelEnemy>
-  <StageThenAttack.letterLabelFriendly>Friendlies</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.arrivalTextFriendly>Mereka sedang bersiap untuk membantumu.</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.arrivalTextEnemy>Mereka bersiap terlebih dahulu, kemudian menyerang.\n\nSiapkan pertahanan atau serang mereka terlebih dahulu.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.letterLabelEnemy>Serbuan</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelFriendly>Kawan</StageThenAttack.letterLabelFriendly>
 
-  <ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
-  <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps.</ImmediateAttackSmart.arrivalTextEnemy>
-  <ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
-  <ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>Mereka langsung datang membantumu.</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.arrivalTextEnemy>Mereka langsung menyerangmu.\n\nHati-hati - mereka tampak tidak biasanya pintar dengan taktik mereka. Mereka akan menghindari mesin pengawas dan menyadari beberapa jebakan anda.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.letterLabelEnemy>Serbuan</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>Kawan</ImmediateAttackSmart.letterLabelFriendly>
 
-  <ImmediateAttackSappers.arrivalTextEnemy>It looks like they want to use sappers to tunnel around your defenses.</ImmediateAttackSappers.arrivalTextEnemy>
-  <ImmediateAttackSappers.letterLabelEnemy>Raid</ImmediateAttackSappers.letterLabelEnemy>
+  <ImmediateAttackSappers.arrivalTextEnemy>Sepertinya mereka ingin menggunakan pasukan zeni untuk membuat terowongan guna mengitari pertahananmu.</ImmediateAttackSappers.arrivalTextEnemy>
+  <ImmediateAttackSappers.letterLabelEnemy>Serbuan</ImmediateAttackSappers.letterLabelEnemy>
 
-  <Siege.arrivalTextFriendly>It looks like they want to use siege tactics to help you.</Siege.arrivalTextFriendly>
-  <Siege.arrivalTextEnemy>It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them.</Siege.arrivalTextEnemy>
-  <Siege.letterLabelEnemy>Siege</Siege.letterLabelEnemy>
-  <Siege.letterLabelFriendly>Friendlies</Siege.letterLabelFriendly>
+  <Siege.arrivalTextFriendly>Kelihatannya mereka ingin menggunakan taktik pengepungan untuk membantumu.</Siege.arrivalTextFriendly>
+  <Siege.arrivalTextEnemy>Kelihatannya mereka ingin mengepung koloni dan menghujanimu dengan mortar dari jarak jauh. Anda dapat menunggu mereka - atau langsung menyerang mereka.</Siege.arrivalTextEnemy>
+  <Siege.letterLabelEnemy>Pengepungan</Siege.letterLabelEnemy>
+  <Siege.letterLabelFriendly>Kawan</Siege.letterLabelFriendly>
 
 
 </LanguageData>

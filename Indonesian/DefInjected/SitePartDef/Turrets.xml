@@ -3,7 +3,7 @@
 
   <Turrets.label>turrets</Turrets.label>
   <Turrets.description>A group of turrets.</Turrets.description>
-  <Turrets.descriptionDialogue>{0} defend the site</Turrets.descriptionDialogue>
+  <Turrets.descriptionDialogue>{0} mempertahankan situsnya</Turrets.descriptionDialogue>
 
 
 </LanguageData>

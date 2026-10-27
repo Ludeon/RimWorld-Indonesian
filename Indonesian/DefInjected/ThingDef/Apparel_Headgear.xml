@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_CowboyHat.label>cowboy hat</Apparel_CowboyHat.label>
+  <Apparel_CowboyHat.label>topi koboi</Apparel_CowboyHat.label>
   <Apparel_CowboyHat.description>Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire.</Apparel_CowboyHat.description>
 
   <Apparel_BowlerHat.label>bowler hat</Apparel_BowlerHat.label>
@@ -22,7 +22,7 @@
 
   <!-- Helmets -->
 
-  <Apparel_SimpleHelmet.label>simple helmet</Apparel_SimpleHelmet.label>
+  <Apparel_SimpleHelmet.label>helm sederhana</Apparel_SimpleHelmet.label>
   <Apparel_SimpleHelmet.description>A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons.</Apparel_SimpleHelmet.description>
 
   <Apparel_AdvancedHelmet.label>advanced helmet</Apparel_AdvancedHelmet.label>

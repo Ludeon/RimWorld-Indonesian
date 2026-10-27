@@ -32,7 +32,7 @@
   <Rule_DisallowDesignator_Tame.label>tidak bisa menjinakan </Rule_DisallowDesignator_Tame.label>
   <Rule_DisallowDesignator_Tame.description>Tidak bisa menjinakan fauna.</Rule_DisallowDesignator_Tame.description>
 
-  <StatFactor.label>pengganda stat</StatFactor.label>
+  <StatFactor.label>pengganda keahlian</StatFactor.label>
 
 
   <!-- grouped -->

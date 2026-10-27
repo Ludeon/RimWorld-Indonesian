@@ -12,10 +12,10 @@
 
   <!-- Medieval -->
 
-  <Apparel_Pants.label>pants</Apparel_Pants.label>
+  <Apparel_Pants.label>celana</Apparel_Pants.label>
   <Apparel_Pants.description>A simple set of pants.</Apparel_Pants.description>
 
-  <Apparel_BasicShirt.label>T-shirt</Apparel_BasicShirt.label>
+  <Apparel_BasicShirt.label>kaos</Apparel_BasicShirt.label>
   <Apparel_BasicShirt.description>A simple T-shirt.</Apparel_BasicShirt.description>
 
   <Apparel_CollarShirt.label>button-down shirt</Apparel_CollarShirt.label>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NegotiationAbility.label>negotiation ability</NegotiationAbility.label>
+  <NegotiationAbility.label>kemampuan negoisasi</NegotiationAbility.label>
   <NegotiationAbility.description>How effective this person is as a negotiator. This affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks.</NegotiationAbility.description>
 
   <TradePriceImprovement.label>trade price improvement</TradePriceImprovement.label>
   <TradePriceImprovement.description>When this person acts as a trade negotiator, buy and sell prices are improved by this percentage.</TradePriceImprovement.description>
 
-  <SocialImpact.label>social impact</SocialImpact.label>
+  <SocialImpact.label>dampak sosial</SocialImpact.label>
   <SocialImpact.description>A multiplier on how much other people are affected by this person's social interactions.</SocialImpact.description>
 
 

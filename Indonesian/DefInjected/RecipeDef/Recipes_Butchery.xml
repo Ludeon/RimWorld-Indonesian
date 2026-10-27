@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ButcherCorpseFlesh.label>butcher creature</ButcherCorpseFlesh.label>
-  <ButcherCorpseFlesh.description>Butcher a creature to obtain its meat, leather, and other body products.</ButcherCorpseFlesh.description>
-  <ButcherCorpseFlesh.jobString>Butchering.</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.label>Potong hewan</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Potong seekor hewan untuk mendapatkan daging, bulu, dan bagian tubuh lainnya.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Memotong.</ButcherCorpseFlesh.jobString>
 
   <ButcherCorpseMechanoid.label>disassemble mechanoid</ButcherCorpseMechanoid.label>
   <ButcherCorpseMechanoid.description>Disassemble a dead mechanoid into its component parts.</ButcherCorpseMechanoid.description>

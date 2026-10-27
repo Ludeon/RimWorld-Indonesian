@@ -3,7 +3,7 @@
 
   <!-- Deep -->
 
-  <WaterDeep.label>deep water</WaterDeep.label>
+  <WaterDeep.label>air dalam</WaterDeep.label>
   <WaterDeep.tools.0.label>water</WaterDeep.tools.0.label>
 
   <WaterOceanDeep.label>deep ocean water</WaterOceanDeep.label>
@@ -18,7 +18,7 @@
 
   <!-- Shallow -->
 
-  <WaterShallow.label>shallow water</WaterShallow.label>
+  <WaterShallow.label>air cetek</WaterShallow.label>
   <WaterShallow.tools.0.label>water</WaterShallow.tools.0.label>
 
   <WaterOceanShallow.label>shallow ocean water</WaterOceanShallow.label>
